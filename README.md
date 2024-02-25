@@ -1,6 +1,6 @@
-# 💆 czap.cz data
+# 💆 czap.cz members
 
-Scraping [czap.cz data](https://czap.cz/adresar) so you can filter available psychotherapists by any criteria you wish:
+Scraping [czap.cz members](https://czap.cz/adresar) so you can filter available psychotherapists by any criteria you wish:
 
 - [Download JSON](https://raw.githubusercontent.com/honzajavorek/czap/main/items.json)
 
