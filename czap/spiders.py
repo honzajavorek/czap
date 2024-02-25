@@ -38,7 +38,7 @@ class CZAPSpider(scrapy.Spider):
                 t = threading.Thread(target=animate, args=(holder,))
                 t.start()
                 data = cast(dict, demjson3.decode(json_structure))  # super super slow
-                cache.set("data", data, expire=60 * 60 * 24 * 7)  # 1 week (in seconds)
+                cache.set("data", data, expire=60 * 60 * 24)  # 1 day (in seconds)
                 holder["done"] = True
 
         members, ids = data["members"]
