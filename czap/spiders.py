@@ -4,11 +4,12 @@ import threading
 import json
 import time
 from typing import cast
+import html
+from urllib.parse import quote
+
 import scrapy
 import demjson3
-import html
 from diskcache import Cache
-from urllib.parse import quote
 
 
 class CZAPSpider(scrapy.Spider):
