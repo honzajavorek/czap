@@ -1,0 +1,48 @@
+name: scrape
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 4 * * *"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Poetry
+        run: pipx install poetry
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+          cache: "poetry"
+
+      - name: Install Python dependencies
+        run: poetry install
+
+      # For some reason the 'overwrite' option for the Scrapy feed exporters
+      # doesn't work reliably for me ¯\_(ツ)_/¯
+      - name: Clear data file
+        run: rm items.json
+
+      - name: Scrape
+        run: poetry run scrapy crawl czap
+
+      - name: Check that data got exported
+        run: "[ -s items.json ] || exit 1"
+
+      - name: Save to Git
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: items.json
+          author_name: "scraper"
+          author_email: "scraper@honzajavorek.cz"
+          message: "update items 📥"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
