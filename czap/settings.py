@@ -4,6 +4,10 @@ SPIDER_MODULES = ["czap.spiders"]
 
 USER_AGENT = "czap (+https://github.com/honzajavorek/czap)"
 
+DOWNLOAD_DELAY = 2
+
+AUTOTHROTTLE_ENABLED = True
+
 FEED_EXPORTERS = {
     "sorted_json": "czap.exporters.SortedJsonItemExporter",
 }
