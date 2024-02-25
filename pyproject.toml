@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "czap"
+version = "0.1.0"
+description = "Scraping czap.cz data so you can filter available psychotherapists by any criteria you wish"
+authors = ["Honza Javorek <mail@honzajavorek.cz>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.*"
+demjson3 = "3.0.6"
+lxml = "4.9.4"
+cssselect = "1.2.0"
+scrapy = "2.11.1"
+diskcache = "5.6.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
