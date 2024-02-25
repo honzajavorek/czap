@@ -31,8 +31,22 @@ jobs:
       - name: Clear data file
         run: rm items.json
 
+      - name: Restore cache
+        id: diskcache-restore
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache
+          key: diskcache
+
       - name: Scrape
         run: poetry run scrapy crawl czap
+
+      - name: Save cache
+        id: diskcache-save
+        uses: actions/cache/save@v4
+        with:
+          path: .cache
+          key: ${{ steps.diskcache-restore.outputs.cache-primary-key }}
 
       - name: Check that data got exported
         run: "[ -s items.json ] || exit 1"
@@ -44,5 +58,3 @@ jobs:
           author_name: "scraper"
           author_email: "scraper@honzajavorek.cz"
           message: "update items 📥"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
