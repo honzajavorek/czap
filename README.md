@@ -8,7 +8,7 @@ I wanted to filter a list of Czech psychotherapists according to different crite
 
 ## Monitoring changes
 
-I don't think it's useful to monitor changes in the registry, but I used [git scraping](https://simonwillison.net/2020/Oct/9/git-scraping/) nevertheless, because why not:
+I don't think it's particularly useful to monitor changes in the registry, but I used [git scraping](https://simonwillison.net/2020/Oct/9/git-scraping/) nevertheless, because why not:
 
 -   [History of changes](https://github.com/honzajavorek/czap/commits/main/items.json)
 -   [Feed of changes](https://github.com/honzajavorek/czap/commits/main.atom) (aka RSS)
