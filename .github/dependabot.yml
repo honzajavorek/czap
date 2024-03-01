@@ -6,4 +6,11 @@ updates:
     interval: daily
   open-pull-requests-limit: 1
   labels:
-  - dependencies
+    - dependencies
+- package-ecosystem: github-actions
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 1
+  labels:
+    - dependencies
