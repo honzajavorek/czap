@@ -108,15 +108,6 @@
         "map_url": "https://mapy.cz/zakladni?q=%C4%8C%C3%A1stkova%2074%2C%20Plze%C5%88"
     },
     {
-        "id": 58884889,
-        "url": "https://czap.cz/Sys/PublicProfile/58884889/5485226",
-        "name": "Halama, Martin",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Jungmannova 319/7, Liberec",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Jungmannova%20319/7%2C%20Liberec"
-    },
-    {
         "id": 58884890,
         "url": "https://czap.cz/Sys/PublicProfile/58884890/5485226",
         "name": "Kahánková, Gabriela",
@@ -1789,6 +1780,15 @@
         "location": "Dobrovského 16, Praha 7",
         "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Dobrovsk%C3%A9ho%2016%2C%20Praha%207"
+    },
+    {
+        "id": 58885102,
+        "url": "https://czap.cz/Sys/PublicProfile/58885102/5485226",
+        "name": "Vojtíšková, Hana",
+        "membership": "Řádné členství",
+        "location": "Špitálská 149, Hradec Králové",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%A0pit%C3%A1lsk%C3%A1%20149%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
     },
     {
         "id": 58885103,
@@ -11340,6 +11340,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Ctiradova%20508/1%2C%20Praha%204"
     },
     {
+        "id": 68401101,
+        "url": "https://czap.cz/Sys/PublicProfile/68401101/5485226",
+        "name": "Krčová, Iveta",
+        "membership": "Řádné členství",
+        "location": "K Botiči 6, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=K%20Boti%C4%8Di%206%2C%20Praha"
+    },
+    {
         "id": 68405916,
         "url": "https://czap.cz/Sys/PublicProfile/68405916/5485226",
         "name": "Ježková, Viola",
@@ -13347,6 +13356,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Jir%C3%A1skova%2032%2C%20Jihlava"
     },
     {
+        "id": 71390312,
+        "url": "https://czap.cz/Sys/PublicProfile/71390312/5485226",
+        "name": "Dizon, Jose",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Tyršova 172, Nymburk",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Tyr%C5%A1ova%20172%2C%20Nymburk"
+    },
+    {
         "id": 71408810,
         "url": "https://czap.cz/Sys/PublicProfile/71408810/5485226",
         "name": "Martinek, Ladislav",
@@ -13408,6 +13426,15 @@
         "location": "Na Mýtince 32, Jeseník",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Na%20M%C3%BDtince%2032%2C%20Jesen%C3%ADk"
+    },
+    {
+        "id": 71575817,
+        "url": "https://czap.cz/Sys/PublicProfile/71575817/5485226",
+        "name": "Mrázová, Iva",
+        "membership": "Řádné členství",
+        "location": "Nad Lávkou 105/6, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Nad%20L%C3%A1vkou%20105/6%2C%20Praha"
     },
     {
         "id": 71587386,
@@ -13939,6 +13966,15 @@
         "location": "Příčná 40, Mukařov",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=P%C5%99%C3%AD%C4%8Dn%C3%A1%2040%2C%20Muka%C5%99ov"
+    },
+    {
+        "id": 72519152,
+        "url": "https://czap.cz/Sys/PublicProfile/72519152/5485226",
+        "name": "Pojmanová, Tereza",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Hoděšovická 592, Praha - Vinoř",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Hod%C4%9B%C5%A1ovick%C3%A1%20592%2C%20Praha%20-%20Vino%C5%99"
     },
     {
         "id": 72519158,
