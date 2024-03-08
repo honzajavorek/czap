@@ -1575,6 +1575,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Palack%C3%A9ho%20t%C5%99%C3%ADda%208%2C%20Brno"
     },
     {
+        "id": 58885076,
+        "url": "https://czap.cz/Sys/PublicProfile/58885076/5485226",
+        "name": "Soumar, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Tylova 160/12, Písek",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Tylova%20160/12%2C%20P%C3%ADsek"
+    },
+    {
         "id": 58885077,
         "url": "https://czap.cz/Sys/PublicProfile/58885077/5485226",
         "name": "Dvořáková, Radka",
@@ -1904,7 +1913,7 @@
         "name": "Jargus, Marek",
         "membership": "Řádné členství",
         "location": "Těšínská 236/244, Ostrava - Radvanice",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=T%C4%9B%C5%A1%C3%ADnsk%C3%A1%20236/244%2C%20Ostrava%20-%20Radvanice"
     },
     {
@@ -9090,6 +9099,15 @@
         "map_url": "https://mapy.cz/zakladni?q=t%C5%99%C3%ADda%20Palack%C3%A9ho%2069/11%2C%20Kyjov"
     },
     {
+        "id": 64405506,
+        "url": "https://czap.cz/Sys/PublicProfile/64405506/5485226",
+        "name": "Syslová, Dana",
+        "membership": "Řádné členství",
+        "location": "Senovážné náměstí 23, Praha 1",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201"
+    },
+    {
         "id": 64406454,
         "url": "https://czap.cz/Sys/PublicProfile/64406454/5485226",
         "name": "Procházková, Klára",
@@ -10242,6 +10260,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Nerudova%2030%2C%20P%C5%A1erov"
     },
     {
+        "id": 67470525,
+        "url": "https://czap.cz/Sys/PublicProfile/67470525/5485226",
+        "name": "Pozdieieva, Olena",
+        "membership": "Řádné členství",
+        "location": "U Kaberny 820, Úvaly",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=U%20Kaberny%20820%2C%20%C3%9Avaly"
+    },
+    {
         "id": 67495696,
         "url": "https://czap.cz/Sys/PublicProfile/67495696/5485226",
         "name": "Müllerová, Zuzana",
@@ -10588,9 +10615,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/67835422/5485226",
         "name": "Blabolilová, Olga",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Pražská Třída 649, Hradec Králové",
+        "location": "Milheimova 611, Pardubice",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Pra%C5%BEsk%C3%A1%20T%C5%99%C3%ADda%20649%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
+        "map_url": "https://mapy.cz/zakladni?q=Milheimova%20611%2C%20Pardubice"
     },
     {
         "id": 67835688,
@@ -10717,6 +10744,15 @@
         "location": "V Kopečku 163, Hradec Králové",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=V%20Kope%C4%8Dku%20163%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
+    },
+    {
+        "id": 67935809,
+        "url": "https://czap.cz/Sys/PublicProfile/67935809/5485226",
+        "name": "Vacková, Alžběta",
+        "membership": "Řádné členství",
+        "location": "Dvořáková 13, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Dvo%C5%99%C3%A1kov%C3%A1%2013%2C%20Brno"
     },
     {
         "id": 67948140,
@@ -12328,6 +12364,15 @@
         "location": "Dlouhá Třída 1190/32, Havířov",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Dlouh%C3%A1%20T%C5%99%C3%ADda%201190/32%2C%20Hav%C3%AD%C5%99ov"
+    },
+    {
+        "id": 69612561,
+        "url": "https://czap.cz/Sys/PublicProfile/69612561/5485226",
+        "name": "Shustykova, Maryna",
+        "membership": "Řádné členství",
+        "location": "Radlická 99 Person Center, Hlavní mesto Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Radlick%C3%A1%2099%20Person%20Center%2C%20Hlavn%C3%AD%20mesto%20Praha"
     },
     {
         "id": 69646366,
@@ -14200,5 +14245,14 @@
         "location": "Vyšehradská 43, Praha",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha"
+    },
+    {
+        "id": 73706438,
+        "url": "https://czap.cz/Sys/PublicProfile/73706438/5485226",
+        "name": "Faifrová, Radka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Palackého 12, Plzeň",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Palack%C3%A9ho%2012%2C%20Plze%C5%88"
     }
 ]
