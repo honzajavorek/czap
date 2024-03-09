@@ -4163,7 +4163,7 @@
         "name": "Bukovjanová, Olga",
         "membership": "Řádné členství",
         "location": "8. pěšího pluku 85 - POLIKLINIKA MÍSTEK, FRÝDEK-MÍSTEK",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=8.%20p%C4%9B%C5%A1%C3%ADho%20pluku%2085%20-%20POLIKLINIKA%20M%C3%8DSTEK%2C%20FR%C3%9DDEK-M%C3%8DSTEK"
     },
     {
@@ -4817,7 +4817,7 @@
     {
         "id": 58885484,
         "url": "https://czap.cz/Sys/PublicProfile/58885484/5485226",
-        "name": "Sachomská, Denisa",
+        "name": "Zelinka Sachomská, Denisa",
         "membership": "Řádné členství",
         "location": "Staroměstské nám., Mladá Boleslav",
         "availability": "Info o dostupnosti na vyžádání",
@@ -5924,7 +5924,7 @@
     {
         "id": 60860584,
         "url": "https://czap.cz/Sys/PublicProfile/60860584/5485226",
-        "name": "Formánek, Jan",
+        "name": "Baldessar Formánek, Jan",
         "membership": "Řádné členství",
         "location": "Revoluční 1082/8, Praha 1",
         "availability": "Přijímám nové klienty",
@@ -6971,7 +6971,7 @@
         "name": "Teplá, Michaela",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Budečská 9, Praha 2",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Bude%C4%8Dsk%C3%A1%209%2C%20Praha%202"
     },
     {
@@ -12159,6 +12159,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Hodon%C3%ADnsk%C3%A1%201793%2C%20Vracov"
     },
     {
+        "id": 69187789,
+        "url": "https://czap.cz/Sys/PublicProfile/69187789/5485226",
+        "name": "Pluháček Stromšíková, Alžběta",
+        "membership": "Řádné členství",
+        "location": "Gorkého 4, Brno",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Gork%C3%A9ho%204%2C%20Brno"
+    },
+    {
         "id": 69215196,
         "url": "https://czap.cz/Sys/PublicProfile/69215196/5485226",
         "name": "Müllerová, Daniela",
@@ -13120,6 +13129,15 @@
         "location": "Národní 199, Trutnov",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%20199%2C%20Trutnov"
+    },
+    {
+        "id": 70911859,
+        "url": "https://czap.cz/Sys/PublicProfile/70911859/5485226",
+        "name": "Stuchlíková, Věra",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Hasičská 551/52, Ostrava - Hrabůvka",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Hasi%C4%8Dsk%C3%A1%20551/52%2C%20Ostrava%20-%20Hrab%C5%AFvka"
     },
     {
         "id": 70934323,
@@ -14245,6 +14263,33 @@
         "location": "Vyšehradská 43, Praha",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha"
+    },
+    {
+        "id": 73625390,
+        "url": "https://czap.cz/Sys/PublicProfile/73625390/5485226",
+        "name": "Kourkzi, Alice",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Vrátnická 5, Praha 4",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Vr%C3%A1tnick%C3%A1%205%2C%20Praha%204"
+    },
+    {
+        "id": 73673588,
+        "url": "https://czap.cz/Sys/PublicProfile/73673588/5485226",
+        "name": "Rodi, Barbora",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Trojská 664/183a, Troja (okres Hlavní město Praha)",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Trojsk%C3%A1%20664/183a%2C%20Troja%20%28okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha%29"
+    },
+    {
+        "id": 73706431,
+        "url": "https://czap.cz/Sys/PublicProfile/73706431/5485226",
+        "name": "Lehečková, Kristýna",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Online, Online",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Online%2C%20Online"
     },
     {
         "id": 73706438,
