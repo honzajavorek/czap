@@ -8658,15 +8658,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Ostrovsk%C3%A9ho%20253/3%2C%20Praha%205"
     },
     {
-        "id": 63669518,
-        "url": "https://czap.cz/Sys/PublicProfile/63669518/5485226",
-        "name": "Sklenář, Ondřej",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Včelník 1070, Mníšek pod Brdy",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=V%C4%8Deln%C3%ADk%201070%2C%20Mn%C3%AD%C5%A1ek%20pod%20Brdy"
-    },
-    {
         "id": 63684966,
         "url": "https://czap.cz/Sys/PublicProfile/63684966/5485226",
         "name": "Smolíková, Jana",
@@ -14263,6 +14254,15 @@
         "location": "Vyšehradská 43, Praha",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha"
+    },
+    {
+        "id": 73376465,
+        "url": "https://czap.cz/Sys/PublicProfile/73376465/5485226",
+        "name": "Kinkalová, Kristýna",
+        "membership": "Řádné členství",
+        "location": "Na Poříčí 12, Praha 1",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha%201"
     },
     {
         "id": 73625390,
