@@ -1508,7 +1508,7 @@
         "name": "Plichta, Miroslav",
         "membership": "Řádné členství",
         "location": "Pod Všemi svatými 422/20, Plzeň",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Pod%20V%C5%A1emi%20svat%C3%BDmi%20422/20%2C%20Plze%C5%88"
     },
     {
@@ -7538,7 +7538,7 @@
         "name": "Slivková, Markéta",
         "membership": "Řádné členství",
         "location": "Smetanovo náměstí 328/1, Ostrava",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Smetanovo%20n%C3%A1m%C4%9Bst%C3%AD%20328/1%2C%20Ostrava"
     },
     {
@@ -10508,7 +10508,7 @@
         "name": "Kovalchuk, Svitlana",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Písek, Písek",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=P%C3%ADsek%2C%20P%C3%ADsek"
     },
     {
@@ -14323,9 +14323,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/73544098/5485226",
         "name": "Vojtášová, Zuzana",
         "membership": "Řádné členství",
-        "location": "Ústavní, Banská Bystrica",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=%C3%9Astavn%C3%AD%2C%20Bansk%C3%A1%20Bystrica"
+        "location": "None, ",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
     },
     {
         "id": 73625390,
