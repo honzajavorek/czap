@@ -5890,9 +5890,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/60649400/5485226",
         "name": "Novotná, Olga",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Srbská 2, Praha 6",
+        "location": "Bruselská 14, Praha 2",
         "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Srbsk%C3%A1%202%2C%20Praha%206"
+        "map_url": "https://mapy.cz/zakladni?q=Bruselsk%C3%A1%2014%2C%20Praha%202"
     },
     {
         "id": 60807249,
@@ -6080,7 +6080,7 @@
         "name": "Dvořáčková, Kristýna",
         "membership": "Řádné členství",
         "location": "Jana Babáka 3, Brno",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Jana%20Bab%C3%A1ka%203%2C%20Brno"
     },
     {
@@ -9356,7 +9356,7 @@
         "name": "Palatová, Barbora",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Orlí 516/20, Brno",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Orl%C3%AD%20516/20%2C%20Brno"
     },
     {
@@ -14319,6 +14319,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Mgr.%20et.%20Mgr.%20Ji%C5%99%C3%AD%20Dani%C4%8Dek%2C%20MBA.%20Bohuslava%20ze%20%C5%A0vamberka%204%2C%20Praha%204%2C%20Praha"
     },
     {
+        "id": 73513669,
+        "url": "https://czap.cz/Sys/PublicProfile/73513669/5485226",
+        "name": "Malá, Ladislava",
+        "membership": "Řádné členství",
+        "location": "Jiráskova 116, Vodňany",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Jir%C3%A1skova%20116%2C%20Vod%C5%88any"
+    },
+    {
         "id": 73544098,
         "url": "https://czap.cz/Sys/PublicProfile/73544098/5485226",
         "name": "Vojtášová, Zuzana",
@@ -14380,5 +14389,14 @@
         "location": "Jilemnického 2, Hodonín 1",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Jilemnick%C3%A9ho%202%2C%20Hodon%C3%ADn%201"
+    },
+    {
+        "id": 73732357,
+        "url": "https://czap.cz/Sys/PublicProfile/73732357/5485226",
+        "name": "Miličevičová, Mária",
+        "membership": "Řádné členství",
+        "location": "Jaselská 22, Praha 6",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Jaselsk%C3%A1%2022%2C%20Praha%206"
     }
 ]
