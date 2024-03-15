@@ -4181,7 +4181,7 @@
         "name": "Nentvichová, Eva",
         "membership": "Řádné členství",
         "location": "Velehradská 19, Praha 3",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Velehradsk%C3%A1%2019%2C%20Praha%203"
     },
     {
@@ -12812,7 +12812,7 @@
         "name": "Vystrčilová, Veronika",
         "membership": "Řádné členství",
         "location": "Josefská 15, Brno",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Josefsk%C3%A1%2015%2C%20Brno"
     },
     {
@@ -14346,6 +14346,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Vr%C3%A1tnick%C3%A1%205%2C%20Praha%204"
     },
     {
+        "id": 73626515,
+        "url": "https://czap.cz/Sys/PublicProfile/73626515/5485226",
+        "name": "Komárková, Simona",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "None, ",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
+    },
+    {
         "id": 73645084,
         "url": "https://czap.cz/Sys/PublicProfile/73645084/5485226",
         "name": "Hillebrandová, Monika",
@@ -14362,6 +14371,15 @@
         "location": "Trojská 664/183a, Troja (okres Hlavní město Praha)",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Trojsk%C3%A1%20664/183a%2C%20Troja%20%28okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha%29"
+    },
+    {
+        "id": 73693605,
+        "url": "https://czap.cz/Sys/PublicProfile/73693605/5485226",
+        "name": "Šimánková, Natálie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Jiráskova 116, Vodňany",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Jir%C3%A1skova%20116%2C%20Vod%C5%88any"
     },
     {
         "id": 73706431,
