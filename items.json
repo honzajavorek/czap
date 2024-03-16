@@ -108,6 +108,15 @@
         "map_url": "https://mapy.cz/zakladni?q=%C4%8C%C3%A1stkova%2074%2C%20Plze%C5%88"
     },
     {
+        "id": 58884889,
+        "url": "https://czap.cz/Sys/PublicProfile/58884889/5485226",
+        "name": "Halama, Martin",
+        "membership": "Řádné členství",
+        "location": "Jungmannova 319/7, Liberec",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Jungmannova%20319/7%2C%20Liberec"
+    },
+    {
         "id": 58884890,
         "url": "https://czap.cz/Sys/PublicProfile/58884890/5485226",
         "name": "Kahánková, Gabriela",
@@ -3155,7 +3164,7 @@
         "name": "Salamonová, Martina",
         "membership": "Řádné členství",
         "location": "Národní 60/28, Praha 1",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%2060/28%2C%20Praha%201"
     },
     {
@@ -4181,7 +4190,7 @@
         "name": "Nentvichová, Eva",
         "membership": "Řádné členství",
         "location": "Velehradská 19, Praha 3",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Velehradsk%C3%A1%2019%2C%20Praha%203"
     },
     {
@@ -4838,7 +4847,7 @@
         "name": "Maková, Tereza",
         "membership": "Řádné členství",
         "location": "Markova 442/3, Praha 5 - Jinonice",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Markova%20442/3%2C%20Praha%205%20-%20Jinonice"
     },
     {
@@ -9049,9 +9058,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/64264744/5485226",
         "name": "Volfová, Anna",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Novobranská 3, Litoměřice",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Novobransk%C3%A1%203%2C%20Litom%C4%9B%C5%99ice"
+        "location": "Jarošova 9, Litoměřice",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Jaro%C5%A1ova%209%2C%20Litom%C4%9B%C5%99ice"
     },
     {
         "id": 64264845,
