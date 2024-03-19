@@ -6446,11 +6446,11 @@
     {
         "id": 61702859,
         "url": "https://czap.cz/Sys/PublicProfile/61702859/5485226",
-        "name": "Cinková, Petra",
+        "name": "Tůmová, Petra",
         "membership": "Řádné členství",
-        "location": "Obránců Míru 1048, Kadaň",
+        "location": "Saskova 1961, Kladno",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Obr%C3%A1nc%C5%AF%20M%C3%ADru%201048%2C%20Kada%C5%88"
+        "map_url": "https://mapy.cz/zakladni?q=Saskova%201961%2C%20Kladno"
     },
     {
         "id": 61703583,
@@ -8323,6 +8323,15 @@
         "location": "Italská 18, Praha 2",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Italsk%C3%A1%2018%2C%20Praha%202"
+    },
+    {
+        "id": 63423052,
+        "url": "https://czap.cz/Sys/PublicProfile/63423052/5485226",
+        "name": "Mai, Minh Ngoc",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Opletalova 4, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Opletalova%204%2C%20Praha%201"
     },
     {
         "id": 63428352,
@@ -14173,6 +14182,15 @@
         "location": "Sokolská 35,, Praha 2",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Sokolsk%C3%A1%2035%2C%2C%20Praha%202"
+    },
+    {
+        "id": 72830840,
+        "url": "https://czap.cz/Sys/PublicProfile/72830840/5485226",
+        "name": "Ježová, Ivana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Hradební 271/35, České Budějovice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Hradebn%C3%AD%20271/35%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     },
     {
         "id": 72862783,
