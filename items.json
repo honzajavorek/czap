@@ -6188,7 +6188,7 @@
         "name": "Zelená, Markéta",
         "membership": "Řádné členství",
         "location": "Muchova 33, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Muchova%2033%2C%20Brno"
     },
     {
@@ -6493,9 +6493,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/61759788/5485226",
         "name": "Váchová, Barbora",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "U Nemocnice 2094, Praha 2",
+        "location": "Šaldova 337/15, Praha 8",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=U%20Nemocnice%202094%2C%20Praha%202"
+        "map_url": "https://mapy.cz/zakladni?q=%C5%A0aldova%20337/15%2C%20Praha%208"
     },
     {
         "id": 61772711,
@@ -6907,9 +6907,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/62225271/5485226",
         "name": "Hlisnikovská, Hana",
         "membership": "Řádné členství",
-        "location": "Na Rybníčku 56, Opava",
+        "location": "Horova 1, Krnov",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Na%20Rybn%C3%AD%C4%8Dku%2056%2C%20Opava"
+        "map_url": "https://mapy.cz/zakladni?q=Horova%201%2C%20Krnov"
     },
     {
         "id": 62250866,
@@ -14344,6 +14344,15 @@
         "location": "Mgr. et. Mgr. Jiří Daniček, MBA. Bohuslava ze Švamberka 4, Praha 4, Praha",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Mgr.%20et.%20Mgr.%20Ji%C5%99%C3%AD%20Dani%C4%8Dek%2C%20MBA.%20Bohuslava%20ze%20%C5%A0vamberka%204%2C%20Praha%204%2C%20Praha"
+    },
+    {
+        "id": 73451697,
+        "url": "https://czap.cz/Sys/PublicProfile/73451697/5485226",
+        "name": "Vencálková, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Ropkova 51, Litomyšl",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Ropkova%2051%2C%20Litomy%C5%A1l"
     },
     {
         "id": 73513669,
