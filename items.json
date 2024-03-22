@@ -6556,9 +6556,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/61813705/5485226",
         "name": "Cvečková, Veronika",
         "membership": "Řádné členství",
-        "location": "Truhlářská 3, Praha 1",
+        "location": "Chocholouškova 4, Praha 8",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Truhl%C3%A1%C5%99sk%C3%A1%203%2C%20Praha%201"
+        "map_url": "https://mapy.cz/zakladni?q=Chocholou%C5%A1kova%204%2C%20Praha%208"
     },
     {
         "id": 61822252,
@@ -14380,6 +14380,15 @@
         "location": "Vrátnická 5, Praha 4",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Vr%C3%A1tnick%C3%A1%205%2C%20Praha%204"
+    },
+    {
+        "id": 73626245,
+        "url": "https://czap.cz/Sys/PublicProfile/73626245/5485226",
+        "name": "Burianová, Jana",
+        "membership": "Řádné členství",
+        "location": "Žižkova 277, Vimperk",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%BDi%C5%BEkova%20277%2C%20Vimperk"
     },
     {
         "id": 73626515,
