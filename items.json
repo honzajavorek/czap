@@ -6188,7 +6188,7 @@
         "name": "Zelená, Markéta",
         "membership": "Řádné členství",
         "location": "Muchova 33, Brno",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Muchova%2033%2C%20Brno"
     },
     {
@@ -7511,7 +7511,7 @@
         "name": "Krchňavá, Anna",
         "membership": "Řádné členství",
         "location": "Do Žlábku 1312, Jilemnice",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Do%20%C5%BDl%C3%A1bku%201312%2C%20Jilemnice"
     },
     {
@@ -12550,9 +12550,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/69943889/5485226",
         "name": "Komárková, Jana",
         "membership": "Řádné členství",
-        "location": "Husova 13, Brno",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Husova%2013%2C%20Brno"
+        "location": "Podolí 122, Podolí u Brna",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Podol%C3%AD%20122%2C%20Podol%C3%AD%20u%20Brna"
     },
     {
         "id": 69972159,
@@ -13270,9 +13270,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/71044817/5485226",
         "name": "Wendrinska, Sławomira",
         "membership": "Řádné členství",
-        "location": "Hapalova 4, Krizové centrum pro dětí a dospívající, CSS Brno",
+        "location": "Laštůvkova 30, Brno",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Hapalova%204%2C%20Krizov%C3%A9%20centrum%20pro%20d%C4%9Bt%C3%AD%20a%20dosp%C3%ADvaj%C3%ADc%C3%AD%2C%20CSS%20Brno"
+        "map_url": "https://mapy.cz/zakladni?q=La%C5%A1t%C5%AFvkova%2030%2C%20Brno"
     },
     {
         "id": 71090952,
