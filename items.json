@@ -1571,7 +1571,7 @@
         "name": "Skyvová, Naďa",
         "membership": "Řádné členství",
         "location": "Sokolská 11, Olomouc",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Sokolsk%C3%A1%2011%2C%20Olomouc"
     },
     {
@@ -2489,7 +2489,7 @@
         "name": "Doubková, Dagmar",
         "membership": "Řádné členství",
         "location": "Mařákova 4, Praha 6 - Hradčanská",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Ma%C5%99%C3%A1kova%204%2C%20Praha%206%20-%20Hrad%C4%8Dansk%C3%A1"
     },
     {
@@ -3335,7 +3335,7 @@
         "name": "Vraspírová, Jana",
         "membership": "Řádné členství",
         "location": "Husova 721, Vysoké Mýto",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Husova%20721%2C%20Vysok%C3%A9%20M%C3%BDto"
     },
     {
@@ -10084,9 +10084,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/67234915/5485226",
         "name": "Knoflíčková, Marie",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Sokolovská 44, Praha 8",
-        "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Sokolovsk%C3%A1%2044%2C%20Praha%208"
+        "location": "U Kanálky 5, Praha 2",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=U%20Kan%C3%A1lky%205%2C%20Praha%202"
     },
     {
         "id": 67234960,
