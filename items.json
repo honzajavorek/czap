@@ -8874,6 +8874,15 @@
         "map_url": "https://mapy.cz/zakladni?q=U%20Pr%C5%AFhonu%2052%2C%20Praha%207%20-%20Hole%C5%A1ovice"
     },
     {
+        "id": 63917344,
+        "url": "https://czap.cz/Sys/PublicProfile/63917344/5485226",
+        "name": "Strenk, Michal",
+        "membership": "Řádné členství",
+        "location": "Na Míčánce 32, Praha 6",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20M%C3%AD%C4%8D%C3%A1nce%2032%2C%20Praha%206"
+    },
+    {
         "id": 63956543,
         "url": "https://czap.cz/Sys/PublicProfile/63956543/5485226",
         "name": "Jakubská, Dagmar",
@@ -14409,6 +14418,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Bulharsk%C3%A1%2061%2C%20Trutnov"
     },
     {
+        "id": 73655605,
+        "url": "https://czap.cz/Sys/PublicProfile/73655605/5485226",
+        "name": "Vozka, Pavel",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Jiřího z Poděbrad 13, Olomouc",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Ji%C5%99%C3%ADho%20z%20Pod%C4%9Bbrad%2013%2C%20Olomouc"
+    },
+    {
         "id": 73673588,
         "url": "https://czap.cz/Sys/PublicProfile/73673588/5485226",
         "name": "Rodi, Barbora",
@@ -14461,5 +14479,23 @@
         "location": "Jaselská 22, Praha 6",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Jaselsk%C3%A1%2022%2C%20Praha%206"
+    },
+    {
+        "id": 73892607,
+        "url": "https://czap.cz/Sys/PublicProfile/73892607/5485226",
+        "name": "Barabášová, Klaudia",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Vyšehradská 43, Praha 2",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha%202"
+    },
+    {
+        "id": 74240031,
+        "url": "https://czap.cz/Sys/PublicProfile/74240031/5485226",
+        "name": "Hořejšová, Petra",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "U tří lvů 296/8, České Budějovice",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=U%20t%C5%99%C3%AD%20lv%C5%AF%20296/8%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     }
 ]
