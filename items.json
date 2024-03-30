@@ -7200,6 +7200,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Kate%C5%99insk%C3%A1%2034%2C%20Praha%202%20-%20Nov%C3%A9%20M%C4%9Bsto"
     },
     {
+        "id": 62399269,
+        "url": "https://czap.cz/Sys/PublicProfile/62399269/5485226",
+        "name": "Čechová, Vlasta",
+        "membership": "Řádné členství",
+        "location": "Vyšehradská 49, Praha 2",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2049%2C%20Praha%202"
+    },
+    {
         "id": 62410332,
         "url": "https://czap.cz/Sys/PublicProfile/62410332/5485226",
         "name": "Čihák, Petr",
@@ -14481,6 +14490,24 @@
         "map_url": "https://mapy.cz/zakladni?q=Jaselsk%C3%A1%2022%2C%20Praha%206"
     },
     {
+        "id": 73763355,
+        "url": "https://czap.cz/Sys/PublicProfile/73763355/5485226",
+        "name": "Kollár, Peter",
+        "membership": "Řádné členství",
+        "location": "Soběšická 151, Brno",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Sob%C4%9B%C5%A1ick%C3%A1%20151%2C%20Brno"
+    },
+    {
+        "id": 73873767,
+        "url": "https://czap.cz/Sys/PublicProfile/73873767/5485226",
+        "name": "Fojtik, Dominik",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Pernerova 293/11, Praha 8 - Karlín",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Pernerova%20293/11%2C%20Praha%208%20-%20Karl%C3%ADn"
+    },
+    {
         "id": 73892607,
         "url": "https://czap.cz/Sys/PublicProfile/73892607/5485226",
         "name": "Barabášová, Klaudia",
@@ -14488,6 +14515,15 @@
         "location": "Vyšehradská 43, Praha 2",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha%202"
+    },
+    {
+        "id": 74101206,
+        "url": "https://czap.cz/Sys/PublicProfile/74101206/5485226",
+        "name": "Horká, Anna",
+        "membership": "Řádné členství",
+        "location": "Náměstí Jiřího z Lobkovic 2246/8, Praha 3 - Vinohrady",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1m%C4%9Bst%C3%AD%20Ji%C5%99%C3%ADho%20z%20Lobkovic%202246/8%2C%20Praha%203%20-%20Vinohrady"
     },
     {
         "id": 74240031,
