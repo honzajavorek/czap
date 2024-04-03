@@ -12902,7 +12902,7 @@
         "name": "Marková, Jana",
         "membership": "Řádné členství",
         "location": "Kolik třešní, tolik višní sociální podnik, s.r.o., Milešovská 6/1312, Praha",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Kolik%20t%C5%99e%C5%A1n%C3%AD%2C%20tolik%20vi%C5%A1n%C3%AD%20soci%C3%A1ln%C3%AD%20podnik%2C%20s.r.o.%2C%20Mile%C5%A1ovsk%C3%A1%206/1312%2C%20Praha"
     },
     {
@@ -13667,7 +13667,7 @@
         "name": "Žert, Vojtěch",
         "membership": "Řádné členství",
         "location": "Panská 397/2, Brno",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Pansk%C3%A1%20397/2%2C%20Brno"
     },
     {
@@ -14490,6 +14490,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Jaselsk%C3%A1%2022%2C%20Praha%206"
     },
     {
+        "id": 73749371,
+        "url": "https://czap.cz/Sys/PublicProfile/73749371/5485226",
+        "name": "Urbánková, Iveta",
+        "membership": "Řádné členství",
+        "location": "Optátova 37, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Opt%C3%A1tova%2037%2C%20Brno"
+    },
+    {
         "id": 73763355,
         "url": "https://czap.cz/Sys/PublicProfile/73763355/5485226",
         "name": "Kollár, Peter",
@@ -14497,6 +14506,24 @@
         "location": "Soběšická 151, Brno",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Sob%C4%9B%C5%A1ick%C3%A1%20151%2C%20Brno"
+    },
+    {
+        "id": 73791116,
+        "url": "https://czap.cz/Sys/PublicProfile/73791116/5485226",
+        "name": "Machálková, Denisa",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Minská 13, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Minsk%C3%A1%2013%2C%20Brno"
+    },
+    {
+        "id": 73852687,
+        "url": "https://czap.cz/Sys/PublicProfile/73852687/5485226",
+        "name": "Kovaříková, Veronika",
+        "membership": "Řádné členství",
+        "location": "Čechova 164/1, České Budějovice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C4%8Cechova%20164/1%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     },
     {
         "id": 73873767,
@@ -14517,6 +14544,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha%202"
     },
     {
+        "id": 73921639,
+        "url": "https://czap.cz/Sys/PublicProfile/73921639/5485226",
+        "name": "Kolářová, Renata",
+        "membership": "Řádné členství",
+        "location": "Černá 13, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C4%8Cern%C3%A1%2013%2C%20Praha%201"
+    },
+    {
         "id": 74101206,
         "url": "https://czap.cz/Sys/PublicProfile/74101206/5485226",
         "name": "Horká, Anna",
@@ -14524,6 +14560,15 @@
         "location": "Náměstí Jiřího z Lobkovic 2246/8, Praha 3 - Vinohrady",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=N%C3%A1m%C4%9Bst%C3%AD%20Ji%C5%99%C3%ADho%20z%20Lobkovic%202246/8%2C%20Praha%203%20-%20Vinohrady"
+    },
+    {
+        "id": 74168819,
+        "url": "https://czap.cz/Sys/PublicProfile/74168819/5485226",
+        "name": "Petrů, Vít",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Helvíkovice 204, Helvíkovice",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Helv%C3%ADkovice%20204%2C%20Helv%C3%ADkovice"
     },
     {
         "id": 74190449,
