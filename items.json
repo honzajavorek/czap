@@ -14553,6 +14553,24 @@
         "map_url": "https://mapy.cz/zakladni?q=%C4%8Cern%C3%A1%2013%2C%20Praha%201"
     },
     {
+        "id": 73964021,
+        "url": "https://czap.cz/Sys/PublicProfile/73964021/5485226",
+        "name": "Kopečná, Bedřiška",
+        "membership": "Řádné členství",
+        "location": "Karlovo náměstí 41/30, Třebíč",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Karlovo%20n%C3%A1m%C4%9Bst%C3%AD%2041/30%2C%20T%C5%99eb%C3%AD%C4%8D"
+    },
+    {
+        "id": 74051665,
+        "url": "https://czap.cz/Sys/PublicProfile/74051665/5485226",
+        "name": "Andrlová, Veronika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Vladislavova 373, Kutná Hora",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Vladislavova%20373%2C%20Kutn%C3%A1%20Hora"
+    },
+    {
         "id": 74101206,
         "url": "https://czap.cz/Sys/PublicProfile/74101206/5485226",
         "name": "Horká, Anna",
