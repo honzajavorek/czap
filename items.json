@@ -3816,15 +3816,6 @@
         "map_url": "https://mapy.cz/zakladni?q=B%C4%9Blohorsk%C3%A1%201654/108%2C%20Praha"
     },
     {
-        "id": 58885353,
-        "url": "https://czap.cz/Sys/PublicProfile/58885353/5485226",
-        "name": "Veith, Veronika",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "None, ",
-        "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
-    },
-    {
         "id": 58885354,
         "url": "https://czap.cz/Sys/PublicProfile/58885354/5485226",
         "name": "Karas, Michal",
@@ -9950,7 +9941,7 @@
         "name": "Borecká, Karolína",
         "membership": "Řádné členství",
         "location": "Haštalská 27, Praha 1",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Ha%C5%A1talsk%C3%A1%2027%2C%20Praha%201"
     },
     {
@@ -13072,9 +13063,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/70767332/5485226",
         "name": "Křepská, Veronika",
         "membership": "Řádné členství",
-        "location": "Kozí 4, Brno",
+        "location": "Střední 35, Moravany",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Koz%C3%AD%204%2C%20Brno"
+        "map_url": "https://mapy.cz/zakladni?q=St%C5%99edn%C3%AD%2035%2C%20Moravany"
     },
     {
         "id": 70769739,
