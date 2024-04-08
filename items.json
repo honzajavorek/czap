@@ -6471,6 +6471,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Ml%C3%BDnsk%C3%A1%204%2C%20Olomouc%209"
     },
     {
+        "id": 61704326,
+        "url": "https://czap.cz/Sys/PublicProfile/61704326/5485226",
+        "name": "Pleštilová, Veronika",
+        "membership": "Řádné členství",
+        "location": "Železná 830/12a, Liberec 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%BDelezn%C3%A1%20830/12a%2C%20Liberec%201"
+    },
+    {
         "id": 61740540,
         "url": "https://czap.cz/Sys/PublicProfile/61740540/5485226",
         "name": "Bednařík, Petr",
@@ -9331,6 +9340,15 @@
         "location": "Na Stráži 5, Praha 8",
         "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Na%20Str%C3%A1%C5%BEi%205%2C%20Praha%208"
+    },
+    {
+        "id": 64731852,
+        "url": "https://czap.cz/Sys/PublicProfile/64731852/5485226",
+        "name": "Daňová Jurčová, Ivana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Ostrovského 253/3, Praha 5",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Ostrovsk%C3%A9ho%20253/3%2C%20Praha%205"
     },
     {
         "id": 64748542,
@@ -14364,6 +14382,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Ropkova%2051%2C%20Litomy%C5%A1l"
     },
     {
+        "id": 73486609,
+        "url": "https://czap.cz/Sys/PublicProfile/73486609/5485226",
+        "name": "Minářová, Kristýna",
+        "membership": "Řádné členství",
+        "location": "Haškova 547, Česká Ves",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Ha%C5%A1kova%20547%2C%20%C4%8Cesk%C3%A1%20Ves"
+    },
+    {
         "id": 73513669,
         "url": "https://czap.cz/Sys/PublicProfile/73513669/5485226",
         "name": "Malá, Ladislava",
@@ -14571,6 +14598,15 @@
         "map_url": "https://mapy.cz/zakladni?q=N%C3%A1m%C4%9Bst%C3%AD%20Ji%C5%99%C3%ADho%20z%20Lobkovic%202246/8%2C%20Praha%203%20-%20Vinohrady"
     },
     {
+        "id": 74118938,
+        "url": "https://czap.cz/Sys/PublicProfile/74118938/5485226",
+        "name": "Markus, Radek",
+        "membership": "Řádné členství",
+        "location": "Opletalova 25, Praha 1",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Opletalova%2025%2C%20Praha%201"
+    },
+    {
         "id": 74168819,
         "url": "https://czap.cz/Sys/PublicProfile/74168819/5485226",
         "name": "Petrů, Vít",
@@ -14587,6 +14623,15 @@
         "location": "Cesta domů, z.ú., Heleny Kočvářové 1, Praha 4",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Cesta%20dom%C5%AF%2C%20z.%C3%BA.%2C%20Heleny%20Ko%C4%8Dv%C3%A1%C5%99ov%C3%A9%201%2C%20Praha%204"
+    },
+    {
+        "id": 74196663,
+        "url": "https://czap.cz/Sys/PublicProfile/74196663/5485226",
+        "name": "Langpaul, Martin",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Bořivojova 17, Praha 3 Vinohrady",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Bo%C5%99ivojova%2017%2C%20Praha%203%20Vinohrady"
     },
     {
         "id": 74240031,
