@@ -1440,6 +1440,15 @@
         "map_url": "https://mapy.cz/zakladni?q=V.%20Klementa%20147%2C%20Mlad%C3%A1%20Boleslav"
     },
     {
+        "id": 58885057,
+        "url": "https://czap.cz/Sys/PublicProfile/58885057/5485226",
+        "name": "Basler, Jaromír",
+        "membership": "Řádné členství",
+        "location": "Tyršova 63, Písek",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Tyr%C5%A1ova%2063%2C%20P%C3%ADsek"
+    },
+    {
         "id": 58885058,
         "url": "https://czap.cz/Sys/PublicProfile/58885058/5485226",
         "name": "Kolátorová, Klára",
@@ -10274,7 +10283,7 @@
         "name": "Rytíř Drozenová, Anna",
         "membership": "Řádné členství",
         "location": "Boleslavská 31, Brandýs nad Labem - Stará Boleslav",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Boleslavsk%C3%A1%2031%2C%20Brand%C3%BDs%20nad%20Labem%20-%20Star%C3%A1%20Boleslav"
     },
     {
@@ -11029,9 +11038,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68126279/5485226",
         "name": "Kleknerová, Diana",
         "membership": "Řádné členství",
-        "location": "None, Ostrava",
-        "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=None%2C%20Ostrava"
+        "location": "None, Frýdek-Místek",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=None%2C%20Fr%C3%BDdek-M%C3%ADstek"
     },
     {
         "id": 68143981,
@@ -14452,6 +14461,15 @@
         "location": "Jiřího z Poděbrad 13, Olomouc",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Ji%C5%99%C3%ADho%20z%20Pod%C4%9Bbrad%2013%2C%20Olomouc"
+    },
+    {
+        "id": 73672681,
+        "url": "https://czap.cz/Sys/PublicProfile/73672681/5485226",
+        "name": "Šimánková, Klára",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Floriánské náměstí 103, Kladno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Flori%C3%A1nsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20103%2C%20Kladno"
     },
     {
         "id": 73673588,
