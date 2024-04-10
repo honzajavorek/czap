@@ -3825,6 +3825,15 @@
         "map_url": "https://mapy.cz/zakladni?q=B%C4%9Blohorsk%C3%A1%201654/108%2C%20Praha"
     },
     {
+        "id": 58885353,
+        "url": "https://czap.cz/Sys/PublicProfile/58885353/5485226",
+        "name": "Veith, Veronika",
+        "membership": "Řádné členství",
+        "location": "Wuchterlova, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Wuchterlova%2C%20Praha"
+    },
+    {
         "id": 58885354,
         "url": "https://czap.cz/Sys/PublicProfile/58885354/5485226",
         "name": "Karas, Michal",
@@ -14551,6 +14560,15 @@
         "location": "Minská 13, Brno",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Minsk%C3%A1%2013%2C%20Brno"
+    },
+    {
+        "id": 73798225,
+        "url": "https://czap.cz/Sys/PublicProfile/73798225/5485226",
+        "name": "Pokorná, Zuzana",
+        "membership": "Řádné členství",
+        "location": "Za Dvorem 2285, Brandýs nad Labem",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Za%20Dvorem%202285%2C%20Brand%C3%BDs%20nad%20Labem"
     },
     {
         "id": 73852687,
