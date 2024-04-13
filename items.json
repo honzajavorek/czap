@@ -1796,7 +1796,7 @@
         "name": "Lokajíčková, Renáta",
         "membership": "Řádné členství",
         "location": "Táborská 1074, Benešov",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=T%C3%A1borsk%C3%A1%201074%2C%20Bene%C5%A1ov"
     },
     {
@@ -3848,7 +3848,7 @@
         "name": "Hovězáková, Petra",
         "membership": "Řádné členství",
         "location": "Husova 13, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Husova%2013%2C%20Brno"
     },
     {
@@ -14476,9 +14476,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/73672681/5485226",
         "name": "Šimánková, Klára",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Floriánské náměstí 103, Kladno",
+        "location": "Pernerova 293, Praha 8",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Flori%C3%A1nsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20103%2C%20Kladno"
+        "map_url": "https://mapy.cz/zakladni?q=Pernerova%20293%2C%20Praha%208"
     },
     {
         "id": 73673588,
