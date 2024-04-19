@@ -11943,15 +11943,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Josefsk%C3%A1%20612/15%2C%20Brno"
     },
     {
-        "id": 68754813,
-        "url": "https://czap.cz/Sys/PublicProfile/68754813/5485226",
-        "name": "Fiľová, Petra",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Jakubská 5, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Jakubsk%C3%A1%205%2C%20Brno"
-    },
-    {
         "id": 68764535,
         "url": "https://czap.cz/Sys/PublicProfile/68764535/5485226",
         "name": "Rott, Lucia",
@@ -14677,5 +14668,23 @@
         "location": "U tří lvů 296/8, České Budějovice",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=U%20t%C5%99%C3%AD%20lv%C5%AF%20296/8%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
+    },
+    {
+        "id": 74723875,
+        "url": "https://czap.cz/Sys/PublicProfile/74723875/5485226",
+        "name": "Križan, Juraj Benedikt",
+        "membership": "Řádné členství",
+        "location": "Javornická 1501, Rychnov nad Kněžnou",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Javornick%C3%A1%201501%2C%20Rychnov%20nad%20Kn%C4%9B%C5%BEnou"
+    },
+    {
+        "id": 74741303,
+        "url": "https://czap.cz/Sys/PublicProfile/74741303/5485226",
+        "name": "Krč, Miloš",
+        "membership": "Řádné členství",
+        "location": "Lípy 15, Kosmonosy",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=L%C3%ADpy%2015%2C%20Kosmonosy"
     }
 ]
