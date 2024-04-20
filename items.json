@@ -7191,6 +7191,15 @@
         "map_url": "https://mapy.cz/zakladni?q=K%C5%99enov%C3%A1%2057%2C%20Brno"
     },
     {
+        "id": 62377036,
+        "url": "https://czap.cz/Sys/PublicProfile/62377036/5485226",
+        "name": "Šolcová, Bohdana Pěva",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Boženy Němcové 2530, Varnsdorf",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Bo%C5%BEeny%20N%C4%9Bmcov%C3%A9%202530%2C%20Varnsdorf"
+    },
+    {
         "id": 62377331,
         "url": "https://czap.cz/Sys/PublicProfile/62377331/5485226",
         "name": "Drbohlav, Andrej",
@@ -8478,6 +8487,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201"
     },
     {
+        "id": 63543574,
+        "url": "https://czap.cz/Sys/PublicProfile/63543574/5485226",
+        "name": "Rebrová, Iveta",
+        "membership": "Řádné členství",
+        "location": "Dvořákova 13, Brno",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Dvo%C5%99%C3%A1kova%2013%2C%20Brno"
+    },
+    {
         "id": 63543985,
         "url": "https://czap.cz/Sys/PublicProfile/63543985/5485226",
         "name": "Komorousová, Vlasta",
@@ -8500,9 +8518,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63548610/5485226",
         "name": "Vačkářová, Zuzana",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "None, ",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
+        "location": "Anny Letenské 8, Praha 2",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Anny%20Letensk%C3%A9%208%2C%20Praha%202"
     },
     {
         "id": 63548807,
@@ -9232,6 +9250,15 @@
         "location": "Nádražní okruh 13, Opava",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=N%C3%A1dra%C5%BEn%C3%AD%20okruh%2013%2C%20Opava"
+    },
+    {
+        "id": 64532855,
+        "url": "https://czap.cz/Sys/PublicProfile/64532855/5485226",
+        "name": "Janštová, Eva",
+        "membership": "Řádné členství",
+        "location": "Mokrého 186, Vodňany",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Mokr%C3%A9ho%20186%2C%20Vod%C5%88any"
     },
     {
         "id": 64532934,
@@ -13860,6 +13887,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Karmelitsk%C3%A1%20379/18%2C%20Praha%201"
     },
     {
+        "id": 72172581,
+        "url": "https://czap.cz/Sys/PublicProfile/72172581/5485226",
+        "name": "Červinka, David",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Líšeňská 2657, Brno",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=L%C3%AD%C5%A1e%C5%88sk%C3%A1%202657%2C%20Brno"
+    },
+    {
         "id": 72191167,
         "url": "https://czap.cz/Sys/PublicProfile/72191167/5485226",
         "name": "Straková, Alena",
@@ -14670,6 +14706,78 @@
         "map_url": "https://mapy.cz/zakladni?q=U%20t%C5%99%C3%AD%20lv%C5%AF%20296/8%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     },
     {
+        "id": 74381235,
+        "url": "https://czap.cz/Sys/PublicProfile/74381235/5485226",
+        "name": "Danhoferová, Zdeňka",
+        "membership": "Řádné členství",
+        "location": "Dolní 165/1, Žďár nad Sázavou",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Doln%C3%AD%20165/1%2C%20%C5%BD%C4%8F%C3%A1r%20nad%20S%C3%A1zavou"
+    },
+    {
+        "id": 74451228,
+        "url": "https://czap.cz/Sys/PublicProfile/74451228/5485226",
+        "name": "Vacek, Pavel",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Opletalova 4, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Opletalova%204%2C%20Praha%201"
+    },
+    {
+        "id": 74589913,
+        "url": "https://czap.cz/Sys/PublicProfile/74589913/5485226",
+        "name": "Svěrák, Tomáš",
+        "membership": "Řádné členství",
+        "location": "Martinkova 7, Brno",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Martinkova%207%2C%20Brno"
+    },
+    {
+        "id": 74599726,
+        "url": "https://czap.cz/Sys/PublicProfile/74599726/5485226",
+        "name": "Hvězdová, Markéta",
+        "membership": "Řádné členství",
+        "location": "8. března 20, Liberec",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=8.%20b%C5%99ezna%2020%2C%20Liberec"
+    },
+    {
+        "id": 74600634,
+        "url": "https://czap.cz/Sys/PublicProfile/74600634/5485226",
+        "name": "Zemanová, Lenka",
+        "membership": "Řádné členství",
+        "location": "Husova 13, Brno",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Husova%2013%2C%20Brno"
+    },
+    {
+        "id": 74637071,
+        "url": "https://czap.cz/Sys/PublicProfile/74637071/5485226",
+        "name": "Moravcová, Monika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Plynárenská 282, Teplice- Prosetice",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Plyn%C3%A1rensk%C3%A1%20282%2C%20Teplice-%20Prosetice"
+    },
+    {
+        "id": 74646427,
+        "url": "https://czap.cz/Sys/PublicProfile/74646427/5485226",
+        "name": "Václavková, Renata",
+        "membership": "Řádné členství",
+        "location": "Havlíčkova 1264, Valašské Meziříčí",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Havl%C3%AD%C4%8Dkova%201264%2C%20Vala%C5%A1sk%C3%A9%20Mezi%C5%99%C3%AD%C4%8D%C3%AD"
+    },
+    {
+        "id": 74655227,
+        "url": "https://czap.cz/Sys/PublicProfile/74655227/5485226",
+        "name": "Schönová, Pavla",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Řehořova 908/4, Praha 3 - Žižkov",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%98eho%C5%99ova%20908/4%2C%20Praha%203%20-%20%C5%BDi%C5%BEkov"
+    },
+    {
         "id": 74723875,
         "url": "https://czap.cz/Sys/PublicProfile/74723875/5485226",
         "name": "Križan, Juraj Benedikt",
@@ -14679,6 +14787,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Javornick%C3%A1%201501%2C%20Rychnov%20nad%20Kn%C4%9B%C5%BEnou"
     },
     {
+        "id": 74741099,
+        "url": "https://czap.cz/Sys/PublicProfile/74741099/5485226",
+        "name": "Tobiašová, Karolína",
+        "membership": "Řádné členství",
+        "location": "Československé armády 17, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C4%8Ceskoslovensk%C3%A9%20arm%C3%A1dy%2017%2C%20Praha"
+    },
+    {
         "id": 74741303,
         "url": "https://czap.cz/Sys/PublicProfile/74741303/5485226",
         "name": "Krč, Miloš",
@@ -14686,5 +14803,23 @@
         "location": "Lípy 15, Kosmonosy",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=L%C3%ADpy%2015%2C%20Kosmonosy"
+    },
+    {
+        "id": 74745359,
+        "url": "https://czap.cz/Sys/PublicProfile/74745359/5485226",
+        "name": "Krásná, Alena",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Evropská 692/14, Praha 6",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Evropsk%C3%A1%20692/14%2C%20Praha%206"
+    },
+    {
+        "id": 74772516,
+        "url": "https://czap.cz/Sys/PublicProfile/74772516/5485226",
+        "name": "Spůrová, Nikol",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Žitná 51, Praha 1",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%BDitn%C3%A1%2051%2C%20Praha%201"
     }
 ]
