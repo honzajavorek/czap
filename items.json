@@ -2165,7 +2165,7 @@
         "name": "Blažková, Martina",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Revoluční 8, Praha 1",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Revolu%C4%8Dn%C3%AD%208%2C%20Praha%201"
     },
     {
@@ -7450,15 +7450,6 @@
         "location": "Slezska 74, Praha",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Slezska%2074%2C%20Praha"
-    },
-    {
-        "id": 62704630,
-        "url": "https://czap.cz/Sys/PublicProfile/62704630/5485226",
-        "name": "Kukla, Vojtěch",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Jahnova 8, Pardubice",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Jahnova%208%2C%20Pardubice"
     },
     {
         "id": 62719440,
