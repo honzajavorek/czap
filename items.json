@@ -9671,7 +9671,7 @@
         "name": "Zálišová, Kateřina",
         "membership": "Řádné členství",
         "location": "Bulharská 61, Trutnov",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Bulharsk%C3%A1%2061%2C%20Trutnov"
     },
     {
@@ -14629,9 +14629,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/73964021/5485226",
         "name": "Kopečná, Bedřiška",
         "membership": "Řádné členství",
-        "location": "Karlovo náměstí 41/30, Třebíč",
+        "location": "Jihlavská brána 6, Třebíč",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Karlovo%20n%C3%A1m%C4%9Bst%C3%AD%2041/30%2C%20T%C5%99eb%C3%AD%C4%8D"
+        "map_url": "https://mapy.cz/zakladni?q=Jihlavsk%C3%A1%20br%C3%A1na%206%2C%20T%C5%99eb%C3%AD%C4%8D"
     },
     {
         "id": 74051665,
@@ -14715,6 +14715,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Opletalova%204%2C%20Praha%201"
     },
     {
+        "id": 74578269,
+        "url": "https://czap.cz/Sys/PublicProfile/74578269/5485226",
+        "name": "Šik, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Lipová 1044, Žamberk",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Lipov%C3%A1%201044%2C%20%C5%BDamberk"
+    },
+    {
         "id": 74589913,
         "url": "https://czap.cz/Sys/PublicProfile/74589913/5485226",
         "name": "Svěrák, Tomáš",
@@ -14769,6 +14778,15 @@
         "map_url": "https://mapy.cz/zakladni?q=%C5%98eho%C5%99ova%20908/4%2C%20Praha%203%20-%20%C5%BDi%C5%BEkov"
     },
     {
+        "id": 74723587,
+        "url": "https://czap.cz/Sys/PublicProfile/74723587/5485226",
+        "name": "Suchá, Lucie",
+        "membership": "Řádné členství",
+        "location": "Tomanova 1150/70, Praha 6",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Tomanova%201150/70%2C%20Praha%206"
+    },
+    {
         "id": 74723875,
         "url": "https://czap.cz/Sys/PublicProfile/74723875/5485226",
         "name": "Križan, Juraj Benedikt",
@@ -14803,6 +14821,15 @@
         "location": "Evropská 692/14, Praha 6",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Evropsk%C3%A1%20692/14%2C%20Praha%206"
+    },
+    {
+        "id": 74750493,
+        "url": "https://czap.cz/Sys/PublicProfile/74750493/5485226",
+        "name": "Hanžlová, Lucie",
+        "membership": "Řádné členství",
+        "location": "Staropramenná 29, Praha 5",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Staropramenn%C3%A1%2029%2C%20Praha%205"
     },
     {
         "id": 74772516,
