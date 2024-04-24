@@ -8352,6 +8352,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Italsk%C3%A1%2018%2C%20Praha%202"
     },
     {
+        "id": 63420621,
+        "url": "https://czap.cz/Sys/PublicProfile/63420621/5485226",
+        "name": "Semrád, Martin",
+        "membership": "Řádné členství",
+        "location": "Za Poštou 924/1, Praha",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Za%20Po%C5%A1tou%20924/1%2C%20Praha"
+    },
+    {
         "id": 63423052,
         "url": "https://czap.cz/Sys/PublicProfile/63423052/5485226",
         "name": "Mai, Minh Ngoc",
@@ -13586,7 +13595,7 @@
         "name": "Maulenová, Kristýna",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Sokolovská 44, Praha 8 - Karlín",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Sokolovsk%C3%A1%2044%2C%20Praha%208%20-%20Karl%C3%ADn"
     },
     {
@@ -14722,6 +14731,15 @@
         "location": "Lipová 1044, Žamberk",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Lipov%C3%A1%201044%2C%20%C5%BDamberk"
+    },
+    {
+        "id": 74578271,
+        "url": "https://czap.cz/Sys/PublicProfile/74578271/5485226",
+        "name": "Strnadová, Petra",
+        "membership": "Řádné členství",
+        "location": "V Malé Doubravce 27, 312 00 Plzeň, Centrum sociálních služeb Tachov, Panenská 2068, 347 01 Tachov",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=V%20Mal%C3%A9%20Doubravce%2027%2C%20312%2000%20Plze%C5%88%2C%20Centrum%20soci%C3%A1ln%C3%ADch%20slu%C5%BEeb%20Tachov%2C%20Panensk%C3%A1%202068%2C%20347%2001%20Tachov"
     },
     {
         "id": 74589913,
