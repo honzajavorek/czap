@@ -6143,7 +6143,7 @@
         "name": "Kaločová, Jenifer",
         "membership": "Řádné členství",
         "location": "Na Baranovci 30, Ostrava",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Na%20Baranovci%2030%2C%20Ostrava"
     },
     {
@@ -11380,9 +11380,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68307742/5485226",
         "name": "Fris, Tomáš",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Ústavní 91, Praha 8 - Bohnice",
+        "location": "Václavské náměstí 821/39, Praha 1 - Nové Město",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=%C3%9Astavn%C3%AD%2091%2C%20Praha%208%20-%20Bohnice"
+        "map_url": "https://mapy.cz/zakladni?q=V%C3%A1clavsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20821/39%2C%20Praha%201%20-%20Nov%C3%A9%20M%C4%9Bsto"
     },
     {
         "id": 68322209,
@@ -11686,9 +11686,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68546633/5485226",
         "name": "Kloudová, Gabriela",
         "membership": "Řádné členství",
-        "location": "Koněvova 141, Praha 3, 130 00, Praha",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Kon%C4%9Bvova%20141%2C%20Praha%203%2C%20130%2000%2C%20Praha"
+        "location": "Hartigova 141, Praha 3, 130 00, Praha",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Hartigova%20141%2C%20Praha%203%2C%20130%2000%2C%20Praha"
     },
     {
         "id": 68548167,
