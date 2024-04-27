@@ -6197,7 +6197,7 @@
         "name": "Zelená, Markéta",
         "membership": "Řádné členství",
         "location": "Muchova 33, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Muchova%2033%2C%20Brno"
     },
     {
@@ -6565,9 +6565,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/61800349/5485226",
         "name": "Pražák Bartošová, Miroslava",
         "membership": "Řádné členství",
-        "location": "Náměstí Interbrigády 4, Praha 6",
+        "location": "Kubánské náměstí 1391/11 budova Garden eleven, Praha 10",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1m%C4%9Bst%C3%AD%20Interbrig%C3%A1dy%204%2C%20Praha%206"
+        "map_url": "https://mapy.cz/zakladni?q=Kub%C3%A1nsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%201391/11%20budova%20Garden%20eleven%2C%20Praha%2010"
     },
     {
         "id": 61813705,
@@ -9860,7 +9860,7 @@
         "name": "Kovaříková, Alena",
         "membership": "Řádné členství",
         "location": "Pekařská 18, Brno",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Peka%C5%99sk%C3%A1%2018%2C%20Brno"
     },
     {
@@ -14713,6 +14713,15 @@
         "location": "Dolní 165/1, Žďár nad Sázavou",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Doln%C3%AD%20165/1%2C%20%C5%BD%C4%8F%C3%A1r%20nad%20S%C3%A1zavou"
+    },
+    {
+        "id": 74436006,
+        "url": "https://czap.cz/Sys/PublicProfile/74436006/5485226",
+        "name": "Langová, Hana",
+        "membership": "Řádné členství",
+        "location": "Zenklova 305/11, Praha 8",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Zenklova%20305/11%2C%20Praha%208"
     },
     {
         "id": 74451228,
