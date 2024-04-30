@@ -4806,6 +4806,15 @@
         "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
     },
     {
+        "id": 58885480,
+        "url": "https://czap.cz/Sys/PublicProfile/58885480/5485226",
+        "name": "Matuška, Václav",
+        "membership": "Řádné členství",
+        "location": "Misto je zvoleno dohodou, Písek",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Misto%20je%20zvoleno%20dohodou%2C%20P%C3%ADsek"
+    },
+    {
         "id": 58885481,
         "url": "https://czap.cz/Sys/PublicProfile/58885481/5485226",
         "name": "Franke, Helena",
@@ -14256,6 +14265,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Sokolsk%C3%A1%2035%2C%2C%20Praha%202"
     },
     {
+        "id": 72812339,
+        "url": "https://czap.cz/Sys/PublicProfile/72812339/5485226",
+        "name": "Nádvorníková, Magdaléna",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Desná 16, Desná",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Desn%C3%A1%2016%2C%20Desn%C3%A1"
+    },
+    {
         "id": 72830840,
         "url": "https://czap.cz/Sys/PublicProfile/72830840/5485226",
         "name": "Ježová, Ivana",
@@ -14821,6 +14839,15 @@
         "location": "Javornická 1501, Rychnov nad Kněžnou",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Javornick%C3%A1%201501%2C%20Rychnov%20nad%20Kn%C4%9B%C5%BEnou"
+    },
+    {
+        "id": 74740276,
+        "url": "https://czap.cz/Sys/PublicProfile/74740276/5485226",
+        "name": "Růžičková, Jana",
+        "membership": "Řádné členství",
+        "location": "Ostrovského 353/3, Praha 5",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Ostrovsk%C3%A9ho%20353/3%2C%20Praha%205"
     },
     {
         "id": 74741099,
