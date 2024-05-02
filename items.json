@@ -7461,6 +7461,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Slezska%2074%2C%20Praha"
     },
     {
+        "id": 62704630,
+        "url": "https://czap.cz/Sys/PublicProfile/62704630/5485226",
+        "name": "Kukla, Vojtěch",
+        "membership": "Řádné členství",
+        "location": "Jahnova 8, Pardubice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Jahnova%208%2C%20Pardubice"
+    },
+    {
         "id": 62719440,
         "url": "https://czap.cz/Sys/PublicProfile/62719440/5485226",
         "name": "Zahradníček, Jakub",
@@ -11979,6 +11988,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Josefsk%C3%A1%20612/15%2C%20Brno"
     },
     {
+        "id": 68754813,
+        "url": "https://czap.cz/Sys/PublicProfile/68754813/5485226",
+        "name": "Fiľová, Petra",
+        "membership": "Řádné členství",
+        "location": "Jakubská 5, Brno",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Jakubsk%C3%A1%205%2C%20Brno"
+    },
+    {
         "id": 68764535,
         "url": "https://czap.cz/Sys/PublicProfile/68764535/5485226",
         "name": "Rott, Lucia",
@@ -14661,6 +14679,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Jihlavsk%C3%A1%20br%C3%A1na%206%2C%20T%C5%99eb%C3%AD%C4%8D"
     },
     {
+        "id": 74013848,
+        "url": "https://czap.cz/Sys/PublicProfile/74013848/5485226",
+        "name": "Janeček, Tomáš",
+        "membership": "Řádné členství",
+        "location": "Na Míčánce 32, Praha 6",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20M%C3%AD%C4%8D%C3%A1nce%2032%2C%20Praha%206"
+    },
+    {
         "id": 74051665,
         "url": "https://czap.cz/Sys/PublicProfile/74051665/5485226",
         "name": "Andrlová, Veronika",
@@ -14893,5 +14920,14 @@
         "location": "Žitná 51, Praha 1",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=%C5%BDitn%C3%A1%2051%2C%20Praha%201"
+    },
+    {
+        "id": 74830798,
+        "url": "https://czap.cz/Sys/PublicProfile/74830798/5485226",
+        "name": "Korfová, Eva",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Praha, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Praha%2C%20Praha"
     }
 ]
