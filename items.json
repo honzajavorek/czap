@@ -10867,9 +10867,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/67948140/5485226",
         "name": "Hamplová, Natálie",
         "membership": "Řádné členství",
-        "location": "Dráhy 714, Brušperk",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Dr%C3%A1hy%20714%2C%20Bru%C5%A1perk"
+        "location": "Politických obětí, Frýdek-Místek",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Politick%C3%BDch%20ob%C4%9Bt%C3%AD%2C%20Fr%C3%BDdek-M%C3%ADstek"
     },
     {
         "id": 67948903,
@@ -14922,6 +14922,15 @@
         "map_url": "https://mapy.cz/zakladni?q=%C5%BDitn%C3%A1%2051%2C%20Praha%201"
     },
     {
+        "id": 74830449,
+        "url": "https://czap.cz/Sys/PublicProfile/74830449/5485226",
+        "name": "Straková Jirků, Lucie",
+        "membership": "Řádné členství",
+        "location": "Vančurova 2904, Tábor, Tábor",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Van%C4%8Durova%202904%2C%20T%C3%A1bor%2C%20T%C3%A1bor"
+    },
+    {
         "id": 74830798,
         "url": "https://czap.cz/Sys/PublicProfile/74830798/5485226",
         "name": "Korfová, Eva",
@@ -14929,5 +14938,59 @@
         "location": "Praha, Praha",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Praha%2C%20Praha"
+    },
+    {
+        "id": 74864975,
+        "url": "https://czap.cz/Sys/PublicProfile/74864975/5485226",
+        "name": "Jůzová, Vladimíra",
+        "membership": "Řádné členství",
+        "location": "Otmarova 82/3, Třebíč",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Otmarova%2082/3%2C%20T%C5%99eb%C3%AD%C4%8D"
+    },
+    {
+        "id": 74864987,
+        "url": "https://czap.cz/Sys/PublicProfile/74864987/5485226",
+        "name": "Poláčková, Jana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Hlavní 474, Frýdlant nad Ostravicí",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Hlavn%C3%AD%20474%2C%20Fr%C3%BDdlant%20nad%20Ostravic%C3%AD"
+    },
+    {
+        "id": 74875562,
+        "url": "https://czap.cz/Sys/PublicProfile/74875562/5485226",
+        "name": "Miska, Aleš",
+        "membership": "Řádné členství",
+        "location": "Mlýnská 10, Ostrava",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Ml%C3%BDnsk%C3%A1%2010%2C%20Ostrava"
+    },
+    {
+        "id": 74876011,
+        "url": "https://czap.cz/Sys/PublicProfile/74876011/5485226",
+        "name": "Suchánková, Kateřina",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Veveří 46, Brno-město",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Veve%C5%99%C3%AD%2046%2C%20Brno-m%C4%9Bsto"
+    },
+    {
+        "id": 74886123,
+        "url": "https://czap.cz/Sys/PublicProfile/74886123/5485226",
+        "name": "Rollová, Anna",
+        "membership": "Řádné členství",
+        "location": "Staropramenná 29, Praha 5",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Staropramenn%C3%A1%2029%2C%20Praha%205"
+    },
+    {
+        "id": 74916095,
+        "url": "https://czap.cz/Sys/PublicProfile/74916095/5485226",
+        "name": "Smolík, Štěpán",
+        "membership": "Řádné členství",
+        "location": "Nám. Jiřího z Lobkovic 8, Praha 3, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1m.%20Ji%C5%99%C3%ADho%20z%20Lobkovic%208%2C%20Praha%203%2C%20Praha"
     }
 ]
