@@ -8311,9 +8311,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63414592/5485226",
         "name": "Klimešová, Eva",
         "membership": "Řádné členství",
-        "location": "U Trojice 1042, Praha 5",
+        "location": "Nádražní 1122/30, Praha 5",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=U%20Trojice%201042%2C%20Praha%205"
+        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1dra%C5%BEn%C3%AD%201122/30%2C%20Praha%205"
     },
     {
         "id": 63414807,
@@ -14893,6 +14893,15 @@
         "location": "Lípy 15, Kosmonosy",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=L%C3%ADpy%2015%2C%20Kosmonosy"
+    },
+    {
+        "id": 74743609,
+        "url": "https://czap.cz/Sys/PublicProfile/74743609/5485226",
+        "name": "Jahn, Michal",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Kouřílkova 8, Přerov, Přerov",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Kou%C5%99%C3%ADlkova%208%2C%20P%C5%99erov%2C%20P%C5%99erov"
     },
     {
         "id": 74745359,
