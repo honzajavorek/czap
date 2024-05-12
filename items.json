@@ -6880,9 +6880,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/62191958/5485226",
         "name": "Pažourek, Kateřina",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Bělohorská 132, Praha 6 Břevnov",
+        "location": "Wuchterlova 8, Praha 6",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=B%C4%9Blohorsk%C3%A1%20132%2C%20Praha%206%20B%C5%99evnov"
+        "map_url": "https://mapy.cz/zakladni?q=Wuchterlova%208%2C%20Praha%206"
     },
     {
         "id": 62194709,
@@ -15019,5 +15019,14 @@
         "location": "Nám. Jiřího z Lobkovic 8, Praha 3, Praha",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=N%C3%A1m.%20Ji%C5%99%C3%ADho%20z%20Lobkovic%208%2C%20Praha%203%2C%20Praha"
+    },
+    {
+        "id": 75011332,
+        "url": "https://czap.cz/Sys/PublicProfile/75011332/5485226",
+        "name": "Kvapilík, Tomáš",
+        "membership": "Řádné členství",
+        "location": "Lublaňská 57, Praha",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Lubla%C5%88sk%C3%A1%2057%2C%20Praha"
     }
 ]
