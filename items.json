@@ -14940,6 +14940,15 @@
         "map_url": "https://mapy.cz/zakladni?q=%C5%BDitn%C3%A1%2051%2C%20Praha%201"
     },
     {
+        "id": 74782565,
+        "url": "https://czap.cz/Sys/PublicProfile/74782565/5485226",
+        "name": "Bílý, Ondřej",
+        "membership": "Řádné členství",
+        "location": "Pravdova 1113/2, Jindřichův Hradec",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Pravdova%201113/2%2C%20Jind%C5%99ich%C5%AFv%20Hradec"
+    },
+    {
         "id": 74816336,
         "url": "https://czap.cz/Sys/PublicProfile/74816336/5485226",
         "name": "Prekopová, Pavlína",
@@ -15021,6 +15030,15 @@
         "map_url": "https://mapy.cz/zakladni?q=N%C3%A1m.%20Ji%C5%99%C3%ADho%20z%20Lobkovic%208%2C%20Praha%203%2C%20Praha"
     },
     {
+        "id": 74992566,
+        "url": "https://czap.cz/Sys/PublicProfile/74992566/5485226",
+        "name": "Frňková, Pavla",
+        "membership": "Řádné členství",
+        "location": "Fibichova 146/38, Adamov (okres Blansko)",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Fibichova%20146/38%2C%20Adamov%20%28okres%20Blansko%29"
+    },
+    {
         "id": 75011332,
         "url": "https://czap.cz/Sys/PublicProfile/75011332/5485226",
         "name": "Kvapilík, Tomáš",
@@ -15028,5 +15046,14 @@
         "location": "Lublaňská 57, Praha",
         "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Lubla%C5%88sk%C3%A1%2057%2C%20Praha"
+    },
+    {
+        "id": 75023284,
+        "url": "https://czap.cz/Sys/PublicProfile/75023284/5485226",
+        "name": "Prokopová, Barbora",
+        "membership": "Řádné členství",
+        "location": "Olomoucká 1848/173, Šternberk",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Olomouck%C3%A1%201848/173%2C%20%C5%A0ternberk"
     }
 ]
