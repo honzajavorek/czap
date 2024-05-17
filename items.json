@@ -6159,7 +6159,7 @@
         "id": 61043453,
         "url": "https://czap.cz/Sys/PublicProfile/61043453/5485226",
         "name": "Marková, Vladislava",
-        "membership": "Kandidátní členství - ve výcviku",
+        "membership": "Řádné členství",
         "location": "U Tří lvů 294/4, České Budějovice",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=U%20T%C5%99%C3%AD%20lv%C5%AF%20294/4%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
@@ -6172,6 +6172,15 @@
         "location": "Centrum EFKO - Velký vůz Sever, Sloupská 135, Nový Bor",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Centrum%20EFKO%20-%20Velk%C3%BD%20v%C5%AFz%20Sever%2C%20Sloupsk%C3%A1%20135%2C%20Nov%C3%BD%20Bor"
+    },
+    {
+        "id": 61043462,
+        "url": "https://czap.cz/Sys/PublicProfile/61043462/5485226",
+        "name": "Vlčková, Kristýna",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Příkop 2a, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=P%C5%99%C3%ADkop%202a%2C%20Brno"
     },
     {
         "id": 61060181,
@@ -11592,6 +11601,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Belgicka%2040%2C%20Praha"
     },
     {
+        "id": 68475141,
+        "url": "https://czap.cz/Sys/PublicProfile/68475141/5485226",
+        "name": "Uhrová, Soňa",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Barvičova 833/53, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Barvi%C4%8Dova%20833/53%2C%20Brno"
+    },
+    {
         "id": 68475719,
         "url": "https://czap.cz/Sys/PublicProfile/68475719/5485226",
         "name": "Pikhartová, Alena",
@@ -15055,5 +15073,14 @@
         "location": "Olomoucká 1848/173, Šternberk",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Olomouck%C3%A1%201848/173%2C%20%C5%A0ternberk"
+    },
+    {
+        "id": 75037831,
+        "url": "https://czap.cz/Sys/PublicProfile/75037831/5485226",
+        "name": "Petrová, Helena",
+        "membership": "Řádné členství",
+        "location": "Na Výšince 149/3, Praha 5 Radotín",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20V%C3%BD%C5%A1ince%20149/3%2C%20Praha%205%20Radot%C3%ADn"
     }
 ]
