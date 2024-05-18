@@ -10256,7 +10256,7 @@
         "name": "Huamanová, Jana",
         "membership": "Řádné členství",
         "location": "Hradecká 202, Opatovice nad Labem",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Hradeck%C3%A1%20202%2C%20Opatovice%20nad%20Labem"
     },
     {
@@ -11599,15 +11599,6 @@
         "location": "Belgicka 40, Praha",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Belgicka%2040%2C%20Praha"
-    },
-    {
-        "id": 68475141,
-        "url": "https://czap.cz/Sys/PublicProfile/68475141/5485226",
-        "name": "Uhrová, Soňa",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Barvičova 833/53, Brno",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Barvi%C4%8Dova%20833/53%2C%20Brno"
     },
     {
         "id": 68475719,
@@ -13153,9 +13144,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/70767332/5485226",
         "name": "Křepská, Veronika",
         "membership": "Řádné členství",
-        "location": "Střední 35, Moravany",
+        "location": "Kozí 4, Brno",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=St%C5%99edn%C3%AD%2035%2C%20Moravany"
+        "map_url": "https://mapy.cz/zakladni?q=Koz%C3%AD%204%2C%20Brno"
     },
     {
         "id": 70769739,
@@ -14767,6 +14758,15 @@
         "location": "U tří lvů 296/8, České Budějovice",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=U%20t%C5%99%C3%AD%20lv%C5%AF%20296/8%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
+    },
+    {
+        "id": 74279345,
+        "url": "https://czap.cz/Sys/PublicProfile/74279345/5485226",
+        "name": "Bušina, Martin",
+        "membership": "Řádné členství",
+        "location": "Robčice 34, 332 09 Útušice-Štěnovice, Plzeň, Robčice 34, 332 09 Útušice-Štěnovice, Plzeň",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Rob%C4%8Dice%2034%2C%20332%2009%20%C3%9Atu%C5%A1ice-%C5%A0t%C4%9Bnovice%2C%20Plze%C5%88%2C%20Rob%C4%8Dice%2034%2C%20332%2009%20%C3%9Atu%C5%A1ice-%C5%A0t%C4%9Bnovice%2C%20Plze%C5%88"
     },
     {
         "id": 74381235,
