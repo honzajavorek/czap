@@ -9900,6 +9900,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Jana%20Masaryka%2026/257%2C%20Praha%2C%20Vinohrady"
     },
     {
+        "id": 66749192,
+        "url": "https://czap.cz/Sys/PublicProfile/66749192/5485226",
+        "name": "Štanglová, Jitka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Prvního pluku 12a, Praha",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Prvn%C3%ADho%20pluku%2012a%2C%20Praha"
+    },
+    {
         "id": 66770137,
         "url": "https://czap.cz/Sys/PublicProfile/66770137/5485226",
         "name": "Hladíková, Julie",
@@ -11554,6 +11563,15 @@
         "location": "Krok Kyjov, z.ú., Komenského 2124/88, Kyjov",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Krok%20Kyjov%2C%20z.%C3%BA.%2C%20Komensk%C3%A9ho%202124/88%2C%20Kyjov"
+    },
+    {
+        "id": 68434719,
+        "url": "https://czap.cz/Sys/PublicProfile/68434719/5485226",
+        "name": "Haklová, Pavla",
+        "membership": "Řádné členství",
+        "location": "Poliklinika Liberecká 677/15, Jablonec nad Nisou",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Poliklinika%20Libereck%C3%A1%20677/15%2C%20Jablonec%20nad%20Nisou"
     },
     {
         "id": 68440657,
@@ -15037,6 +15055,15 @@
         "location": "Staropramenná 29, Praha 5",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Staropramenn%C3%A1%2029%2C%20Praha%205"
+    },
+    {
+        "id": 74900838,
+        "url": "https://czap.cz/Sys/PublicProfile/74900838/5485226",
+        "name": "Nejezchlebová, Monika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Mojmírovo náměstí 27, Brno",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Mojm%C3%ADrovo%20n%C3%A1m%C4%9Bst%C3%AD%2027%2C%20Brno"
     },
     {
         "id": 74916095,
