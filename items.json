@@ -2061,15 +2061,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Koz%C3%AD%207%2C%20Praha%201"
     },
     {
-        "id": 58885130,
-        "url": "https://czap.cz/Sys/PublicProfile/58885130/5485226",
-        "name": "Fořtová, Lenka",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Pivovarská 7, Praha 5",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Pivovarsk%C3%A1%207%2C%20Praha%205"
-    },
-    {
         "id": 58885131,
         "url": "https://czap.cz/Sys/PublicProfile/58885131/5485226",
         "name": "Machan, Richard",
@@ -6215,7 +6206,7 @@
         "name": "Zelená, Markéta",
         "membership": "Řádné členství",
         "location": "Muchova 33, Brno",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Muchova%2033%2C%20Brno"
     },
     {
@@ -8150,7 +8141,7 @@
         "name": "Afanasyeva, Kristina",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Na pomezí, Praha",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Na%20pomez%C3%AD%2C%20Praha"
     },
     {
@@ -14787,6 +14778,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Opletalova%204%2C%20Praha%201"
     },
     {
+        "id": 74473574,
+        "url": "https://czap.cz/Sys/PublicProfile/74473574/5485226",
+        "name": "Ulman, Přemysl",
+        "membership": "Řádné členství",
+        "location": "Horní nám. 111, Slavičín",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Horn%C3%AD%20n%C3%A1m.%20111%2C%20Slavi%C4%8D%C3%ADn"
+    },
+    {
         "id": 74578269,
         "url": "https://czap.cz/Sys/PublicProfile/74578269/5485226",
         "name": "Šik, Kateřina",
@@ -14985,6 +14985,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Praha%2C%20Praha"
     },
     {
+        "id": 74855415,
+        "url": "https://czap.cz/Sys/PublicProfile/74855415/5485226",
+        "name": "Svítková, Ivana",
+        "membership": "Řádné členství",
+        "location": "Poděbradova čp. 578, Louny",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Pod%C4%9Bbradova%20%C4%8Dp.%20578%2C%20Louny"
+    },
+    {
         "id": 74864975,
         "url": "https://czap.cz/Sys/PublicProfile/74864975/5485226",
         "name": "Jůzová, Vladimíra",
@@ -15082,5 +15091,14 @@
         "location": "Na Výšince 149/3, Praha 5 Radotín",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Na%20V%C3%BD%C5%A1ince%20149/3%2C%20Praha%205%20Radot%C3%ADn"
+    },
+    {
+        "id": 75065402,
+        "url": "https://czap.cz/Sys/PublicProfile/75065402/5485226",
+        "name": "Zatloukalová, Michaela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Horní náměstí 5, Olomouc",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Horn%C3%AD%20n%C3%A1m%C4%9Bst%C3%AD%205%2C%20Olomouc"
     }
 ]
