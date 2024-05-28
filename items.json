@@ -9576,6 +9576,15 @@
         "map_url": "https://mapy.cz/zakladni?q=t%C5%99.%20Komensk%C3%A9ho%202124/88%2C%20Kyjov"
     },
     {
+        "id": 65034834,
+        "url": "https://czap.cz/Sys/PublicProfile/65034834/5485226",
+        "name": "Schwarzova, Petra",
+        "membership": "Řádné členství",
+        "location": "Olomoucká 305/88, Opava",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Olomouck%C3%A1%20305/88%2C%20Opava"
+    },
+    {
         "id": 65201780,
         "url": "https://czap.cz/Sys/PublicProfile/65201780/5485226",
         "name": "Vavrinčíková, Lenka",
@@ -12364,15 +12373,6 @@
         "location": "Vrchlického 32/4, Rumburk",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Vrchlick%C3%A9ho%2032/4%2C%20Rumburk"
-    },
-    {
-        "id": 69498977,
-        "url": "https://czap.cz/Sys/PublicProfile/69498977/5485226",
-        "name": "Dohnalová, Martina",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "None, ",
-        "availability": "",
-        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
     },
     {
         "id": 69512889,
