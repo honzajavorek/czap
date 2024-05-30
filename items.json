@@ -6080,7 +6080,7 @@
         "name": "Štangl, Irena",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Hráského 2231/25, Praha 4 - Chodov",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Hr%C3%A1sk%C3%A9ho%202231/25%2C%20Praha%204%20-%20Chodov"
     },
     {
@@ -6946,15 +6946,6 @@
         "location": "Konviktská 12, Praha 1",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Konviktsk%C3%A1%2012%2C%20Praha%201"
-    },
-    {
-        "id": 62254442,
-        "url": "https://czap.cz/Sys/PublicProfile/62254442/5485226",
-        "name": "Porubová, Radka",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "U tří lvů 294/4, České Budějovice",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=U%20t%C5%99%C3%AD%20lv%C5%AF%20294/4%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     },
     {
         "id": 62288116,
@@ -10393,15 +10384,6 @@
         "location": "Březová 27/ 3209, Jablonec nad Nisou",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=B%C5%99ezov%C3%A1%2027/%203209%2C%20Jablonec%20nad%20Nisou"
-    },
-    {
-        "id": 67544195,
-        "url": "https://czap.cz/Sys/PublicProfile/67544195/5485226",
-        "name": "Vejrostová, Gabriela",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Josefská 15, Brno",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Josefsk%C3%A1%2015%2C%20Brno"
     },
     {
         "id": 67545770,
