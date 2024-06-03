@@ -4162,9 +4162,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885395/5485226",
         "name": "Semíková, Iva",
         "membership": "Řádné členství",
-        "location": "Olivová 1412, Kamenice",
+        "location": "Olivová 1412, Kamenice u Prahy",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Olivov%C3%A1%201412%2C%20Kamenice"
+        "map_url": "https://mapy.cz/zakladni?q=Olivov%C3%A1%201412%2C%20Kamenice%20u%20Prahy"
     },
     {
         "id": 58885396,
@@ -14893,6 +14893,15 @@
         "location": "Javornická 1501, Rychnov nad Kněžnou",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Javornick%C3%A1%201501%2C%20Rychnov%20nad%20Kn%C4%9B%C5%BEnou"
+    },
+    {
+        "id": 74727536,
+        "url": "https://czap.cz/Sys/PublicProfile/74727536/5485226",
+        "name": "Vasičáková Očenášová, Zuzana",
+        "membership": "Řádné členství",
+        "location": "Kultúrna 46, Bratislava",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Kult%C3%BArna%2046%2C%20Bratislava"
     },
     {
         "id": 74740276,
