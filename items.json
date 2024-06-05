@@ -6102,6 +6102,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Horn%C3%AD%20n%C3%A1m%C4%9Bst%C3%AD%20111%2C%20Slavi%C4%8D%C3%ADn"
     },
     {
+        "id": 61043411,
+        "url": "https://czap.cz/Sys/PublicProfile/61043411/5485226",
+        "name": "Doležalová, Petra",
+        "membership": "Řádné členství",
+        "location": "Nad Mlýnem 504, Dolní Břežany",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Nad%20Ml%C3%BDnem%20504%2C%20Doln%C3%AD%20B%C5%99e%C5%BEany"
+    },
+    {
         "id": 61043416,
         "url": "https://czap.cz/Sys/PublicProfile/61043416/5485226",
         "name": "Dvořáčková, Kristýna",
@@ -7443,15 +7452,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Tr%C3%B6nuhraun%201%2C%20Hafnarfj%C3%B6r%C3%B0ur"
     },
     {
-        "id": 62696779,
-        "url": "https://czap.cz/Sys/PublicProfile/62696779/5485226",
-        "name": "Kubjátová, Ludmila",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Hrachovec 312, Valašské Meziříčí",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Hrachovec%20312%2C%20Vala%C5%A1sk%C3%A9%20Mezi%C5%99%C3%AD%C4%8D%C3%AD"
-    },
-    {
         "id": 62701448,
         "url": "https://czap.cz/Sys/PublicProfile/62701448/5485226",
         "name": "Kubíčková, Pavla",
@@ -8350,15 +8350,6 @@
         "location": "Bruselská 266/14, Praha 2",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Bruselsk%C3%A1%20266/14%2C%20Praha%202"
-    },
-    {
-        "id": 63418510,
-        "url": "https://czap.cz/Sys/PublicProfile/63418510/5485226",
-        "name": "Antes, Lucie",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Velká 255/91, Hradec Králové",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Velk%C3%A1%20255/91%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
     },
     {
         "id": 63419163,
@@ -11298,7 +11289,7 @@
         "id": 68288407,
         "url": "https://czap.cz/Sys/PublicProfile/68288407/5485226",
         "name": "Artiukhova, Svitlana",
-        "membership": "Kandidátní členství - ve výcviku",
+        "membership": "Řádné členství",
         "location": "Psychologická ordinace Podit s.r.o., Lovosická 440/40, Poliklinika Prosek, Praha 9",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Psychologick%C3%A1%20ordinace%20Podit%20s.r.o.%2C%20Lovosick%C3%A1%20440/40%2C%20Poliklinika%20Prosek%2C%20Praha%209"
@@ -13518,6 +13509,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Jir%C3%A1skova%2032%2C%20Jihlava"
     },
     {
+        "id": 71378128,
+        "url": "https://czap.cz/Sys/PublicProfile/71378128/5485226",
+        "name": "Svozilová, Magdalena",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Online, Online",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Online%2C%20Online"
+    },
+    {
         "id": 71390312,
         "url": "https://czap.cz/Sys/PublicProfile/71390312/5485226",
         "name": "Dizon, Jose",
@@ -14751,6 +14751,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Rob%C4%8Dice%2034%2C%20332%2009%20%C3%9Atu%C5%A1ice-%C5%A0t%C4%9Bnovice%2C%20Plze%C5%88%2C%20Rob%C4%8Dice%2034%2C%20332%2009%20%C3%9Atu%C5%A1ice-%C5%A0t%C4%9Bnovice%2C%20Plze%C5%88"
     },
     {
+        "id": 74279361,
+        "url": "https://czap.cz/Sys/PublicProfile/74279361/5485226",
+        "name": "Hladová, Nikol",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Palackého 12, Plzeň",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Palack%C3%A9ho%2012%2C%20Plze%C5%88"
+    },
+    {
         "id": 74381235,
         "url": "https://czap.cz/Sys/PublicProfile/74381235/5485226",
         "name": "Danhoferová, Zdeňka",
@@ -15118,5 +15127,23 @@
         "location": "Horní náměstí 5, Olomouc",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Horn%C3%AD%20n%C3%A1m%C4%9Bst%C3%AD%205%2C%20Olomouc"
+    },
+    {
+        "id": 75104827,
+        "url": "https://czap.cz/Sys/PublicProfile/75104827/5485226",
+        "name": "Hrubý, Aleš",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Hanušova 347, Praha 4 - Michle",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Hanu%C5%A1ova%20347%2C%20Praha%204%20-%20Michle"
+    },
+    {
+        "id": 75215922,
+        "url": "https://czap.cz/Sys/PublicProfile/75215922/5485226",
+        "name": "Jiráček Fillingerová, Zuzana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Senovážné náměstí 978/23, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20978/23%2C%20Praha%201"
     }
 ]
