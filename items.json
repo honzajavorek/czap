@@ -10508,7 +10508,7 @@
         "name": "Kasalová, Vanda",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Majakovského 707/29, Karlovy Vary- Rybáře",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Majakovsk%C3%A9ho%20707/29%2C%20Karlovy%20Vary-%20Ryb%C3%A1%C5%99e"
     },
     {
@@ -12366,6 +12366,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Vrchlick%C3%A9ho%2032/4%2C%20Rumburk"
     },
     {
+        "id": 69498977,
+        "url": "https://czap.cz/Sys/PublicProfile/69498977/5485226",
+        "name": "Dohnalová, Martina",
+        "membership": "Řádné členství",
+        "location": "None, ",
+        "availability": "",
+        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
+    },
+    {
         "id": 69512889,
         "url": "https://czap.cz/Sys/PublicProfile/69512889/5485226",
         "name": "Kovář, Jakub",
@@ -13595,7 +13604,7 @@
         "name": "Mrázová, Iva",
         "membership": "Řádné členství",
         "location": "Nad Lávkou 105, Praha 6-Vokovice",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Nad%20L%C3%A1vkou%20105%2C%20Praha%206-Vokovice"
     },
     {
@@ -15003,6 +15012,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Praha%2C%20Praha"
     },
     {
+        "id": 74830811,
+        "url": "https://czap.cz/Sys/PublicProfile/74830811/5485226",
+        "name": "Hronová, Jana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Brníčko 1562, Uničov",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Brn%C3%AD%C4%8Dko%201562%2C%20Uni%C4%8Dov"
+    },
+    {
         "id": 74855415,
         "url": "https://czap.cz/Sys/PublicProfile/74855415/5485226",
         "name": "Svítková, Ivana",
@@ -15138,6 +15156,24 @@
         "map_url": "https://mapy.cz/zakladni?q=Hanu%C5%A1ova%20347%2C%20Praha%204%20-%20Michle"
     },
     {
+        "id": 75110258,
+        "url": "https://czap.cz/Sys/PublicProfile/75110258/5485226",
+        "name": "Mešková, Elena",
+        "membership": "Řádné členství",
+        "location": "Jungmannova 31, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Jungmannova%2031%2C%20Praha"
+    },
+    {
+        "id": 75158657,
+        "url": "https://czap.cz/Sys/PublicProfile/75158657/5485226",
+        "name": "Hynek, Pavel",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Bubenská 19, Praha 7",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Bubensk%C3%A1%2019%2C%20Praha%207"
+    },
+    {
         "id": 75215922,
         "url": "https://czap.cz/Sys/PublicProfile/75215922/5485226",
         "name": "Jiráček Fillingerová, Zuzana",
@@ -15145,5 +15181,41 @@
         "location": "Senovážné náměstí 978/23, Praha 1",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20978/23%2C%20Praha%201"
+    },
+    {
+        "id": 75216106,
+        "url": "https://czap.cz/Sys/PublicProfile/75216106/5485226",
+        "name": "Hochel, Matej",
+        "membership": "Řádné členství",
+        "location": "Husovo náměstí 42/29, Beroun",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Husovo%20n%C3%A1m%C4%9Bst%C3%AD%2042/29%2C%20Beroun"
+    },
+    {
+        "id": 75234638,
+        "url": "https://czap.cz/Sys/PublicProfile/75234638/5485226",
+        "name": "Kahancová, Mária",
+        "membership": "Řádné členství",
+        "location": "Obchodní dům Vichr, Kobližná 47, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Obchodn%C3%AD%20d%C5%AFm%20Vichr%2C%20Kobli%C5%BEn%C3%A1%2047%2C%20Brno"
+    },
+    {
+        "id": 75391551,
+        "url": "https://czap.cz/Sys/PublicProfile/75391551/5485226",
+        "name": "Horváthová, Monika",
+        "membership": "Řádné členství",
+        "location": "Husovo nám. 36, Beroun - Centrum",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Husovo%20n%C3%A1m.%2036%2C%20Beroun%20-%20Centrum"
+    },
+    {
+        "id": 75404292,
+        "url": "https://czap.cz/Sys/PublicProfile/75404292/5485226",
+        "name": "Kačerovská, Michaela",
+        "membership": "Řádné členství",
+        "location": "Nové Středokluky 401, Středokluky Praha západ",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Nov%C3%A9%20St%C5%99edokluky%20401%2C%20St%C5%99edokluky%20Praha%20z%C3%A1pad"
     }
 ]
