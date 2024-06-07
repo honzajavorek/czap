@@ -11254,9 +11254,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68268507/5485226",
         "name": "Zikmundová, Romana",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "28. října 372/5, Praha 1",
+        "location": "Sokolovská 193, Praha 9",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=28.%20%C5%99%C3%ADjna%20372/5%2C%20Praha%201"
+        "map_url": "https://mapy.cz/zakladni?q=Sokolovsk%C3%A1%20193%2C%20Praha%209"
     },
     {
         "id": 68279379,
@@ -15163,6 +15163,15 @@
         "location": "Jungmannova 31, Praha",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Jungmannova%2031%2C%20Praha"
+    },
+    {
+        "id": 75149645,
+        "url": "https://czap.cz/Sys/PublicProfile/75149645/5485226",
+        "name": "Stoklásková, Marie",
+        "membership": "Řádné členství",
+        "location": "Riegrova 6, Olomouc",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Riegrova%206%2C%20Olomouc"
     },
     {
         "id": 75158657,
