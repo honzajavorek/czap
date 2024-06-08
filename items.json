@@ -1238,7 +1238,7 @@
         "name": "Gerlachová, Eva",
         "membership": "Řádné členství",
         "location": "Bruselská 14, Praha 2",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Bruselsk%C3%A1%2014%2C%20Praha%202"
     },
     {
@@ -6021,6 +6021,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Mati%C4%8Dn%C3%AD%204%2C%20Opava"
     },
     {
+        "id": 61043389,
+        "url": "https://czap.cz/Sys/PublicProfile/61043389/5485226",
+        "name": "Olšáková, Iveta",
+        "membership": "Řádné členství",
+        "location": "Hemy 855, Valašské Meziříčí",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Hemy%20855%2C%20Vala%C5%A1sk%C3%A9%20Mezi%C5%99%C3%AD%C4%8D%C3%AD"
+    },
+    {
         "id": 61043395,
         "url": "https://czap.cz/Sys/PublicProfile/61043395/5485226",
         "name": "Obluková, Hana",
@@ -7452,6 +7461,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Tr%C3%B6nuhraun%201%2C%20Hafnarfj%C3%B6r%C3%B0ur"
     },
     {
+        "id": 62696779,
+        "url": "https://czap.cz/Sys/PublicProfile/62696779/5485226",
+        "name": "Kubjátová, Ludmila",
+        "membership": "Řádné členství",
+        "location": "Komenského 1275, Valašské Meziříčí",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Komensk%C3%A9ho%201275%2C%20Vala%C5%A1sk%C3%A9%20Mezi%C5%99%C3%AD%C4%8D%C3%AD"
+    },
+    {
         "id": 62701448,
         "url": "https://czap.cz/Sys/PublicProfile/62701448/5485226",
         "name": "Kubíčková, Pavla",
@@ -8386,6 +8404,15 @@
         "location": "Bruselská 266/14, Praha 2, Vinohrady",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Bruselsk%C3%A1%20266/14%2C%20Praha%202%2C%20Vinohrady"
+    },
+    {
+        "id": 63439253,
+        "url": "https://czap.cz/Sys/PublicProfile/63439253/5485226",
+        "name": "Štětinová, Lucie",
+        "membership": "Řádné členství",
+        "location": "Esovitá 1234, Prachatice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Esovit%C3%A1%201234%2C%20Prachatice"
     },
     {
         "id": 63439974,
@@ -13108,9 +13135,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/70762146/5485226",
         "name": "Kohlová, Zuzana",
         "membership": "Řádné členství",
-        "location": "Muchova 33, Brno",
+        "location": "Příkop 2a, Brno",
         "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Muchova%2033%2C%20Brno"
+        "map_url": "https://mapy.cz/zakladni?q=P%C5%99%C3%ADkop%202a%2C%20Brno"
     },
     {
         "id": 70766968,
@@ -15183,6 +15210,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Bubensk%C3%A1%2019%2C%20Praha%207"
     },
     {
+        "id": 75163966,
+        "url": "https://czap.cz/Sys/PublicProfile/75163966/5485226",
+        "name": "Kubísková, Dana",
+        "membership": "Řádné členství",
+        "location": "Pelhřimov, Pelhřimov",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Pelh%C5%99imov%2C%20Pelh%C5%99imov"
+    },
+    {
         "id": 75215922,
         "url": "https://czap.cz/Sys/PublicProfile/75215922/5485226",
         "name": "Jiráček Fillingerová, Zuzana",
@@ -15210,6 +15246,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Obchodn%C3%AD%20d%C5%AFm%20Vichr%2C%20Kobli%C5%BEn%C3%A1%2047%2C%20Brno"
     },
     {
+        "id": 75262693,
+        "url": "https://czap.cz/Sys/PublicProfile/75262693/5485226",
+        "name": "Míková, Jana",
+        "membership": "Řádné členství",
+        "location": "Vyšehrad 169, Český Krumlov",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Vy%C5%A1ehrad%20169%2C%20%C4%8Cesk%C3%BD%20Krumlov"
+    },
+    {
         "id": 75391551,
         "url": "https://czap.cz/Sys/PublicProfile/75391551/5485226",
         "name": "Horváthová, Monika",
@@ -15226,5 +15271,14 @@
         "location": "Nové Středokluky 401, Středokluky Praha západ",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Nov%C3%A9%20St%C5%99edokluky%20401%2C%20St%C5%99edokluky%20Praha%20z%C3%A1pad"
+    },
+    {
+        "id": 75404755,
+        "url": "https://czap.cz/Sys/PublicProfile/75404755/5485226",
+        "name": "Němec, Jiří",
+        "membership": "Řádné členství",
+        "location": "Čs. Armády 17, Praha 6 Dejvice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C4%8Cs.%20Arm%C3%A1dy%2017%2C%20Praha%206%20Dejvice"
     }
 ]
