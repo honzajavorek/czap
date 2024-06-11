@@ -2747,7 +2747,7 @@
     {
         "id": 58885218,
         "url": "https://czap.cz/Sys/PublicProfile/58885218/5485226",
-        "name": "Horáková, Gabriela",
+        "name": "Böhmová, Gabriela",
         "membership": "Řádné členství",
         "location": "Národní 60/28, Praha",
         "availability": "Nepřijímám nové klienty",
@@ -8368,6 +8368,15 @@
         "location": "Bruselská 266/14, Praha 2",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Bruselsk%C3%A1%20266/14%2C%20Praha%202"
+    },
+    {
+        "id": 63418510,
+        "url": "https://czap.cz/Sys/PublicProfile/63418510/5485226",
+        "name": "Antes, Lucie",
+        "membership": "Řádné členství",
+        "location": "Velká 255/91, Hradec Králové",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Velk%C3%A1%20255/91%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
     },
     {
         "id": 63419163,
@@ -15226,6 +15235,15 @@
         "location": "Pelhřimov, Pelhřimov",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Pelh%C5%99imov%2C%20Pelh%C5%99imov"
+    },
+    {
+        "id": 75192221,
+        "url": "https://czap.cz/Sys/PublicProfile/75192221/5485226",
+        "name": "Budinská, Blanka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Železná  830/12a, Liberec",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%BDelezn%C3%A1%20%20830/12a%2C%20Liberec"
     },
     {
         "id": 75215922,
