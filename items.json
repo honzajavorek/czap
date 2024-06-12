@@ -6061,9 +6061,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/61043403/5485226",
         "name": "Jelínková, Adéla",
         "membership": "Řádné členství",
-        "location": "aktuálně pouze online, Brno-Staré Brno (okres Brno-město)",
+        "location": "Janáčkova 2, Hustopeče",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=aktu%C3%A1ln%C4%9B%20pouze%20online%2C%20Brno-Star%C3%A9%20Brno%20%28okres%20Brno-m%C4%9Bsto%29"
+        "map_url": "https://mapy.cz/zakladni?q=Jan%C3%A1%C4%8Dkova%202%2C%20Hustope%C4%8De"
     },
     {
         "id": 61043404,
@@ -12267,6 +12267,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Revolucni%208%2C%20Praha%201"
     },
     {
+        "id": 69149061,
+        "url": "https://czap.cz/Sys/PublicProfile/69149061/5485226",
+        "name": "Červenková, Karolína",
+        "membership": "Řádné členství",
+        "location": "17. listopadu 233/41, Říčany",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=17.%20listopadu%20233/41%2C%20%C5%98%C3%AD%C4%8Dany"
+    },
+    {
         "id": 69158438,
         "url": "https://czap.cz/Sys/PublicProfile/69158438/5485226",
         "name": "Táborská, Martina",
@@ -15242,7 +15251,7 @@
         "name": "Budinská, Blanka",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Železná  830/12a, Liberec",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=%C5%BDelezn%C3%A1%20%20830/12a%2C%20Liberec"
     },
     {
@@ -15307,5 +15316,14 @@
         "location": "Čs. Armády 17, Praha 6 Dejvice",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=%C4%8Cs.%20Arm%C3%A1dy%2017%2C%20Praha%206%20Dejvice"
+    },
+    {
+        "id": 75436084,
+        "url": "https://czap.cz/Sys/PublicProfile/75436084/5485226",
+        "name": "Sladekova, Barbora",
+        "membership": "Řádné členství",
+        "location": "Lnáře 16, Lnáře",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Ln%C3%A1%C5%99e%2016%2C%20Ln%C3%A1%C5%99e"
     }
 ]
