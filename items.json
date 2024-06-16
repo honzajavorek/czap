@@ -11628,6 +11628,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Belgicka%2040%2C%20Praha"
     },
     {
+        "id": 68475141,
+        "url": "https://czap.cz/Sys/PublicProfile/68475141/5485226",
+        "name": "Uhrová, Soňa",
+        "membership": "Řádné členství",
+        "location": "Barvičova 833/53, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Barvi%C4%8Dova%20833/53%2C%20Brno"
+    },
+    {
         "id": 68475719,
         "url": "https://czap.cz/Sys/PublicProfile/68475719/5485226",
         "name": "Pikhartová, Alena",
@@ -15325,5 +15334,23 @@
         "location": "Lnáře 16, Lnáře",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Ln%C3%A1%C5%99e%2016%2C%20Ln%C3%A1%C5%99e"
+    },
+    {
+        "id": 75501992,
+        "url": "https://czap.cz/Sys/PublicProfile/75501992/5485226",
+        "name": "Hrušková, Hedvika",
+        "membership": "Řádné členství",
+        "location": "Frýdlantská 1351/15, Liberec",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Fr%C3%BDdlantsk%C3%A1%201351/15%2C%20Liberec"
+    },
+    {
+        "id": 75514315,
+        "url": "https://czap.cz/Sys/PublicProfile/75514315/5485226",
+        "name": "Homolková, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Čechova 164/1, České Budějovice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C4%8Cechova%20164/1%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     }
 ]
