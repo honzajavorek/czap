@@ -9927,6 +9927,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Prvn%C3%ADho%20pluku%2012a%2C%20Praha"
     },
     {
+        "id": 66759728,
+        "url": "https://czap.cz/Sys/PublicProfile/66759728/5485226",
+        "name": "Řežábková, Marika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Vodičkova 41, Praha 1",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Vodi%C4%8Dkova%2041%2C%20Praha%201"
+    },
+    {
         "id": 66770137,
         "url": "https://czap.cz/Sys/PublicProfile/66770137/5485226",
         "name": "Hladíková, Julie",
@@ -15352,5 +15361,14 @@
         "location": "Čechova 164/1, České Budějovice",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=%C4%8Cechova%20164/1%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
+    },
+    {
+        "id": 75596824,
+        "url": "https://czap.cz/Sys/PublicProfile/75596824/5485226",
+        "name": "Mužíková, Tereza",
+        "membership": "Řádné členství",
+        "location": "Pod Kaplankou 483/3, Beroun, Beroun-Město",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Pod%20Kaplankou%20483/3%2C%20Beroun%2C%20Beroun-M%C4%9Bsto"
     }
 ]
