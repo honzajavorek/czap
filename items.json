@@ -589,9 +589,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58884951/5485226",
         "name": "Sadilová, Lenka",
         "membership": "Řádné členství",
-        "location": "online, online",
+        "location": "Na Valešince 174, Příbram",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=online%2C%20online"
+        "map_url": "https://mapy.cz/zakladni?q=Na%20Vale%C5%A1ince%20174%2C%20P%C5%99%C3%ADbram"
     },
     {
         "id": 58884952,
@@ -5333,7 +5333,7 @@
         "name": "Dvorská, Kateřina",
         "membership": "Řádné členství",
         "location": "Veleslavínova 3108/14, Ústí nad Labem",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Veleslav%C3%ADnova%203108/14%2C%20%C3%9Ast%C3%AD%20nad%20Labem"
     },
     {
@@ -6170,7 +6170,7 @@
         "name": "Kaločová, Jenifer",
         "membership": "Řádné členství",
         "location": "Na Baranovci 30, Ostrava",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Na%20Baranovci%2030%2C%20Ostrava"
     },
     {
@@ -10123,6 +10123,15 @@
         "location": "Sídliště Hegerova 935, Polička",
         "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=S%C3%ADdli%C5%A1t%C4%9B%20Hegerova%20935%2C%20Poli%C4%8Dka"
+    },
+    {
+        "id": 67123021,
+        "url": "https://czap.cz/Sys/PublicProfile/67123021/5485226",
+        "name": "Pozler, Jiří",
+        "membership": "Řádné členství",
+        "location": "Kobližná 19, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Kobli%C5%BEn%C3%A1%2019%2C%20Brno"
     },
     {
         "id": 67141714,
@@ -14810,7 +14819,7 @@
         "name": "Hořejšová, Petra",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "U tří lvů 296/8, České Budějovice",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=U%20t%C5%99%C3%AD%20lv%C5%AF%20296/8%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     },
     {
@@ -15064,15 +15073,6 @@
         "location": "Vančurova 2904, Tábor, Tábor",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Van%C4%8Durova%202904%2C%20T%C3%A1bor%2C%20T%C3%A1bor"
-    },
-    {
-        "id": 74830798,
-        "url": "https://czap.cz/Sys/PublicProfile/74830798/5485226",
-        "name": "Korfová, Eva",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Praha, Praha",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Praha%2C%20Praha"
     },
     {
         "id": 74830811,
@@ -15345,6 +15345,24 @@
         "map_url": "https://mapy.cz/zakladni?q=Ln%C3%A1%C5%99e%2016%2C%20Ln%C3%A1%C5%99e"
     },
     {
+        "id": 75458165,
+        "url": "https://czap.cz/Sys/PublicProfile/75458165/5485226",
+        "name": "Mondeková, Anna",
+        "membership": "Řádné členství",
+        "location": "Novosedly 365, Novosedly",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Novosedly%20365%2C%20Novosedly"
+    },
+    {
+        "id": 75464632,
+        "url": "https://czap.cz/Sys/PublicProfile/75464632/5485226",
+        "name": "Betka, Vojtěch",
+        "membership": "Řádné členství",
+        "location": "Národní obrany 31, Praha 6",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%20obrany%2031%2C%20Praha%206"
+    },
+    {
         "id": 75501992,
         "url": "https://czap.cz/Sys/PublicProfile/75501992/5485226",
         "name": "Hrušková, Hedvika",
@@ -15361,6 +15379,24 @@
         "location": "Čechova 164/1, České Budějovice",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=%C4%8Cechova%20164/1%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
+    },
+    {
+        "id": 75531672,
+        "url": "https://czap.cz/Sys/PublicProfile/75531672/5485226",
+        "name": "Makhal, Tamilla",
+        "membership": "Řádné členství",
+        "location": "Horní brána 77, Hostinné",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Horn%C3%AD%20br%C3%A1na%2077%2C%20Hostinn%C3%A9"
+    },
+    {
+        "id": 75539436,
+        "url": "https://czap.cz/Sys/PublicProfile/75539436/5485226",
+        "name": "Havelková, Tereza Cirila",
+        "membership": "Řádné členství",
+        "location": "Příkop 2a, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=P%C5%99%C3%ADkop%202a%2C%20Brno"
     },
     {
         "id": 75596824,
