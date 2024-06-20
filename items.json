@@ -15066,6 +15066,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Van%C4%8Durova%202904%2C%20T%C3%A1bor%2C%20T%C3%A1bor"
     },
     {
+        "id": 74830798,
+        "url": "https://czap.cz/Sys/PublicProfile/74830798/5485226",
+        "name": "Korfová, Eva",
+        "membership": "Řádné členství",
+        "location": "Praha, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Praha%2C%20Praha"
+    },
+    {
         "id": 74830811,
         "url": "https://czap.cz/Sys/PublicProfile/74830811/5485226",
         "name": "Hronová, Jana",
@@ -15280,6 +15289,15 @@
         "location": "Husovo náměstí 42/29, Beroun",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Husovo%20n%C3%A1m%C4%9Bst%C3%AD%2042/29%2C%20Beroun"
+    },
+    {
+        "id": 75231453,
+        "url": "https://czap.cz/Sys/PublicProfile/75231453/5485226",
+        "name": "Valová, Veronika",
+        "membership": "Řádné členství",
+        "location": "Mládežnická 229, Třebíč",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Ml%C3%A1de%C5%BEnick%C3%A1%20229%2C%20T%C5%99eb%C3%AD%C4%8D"
     },
     {
         "id": 75234638,
