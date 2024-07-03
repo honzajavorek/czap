@@ -2993,7 +2993,7 @@
         "name": "Čiberová, Kateřina",
         "membership": "Řádné členství",
         "location": "Trojanova 12, Praha",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Trojanova%2012%2C%20Praha"
     },
     {
@@ -11914,15 +11914,6 @@
         "location": "Náklo 237, Náklo",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=N%C3%A1klo%20237%2C%20N%C3%A1klo"
-    },
-    {
-        "id": 68666723,
-        "url": "https://czap.cz/Sys/PublicProfile/68666723/5485226",
-        "name": "Kuzníková, Iva",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Centrum psychologických služeb, Dvorní 756/9, Ostrava Poruba",
-        "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Centrum%20psychologick%C3%BDch%20slu%C5%BEeb%2C%20Dvorn%C3%AD%20756/9%2C%20Ostrava%20Poruba"
     },
     {
         "id": 68673729,
