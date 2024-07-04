@@ -4873,9 +4873,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885488/5485226",
         "name": "Kahánková, Petra",
         "membership": "Řádné členství",
-        "location": "Dolní 65, Ostrava",
+        "location": "Karasova 1130/23, Ostrava",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Doln%C3%AD%2065%2C%20Ostrava"
+        "map_url": "https://mapy.cz/zakladni?q=Karasova%201130/23%2C%20Ostrava"
     },
     {
         "id": 58885489,
@@ -6259,9 +6259,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/61238263/5485226",
         "name": "Hejný, Josef",
         "membership": "Řádné členství",
-        "location": "Nuselská poliklinika, Táborská 57, Praha",
+        "location": "Úvalská 3411/47, Praha 10",
         "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Nuselsk%C3%A1%20poliklinika%2C%20T%C3%A1borsk%C3%A1%2057%2C%20Praha"
+        "map_url": "https://mapy.cz/zakladni?q=%C3%9Avalsk%C3%A1%203411/47%2C%20Praha%2010"
     },
     {
         "id": 61250815,
@@ -6322,9 +6322,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/61384112/5485226",
         "name": "Uhlíková, Tereza",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Kafkova 547/29, Praha 6, Dejvice",
+        "location": "Černá 1705/13, Praha 1",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Kafkova%20547/29%2C%20Praha%206%2C%20Dejvice"
+        "map_url": "https://mapy.cz/zakladni?q=%C4%8Cern%C3%A1%201705/13%2C%20Praha%201"
     },
     {
         "id": 61387151,
@@ -11754,15 +11754,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Charkovsk%C3%A1%2024%2C%20Praha%2010%20-%20Vr%C5%A1ovice"
     },
     {
-        "id": 68556064,
-        "url": "https://czap.cz/Sys/PublicProfile/68556064/5485226",
-        "name": "Smělá, Tereza",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Šaldova 5, Praha 8",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=%C5%A0aldova%205%2C%20Praha%208"
-    },
-    {
         "id": 68561169,
         "url": "https://czap.cz/Sys/PublicProfile/68561169/5485226",
         "name": "Králová, Tereza",
@@ -13621,9 +13612,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/71575817/5485226",
         "name": "Mrázová, Iva",
         "membership": "Řádné členství",
-        "location": "Nad Lávkou 105, Praha 6-Vokovice",
-        "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Nad%20L%C3%A1vkou%20105%2C%20Praha%206-Vokovice"
+        "location": "Jablonského 640/2,, Praha 7",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Jablonsk%C3%A9ho%20640/2%2C%2C%20Praha%207"
     },
     {
         "id": 71587386,
