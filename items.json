@@ -9005,7 +9005,7 @@
         "name": "Nováček, Tomáš",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Orlí 20, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Orl%C3%AD%2020%2C%20Brno"
     },
     {
@@ -13666,9 +13666,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/71622661/5485226",
         "name": "Ženata, Marek",
         "membership": "Řádné členství",
-        "location": "Renneská 42, Brno",
+        "location": "Divadelní 6, Brno",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Rennesk%C3%A1%2042%2C%20Brno"
+        "map_url": "https://mapy.cz/zakladni?q=Divadeln%C3%AD%206%2C%20Brno"
     },
     {
         "id": 71657405,
@@ -15325,6 +15325,15 @@
         "location": "Národní obrany 31, Praha 6",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%20obrany%2031%2C%20Praha%206"
+    },
+    {
+        "id": 75472633,
+        "url": "https://czap.cz/Sys/PublicProfile/75472633/5485226",
+        "name": "Marušková, Viktorie",
+        "membership": "Řádné členství",
+        "location": "Senovážné náměstí 23, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201"
     },
     {
         "id": 75501992,
