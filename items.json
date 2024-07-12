@@ -7659,6 +7659,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Minsk%C3%A1%20102%2C%20Brno"
     },
     {
+        "id": 62826448,
+        "url": "https://czap.cz/Sys/PublicProfile/62826448/5485226",
+        "name": "Spálenková, Michaela",
+        "membership": "Řádné členství",
+        "location": "Wuchterlova 5, Praha 6",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Wuchterlova%205%2C%20Praha%206"
+    },
+    {
         "id": 62831222,
         "url": "https://czap.cz/Sys/PublicProfile/62831222/5485226",
         "name": "Plaskurová, Kateřina",
@@ -9585,6 +9594,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Doln%C3%AD%203034/101%2C%20Ostrava"
     },
     {
+        "id": 65171328,
+        "url": "https://czap.cz/Sys/PublicProfile/65171328/5485226",
+        "name": "Vavreková, Tereza",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Kleinerova 1504, Kladno",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Kleinerova%201504%2C%20Kladno"
+    },
+    {
         "id": 65201780,
         "url": "https://czap.cz/Sys/PublicProfile/65201780/5485226",
         "name": "Vavrinčíková, Lenka",
@@ -11232,6 +11250,15 @@
         "map_url": "https://mapy.cz/zakladni?q=AllforCare.cz%2C%20Sliveneck%C3%A1%20137/53%2C%20Praha%205%20-%20Hlubo%C4%8Depy"
     },
     {
+        "id": 68215349,
+        "url": "https://czap.cz/Sys/PublicProfile/68215349/5485226",
+        "name": "Wieczorek, Karina",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Zacpalova 379/27, Opava",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Zacpalova%20379/27%2C%20Opava"
+    },
+    {
         "id": 68221743,
         "url": "https://czap.cz/Sys/PublicProfile/68221743/5485226",
         "name": "Geisslerová, Jana",
@@ -11374,6 +11401,15 @@
         "location": "Topolova 748, Klecany",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Topolova%20748%2C%20Klecany"
+    },
+    {
+        "id": 68296928,
+        "url": "https://czap.cz/Sys/PublicProfile/68296928/5485226",
+        "name": "Platt, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Bruselská 14, Praha 2",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Bruselsk%C3%A1%2014%2C%20Praha%202"
     },
     {
         "id": 68297508,
@@ -14985,6 +15021,15 @@
         "map_url": "https://mapy.cz/zakladni?q=%C5%BDitn%C3%A1%2051%2C%20Praha%201"
     },
     {
+        "id": 74782544,
+        "url": "https://czap.cz/Sys/PublicProfile/74782544/5485226",
+        "name": "Jiránek, Eliška",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Na Vyhlídce 473, Klášterec nad Ohří",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20Vyhl%C3%ADdce%20473%2C%20Kl%C3%A1%C5%A1terec%20nad%20Oh%C5%99%C3%AD"
+    },
+    {
         "id": 74782565,
         "url": "https://czap.cz/Sys/PublicProfile/74782565/5485226",
         "name": "Bílý, Ondřej",
@@ -15388,5 +15433,23 @@
         "location": "Pod Kaplankou 483/3, Beroun, Beroun-Město",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Pod%20Kaplankou%20483/3%2C%20Beroun%2C%20Beroun-M%C4%9Bsto"
+    },
+    {
+        "id": 75637276,
+        "url": "https://czap.cz/Sys/PublicProfile/75637276/5485226",
+        "name": "Svoboda, Zdeněk",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Plzeňská 587/31, České Budějovice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Plze%C5%88sk%C3%A1%20587/31%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
+    },
+    {
+        "id": 75786835,
+        "url": "https://czap.cz/Sys/PublicProfile/75786835/5485226",
+        "name": "Kostrhounová, Andrea",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Nám. T. G. Masaryka čp. 152, budova A, Příbram I.",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1m.%20T.%20G.%20Masaryka%20%C4%8Dp.%20152%2C%20budova%20A%2C%20P%C5%99%C3%ADbram%20I."
     }
 ]
