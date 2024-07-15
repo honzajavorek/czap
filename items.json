@@ -5477,7 +5477,7 @@
         "name": "Krátká, Veronika",
         "membership": "Řádné členství",
         "location": "Josefská 15, Brno",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Josefsk%C3%A1%2015%2C%20Brno"
     },
     {
@@ -15412,9 +15412,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/75501992/5485226",
         "name": "Hrušková, Hedvika",
         "membership": "Řádné členství",
-        "location": "Frýdlantská 1351/15, Liberec",
+        "location": "nám. Sokolovské 312/1, Liberec",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Fr%C3%BDdlantsk%C3%A1%201351/15%2C%20Liberec"
+        "map_url": "https://mapy.cz/zakladni?q=n%C3%A1m.%20Sokolovsk%C3%A9%20312/1%2C%20Liberec"
     },
     {
         "id": 75514315,
