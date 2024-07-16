@@ -9833,7 +9833,7 @@
         "name": "Feyrerová, Jana",
         "membership": "Řádné členství",
         "location": "Politických obětí 118, Frýdek - Místek",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Politick%C3%BDch%20ob%C4%9Bt%C3%AD%20118%2C%20Fr%C3%BDdek%20-%20M%C3%ADstek"
     },
     {
@@ -15471,6 +15471,15 @@
         "map_url": "https://mapy.cz/zakladni?q=%C3%9Atu%C5%A1ice%20214%2C%20%C3%9Atu%C5%A1ice"
     },
     {
+        "id": 75607747,
+        "url": "https://czap.cz/Sys/PublicProfile/75607747/5485226",
+        "name": "Rajčanová, Tereza",
+        "membership": "Řádné členství",
+        "location": "Malešovská 1647, Praha 9 - Újezd nad Lesy",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Male%C5%A1ovsk%C3%A1%201647%2C%20Praha%209%20-%20%C3%9Ajezd%20nad%20Lesy"
+    },
+    {
         "id": 75633542,
         "url": "https://czap.cz/Sys/PublicProfile/75633542/5485226",
         "name": "Jančuk, Taťána",
@@ -15532,6 +15541,15 @@
         "location": "28.pluku 458/7, Praha 10",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=28.pluku%20458/7%2C%20Praha%2010"
+    },
+    {
+        "id": 75776077,
+        "url": "https://czap.cz/Sys/PublicProfile/75776077/5485226",
+        "name": "Hodoval, Radek",
+        "membership": "Řádné členství",
+        "location": "V Jámě 699/1, Praha 1",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=V%20J%C3%A1m%C4%9B%20699/1%2C%20Praha%201"
     },
     {
         "id": 75786835,
