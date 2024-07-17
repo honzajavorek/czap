@@ -5360,7 +5360,7 @@
         "name": "Šlemarová, Gabriella",
         "membership": "Řádné členství",
         "location": "Aranžérská 1058/13, Praha 9",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Aran%C5%BE%C3%A9rsk%C3%A1%201058/13%2C%20Praha%209"
     },
     {
@@ -14452,6 +14452,15 @@
         "location": "ne, ne",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=ne%2C%20ne"
+    },
+    {
+        "id": 73145499,
+        "url": "https://czap.cz/Sys/PublicProfile/73145499/5485226",
+        "name": "Štrobl, Radka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Riegrova 411, Přelouč",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Riegrova%20411%2C%20P%C5%99elou%C4%8D"
     },
     {
         "id": 73202002,
