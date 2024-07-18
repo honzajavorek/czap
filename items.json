@@ -3155,7 +3155,7 @@
         "name": "Nápravová, Zuzana",
         "membership": "Řádné členství",
         "location": "Na Širokém III, Ohrobec - Károv",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Na%20%C5%A0irok%C3%A9m%20III%2C%20Ohrobec%20-%20K%C3%A1rov"
     },
     {
@@ -14740,6 +14740,15 @@
         "location": "Vyšehradská 43, Praha 2",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha%202"
+    },
+    {
+        "id": 73897006,
+        "url": "https://czap.cz/Sys/PublicProfile/73897006/5485226",
+        "name": "Pulkkinen, Lada",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Čistovická 249/11, Praha 17",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C4%8Cistovick%C3%A1%20249/11%2C%20Praha%2017"
     },
     {
         "id": 73921639,
