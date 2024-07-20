@@ -3263,7 +3263,7 @@
         "name": "Kliszová, Viera",
         "membership": "Řádné členství",
         "location": "Ostrovského 3, Praha",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Ostrovsk%C3%A9ho%203%2C%20Praha"
     },
     {
@@ -6233,7 +6233,7 @@
         "name": "Zelená, Markéta",
         "membership": "Řádné členství",
         "location": "Muchova 33, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Muchova%2033%2C%20Brno"
     },
     {
@@ -15484,9 +15484,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/75603877/5485226",
         "name": "Štěpán Černá, Petra",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Útušice 214, Útušice",
+        "location": "Cukrovarská 16, Plzeň",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=%C3%9Atu%C5%A1ice%20214%2C%20%C3%9Atu%C5%A1ice"
+        "map_url": "https://mapy.cz/zakladni?q=Cukrovarsk%C3%A1%2016%2C%20Plze%C5%88"
     },
     {
         "id": 75607747,
@@ -15543,6 +15543,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Vladislavova%20373%2C%20Kutn%C3%A1%20Hora"
     },
     {
+        "id": 75647255,
+        "url": "https://czap.cz/Sys/PublicProfile/75647255/5485226",
+        "name": "Dündar, Alena",
+        "membership": "Řádné členství",
+        "location": "Masarykova 729, Kostelec nad Orlicí",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Masarykova%20729%2C%20Kostelec%20nad%20Orlic%C3%AD"
+    },
+    {
         "id": 75700550,
         "url": "https://czap.cz/Sys/PublicProfile/75700550/5485226",
         "name": "Cepek, Martin",
@@ -15559,6 +15568,15 @@
         "location": "28.pluku 458/7, Praha 10",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=28.pluku%20458/7%2C%20Praha%2010"
+    },
+    {
+        "id": 75760718,
+        "url": "https://czap.cz/Sys/PublicProfile/75760718/5485226",
+        "name": "Kohoutová, Adéla",
+        "membership": "Řádné členství",
+        "location": "Denisova 504, Jičín",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Denisova%20504%2C%20Ji%C4%8D%C3%ADn"
     },
     {
         "id": 75776077,
