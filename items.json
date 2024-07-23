@@ -12375,6 +12375,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Riegrova%201751/51%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     },
     {
+        "id": 69339015,
+        "url": "https://czap.cz/Sys/PublicProfile/69339015/5485226",
+        "name": "Ryšánková, Kamila",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Brněnská 32, Mikulov",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Brn%C4%9Bnsk%C3%A1%2032%2C%20Mikulov"
+    },
+    {
         "id": 69373826,
         "url": "https://czap.cz/Sys/PublicProfile/69373826/5485226",
         "name": "Kadlecová, Jana",
@@ -15496,6 +15505,15 @@
         "location": "Malešovská 1647, Praha 9 - Újezd nad Lesy",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Male%C5%A1ovsk%C3%A1%201647%2C%20Praha%209%20-%20%C3%9Ajezd%20nad%20Lesy"
+    },
+    {
+        "id": 75626812,
+        "url": "https://czap.cz/Sys/PublicProfile/75626812/5485226",
+        "name": "Ten Donkelaar, Klára",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Podlužanská 1832, Praha 21",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Podlu%C5%BEansk%C3%A1%201832%2C%20Praha%2021"
     },
     {
         "id": 75633542,
