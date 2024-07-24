@@ -6408,6 +6408,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Benediktsk%C3%A1%20690/7%2C%20Praha%201%20-%20Star%C3%A9%20M%C4%9Bsto"
     },
     {
+        "id": 61595728,
+        "url": "https://czap.cz/Sys/PublicProfile/61595728/5485226",
+        "name": "Racková, Barbora",
+        "membership": "Řádné členství",
+        "location": "Nad Kazankou 46, Praha 7",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Nad%20Kazankou%2046%2C%20Praha%207"
+    },
+    {
         "id": 61632540,
         "url": "https://czap.cz/Sys/PublicProfile/61632540/5485226",
         "name": "Jandová, Regina",
@@ -6862,9 +6871,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/62183222/5485226",
         "name": "Krámová, Eva",
         "membership": "Řádné členství",
-        "location": "None, Praha",
-        "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=None%2C%20Praha"
+        "location": "None, Praha 3",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=None%2C%20Praha%203"
     },
     {
         "id": 62186289,
