@@ -5458,9 +5458,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/59659700/5485226",
         "name": "Brandtlová, Lucie",
         "membership": "Řádné členství",
-        "location": "Legerova 39 (pronajímaný prostor od organizace Komunikujeme o.p.s.), Praha 2",
+        "location": "Revoluční 8, Praha 1",
         "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Legerova%2039%20%28pronaj%C3%ADman%C3%BD%20prostor%20od%20organizace%20Komunikujeme%20o.p.s.%29%2C%20Praha%202"
+        "map_url": "https://mapy.cz/zakladni?q=Revolu%C4%8Dn%C3%AD%208%2C%20Praha%201"
     },
     {
         "id": 59685019,
@@ -7873,15 +7873,6 @@
         "location": "Hrušovanské náměstí 253/5, Dolní Chabry Praha 8",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Hru%C5%A1ovansk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20253/5%2C%20Doln%C3%AD%20Chabry%20Praha%208"
-    },
-    {
-        "id": 63059774,
-        "url": "https://czap.cz/Sys/PublicProfile/63059774/5485226",
-        "name": "Kudry, Jan",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Národní 25, Praha 1",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%2025%2C%20Praha%201"
     },
     {
         "id": 63081968,
