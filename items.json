@@ -6340,9 +6340,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/61390572/5485226",
         "name": "Cabalková, Kateřina",
         "membership": "Řádné členství",
-        "location": "Národní 11, Praha",
+        "location": "Ostrovní 30, Praha",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%2011%2C%20Praha"
+        "map_url": "https://mapy.cz/zakladni?q=Ostrovn%C3%AD%2030%2C%20Praha"
     },
     {
         "id": 61406034,
@@ -12346,6 +12346,15 @@
         "location": "Senovážné náměstí 23, Praha 1",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201"
+    },
+    {
+        "id": 69218714,
+        "url": "https://czap.cz/Sys/PublicProfile/69218714/5485226",
+        "name": "Beerová, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Plzeňská 95/1348, Praha 5",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Plze%C5%88sk%C3%A1%2095/1348%2C%20Praha%205"
     },
     {
         "id": 69267272,
