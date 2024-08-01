@@ -7853,7 +7853,7 @@
         "name": "Malesaková, Věra",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "tř. Budovatelů 2830, Most",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=t%C5%99.%20Budovatel%C5%AF%202830%2C%20Most"
     },
     {
@@ -14706,6 +14706,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Opt%C3%A1tova%2037%2C%20Brno"
     },
     {
+        "id": 73763138,
+        "url": "https://czap.cz/Sys/PublicProfile/73763138/5485226",
+        "name": "Bašková, Barbara",
+        "membership": "Řádné členství",
+        "location": "Pulická 99, Dobruška",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Pulick%C3%A1%2099%2C%20Dobru%C5%A1ka"
+    },
+    {
         "id": 73763355,
         "url": "https://czap.cz/Sys/PublicProfile/73763355/5485226",
         "name": "Kollár, Peter",
@@ -15325,6 +15334,15 @@
         "location": "Železná  830/12a, Liberec",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=%C5%BDelezn%C3%A1%20%20830/12a%2C%20Liberec"
+    },
+    {
+        "id": 75203440,
+        "url": "https://czap.cz/Sys/PublicProfile/75203440/5485226",
+        "name": "Tóthová, Noémi",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Vinarska 2, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Vinarska%202%2C%20Brno"
     },
     {
         "id": 75215922,
