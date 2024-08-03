@@ -4865,7 +4865,7 @@
         "name": "Maková, Tereza",
         "membership": "Řádné členství",
         "location": "Holečkova 31, Praha 5",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Hole%C4%8Dkova%2031%2C%20Praha%205"
     },
     {
@@ -6325,6 +6325,15 @@
         "location": "Karlovo náměstí 317/5, Praha 2",
         "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Karlovo%20n%C3%A1m%C4%9Bst%C3%AD%20317/5%2C%20Praha%202"
+    },
+    {
+        "id": 61384112,
+        "url": "https://czap.cz/Sys/PublicProfile/61384112/5485226",
+        "name": "Uhlíková, Tereza",
+        "membership": "Řádné členství",
+        "location": "Černá 1705/13, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C4%8Cern%C3%A1%201705/13%2C%20Praha%201"
     },
     {
         "id": 61387151,
@@ -15606,6 +15615,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Kojetick%C3%A1%201021%2C%20Neratovice"
     },
     {
+        "id": 75732452,
+        "url": "https://czap.cz/Sys/PublicProfile/75732452/5485226",
+        "name": "Kocourková, Jana",
+        "membership": "Řádné členství",
+        "location": "Pobřežní 780/8, Plzeň",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Pob%C5%99e%C5%BEn%C3%AD%20780/8%2C%20Plze%C5%88"
+    },
+    {
         "id": 75749209,
         "url": "https://czap.cz/Sys/PublicProfile/75749209/5485226",
         "name": "Šohájková, Jolana",
@@ -15667,5 +15685,14 @@
         "location": "Mathonova 1, Prostějov",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Mathonova%201%2C%20Prost%C4%9Bjov"
+    },
+    {
+        "id": 75972854,
+        "url": "https://czap.cz/Sys/PublicProfile/75972854/5485226",
+        "name": "Marešová, Irena",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Kestřanská 140/8, Praha 12 - Cholupice",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Kest%C5%99ansk%C3%A1%20140/8%2C%20Praha%2012%20-%20Cholupice"
     }
 ]
