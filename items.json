@@ -5931,6 +5931,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Bruselsk%C3%A1%2014%2C%20Praha%202"
     },
     {
+        "id": 60798051,
+        "url": "https://czap.cz/Sys/PublicProfile/60798051/5485226",
+        "name": "Hasmanová, Lenka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Lovosická 440/40, Praha",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Lovosick%C3%A1%20440/40%2C%20Praha"
+    },
+    {
         "id": 60807249,
         "url": "https://czap.cz/Sys/PublicProfile/60807249/5485226",
         "name": "Pravdová, Miroslava",
@@ -9533,11 +9542,11 @@
     {
         "id": 64923914,
         "url": "https://czap.cz/Sys/PublicProfile/64923914/5485226",
-        "name": "Drnková, Veronika",
+        "name": "Tomanová Drnková, Veronika",
         "membership": "Řádné členství",
-        "location": "Slezská 74, Praha 3",
+        "location": "Charlese de Gaulla 3, Praha 6",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Slezsk%C3%A1%2074%2C%20Praha%203"
+        "map_url": "https://mapy.cz/zakladni?q=Charlese%20de%20Gaulla%203%2C%20Praha%206"
     },
     {
         "id": 64923986,
