@@ -3685,9 +3685,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885336/5485226",
         "name": "Szabó, Michaela",
         "membership": "Řádné členství",
-        "location": "Vltavínová 8, Plzeň",
+        "location": "Brojova 2113/16, Plzeň",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Vltav%C3%ADnov%C3%A1%208%2C%20Plze%C5%88"
+        "map_url": "https://mapy.cz/zakladni?q=Brojova%202113/16%2C%20Plze%C5%88"
     },
     {
         "id": 58885337,
@@ -7902,6 +7902,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Hru%C5%A1ovansk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20253/5%2C%20Doln%C3%AD%20Chabry%20Praha%208"
     },
     {
+        "id": 63059774,
+        "url": "https://czap.cz/Sys/PublicProfile/63059774/5485226",
+        "name": "Kudry, Jan",
+        "membership": "Řádné členství",
+        "location": "Národní 25, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%2025%2C%20Praha%201"
+    },
+    {
         "id": 63081968,
         "url": "https://czap.cz/Sys/PublicProfile/63081968/5485226",
         "name": "Man, Lukáš",
@@ -10238,7 +10247,7 @@
         "name": "Knoflíčková, Marie",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "U Kanálky 5, Praha 2",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=U%20Kan%C3%A1lky%205%2C%20Praha%202"
     },
     {
@@ -10769,7 +10778,7 @@
         "name": "Ulmanová, Veronika",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Kněžskodvorská 2296/8A, České Budějovice",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Kn%C4%9B%C5%BEskodvorsk%C3%A1%202296/8A%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     },
     {
@@ -12013,6 +12022,15 @@
         "location": "Masarykovo Náměstí 6/5, Karviná Fryštát",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Masarykovo%20N%C3%A1m%C4%9Bst%C3%AD%206/5%2C%20Karvin%C3%A1%20Fry%C5%A1t%C3%A1t"
+    },
+    {
+        "id": 68684866,
+        "url": "https://czap.cz/Sys/PublicProfile/68684866/5485226",
+        "name": "Komrsková, Klára",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "None, ",
+        "availability": "",
+        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
     },
     {
         "id": 68698001,
@@ -15649,6 +15667,15 @@
         "location": "Kojetická 1021, Neratovice",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Kojetick%C3%A1%201021%2C%20Neratovice"
+    },
+    {
+        "id": 75718802,
+        "url": "https://czap.cz/Sys/PublicProfile/75718802/5485226",
+        "name": "Guillemin Weiglová, Monika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Čápkova 34, Brno, Čápkova 34, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C4%8C%C3%A1pkova%2034%2C%20Brno%2C%20%C4%8C%C3%A1pkova%2034%2C%20Brno"
     },
     {
         "id": 75732452,
