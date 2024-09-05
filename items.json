@@ -477,6 +477,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Slezsk%C3%A1%20108%2C%20Praha%203%2C%20Praha"
     },
     {
+        "id": 58884935,
+        "url": "https://czap.cz/Sys/PublicProfile/58884935/5485226",
+        "name": "Moravcová, Eliška",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "None, ",
+        "availability": "",
+        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
+    },
+    {
         "id": 58884936,
         "url": "https://czap.cz/Sys/PublicProfile/58884936/5485226",
         "name": "Trnková, Sabina",
@@ -7150,9 +7159,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/62344497/5485226",
         "name": "Polášková, Kristýna",
         "membership": "Řádné členství",
-        "location": "Vyšehradská 43, Praha 2",
+        "location": "Vyšehradská 43 (čtvrtek), Lublaňská 5/57 (úterý a středa), Praha 2",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha%202"
+        "map_url": "https://mapy.cz/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%20%28%C4%8Dtvrtek%29%2C%20Lubla%C5%88sk%C3%A1%205/57%20%28%C3%BAter%C3%BD%20a%20st%C5%99eda%29%2C%20Praha%202"
     },
     {
         "id": 62344876,
@@ -11992,9 +12001,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68666723/5485226",
         "name": "Kuzníková, Iva",
         "membership": "Řádné členství",
-        "location": "Centrum psychologických služeb, Dvorní 756/9, Ostrava Poruba",
+        "location": "Masná 1850/4, Moravská Ostrava",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Centrum%20psychologick%C3%BDch%20slu%C5%BEeb%2C%20Dvorn%C3%AD%20756/9%2C%20Ostrava%20Poruba"
+        "map_url": "https://mapy.cz/zakladni?q=Masn%C3%A1%201850/4%2C%20Moravsk%C3%A1%20Ostrava"
     },
     {
         "id": 68673729,
