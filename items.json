@@ -171,15 +171,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Pal%C3%A1c%20YMCA%2C%20Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha%201"
     },
     {
-        "id": 58884897,
-        "url": "https://czap.cz/Sys/PublicProfile/58884897/5485226",
-        "name": "Nováková, Eva",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "None, ",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
-    },
-    {
         "id": 58884898,
         "url": "https://czap.cz/Sys/PublicProfile/58884898/5485226",
         "name": "Mertin, Tomáš",
@@ -5702,7 +5693,7 @@
         "name": "Klumpar, Tomáš",
         "membership": "Řádné členství",
         "location": "Národní 28, Praha",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%2028%2C%20Praha"
     },
     {
@@ -7573,9 +7564,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/62755393/5485226",
         "name": "Taušová, Jitka",
         "membership": "Řádné členství",
-        "location": "Rýmařovská ulice, Praha 9",
+        "location": "Na Poříčí 1041, Praha 1",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=R%C3%BDma%C5%99ovsk%C3%A1%20ulice%2C%20Praha%209"
+        "map_url": "https://mapy.cz/zakladni?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%201041%2C%20Praha%201"
     },
     {
         "id": 62756144,
@@ -8095,9 +8086,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63264961/5485226",
         "name": "Veselá, Martina",
         "membership": "Řádné členství",
-        "location": "Studentské nám.1531, Uherské Hradiště",
+        "location": "Na Splávku 1182, Uherské Hradiště",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Studentsk%C3%A9%20n%C3%A1m.1531%2C%20Uhersk%C3%A9%20Hradi%C5%A1t%C4%9B"
+        "map_url": "https://mapy.cz/zakladni?q=Na%20Spl%C3%A1vku%201182%2C%20Uhersk%C3%A9%20Hradi%C5%A1t%C4%9B"
     },
     {
         "id": 63268297,
