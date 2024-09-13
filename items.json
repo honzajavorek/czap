@@ -2466,6 +2466,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Klidn%C3%A1%20%C4%8D.13%2C%20Hav%C3%AD%C5%99ov"
     },
     {
+        "id": 58885178,
+        "url": "https://czap.cz/Sys/PublicProfile/58885178/5485226",
+        "name": "Mertinová, Aneta",
+        "membership": "Řádné členství",
+        "location": "None, ",
+        "availability": "",
+        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
+    },
+    {
         "id": 58885179,
         "url": "https://czap.cz/Sys/PublicProfile/58885179/5485226",
         "name": "Průšová, Denisa",
@@ -8552,7 +8561,7 @@
     {
         "id": 63543574,
         "url": "https://czap.cz/Sys/PublicProfile/63543574/5485226",
-        "name": "Rebrová, Iveta",
+        "name": "Šelong, Iveta",
         "membership": "Řádné členství",
         "location": "Dvořákova 13, Brno",
         "availability": "Info o dostupnosti na vyžádání",
