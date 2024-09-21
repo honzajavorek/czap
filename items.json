@@ -11335,9 +11335,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68190736/5485226",
         "name": "Svobodová, Kateřina",
         "membership": "Řádné členství",
-        "location": "Žitavského 496, Praha - Zbraslav",
+        "location": "Žitná 2, Praha",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=%C5%BDitavsk%C3%A9ho%20496%2C%20Praha%20-%20Zbraslav"
+        "map_url": "https://mapy.cz/zakladni?q=%C5%BDitn%C3%A1%202%2C%20Praha"
     },
     {
         "id": 68191779,
@@ -13883,7 +13883,7 @@
         "name": "Ženata, Marek",
         "membership": "Řádné členství",
         "location": "Divadelní 6, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Divadeln%C3%AD%206%2C%20Brno"
     },
     {
@@ -15937,6 +15937,15 @@
         "location": "Lanškrounská 5, Svitavy",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Lan%C5%A1krounsk%C3%A1%205%2C%20Svitavy"
+    },
+    {
+        "id": 76156644,
+        "url": "https://czap.cz/Sys/PublicProfile/76156644/5485226",
+        "name": "Marciniak, Rafał",
+        "membership": "Řádné členství",
+        "location": "Poliklinika Horníkova 34, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Poliklinika%20Horn%C3%ADkova%2034%2C%20Brno"
     },
     {
         "id": 76751378,
