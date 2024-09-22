@@ -5540,7 +5540,7 @@
         "name": "Gubová, Naďa",
         "membership": "Řádné členství",
         "location": "Zlatnická 1124/7, Praha 1",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Zlatnick%C3%A1%201124/7%2C%20Praha%201"
     },
     {
@@ -7540,6 +7540,15 @@
         "location": "Jahnova 8, Pardubice",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Jahnova%208%2C%20Pardubice"
+    },
+    {
+        "id": 62713836,
+        "url": "https://czap.cz/Sys/PublicProfile/62713836/5485226",
+        "name": "Novotná, Veronika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "None, ",
+        "availability": "",
+        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
     },
     {
         "id": 62719440,
