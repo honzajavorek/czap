@@ -12879,6 +12879,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Hrabinsk%C3%A1%2050d%2C%20%C4%8Cesk%C3%BD%20T%C4%9B%C5%A1%C3%ADn"
     },
     {
+        "id": 70005426,
+        "url": "https://czap.cz/Sys/PublicProfile/70005426/5485226",
+        "name": "Vojtěchovská, Štěpánka",
+        "membership": "Řádné členství",
+        "location": "Terapie Vinohradská /Vinohradská 95, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Terapie%20Vinohradsk%C3%A1%20/Vinohradsk%C3%A1%2095%2C%20Praha"
+    },
+    {
         "id": 70012499,
         "url": "https://czap.cz/Sys/PublicProfile/70012499/5485226",
         "name": "Sloviaková, Kateřina",
@@ -13180,9 +13189,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/70460619/5485226",
         "name": "Marková, Jana",
         "membership": "Řádné členství",
-        "location": "FYZIO Aktiv, Milešovská 6/1312, Praha",
+        "location": "ERGOLAB project z.s., Na slupi 140/9, Praha",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=FYZIO%20Aktiv%2C%20Mile%C5%A1ovsk%C3%A1%206/1312%2C%20Praha"
+        "map_url": "https://mapy.cz/zakladni?q=ERGOLAB%20project%20z.s.%2C%20Na%20slupi%20140/9%2C%20Praha"
     },
     {
         "id": 70463284,
