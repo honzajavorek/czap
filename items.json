@@ -4815,6 +4815,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Badeniho%201%2C%20Praha%206%2C%20Praha%206"
     },
     {
+        "id": 58885477,
+        "url": "https://czap.cz/Sys/PublicProfile/58885477/5485226",
+        "name": "Gabrielová, Šárka",
+        "membership": "Řádné členství",
+        "location": "Ctiradova 508/1, Praha 4 - Nusle",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Ctiradova%20508/1%2C%20Praha%204%20-%20Nusle"
+    },
+    {
         "id": 58885478,
         "url": "https://czap.cz/Sys/PublicProfile/58885478/5485226",
         "name": "Bubeník, Miroslav",
@@ -8435,7 +8444,7 @@
     {
         "id": 63415715,
         "url": "https://czap.cz/Sys/PublicProfile/63415715/5485226",
-        "name": "Matuštík, Martin",
+        "name": "Beck Matuštík, Martin",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Bruselská 266/14, Praha 2",
         "availability": "Přijímám nové klienty",
@@ -15570,6 +15579,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Obchodn%C3%AD%20d%C5%AFm%20Vichr%2C%20Kobli%C5%BEn%C3%A1%2047%2C%20Brno"
     },
     {
+        "id": 75254095,
+        "url": "https://czap.cz/Sys/PublicProfile/75254095/5485226",
+        "name": "Olivová, Alena",
+        "membership": "Řádné členství",
+        "location": "Sukova 4, Brno",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Sukova%204%2C%20Brno"
+    },
+    {
         "id": 75262693,
         "url": "https://czap.cz/Sys/PublicProfile/75262693/5485226",
         "name": "Míková, Jana",
@@ -15975,6 +15993,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Moravsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%203%2C%20Brno"
     },
     {
+        "id": 76755221,
+        "url": "https://czap.cz/Sys/PublicProfile/76755221/5485226",
+        "name": "Korbová, Markéta",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Na Brně 1972, Hradec Králové",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20Brn%C4%9B%201972%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
+    },
+    {
         "id": 76756746,
         "url": "https://czap.cz/Sys/PublicProfile/76756746/5485226",
         "name": "Kotalová, Jana",
@@ -16036,6 +16063,15 @@
         "location": "Milady Horákové 1, Liberec",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Milady%20Hor%C3%A1kov%C3%A9%201%2C%20Liberec"
+    },
+    {
+        "id": 76773596,
+        "url": "https://czap.cz/Sys/PublicProfile/76773596/5485226",
+        "name": "Holubová, Vendula",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Tylova 20, Plzeň",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Tylova%2020%2C%20Plze%C5%88"
     },
     {
         "id": 76773636,
