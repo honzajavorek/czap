@@ -10507,9 +10507,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/67420338/5485226",
         "name": "Přepechalová, Gabriela",
         "membership": "Řádné členství",
-        "location": "Praha 2, Praha 2",
+        "location": "Praha 9, Praha 9",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Praha%202%2C%20Praha%202"
+        "map_url": "https://mapy.cz/zakladni?q=Praha%209%2C%20Praha%209"
     },
     {
         "id": 67440427,
@@ -15993,13 +15993,31 @@
         "map_url": "https://mapy.cz/zakladni?q=Moravsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%203%2C%20Brno"
     },
     {
+        "id": 76753349,
+        "url": "https://czap.cz/Sys/PublicProfile/76753349/5485226",
+        "name": "Jarkovská, Hana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Na Jízdárně 18/2895, Ostrava",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20J%C3%ADzd%C3%A1rn%C4%9B%2018/2895%2C%20Ostrava"
+    },
+    {
+        "id": 76753505,
+        "url": "https://czap.cz/Sys/PublicProfile/76753505/5485226",
+        "name": "Dobiášová, Marta",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Polská 1505/40, Praha 2",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Polsk%C3%A1%201505/40%2C%20Praha%202"
+    },
+    {
         "id": 76755221,
         "url": "https://czap.cz/Sys/PublicProfile/76755221/5485226",
         "name": "Korbová, Markéta",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Na Brně 1972, Hradec Králové",
+        "location": "Wonkova 385/28, Hradec Králové",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Na%20Brn%C4%9B%201972%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
+        "map_url": "https://mapy.cz/zakladni?q=Wonkova%20385/28%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
     },
     {
         "id": 76756746,
@@ -16009,6 +16027,15 @@
         "location": "Ostrovského 253/3, Praha 5",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Ostrovsk%C3%A9ho%20253/3%2C%20Praha%205"
+    },
+    {
+        "id": 76761576,
+        "url": "https://czap.cz/Sys/PublicProfile/76761576/5485226",
+        "name": "Horáková, Petra",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "náměstí T. G. Masaryka 25, Plzeň",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=n%C3%A1m%C4%9Bst%C3%AD%20T.%20G.%20Masaryka%2025%2C%20Plze%C5%88"
     },
     {
         "id": 76761698,
@@ -16101,6 +16128,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Krnovsk%C3%A1%2011/7%2C%20Opava"
     },
     {
+        "id": 76793519,
+        "url": "https://czap.cz/Sys/PublicProfile/76793519/5485226",
+        "name": "Gažák, Miroslav",
+        "membership": "Řádné členství",
+        "location": "Havířská 11, Plzeň 3-Jižní Předměstí",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Hav%C3%AD%C5%99sk%C3%A1%2011%2C%20Plze%C5%88%203-Ji%C5%BEn%C3%AD%20P%C5%99edm%C4%9Bst%C3%AD"
+    },
+    {
         "id": 76793717,
         "url": "https://czap.cz/Sys/PublicProfile/76793717/5485226",
         "name": "Trmalová, Barbora",
@@ -16162,5 +16198,14 @@
         "location": "Žitná 1575/49, Praha 1",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=%C5%BDitn%C3%A1%201575/49%2C%20Praha%201"
+    },
+    {
+        "id": 76932861,
+        "url": "https://czap.cz/Sys/PublicProfile/76932861/5485226",
+        "name": "Faltová, Olga",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Kněžskodvorská 2296/8a, České Budějovice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Kn%C4%9B%C5%BEskodvorsk%C3%A1%202296/8a%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     }
 ]
