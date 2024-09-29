@@ -16281,6 +16281,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Klimentsk%C3%A1%201443/50%2C%20Praha%201"
     },
     {
+        "id": 76948028,
+        "url": "https://czap.cz/Sys/PublicProfile/76948028/5485226",
+        "name": "Orlíková, Hana",
+        "membership": "Řádné členství",
+        "location": "Antala Staška 80, Praha 4",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Antala%20Sta%C5%A1ka%2080%2C%20Praha%204"
+    },
+    {
         "id": 76948206,
         "url": "https://czap.cz/Sys/PublicProfile/76948206/5485226",
         "name": "Tupý, Jiří",
@@ -16315,6 +16324,15 @@
         "location": "Horní náměstí 29, Přerov",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Horn%C3%AD%20n%C3%A1m%C4%9Bst%C3%AD%2029%2C%20P%C5%99erov"
+    },
+    {
+        "id": 76985480,
+        "url": "https://czap.cz/Sys/PublicProfile/76985480/5485226",
+        "name": "Procházka, Martin",
+        "membership": "Řádné členství",
+        "location": "Tomkova 2099, Tábor",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Tomkova%202099%2C%20T%C3%A1bor"
     },
     {
         "id": 77029468,
