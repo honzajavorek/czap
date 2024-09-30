@@ -7582,9 +7582,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/62731796/5485226",
         "name": "Soukupová, Marie",
         "membership": "Řádné členství",
-        "location": "Zámek 50, Benátky nad Jizerou",
+        "location": "Náměstí Bedřicha Hrozného 13/20, Lysá nad Labem",
         "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Z%C3%A1mek%2050%2C%20Ben%C3%A1tky%20nad%20Jizerou"
+        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1m%C4%9Bst%C3%AD%20Bed%C5%99icha%20Hrozn%C3%A9ho%2013/20%2C%20Lys%C3%A1%20nad%20Labem"
     },
     {
         "id": 62745798,
@@ -8575,6 +8575,15 @@
         "location": "Husova 21/13, Liberec",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Husova%2021/13%2C%20Liberec"
+    },
+    {
+        "id": 63542449,
+        "url": "https://czap.cz/Sys/PublicProfile/63542449/5485226",
+        "name": "Soukupová, Veronika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Lipenská 869/17, České Budějovice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Lipensk%C3%A1%20869/17%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     },
     {
         "id": 63542588,
