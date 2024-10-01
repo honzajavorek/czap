@@ -652,9 +652,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58884957/5485226",
         "name": "Květoňová, Andrea",
         "membership": "Řádné členství",
-        "location": "Revoluční 8, Praha 1",
+        "location": "V Jámě 8, Praha 1",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Revolu%C4%8Dn%C3%AD%208%2C%20Praha%201"
+        "map_url": "https://mapy.cz/zakladni?q=V%20J%C3%A1m%C4%9B%208%2C%20Praha%201"
     },
     {
         "id": 58884958,
@@ -15921,6 +15921,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Pust%C4%9Bjov%20319%2C%20Pust%C4%9Bjov"
     },
     {
+        "id": 75868598,
+        "url": "https://czap.cz/Sys/PublicProfile/75868598/5485226",
+        "name": "Petříček, Milan",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Nádražní 397, Havlíčkův Brod",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1dra%C5%BEn%C3%AD%20397%2C%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod"
+    },
+    {
         "id": 75879207,
         "url": "https://czap.cz/Sys/PublicProfile/75879207/5485226",
         "name": "Adamcová, Zuzana",
@@ -16007,7 +16016,7 @@
         "name": "Marciniak, Rafał",
         "membership": "Řádné členství",
         "location": "Poliklinika Horníkova 34, Brno",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Poliklinika%20Horn%C3%ADkova%2034%2C%20Brno"
     },
     {
@@ -16189,6 +16198,15 @@
         "location": "Slezská 11, Praha 2, Vinohrady",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Slezsk%C3%A1%2011%2C%20Praha%202%2C%20Vinohrady"
+    },
+    {
+        "id": 76793810,
+        "url": "https://czap.cz/Sys/PublicProfile/76793810/5485226",
+        "name": "Zuntychová, Terezie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Alešova 759, Černošice",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Ale%C5%A1ova%20759%2C%20%C4%8Cerno%C5%A1ice"
     },
     {
         "id": 76794408,
