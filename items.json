@@ -2102,7 +2102,7 @@
         "name": "Matuška, František",
         "membership": "Řádné členství",
         "location": "Ctiradova 10, Praha 4 - Nusle",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Ctiradova%2010%2C%20Praha%204%20-%20Nusle"
     },
     {
@@ -14022,6 +14022,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Opletalova%204/607%20%20736%2001%2C%20Hav%C3%AD%C5%99ov%20-%20%C5%A0umbark%2C%20Hav%C3%AD%C5%99ov"
     },
     {
+        "id": 71879366,
+        "url": "https://czap.cz/Sys/PublicProfile/71879366/5485226",
+        "name": "Novická, Renáta",
+        "membership": "Řádné členství",
+        "location": "Revoluční 17, Praha 1",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Revolu%C4%8Dn%C3%AD%2017%2C%20Praha%201"
+    },
+    {
         "id": 71886454,
         "url": "https://czap.cz/Sys/PublicProfile/71886454/5485226",
         "name": "Sirka, Michal",
@@ -16569,6 +16578,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Horn%C3%AD%20n%C3%A1m%C4%9Bst%C3%AD%2029%2C%20P%C5%99erov"
     },
     {
+        "id": 76984817,
+        "url": "https://czap.cz/Sys/PublicProfile/76984817/5485226",
+        "name": "Formanová, Nikola",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Husova 1656/52, Jihlava",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Husova%201656/52%2C%20Jihlava"
+    },
+    {
         "id": 76985480,
         "url": "https://czap.cz/Sys/PublicProfile/76985480/5485226",
         "name": "Procházka, Martin",
@@ -16585,6 +16603,15 @@
         "location": "Čápkova 40/37, Brno-střed",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=%C4%8C%C3%A1pkova%2040/37%2C%20Brno-st%C5%99ed"
+    },
+    {
+        "id": 77028957,
+        "url": "https://czap.cz/Sys/PublicProfile/77028957/5485226",
+        "name": "Pokorná, Zuzana",
+        "membership": "Řádné členství",
+        "location": "Příkop 2a, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=P%C5%99%C3%ADkop%202a%2C%20Brno"
     },
     {
         "id": 77029468,
