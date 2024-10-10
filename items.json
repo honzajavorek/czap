@@ -1278,6 +1278,15 @@
         "map_url": "https://mapy.cz/zakladni?q=U%20Akademie%204%2C%20Akademie%20v%C3%BDtvarn%C3%BDch%20um%C4%9Bn%C3%AD%2C%20Praha%207"
     },
     {
+        "id": 58885036,
+        "url": "https://czap.cz/Sys/PublicProfile/58885036/5485226",
+        "name": "Majerová, Petra",
+        "membership": "Řádné členství",
+        "location": "Kubatova 6, České Budějovice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Kubatova%206%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
+    },
+    {
         "id": 58885037,
         "url": "https://czap.cz/Sys/PublicProfile/58885037/5485226",
         "name": "Lipková, Michaela",
@@ -4865,7 +4874,7 @@
         "name": "Kalašová, Tereza",
         "membership": "Řádné členství",
         "location": "Dvorecká 289/23, Praha 4-Podolí",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Dvoreck%C3%A1%20289/23%2C%20Praha%204-Podol%C3%AD"
     },
     {
@@ -8581,9 +8590,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63534123/5485226",
         "name": "Řádková, Lucie",
         "membership": "Řádné členství",
-        "location": "Opletalova 4, Praha 1",
+        "location": "Opletalova 6, Praha 1",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Opletalova%204%2C%20Praha%201"
+        "map_url": "https://mapy.cz/zakladni?q=Opletalova%206%2C%20Praha%201"
     },
     {
         "id": 63534237,
@@ -10831,9 +10840,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/67756060/5485226",
         "name": "Horáková, Hana",
         "membership": "Řádné členství",
-        "location": "Palác YMCA, Na Poříčí 12, Praha",
+        "location": "Terapie PLUS, s.r.o., Na Poříčí 12, Praha",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Pal%C3%A1c%20YMCA%2C%20Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha"
+        "map_url": "https://mapy.cz/zakladni?q=Terapie%20PLUS%2C%20s.r.o.%2C%20Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha"
     },
     {
         "id": 67768951,
@@ -16551,6 +16560,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20978%2C%20Praha%201"
     },
     {
+        "id": 76956584,
+        "url": "https://czap.cz/Sys/PublicProfile/76956584/5485226",
+        "name": "Státníková, Pavla",
+        "membership": "Řádné členství",
+        "location": "Ondříčkova 2167/16, Praha 3",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Ond%C5%99%C3%AD%C4%8Dkova%202167/16%2C%20Praha%203"
+    },
+    {
         "id": 76961106,
         "url": "https://czap.cz/Sys/PublicProfile/76961106/5485226",
         "name": "Hlaváčová, Iveta",
@@ -16756,5 +16774,32 @@
         "location": "Vlastislavova 152/4, Praha 4 – Nusle",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Vlastislavova%20152/4%2C%20Praha%204%20%E2%80%93%20Nusle"
+    },
+    {
+        "id": 77135688,
+        "url": "https://czap.cz/Sys/PublicProfile/77135688/5485226",
+        "name": "Janík, David",
+        "membership": "Řádné členství",
+        "location": "Perlová 3, Praha 1",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Perlov%C3%A1%203%2C%20Praha%201"
+    },
+    {
+        "id": 77145897,
+        "url": "https://czap.cz/Sys/PublicProfile/77145897/5485226",
+        "name": "Lemeer, Lenka",
+        "membership": "Řádné členství",
+        "location": "Čajkovského 907/8, Hradec Králové, Hradec Králové",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=%C4%8Cajkovsk%C3%A9ho%20907/8%2C%20Hradec%20Kr%C3%A1lov%C3%A9%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
+    },
+    {
+        "id": 77160367,
+        "url": "https://czap.cz/Sys/PublicProfile/77160367/5485226",
+        "name": "Holubičková, Lucie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Křižíkova 345/4, Praha 8 - Florenc",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=K%C5%99i%C5%BE%C3%ADkova%20345/4%2C%20Praha%208%20-%20Florenc"
     }
 ]
