@@ -6305,7 +6305,7 @@
         "name": "Zelená, Markéta",
         "membership": "Řádné členství",
         "location": "Muchova 33, Brno",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Muchova%2033%2C%20Brno"
     },
     {
@@ -7997,7 +7997,7 @@
         "name": "Kudry, Jan",
         "membership": "Řádné členství",
         "location": "Národní 25, Praha 1",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%2025%2C%20Praha%201"
     },
     {
@@ -16677,6 +16677,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Badeniho%201%2C%20Praha%206"
     },
     {
+        "id": 77066433,
+        "url": "https://czap.cz/Sys/PublicProfile/77066433/5485226",
+        "name": "Sobotíková, Michaela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Jungmannova 1103, Jičín",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Jungmannova%201103%2C%20Ji%C4%8D%C3%ADn"
+    },
+    {
         "id": 77067276,
         "url": "https://czap.cz/Sys/PublicProfile/77067276/5485226",
         "name": "Machovská, Simona",
@@ -16774,6 +16783,24 @@
         "location": "Vlastislavova 152/4, Praha 4 – Nusle",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Vlastislavova%20152/4%2C%20Praha%204%20%E2%80%93%20Nusle"
+    },
+    {
+        "id": 77121255,
+        "url": "https://czap.cz/Sys/PublicProfile/77121255/5485226",
+        "name": "Karliková, Lucia",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Považská 18, Bratislava",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Pova%C5%BEsk%C3%A1%2018%2C%20Bratislava"
+    },
+    {
+        "id": 77121278,
+        "url": "https://czap.cz/Sys/PublicProfile/77121278/5485226",
+        "name": "Snopková, Zuzana",
+        "membership": "Řádné členství",
+        "location": "17. listopadu 45, Olomouc",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=17.%20listopadu%2045%2C%20Olomouc"
     },
     {
         "id": 77135688,
