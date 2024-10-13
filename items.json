@@ -4486,9 +4486,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885434/5485226",
         "name": "Žáček, Pavel",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Charkovská 24, Praha 10",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Charkovsk%C3%A1%2024%2C%20Praha%2010"
+        "location": "Na Průhoně 3412, Mělník",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20Pr%C5%AFhon%C4%9B%203412%2C%20M%C4%9Bln%C3%ADk"
     },
     {
         "id": 58885435,
@@ -16765,6 +16765,15 @@
         "location": "Údolní 5, Brno",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=%C3%9Adoln%C3%AD%205%2C%20Brno"
+    },
+    {
+        "id": 77098030,
+        "url": "https://czap.cz/Sys/PublicProfile/77098030/5485226",
+        "name": "Nedvědová, Silvie",
+        "membership": "Řádné členství",
+        "location": "Školská 13a, Praha 1",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%A0kolsk%C3%A1%2013a%2C%20Praha%201"
     },
     {
         "id": 77104153,
