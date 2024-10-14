@@ -5378,7 +5378,7 @@
         "name": "Dvorská, Kateřina",
         "membership": "Řádné členství",
         "location": "Mírové náměstí 157/30, Litoměřice",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=M%C3%ADrov%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20157/30%2C%20Litom%C4%9B%C5%99ice"
     },
     {
@@ -8620,6 +8620,15 @@
         "location": "Lipenská 869/17, České Budějovice",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Lipensk%C3%A1%20869/17%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
+    },
+    {
+        "id": 63542510,
+        "url": "https://czap.cz/Sys/PublicProfile/63542510/5485226",
+        "name": "Motlová, Anna",
+        "membership": "Řádné členství",
+        "location": "Saint Medical, Chomutovická 1444/2,, Praha",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Saint%20Medical%2C%20Chomutovick%C3%A1%201444/2%2C%2C%20Praha"
     },
     {
         "id": 63542588,
@@ -13433,7 +13442,7 @@
         "name": "Komárková, Soňa",
         "membership": "Řádné členství",
         "location": "Na Poříčí 12, Praha",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha"
     },
     {
