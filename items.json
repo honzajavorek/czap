@@ -4433,7 +4433,7 @@
         "name": "Čechová, Dominika",
         "membership": "Řádné členství",
         "location": "Na poříčí 12, Praha 1",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Na%20po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha%201"
     },
     {
@@ -7398,6 +7398,15 @@
         "map_url": "https://mapy.cz/zakladni?q=ADAM%20-%20autistick%C3%A9%20d%C4%9Bti%20a%20my%2C%20z.s.%20Hav%C3%AD%C5%99ov%2C%20Mozartova%202%2C%20Hav%C3%AD%C5%99ov"
     },
     {
+        "id": 62425138,
+        "url": "https://czap.cz/Sys/PublicProfile/62425138/5485226",
+        "name": "Pašek, Jiří",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Ohrazenická 310, Pardubice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Ohrazenick%C3%A1%20310%2C%20Pardubice"
+    },
+    {
         "id": 62468829,
         "url": "https://czap.cz/Sys/PublicProfile/62468829/5485226",
         "name": "Marcinčínová, Lucie",
@@ -7747,6 +7756,15 @@
         "location": "Alivio centrum, Praha",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Alivio%20centrum%2C%20Praha"
+    },
+    {
+        "id": 62808844,
+        "url": "https://czap.cz/Sys/PublicProfile/62808844/5485226",
+        "name": "Fiala, Jakub",
+        "membership": "Řádné členství",
+        "location": "Kartouzská 4, Praha 5 - Anděl",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Kartouzsk%C3%A1%204%2C%20Praha%205%20-%20And%C4%9Bl"
     },
     {
         "id": 62811997,
@@ -16276,9 +16294,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/76762232/5485226",
         "name": "Legát, Tomáš",
         "membership": "Řádné členství",
-        "location": "Hořická 974/19, Hradec Králové",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Ho%C5%99ick%C3%A1%20974/19%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
+        "location": "Tylovo nábřeží 315/4, Hradec Králové",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Tylovo%20n%C3%A1b%C5%99e%C5%BE%C3%AD%20315/4%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
     },
     {
         "id": 76763013,
@@ -16286,7 +16304,7 @@
         "name": "Halouzková, Lenka",
         "membership": "Řádné členství",
         "location": "Josefská 15, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Josefsk%C3%A1%2015%2C%20Brno"
     },
     {
@@ -16911,6 +16929,15 @@
         "map_url": "https://mapy.cz/zakladni?q=%C4%8Cajkovsk%C3%A9ho%20907/8%2C%20Hradec%20Kr%C3%A1lov%C3%A9%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
     },
     {
+        "id": 77155599,
+        "url": "https://czap.cz/Sys/PublicProfile/77155599/5485226",
+        "name": "Srbecký, Lukáš",
+        "membership": "Řádné členství",
+        "location": "Minská 38, Brno",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Minsk%C3%A1%2038%2C%20Brno"
+    },
+    {
         "id": 77160367,
         "url": "https://czap.cz/Sys/PublicProfile/77160367/5485226",
         "name": "Holubičková, Lucie",
@@ -16918,5 +16945,32 @@
         "location": "Křižíkova 345/4, Praha 8 - Florenc",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=K%C5%99i%C5%BE%C3%ADkova%20345/4%2C%20Praha%208%20-%20Florenc"
+    },
+    {
+        "id": 77175484,
+        "url": "https://czap.cz/Sys/PublicProfile/77175484/5485226",
+        "name": "Strnadová, Radka",
+        "membership": "Řádné členství",
+        "location": "Bořivojova 1, Olomouc",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Bo%C5%99ivojova%201%2C%20Olomouc"
+    },
+    {
+        "id": 77253468,
+        "url": "https://czap.cz/Sys/PublicProfile/77253468/5485226",
+        "name": "Schejbalová, Pavlína",
+        "membership": "Řádné členství",
+        "location": "Pod pekárnami 10, Praha 9",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Pod%20pek%C3%A1rnami%2010%2C%20Praha%209"
+    },
+    {
+        "id": 77253648,
+        "url": "https://czap.cz/Sys/PublicProfile/77253648/5485226",
+        "name": "Tučeková, Ivona",
+        "membership": "Řádné členství",
+        "location": "Panská 12, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Pansk%C3%A1%2012%2C%20Brno"
     }
 ]
