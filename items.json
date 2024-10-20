@@ -7182,15 +7182,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Ostrovn%C3%AD%2030%2C%20Praha%201"
     },
     {
-        "id": 62338622,
-        "url": "https://czap.cz/Sys/PublicProfile/62338622/5485226",
-        "name": "Štiková, Gabriela",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Senovážné náměstí 23, Praha 1",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201"
-    },
-    {
         "id": 62338632,
         "url": "https://czap.cz/Sys/PublicProfile/62338632/5485226",
         "name": "Sokolová, Zdeňka",
@@ -13414,9 +13405,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/70610485/5485226",
         "name": "Lindovská, Tereza",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Golčova 485, Praha 4 Kunratice",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Gol%C4%8Dova%20485%2C%20Praha%204%20Kunratice"
+        "location": "Golčova 486, Praha 4 Kunratice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Gol%C4%8Dova%20486%2C%20Praha%204%20Kunratice"
     },
     {
         "id": 70623529,
@@ -16981,6 +16972,15 @@
         "location": "Bořivojova 1, Olomouc",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Bo%C5%99ivojova%201%2C%20Olomouc"
+    },
+    {
+        "id": 77234198,
+        "url": "https://czap.cz/Sys/PublicProfile/77234198/5485226",
+        "name": "Motýl, Jiří",
+        "membership": "Řádné členství",
+        "location": "Karlovo náměstí 32, Praha 2",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Karlovo%20n%C3%A1m%C4%9Bst%C3%AD%2032%2C%20Praha%202"
     },
     {
         "id": 77236902,
