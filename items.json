@@ -8622,6 +8622,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Husova%2021/13%2C%20Liberec"
     },
     {
+        "id": 63542420,
+        "url": "https://czap.cz/Sys/PublicProfile/63542420/5485226",
+        "name": "Vojtěchová, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Praha, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Praha%2C%20Praha"
+    },
+    {
         "id": 63542449,
         "url": "https://czap.cz/Sys/PublicProfile/63542449/5485226",
         "name": "Soukupová, Veronika",
@@ -15061,9 +15070,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/73873767/5485226",
         "name": "Fojtik, Dominik",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Pernerova 293/11, Praha 8 - Karlín",
+        "location": "Thámova 221/7, Praha 8 - Karlín",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Pernerova%20293/11%2C%20Praha%208%20-%20Karl%C3%ADn"
+        "map_url": "https://mapy.cz/zakladni?q=Th%C3%A1mova%20221/7%2C%20Praha%208%20-%20Karl%C3%ADn"
     },
     {
         "id": 73892607,
@@ -16884,6 +16893,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Vlastislavova%20152/4%2C%20Praha%204%20%E2%80%93%20Nusle"
     },
     {
+        "id": 77117736,
+        "url": "https://czap.cz/Sys/PublicProfile/77117736/5485226",
+        "name": "Kašparová, Veronika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Šlikova 20, Praha 6",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%A0likova%2020%2C%20Praha%206"
+    },
+    {
         "id": 77121255,
         "url": "https://czap.cz/Sys/PublicProfile/77121255/5485226",
         "name": "Karliková, Lucia",
@@ -17001,6 +17019,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Dvoreck%C3%A1%2023%2C%20Praha%204"
     },
     {
+        "id": 77253459,
+        "url": "https://czap.cz/Sys/PublicProfile/77253459/5485226",
+        "name": "Kaplanová, Iveta",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Zámecké náměstí 47, Frýdek-Místek",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Z%C3%A1meck%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2047%2C%20Fr%C3%BDdek-M%C3%ADstek"
+    },
+    {
         "id": 77253468,
         "url": "https://czap.cz/Sys/PublicProfile/77253468/5485226",
         "name": "Schejbalová, Pavlína",
@@ -17017,6 +17044,24 @@
         "location": "Panská 12, Brno",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Pansk%C3%A1%2012%2C%20Brno"
+    },
+    {
+        "id": 77262138,
+        "url": "https://czap.cz/Sys/PublicProfile/77262138/5485226",
+        "name": "Klapilová, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Národní Ústav Duševního Zdraví, Topolová, Klecany",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%20%C3%9Astav%20Du%C5%A1evn%C3%ADho%20Zdrav%C3%AD%2C%20Topolov%C3%A1%2C%20Klecany"
+    },
+    {
+        "id": 77264114,
+        "url": "https://czap.cz/Sys/PublicProfile/77264114/5485226",
+        "name": "Dubasová, Viktória",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Jerevanská 1160/16, Praha 10",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Jerevansk%C3%A1%201160/16%2C%20Praha%2010"
     },
     {
         "id": 77299648,
