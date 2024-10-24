@@ -8577,6 +8577,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha%202"
     },
     {
+        "id": 63496611,
+        "url": "https://czap.cz/Sys/PublicProfile/63496611/5485226",
+        "name": "Luongova, Eva",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Bruselská 14,, Praha, Vinohrady",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Bruselsk%C3%A1%2014%2C%2C%20Praha%2C%20Vinohrady"
+    },
+    {
         "id": 63512067,
         "url": "https://czap.cz/Sys/PublicProfile/63512067/5485226",
         "name": "Hrušková, Zuzana",
@@ -13579,6 +13588,15 @@
         "location": "Hasičská 551/52, Ostrava - Hrabůvka",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Hasi%C4%8Dsk%C3%A1%20551/52%2C%20Ostrava%20-%20Hrab%C5%AFvka"
+    },
+    {
+        "id": 70923359,
+        "url": "https://czap.cz/Sys/PublicProfile/70923359/5485226",
+        "name": "Mánková, Lenka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Anenská Studánka 25, Lanškroun",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Anensk%C3%A1%20Stud%C3%A1nka%2025%2C%20Lan%C5%A1kroun"
     },
     {
         "id": 70934323,
