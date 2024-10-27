@@ -7326,15 +7326,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Sd%C3%ADlen%C3%A9%20pracovny%20-%20nem%C3%A1m%20st%C3%A1lou%20adresu%20sv%C3%A9%20praxe%2C%20Beroun"
     },
     {
-        "id": 62396019,
-        "url": "https://czap.cz/Sys/PublicProfile/62396019/5485226",
-        "name": "Sedláčková, Simona",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Kateřinská 34, Praha 2 - Nové Město",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Kate%C5%99insk%C3%A1%2034%2C%20Praha%202%20-%20Nov%C3%A9%20M%C4%9Bsto"
-    },
-    {
         "id": 62399269,
         "url": "https://czap.cz/Sys/PublicProfile/62399269/5485226",
         "name": "Čechová, Vlasta",
@@ -8231,7 +8222,7 @@
         "name": "Zelinová, Alena",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Ocelářská 35/1354, Praha 9",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Ocel%C3%A1%C5%99sk%C3%A1%2035/1354%2C%20Praha%209"
     },
     {
@@ -17015,7 +17006,7 @@
         "name": "Motýl, Jiří",
         "membership": "Řádné členství",
         "location": "Karlovo náměstí 32, Praha 2",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Karlovo%20n%C3%A1m%C4%9Bst%C3%AD%2032%2C%20Praha%202"
     },
     {
