@@ -6993,6 +6993,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Francouzsk%C3%A1%204%2C%20Praha%202"
     },
     {
+        "id": 62191958,
+        "url": "https://czap.cz/Sys/PublicProfile/62191958/5485226",
+        "name": "Pažourek, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Wuchterlova 8, Praha 6",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Wuchterlova%208%2C%20Praha%206"
+    },
+    {
         "id": 62194709,
         "url": "https://czap.cz/Sys/PublicProfile/62194709/5485226",
         "name": "Hermannová, Štěpánka",
@@ -14953,9 +14962,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/73655605/5485226",
         "name": "Vozka, Pavel",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Jiřího z Poděbrad 13, Olomouc",
+        "location": "Ostružnická 336/28, Olomouc",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Ji%C5%99%C3%ADho%20z%20Pod%C4%9Bbrad%2013%2C%20Olomouc"
+        "map_url": "https://mapy.cz/zakladni?q=Ostru%C5%BEnick%C3%A1%20336/28%2C%20Olomouc"
     },
     {
         "id": 73672681,
