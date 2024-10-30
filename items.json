@@ -7191,6 +7191,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Ostrovn%C3%AD%2030%2C%20Praha%201"
     },
     {
+        "id": 62338622,
+        "url": "https://czap.cz/Sys/PublicProfile/62338622/5485226",
+        "name": "Štiková, Gabriela",
+        "membership": "Řádné členství",
+        "location": "Senovážné náměstí 23, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201"
+    },
+    {
         "id": 62338632,
         "url": "https://czap.cz/Sys/PublicProfile/62338632/5485226",
         "name": "Sokolová, Zdeňka",
@@ -9049,9 +9058,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63822121/5485226",
         "name": "Petrek, Nikola",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Sukova třída 1556, Pardubice",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Sukova%20t%C5%99%C3%ADda%201556%2C%20Pardubice"
+        "location": "Masarykovo náměstí 1544, Pardubice",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%201544%2C%20Pardubice"
     },
     {
         "id": 63831627,
@@ -17098,5 +17107,23 @@
         "location": "Na Poříčí 12, Praha 1",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha%201"
+    },
+    {
+        "id": 77414133,
+        "url": "https://czap.cz/Sys/PublicProfile/77414133/5485226",
+        "name": "Kraus, Martin",
+        "membership": "Řádné členství",
+        "location": "Eliášova 293/10, Praha 6 - Dejvice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Eli%C3%A1%C5%A1ova%20293/10%2C%20Praha%206%20-%20Dejvice"
+    },
+    {
+        "id": 77419905,
+        "url": "https://czap.cz/Sys/PublicProfile/77419905/5485226",
+        "name": "Špičková, Mirka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Liberec, U Zoologické zahrady 979/5, Liberec",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Liberec%2C%20U%20Zoologick%C3%A9%20zahrady%20979/5%2C%20Liberec"
     }
 ]
