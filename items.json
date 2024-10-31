@@ -8505,6 +8505,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Velk%C3%A1%20255/91%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
     },
     {
+        "id": 63418522,
+        "url": "https://czap.cz/Sys/PublicProfile/63418522/5485226",
+        "name": "Gociek, Daria",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Jablunkovská 410, Třinec",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Jablunkovsk%C3%A1%20410%2C%20T%C5%99inec"
+    },
+    {
         "id": 63419163,
         "url": "https://czap.cz/Sys/PublicProfile/63419163/5485226",
         "name": "Hrazdilová, Jana",
@@ -8581,9 +8590,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63479861/5485226",
         "name": "Vávrová, Petra",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Vyšehradská 43, Praha 2",
+        "location": "Břehová 40/1, Praha 1",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha%202"
+        "map_url": "https://mapy.cz/zakladni?q=B%C5%99ehov%C3%A1%2040/1%2C%20Praha%201"
     },
     {
         "id": 63496611,
@@ -8806,9 +8815,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63580451/5485226",
         "name": "Tupá, Zuzana",
         "membership": "Řádné členství",
-        "location": "V Jámě 1, Praha 1",
+        "location": "Palackého nám. 3, Dačice",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=V%20J%C3%A1m%C4%9B%201%2C%20Praha%201"
+        "map_url": "https://mapy.cz/zakladni?q=Palack%C3%A9ho%20n%C3%A1m.%203%2C%20Da%C4%8Dice"
     },
     {
         "id": 63586511,
@@ -16173,6 +16182,15 @@
         "map_url": "https://mapy.cz/zakladni?q=U%20Uranie%201414/4%2C%20Praha%207"
     },
     {
+        "id": 75999789,
+        "url": "https://czap.cz/Sys/PublicProfile/75999789/5485226",
+        "name": "Pincosy, Karolina",
+        "membership": "Řádné členství",
+        "location": "4UŠI, z.s., Valašské Meziříčí",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=4U%C5%A0I%2C%20z.s.%2C%20Vala%C5%A1sk%C3%A9%20Mezi%C5%99%C3%AD%C4%8D%C3%AD"
+    },
+    {
         "id": 76000205,
         "url": "https://czap.cz/Sys/PublicProfile/76000205/5485226",
         "name": "Hlušička, Petr",
@@ -17107,6 +17125,24 @@
         "location": "Na Poříčí 12, Praha 1",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha%201"
+    },
+    {
+        "id": 77329366,
+        "url": "https://czap.cz/Sys/PublicProfile/77329366/5485226",
+        "name": "Bolinová Fialová, Jitka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "1. máje 97/25, Liberec",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=1.%20m%C3%A1je%2097/25%2C%20Liberec"
+    },
+    {
+        "id": 77352912,
+        "url": "https://czap.cz/Sys/PublicProfile/77352912/5485226",
+        "name": "Doksanská, Ivana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Údlická 5, Praha 8",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=%C3%9Adlick%C3%A1%205%2C%20Praha%208"
     },
     {
         "id": 77414133,
