@@ -10145,11 +10145,11 @@
     {
         "id": 66693678,
         "url": "https://czap.cz/Sys/PublicProfile/66693678/5485226",
-        "name": "Veličková, Lucie",
+        "name": "Vojkůvková, Lucie",
         "membership": "Řádné členství",
-        "location": "5.května 163, Sokolov 356 01, Sokolov",
+        "location": "Rokycanova 2020, Sokolov",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=5.kv%C4%9Btna%20163%2C%20Sokolov%20356%2001%2C%20Sokolov"
+        "map_url": "https://mapy.cz/zakladni?q=Rokycanova%202020%2C%20Sokolov"
     },
     {
         "id": 66693795,
@@ -11173,9 +11173,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/67948140/5485226",
         "name": "Hamplová, Natálie",
         "membership": "Řádné členství",
-        "location": "Politických obětí, Frýdek-Místek",
+        "location": "Potoční 1091, Frýdek-Místek",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Politick%C3%BDch%20ob%C4%9Bt%C3%AD%2C%20Fr%C3%BDdek-M%C3%ADstek"
+        "map_url": "https://mapy.cz/zakladni?q=Poto%C4%8Dn%C3%AD%201091%2C%20Fr%C3%BDdek-M%C3%ADstek"
     },
     {
         "id": 67948903,
@@ -16261,6 +16261,15 @@
         "location": "nám. Osvobození 28, Zábřeh",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=n%C3%A1m.%20Osvobozen%C3%AD%2028%2C%20Z%C3%A1b%C5%99eh"
+    },
+    {
+        "id": 76232535,
+        "url": "https://czap.cz/Sys/PublicProfile/76232535/5485226",
+        "name": "Sedmíková, Veronika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Žitná 51, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%BDitn%C3%A1%2051%2C%20Praha%201"
     },
     {
         "id": 76243700,
