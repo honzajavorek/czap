@@ -15264,6 +15264,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Opletalova%204%2C%20Praha%201"
     },
     {
+        "id": 74470096,
+        "url": "https://czap.cz/Sys/PublicProfile/74470096/5485226",
+        "name": "Sommer, Jakub",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Kafkova 29, Praha 6",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Kafkova%2029%2C%20Praha%206"
+    },
+    {
         "id": 74473574,
         "url": "https://czap.cz/Sys/PublicProfile/74473574/5485226",
         "name": "Ulman, Přemysl",
@@ -16792,6 +16801,15 @@
         "location": "Litovelská 17, Olomouc",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Litovelsk%C3%A1%2017%2C%20Olomouc"
+    },
+    {
+        "id": 77039318,
+        "url": "https://czap.cz/Sys/PublicProfile/77039318/5485226",
+        "name": "Houdková, Hana",
+        "membership": "Řádné členství",
+        "location": "Poliklinika Pacov, Žižkova 922, Pacov",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Poliklinika%20Pacov%2C%20%C5%BDi%C5%BEkova%20922%2C%20Pacov"
     },
     {
         "id": 77047380,
