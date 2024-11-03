@@ -455,7 +455,7 @@
         "name": "Kašlík, Martin",
         "membership": "Řádné členství",
         "location": "Náměstí Svobody 450/2, Hradec Králové",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=N%C3%A1m%C4%9Bst%C3%AD%20Svobody%20450/2%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
     },
     {
@@ -3985,6 +3985,15 @@
         "location": "Ctiradova 10, Praha",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Ctiradova%2010%2C%20Praha"
+    },
+    {
+        "id": 58885370,
+        "url": "https://czap.cz/Sys/PublicProfile/58885370/5485226",
+        "name": "Táborská, Roksana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "None, ",
+        "availability": "",
+        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
     },
     {
         "id": 58885371,
