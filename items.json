@@ -8289,15 +8289,6 @@
         "map_url": "https://mapy.cz/zakladni?q=J%C3%A1chymovsk%C3%A1%20385%2C%20Liberec"
     },
     {
-        "id": 63330378,
-        "url": "https://czap.cz/Sys/PublicProfile/63330378/5485226",
-        "name": "Afanasyeva, Kristina",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Na pomezí, Praha",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Na%20pomez%C3%AD%2C%20Praha"
-    },
-    {
         "id": 63330754,
         "url": "https://czap.cz/Sys/PublicProfile/63330754/5485226",
         "name": "Tomášová, Pavlína",
@@ -17197,5 +17188,32 @@
         "location": "Liberec, U Zoologické zahrady 979/5, Liberec",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Liberec%2C%20U%20Zoologick%C3%A9%20zahrady%20979/5%2C%20Liberec"
+    },
+    {
+        "id": 77449336,
+        "url": "https://czap.cz/Sys/PublicProfile/77449336/5485226",
+        "name": "Kuželková, Helena",
+        "membership": "Řádné členství",
+        "location": "Na Mlejnku 26, Praha 4",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20Mlejnku%2026%2C%20Praha%204"
+    },
+    {
+        "id": 77453506,
+        "url": "https://czap.cz/Sys/PublicProfile/77453506/5485226",
+        "name": "Elischerová, Pavla",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Šumavská 862/30, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%A0umavsk%C3%A1%20862/30%2C%20Praha"
+    },
+    {
+        "id": 77467001,
+        "url": "https://czap.cz/Sys/PublicProfile/77467001/5485226",
+        "name": "Kaloč, Radim",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "407, Komorní Lhotka",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=407%2C%20Komorn%C3%AD%20Lhotka"
     }
 ]
