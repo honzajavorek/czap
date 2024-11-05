@@ -9567,15 +9567,6 @@
         "map_url": "https://mapy.cz/zakladni?q=%C5%A0tef%C3%A1nikova%2016%2C%20Brno"
     },
     {
-        "id": 64579711,
-        "url": "https://czap.cz/Sys/PublicProfile/64579711/5485226",
-        "name": "Maršálková, Jiřina",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Rašínova 103/2, Brno-město",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Ra%C5%A1%C3%ADnova%20103/2%2C%20Brno-m%C4%9Bsto"
-    },
-    {
         "id": 64601190,
         "url": "https://czap.cz/Sys/PublicProfile/64601190/5485226",
         "name": "Pospíšilová, Hana",
@@ -14360,7 +14351,7 @@
         "name": "Kočíková, Barbora",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Ostrovského 253/3, Praha 5",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Ostrovsk%C3%A9ho%20253/3%2C%20Praha%205"
     },
     {
@@ -16331,7 +16322,7 @@
         "name": "Korbová, Markéta",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Wonkova 385/28, Hradec Králové",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Wonkova%20385/28%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
     },
     {
@@ -16900,6 +16891,15 @@
         "location": "Žižkova 12, České Budějovice",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=%C5%BDi%C5%BEkova%2012%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
+    },
+    {
+        "id": 77073530,
+        "url": "https://czap.cz/Sys/PublicProfile/77073530/5485226",
+        "name": "Jelínková, Anna-Marie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Kartouzská 5, Praha 5",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Kartouzsk%C3%A1%205%2C%20Praha%205"
     },
     {
         "id": 77076121,
