@@ -7508,7 +7508,7 @@
     {
         "id": 62661843,
         "url": "https://czap.cz/Sys/PublicProfile/62661843/5485226",
-        "name": "Navrátilová, Pavlína",
+        "name": "Zapletalová, Pavlína",
         "membership": "Řádné členství",
         "location": "Sýpka 25, Brno",
         "availability": "Nepřijímám nové klienty",
@@ -10357,15 +10357,6 @@
         "location": "Bajkalská 666/8, Praha 10",
         "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Bajkalsk%C3%A1%20666/8%2C%20Praha%2010"
-    },
-    {
-        "id": 67109216,
-        "url": "https://czap.cz/Sys/PublicProfile/67109216/5485226",
-        "name": "Lapáčková, Kateřina",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Sídliště Hegerova 935, Polička",
-        "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=S%C3%ADdli%C5%A1t%C4%9B%20Hegerova%20935%2C%20Poli%C4%8Dka"
     },
     {
         "id": 67123021,
@@ -14929,15 +14920,6 @@
         "location": "Ústavní, Banská Bystrica",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=%C3%9Astavn%C3%AD%2C%20Bansk%C3%A1%20Bystrica"
-    },
-    {
-        "id": 73625390,
-        "url": "https://czap.cz/Sys/PublicProfile/73625390/5485226",
-        "name": "Kourkzi, Alice",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Vrátnická 5, Praha 4",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Vr%C3%A1tnick%C3%A1%205%2C%20Praha%204"
     },
     {
         "id": 73626245,
