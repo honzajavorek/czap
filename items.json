@@ -711,6 +711,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Zvona%C5%99ovsk%C3%A1%2013%2C%20Praha%208%20-%20Libe%C5%88"
     },
     {
+        "id": 58884967,
+        "url": "https://czap.cz/Sys/PublicProfile/58884967/5485226",
+        "name": "Žáčková, Michaela",
+        "membership": "Řádné členství",
+        "location": "Harrachovská 422, Praha 9",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Harrachovsk%C3%A1%20422%2C%20Praha%209"
+    },
+    {
         "id": 58884968,
         "url": "https://czap.cz/Sys/PublicProfile/58884968/5485226",
         "name": "Raszka, Michal",
@@ -8289,6 +8298,15 @@
         "map_url": "https://mapy.cz/zakladni?q=J%C3%A1chymovsk%C3%A1%20385%2C%20Liberec"
     },
     {
+        "id": 63330378,
+        "url": "https://czap.cz/Sys/PublicProfile/63330378/5485226",
+        "name": "Afanasyeva, Kristina",
+        "membership": "Řádné členství",
+        "location": "Na pomezí, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20pomez%C3%AD%2C%20Praha"
+    },
+    {
         "id": 63330754,
         "url": "https://czap.cz/Sys/PublicProfile/63330754/5485226",
         "name": "Tomášová, Pavlína",
@@ -8597,7 +8615,7 @@
     {
         "id": 63496611,
         "url": "https://czap.cz/Sys/PublicProfile/63496611/5485226",
-        "name": "Luongova, Eva",
+        "name": "Luongová, Eva",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Bruselská 14,, Praha, Vinohrady",
         "availability": "Přijímám nové klienty",
@@ -9565,6 +9583,15 @@
         "location": "Štefánikova 16, Brno",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=%C5%A0tef%C3%A1nikova%2016%2C%20Brno"
+    },
+    {
+        "id": 64579711,
+        "url": "https://czap.cz/Sys/PublicProfile/64579711/5485226",
+        "name": "Maršálková, Jiřina",
+        "membership": "Řádné členství",
+        "location": "Rašínova 103/2, Brno-město",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Ra%C5%A1%C3%ADnova%20103/2%2C%20Brno-m%C4%9Bsto"
     },
     {
         "id": 64601190,
@@ -14922,6 +14949,15 @@
         "map_url": "https://mapy.cz/zakladni?q=%C3%9Astavn%C3%AD%2C%20Bansk%C3%A1%20Bystrica"
     },
     {
+        "id": 73625390,
+        "url": "https://czap.cz/Sys/PublicProfile/73625390/5485226",
+        "name": "Kourkzi, Alice",
+        "membership": "Řádné členství",
+        "location": "Vrátnická 5, Praha 4",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Vr%C3%A1tnick%C3%A1%205%2C%20Praha%204"
+    },
+    {
         "id": 73626245,
         "url": "https://czap.cz/Sys/PublicProfile/73626245/5485226",
         "name": "Burianová, Jana",
@@ -17172,6 +17208,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Liberec%2C%20U%20Zoologick%C3%A9%20zahrady%20979/5%2C%20Liberec"
     },
     {
+        "id": 77421258,
+        "url": "https://czap.cz/Sys/PublicProfile/77421258/5485226",
+        "name": "Procházková, Valérie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Tomkova 2099, Tábor",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Tomkova%202099%2C%20T%C3%A1bor"
+    },
+    {
         "id": 77449336,
         "url": "https://czap.cz/Sys/PublicProfile/77449336/5485226",
         "name": "Kuželková, Helena",
@@ -17197,5 +17242,14 @@
         "location": "407, Komorní Lhotka",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=407%2C%20Komorn%C3%AD%20Lhotka"
+    },
+    {
+        "id": 77468010,
+        "url": "https://czap.cz/Sys/PublicProfile/77468010/5485226",
+        "name": "Pavelková, Michaela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Jablonského 640/2, Praha 7",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Jablonsk%C3%A9ho%20640/2%2C%20Praha%207"
     }
 ]
