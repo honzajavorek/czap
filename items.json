@@ -9756,15 +9756,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Studentsk%C3%A1%20801%2C%20Pod%C4%9Bbrady"
     },
     {
-        "id": 64903039,
-        "url": "https://czap.cz/Sys/PublicProfile/64903039/5485226",
-        "name": "Martinková, Zuzana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Neumannova 54, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Neumannova%2054%2C%20Brno"
-    },
-    {
         "id": 64923914,
         "url": "https://czap.cz/Sys/PublicProfile/64923914/5485226",
         "name": "Tomanová Drnková, Veronika",
@@ -13783,9 +13774,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/71160926/5485226",
         "name": "Benda, Dominik",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Mišákova 454/16, Olomouc",
-        "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Mi%C5%A1%C3%A1kova%20454/16%2C%20Olomouc"
+        "location": "Ostružnická 331/18, Olomouc",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Ostru%C5%BEnick%C3%A1%20331/18%2C%20Olomouc"
     },
     {
         "id": 71164777,
@@ -17251,5 +17242,14 @@
         "location": "Jablonského 640/2, Praha 7",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Jablonsk%C3%A9ho%20640/2%2C%20Praha%207"
+    },
+    {
+        "id": 77472676,
+        "url": "https://czap.cz/Sys/PublicProfile/77472676/5485226",
+        "name": "Langrová, Veronika",
+        "membership": "Řádné členství",
+        "location": "Mandloňová 1136/12, Praha 9 - Hloubětín",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Mandlo%C5%88ov%C3%A1%201136/12%2C%20Praha%209%20-%20Hloub%C4%9Bt%C3%ADn"
     }
 ]
