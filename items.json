@@ -3335,7 +3335,7 @@
         "name": "Turinová, Martina",
         "membership": "Řádné členství",
         "location": "Hakenova 637/11, Poděbrady",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Hakenova%20637/11%2C%20Pod%C4%9Bbrady"
     },
     {
@@ -9754,6 +9754,15 @@
         "location": "Studentská 801, Poděbrady",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Studentsk%C3%A1%20801%2C%20Pod%C4%9Bbrady"
+    },
+    {
+        "id": 64903039,
+        "url": "https://czap.cz/Sys/PublicProfile/64903039/5485226",
+        "name": "Martinková, Zuzana",
+        "membership": "Řádné členství",
+        "location": "Pekařská 18, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Peka%C5%99sk%C3%A1%2018%2C%20Brno"
     },
     {
         "id": 64923914,
