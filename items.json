@@ -3996,15 +3996,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Ctiradova%2010%2C%20Praha"
     },
     {
-        "id": 58885370,
-        "url": "https://czap.cz/Sys/PublicProfile/58885370/5485226",
-        "name": "Táborská, Roksana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "None, ",
-        "availability": "",
-        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
-    },
-    {
         "id": 58885371,
         "url": "https://czap.cz/Sys/PublicProfile/58885371/5485226",
         "name": "Holubcová, Lenka",
@@ -5735,7 +5726,7 @@
     {
         "id": 60371789,
         "url": "https://czap.cz/Sys/PublicProfile/60371789/5485226",
-        "name": "Nýdrlová, Veronika",
+        "name": "Michovská, Veronika",
         "membership": "Řádné členství",
         "location": "Václavská 12a, Brno",
         "availability": "Info o dostupnosti na vyžádání",
@@ -15062,7 +15053,7 @@
         "name": "Urbánková, Iveta",
         "membership": "Řádné členství",
         "location": "Optátova 37, Brno",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Opt%C3%A1tova%2037%2C%20Brno"
     },
     {
@@ -17188,6 +17179,15 @@
         "location": "Údlická 5, Praha 8",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=%C3%9Adlick%C3%A1%205%2C%20Praha%208"
+    },
+    {
+        "id": 77354543,
+        "url": "https://czap.cz/Sys/PublicProfile/77354543/5485226",
+        "name": "Titlbachova, Petra",
+        "membership": "Řádné členství",
+        "location": "Senovážné náměstí 23, Praha 1",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201"
     },
     {
         "id": 77414133,
