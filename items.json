@@ -4892,7 +4892,7 @@
         "name": "Kalašová, Tereza",
         "membership": "Řádné členství",
         "location": "Dvorecká 289/23, Praha 4-Podolí",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Dvoreck%C3%A1%20289/23%2C%20Praha%204-Podol%C3%AD"
     },
     {
@@ -7074,6 +7074,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Konviktsk%C3%A1%2012%2C%20Praha%201"
     },
     {
+        "id": 62254442,
+        "url": "https://czap.cz/Sys/PublicProfile/62254442/5485226",
+        "name": "Porubová, Radka",
+        "membership": "Řádné členství",
+        "location": "U tří lvů 294/4, České Budějovice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=U%20t%C5%99%C3%AD%20lv%C5%AF%20294/4%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
+    },
+    {
         "id": 62288116,
         "url": "https://czap.cz/Sys/PublicProfile/62288116/5485226",
         "name": "Soukup, Jan",
@@ -8366,7 +8375,7 @@
         "name": "Šaňáková, Veronika",
         "membership": "Řádné členství",
         "location": "Národní obrany 685, Praha 6",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%20obrany%20685%2C%20Praha%206"
     },
     {
