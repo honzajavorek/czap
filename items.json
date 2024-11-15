@@ -2457,15 +2457,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Kate%C5%99insk%C3%A1%2017%2C%20Olomouc"
     },
     {
-        "id": 58885173,
-        "url": "https://czap.cz/Sys/PublicProfile/58885173/5485226",
-        "name": "Stýblová Krejčiříková, Dagmar",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Široká 294, Chrudim",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=%C5%A0irok%C3%A1%20294%2C%20Chrudim"
-    },
-    {
         "id": 58885174,
         "url": "https://czap.cz/Sys/PublicProfile/58885174/5485226",
         "name": "Schwarc, Štefan",
@@ -4892,7 +4883,7 @@
         "name": "Kalašová, Tereza",
         "membership": "Řádné členství",
         "location": "Dvorecká 289/23, Praha 4-Podolí",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Dvoreck%C3%A1%20289/23%2C%20Praha%204-Podol%C3%AD"
     },
     {
