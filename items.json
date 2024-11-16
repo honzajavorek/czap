@@ -8478,6 +8478,15 @@
         "map_url": "https://mapy.cz/zakladni?q=%C5%A0tef%C3%A1nikova%205462%2C%20Zl%C3%ADn"
     },
     {
+        "id": 63415336,
+        "url": "https://czap.cz/Sys/PublicProfile/63415336/5485226",
+        "name": "Wolf, Umay",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "PSC P5erov, poliklinika MENS, náměstí Přerovského povstání 2803, Přerov 2",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=PSC%20P5erov%2C%20poliklinika%20MENS%2C%20n%C3%A1m%C4%9Bst%C3%AD%20P%C5%99erovsk%C3%A9ho%20povst%C3%A1n%C3%AD%202803%2C%20P%C5%99erov%202"
+    },
+    {
         "id": 63415509,
         "url": "https://czap.cz/Sys/PublicProfile/63415509/5485226",
         "name": "Stupková, Vlasta",
@@ -11842,15 +11851,6 @@
         "location": "Hartigova 167 (dříve Koněvova), Praha 3",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Hartigova%20167%20%28d%C5%99%C3%ADve%20Kon%C4%9Bvova%29%2C%20Praha%203"
-    },
-    {
-        "id": 68422809,
-        "url": "https://czap.cz/Sys/PublicProfile/68422809/5485226",
-        "name": "Venclíková, Lucie",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Hermelínská 6, Praha 6",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Hermel%C3%ADnsk%C3%A1%206%2C%20Praha%206"
     },
     {
         "id": 68425128,
