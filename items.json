@@ -2457,6 +2457,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Kate%C5%99insk%C3%A1%2017%2C%20Olomouc"
     },
     {
+        "id": 58885173,
+        "url": "https://czap.cz/Sys/PublicProfile/58885173/5485226",
+        "name": "Stýblová Krejčiříková, Dagmar",
+        "membership": "Řádné členství",
+        "location": "Široká 294, Chrudim",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%A0irok%C3%A1%20294%2C%20Chrudim"
+    },
+    {
         "id": 58885174,
         "url": "https://czap.cz/Sys/PublicProfile/58885174/5485226",
         "name": "Schwarc, Štefan",
@@ -6872,7 +6881,7 @@
         "name": "Machová, Štěpánka",
         "membership": "Řádné členství",
         "location": "alej Svobody 80, Plzeň",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=alej%20Svobody%2080%2C%20Plze%C5%88"
     },
     {
@@ -6979,9 +6988,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/62186289/5485226",
         "name": "Tomková, Alexandra",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Revoluční 8, Praha 1",
-        "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Revolu%C4%8Dn%C3%AD%208%2C%20Praha%201"
+        "location": "Kafkova 29, Praha 6",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Kafkova%2029%2C%20Praha%206"
     },
     {
         "id": 62187248,
