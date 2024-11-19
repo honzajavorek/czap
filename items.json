@@ -7772,7 +7772,7 @@
         "name": "Fiala, Jakub",
         "membership": "Řádné členství",
         "location": "Kartouzská 4, Praha 5 - Anděl",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Kartouzsk%C3%A1%204%2C%20Praha%205%20-%20And%C4%9Bl"
     },
     {
@@ -17242,6 +17242,15 @@
         "location": "Na Mlejnku 26, Praha 4",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Na%20Mlejnku%2026%2C%20Praha%204"
+    },
+    {
+        "id": 77449947,
+        "url": "https://czap.cz/Sys/PublicProfile/77449947/5485226",
+        "name": "Urban, Vilém",
+        "membership": "Řádné členství",
+        "location": "Milady Horákové 201/119, Praha 6",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Milady%20Hor%C3%A1kov%C3%A9%20201/119%2C%20Praha%206"
     },
     {
         "id": 77453506,
