@@ -11862,6 +11862,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Hartigova%20167%20%28d%C5%99%C3%ADve%20Kon%C4%9Bvova%29%2C%20Praha%203"
     },
     {
+        "id": 68422809,
+        "url": "https://czap.cz/Sys/PublicProfile/68422809/5485226",
+        "name": "Venclíková, Lucie",
+        "membership": "Řádné členství",
+        "location": "Hermelínská 6, Praha 6",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Hermel%C3%ADnsk%C3%A1%206%2C%20Praha%206"
+    },
+    {
         "id": 68425128,
         "url": "https://czap.cz/Sys/PublicProfile/68425128/5485226",
         "name": "Mlázovská, Barbora",
@@ -16229,7 +16238,7 @@
     {
         "id": 76135405,
         "url": "https://czap.cz/Sys/PublicProfile/76135405/5485226",
-        "name": "brodská, Martina",
+        "name": "Brodská, Martina",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Krupská 191, Bělá pod Bezdězem",
         "availability": "Přijímám nové klienty",
@@ -16907,7 +16916,7 @@
         "name": "Štarková, Iva",
         "membership": "Řádné členství",
         "location": "Žižkova 12, České Budějovice",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=%C5%BDi%C5%BEkova%2012%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     },
     {
@@ -17269,5 +17278,14 @@
         "location": "Mandloňová 1136/12, Praha 9 - Hloubětín",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Mandlo%C5%88ov%C3%A1%201136/12%2C%20Praha%209%20-%20Hloub%C4%9Bt%C3%ADn"
+    },
+    {
+        "id": 77599860,
+        "url": "https://czap.cz/Sys/PublicProfile/77599860/5485226",
+        "name": "Záhorová, Kristýna",
+        "membership": "Řádné členství",
+        "location": "Pavlovická 1051/13, Liberec",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Pavlovick%C3%A1%201051/13%2C%20Liberec"
     }
 ]
