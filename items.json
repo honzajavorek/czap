@@ -7772,7 +7772,7 @@
         "name": "Fiala, Jakub",
         "membership": "Řádné členství",
         "location": "Kartouzská 4, Praha 5 - Anděl",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Kartouzsk%C3%A1%204%2C%20Praha%205%20-%20And%C4%9Bl"
     },
     {
@@ -9752,7 +9752,7 @@
         "name": "Palatová, Barbora",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Orlí 516/20, Brno",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Orl%C3%AD%20516/20%2C%20Brno"
     },
     {
@@ -17248,9 +17248,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/77449947/5485226",
         "name": "Urban, Vilém",
         "membership": "Řádné členství",
-        "location": "Milady Horákové 201/119, Praha 6",
+        "location": "Milady Horákové 201/119, Praha 6 - Hradčany",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Milady%20Hor%C3%A1kov%C3%A9%20201/119%2C%20Praha%206"
+        "map_url": "https://mapy.cz/zakladni?q=Milady%20Hor%C3%A1kov%C3%A9%20201/119%2C%20Praha%206%20-%20Hrad%C4%8Dany"
     },
     {
         "id": 77453506,
