@@ -3996,6 +3996,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Ctiradova%2010%2C%20Praha"
     },
     {
+        "id": 58885370,
+        "url": "https://czap.cz/Sys/PublicProfile/58885370/5485226",
+        "name": "Táborská, Roksana",
+        "membership": "Řádné členství",
+        "location": "Bruselská 14, Praha",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Bruselsk%C3%A1%2014%2C%20Praha"
+    },
+    {
         "id": 58885371,
         "url": "https://czap.cz/Sys/PublicProfile/58885371/5485226",
         "name": "Holubcová, Lenka",
@@ -7758,6 +7767,15 @@
         "map_url": "https://mapy.cz/zakladni?q=U%20T%C5%99%C3%AD%20lv%C5%AF%20294%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     },
     {
+        "id": 62788769,
+        "url": "https://czap.cz/Sys/PublicProfile/62788769/5485226",
+        "name": "Lichnovská, Marie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Smetanovo náměstí 328/1, Ostrava - Moravská Ostrava",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Smetanovo%20n%C3%A1m%C4%9Bst%C3%AD%20328/1%2C%20Ostrava%20-%20Moravsk%C3%A1%20Ostrava"
+    },
+    {
         "id": 62789584,
         "url": "https://czap.cz/Sys/PublicProfile/62789584/5485226",
         "name": "Tošnerová, Eva",
@@ -7837,15 +7855,6 @@
         "location": "Zámecké náměstí 47, Frýdek Místek",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Z%C3%A1meck%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2047%2C%20Fr%C3%BDdek%20M%C3%ADstek"
-    },
-    {
-        "id": 62836384,
-        "url": "https://czap.cz/Sys/PublicProfile/62836384/5485226",
-        "name": "Činka, Libor",
-        "membership": "Řádné členství",
-        "location": "Malá Štěpánská 1929/9, Praha 2",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Mal%C3%A1%20%C5%A0t%C4%9Bp%C3%A1nsk%C3%A1%201929/9%2C%20Praha%202"
     },
     {
         "id": 62836436,
@@ -12078,15 +12087,6 @@
         "map_url": "https://mapy.cz/zakladni?q=H%C3%A1lkova%202%2C%20Praha%202"
     },
     {
-        "id": 68552785,
-        "url": "https://czap.cz/Sys/PublicProfile/68552785/5485226",
-        "name": "Bala, Liana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Charkovská 24, Praha 10 - Vršovice",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Charkovsk%C3%A1%2024%2C%20Praha%2010%20-%20Vr%C5%A1ovice"
-    },
-    {
         "id": 68556064,
         "url": "https://czap.cz/Sys/PublicProfile/68556064/5485226",
         "name": "Smělá, Tereza",
@@ -12481,15 +12481,6 @@
         "location": "Sukova třída 1556, Pardubice",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Sukova%20t%C5%99%C3%ADda%201556%2C%20Pardubice"
-    },
-    {
-        "id": 68944927,
-        "url": "https://czap.cz/Sys/PublicProfile/68944927/5485226",
-        "name": "Hanousková, Veronika",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Bethany Dům pomocí, tr.Miru 2670, Pardubice 530 02, Chrudim 1",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Bethany%20D%C5%AFm%20pomoc%C3%AD%2C%20tr.Miru%202670%2C%20Pardubice%20530%2002%2C%20Chrudim%201"
     },
     {
         "id": 68951060,
@@ -12913,15 +12904,6 @@
         "location": "Sokolská 113/8, Liberec",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Sokolsk%C3%A1%20113/8%2C%20Liberec"
-    },
-    {
-        "id": 69676865,
-        "url": "https://czap.cz/Sys/PublicProfile/69676865/5485226",
-        "name": "Hermanová, Jiřina",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Národní 11, Praha 1",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%2011%2C%20Praha%201"
     },
     {
         "id": 69713185,
@@ -17289,6 +17271,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Mandlo%C5%88ov%C3%A1%201136/12%2C%20Praha%209%20-%20Hloub%C4%9Bt%C3%ADn"
     },
     {
+        "id": 77531458,
+        "url": "https://czap.cz/Sys/PublicProfile/77531458/5485226",
+        "name": "Šritrová, Irena",
+        "membership": "Řádné členství",
+        "location": "Velké náměstí 147, Hradec Králové",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Velk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20147%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
+    },
+    {
         "id": 77599860,
         "url": "https://czap.cz/Sys/PublicProfile/77599860/5485226",
         "name": "Záhorová, Kristýna",
@@ -17296,5 +17287,32 @@
         "location": "Pavlovická 1051/13, Liberec",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Pavlovick%C3%A1%201051/13%2C%20Liberec"
+    },
+    {
+        "id": 77632414,
+        "url": "https://czap.cz/Sys/PublicProfile/77632414/5485226",
+        "name": "Čiháková, Martina",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Na Doubkové 8, Praha 5",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20Doubkov%C3%A9%208%2C%20Praha%205"
+    },
+    {
+        "id": 77649467,
+        "url": "https://czap.cz/Sys/PublicProfile/77649467/5485226",
+        "name": "Hurtišová, Barbora",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Vaclavske namesti 11, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Vaclavske%20namesti%2011%2C%20Praha"
+    },
+    {
+        "id": 77662415,
+        "url": "https://czap.cz/Sys/PublicProfile/77662415/5485226",
+        "name": "Crnogorac, Aleksandra",
+        "membership": "Řádné členství",
+        "location": "Malinovského náměstí 603/4, Brno",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Malinovsk%C3%A9ho%20n%C3%A1m%C4%9Bst%C3%AD%20603/4%2C%20Brno"
     }
 ]
