@@ -7371,6 +7371,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Sd%C3%ADlen%C3%A9%20pracovny%20-%20nem%C3%A1m%20st%C3%A1lou%20adresu%20sv%C3%A9%20praxe%2C%20Beroun"
     },
     {
+        "id": 62396019,
+        "url": "https://czap.cz/Sys/PublicProfile/62396019/5485226",
+        "name": "Sedláčková, Simona",
+        "membership": "Řádné členství",
+        "location": "Kateřinská 34, Praha 2 - Nové Město",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Kate%C5%99insk%C3%A1%2034%2C%20Praha%202%20-%20Nov%C3%A9%20M%C4%9Bsto"
+    },
+    {
         "id": 62399269,
         "url": "https://czap.cz/Sys/PublicProfile/62399269/5485226",
         "name": "Čechová, Vlasta",
@@ -12087,6 +12096,15 @@
         "map_url": "https://mapy.cz/zakladni?q=H%C3%A1lkova%202%2C%20Praha%202"
     },
     {
+        "id": 68552785,
+        "url": "https://czap.cz/Sys/PublicProfile/68552785/5485226",
+        "name": "Bala, Liana",
+        "membership": "Řádné členství",
+        "location": "Charkovská 24, Praha 10 - Vršovice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Charkovsk%C3%A1%2024%2C%20Praha%2010%20-%20Vr%C5%A1ovice"
+    },
+    {
         "id": 68556064,
         "url": "https://czap.cz/Sys/PublicProfile/68556064/5485226",
         "name": "Smělá, Tereza",
@@ -12481,6 +12499,15 @@
         "location": "Sukova třída 1556, Pardubice",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Sukova%20t%C5%99%C3%ADda%201556%2C%20Pardubice"
+    },
+    {
+        "id": 68944927,
+        "url": "https://czap.cz/Sys/PublicProfile/68944927/5485226",
+        "name": "Hanousková, Veronika",
+        "membership": "Řádné členství",
+        "location": "Skok do života o.p.s, Brožíkova 451/5, Hradec Králové",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Skok%20do%20%C5%BEivota%20o.p.s%2C%20Bro%C5%BE%C3%ADkova%20451/5%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
     },
     {
         "id": 68951060,
@@ -17278,6 +17305,15 @@
         "location": "Velké náměstí 147, Hradec Králové",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Velk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20147%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
+    },
+    {
+        "id": 77589634,
+        "url": "https://czap.cz/Sys/PublicProfile/77589634/5485226",
+        "name": "Jirušová, Renata",
+        "membership": "Řádné členství",
+        "location": "U Jeslí 565, Nejdek",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=U%20Jesl%C3%AD%20565%2C%20Nejdek"
     },
     {
         "id": 77599860,
