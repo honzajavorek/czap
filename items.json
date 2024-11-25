@@ -7781,7 +7781,7 @@
         "name": "Lichnovská, Marie",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Smetanovo náměstí 328/1, Ostrava - Moravská Ostrava",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Smetanovo%20n%C3%A1m%C4%9Bst%C3%AD%20328/1%2C%20Ostrava%20-%20Moravsk%C3%A1%20Ostrava"
     },
     {
@@ -12456,15 +12456,6 @@
         "map_url": "https://mapy.cz/zakladni?q=%C5%A0vabinsk%C3%A9ho%2019%2C%20Ostrava"
     },
     {
-        "id": 68859265,
-        "url": "https://czap.cz/Sys/PublicProfile/68859265/5485226",
-        "name": "Nováková, Michaela",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Velehradská 19, Praha 3",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Velehradsk%C3%A1%2019%2C%20Praha%203"
-    },
-    {
         "id": 68875679,
         "url": "https://czap.cz/Sys/PublicProfile/68875679/5485226",
         "name": "Maierová, Martina",
@@ -13421,7 +13412,7 @@
     {
         "id": 70536176,
         "url": "https://czap.cz/Sys/PublicProfile/70536176/5485226",
-        "name": "Putnová, Eliška",
+        "name": "Vinklerová, Eliška",
         "membership": "Řádné členství",
         "location": "Nálepkova 197/14, Brno",
         "availability": "Info o dostupnosti na vyžádání",
@@ -17329,9 +17320,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/77599860/5485226",
         "name": "Záhorová, Kristýna",
         "membership": "Řádné členství",
-        "location": "Pavlovická 1051/13, Liberec",
+        "location": "Jungmannova 319/7, Liberec",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Pavlovick%C3%A1%201051/13%2C%20Liberec"
+        "map_url": "https://mapy.cz/zakladni?q=Jungmannova%20319/7%2C%20Liberec"
     },
     {
         "id": 77617465,
