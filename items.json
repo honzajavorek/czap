@@ -607,9 +607,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58884951/5485226",
         "name": "Sadilová, Lenka",
         "membership": "Řádné členství",
-        "location": "online, online",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=online%2C%20online"
+        "location": "Pražská 130, Příbram",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Pra%C5%BEsk%C3%A1%20130%2C%20P%C5%99%C3%ADbram"
     },
     {
         "id": 58884952,
@@ -1337,7 +1337,7 @@
         "name": "Kolář, Jan",
         "membership": "Řádné členství",
         "location": "Sukova 49/4, Brno",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Sukova%2049/4%2C%20Brno"
     },
     {
@@ -6649,15 +6649,6 @@
         "location": "Na poříčí 12, Praha 1",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Na%20po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha%201"
-    },
-    {
-        "id": 61759788,
-        "url": "https://czap.cz/Sys/PublicProfile/61759788/5485226",
-        "name": "Váchová, Barbora",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Šaldova 337/15, Praha 8",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=%C5%A0aldova%20337/15%2C%20Praha%208"
     },
     {
         "id": 61772711,
@@ -14670,15 +14661,6 @@
         "map_url": "https://mapy.cz/zakladni?q=P%C5%99%C3%AD%C4%8Dn%C3%A1%20327/1%2C%20Hav%C3%AD%C5%99ov"
     },
     {
-        "id": 72584538,
-        "url": "https://czap.cz/Sys/PublicProfile/72584538/5485226",
-        "name": "Šindlerová, Ivana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Psychoterapeutické centrum Tavia, Nikoly Tesly 8, Praha 6",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Psychoterapeutick%C3%A9%20centrum%20Tavia%2C%20Nikoly%20Tesly%208%2C%20Praha%206"
-    },
-    {
         "id": 72584844,
         "url": "https://czap.cz/Sys/PublicProfile/72584844/5485226",
         "name": "Berounská, Helena",
@@ -17332,6 +17314,15 @@
         "location": "Palackého třída 449/64, Nymburk",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Palack%C3%A9ho%20t%C5%99%C3%ADda%20449/64%2C%20Nymburk"
+    },
+    {
+        "id": 77621018,
+        "url": "https://czap.cz/Sys/PublicProfile/77621018/5485226",
+        "name": "Kolářová, Dana",
+        "membership": "Řádné členství",
+        "location": "U Radnice 454, Odolena Voda",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=U%20Radnice%20454%2C%20Odolena%20Voda"
     },
     {
         "id": 77632414,
