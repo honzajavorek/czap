@@ -13077,15 +13077,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Masarykova%201325%2C%20Orlov%C3%A1%20-%20Lutyn%C4%9B%2C%20Masarykova%201325%2C%20Orlov%C3%A1%20-%20Lutyn%C4%9B"
     },
     {
-        "id": 70034600,
-        "url": "https://czap.cz/Sys/PublicProfile/70034600/5485226",
-        "name": "Handlová, Šárka",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Na okraji 1947, Brandýs n. L. - St. Boleslav",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Na%20okraji%201947%2C%20Brand%C3%BDs%20n.%20L.%20-%20St.%20Boleslav"
-    },
-    {
         "id": 70040002,
         "url": "https://czap.cz/Sys/PublicProfile/70040002/5485226",
         "name": "Bukáčková, Jitka",
@@ -14890,9 +14881,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/73405606/5485226",
         "name": "Švehelka, Filip",
         "membership": "Řádné členství",
-        "location": "Přívozská 710/10, Ostrava",
+        "location": "U Cukrovaru 513/6, Opava",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=P%C5%99%C3%ADvozsk%C3%A1%20710/10%2C%20Ostrava"
+        "map_url": "https://mapy.cz/zakladni?q=U%20Cukrovaru%20513/6%2C%20Opava"
     },
     {
         "id": 73430233,
@@ -17325,6 +17316,15 @@
         "map_url": "https://mapy.cz/zakladni?q=U%20Radnice%20454%2C%20Odolena%20Voda"
     },
     {
+        "id": 77624643,
+        "url": "https://czap.cz/Sys/PublicProfile/77624643/5485226",
+        "name": "Dvořáková, Klára",
+        "membership": "Řádné členství",
+        "location": "Poliklinika U Tří Lvů, U Tří Lvů 294, České Budějovice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Poliklinika%20U%20T%C5%99%C3%AD%20Lv%C5%AF%2C%20U%20T%C5%99%C3%AD%20Lv%C5%AF%20294%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
+    },
+    {
         "id": 77632414,
         "url": "https://czap.cz/Sys/PublicProfile/77632414/5485226",
         "name": "Čiháková, Martina",
@@ -17341,6 +17341,15 @@
         "location": "Vaclavske namesti 11, Praha",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Vaclavske%20namesti%2011%2C%20Praha"
+    },
+    {
+        "id": 77656208,
+        "url": "https://czap.cz/Sys/PublicProfile/77656208/5485226",
+        "name": "Janoušková, Vladěna",
+        "membership": "Řádné členství",
+        "location": "momentálně nemám fyzické pracoviště, Nymburk",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=moment%C3%A1ln%C4%9B%20nem%C3%A1m%20fyzick%C3%A9%20pracovi%C5%A1t%C4%9B%2C%20Nymburk"
     },
     {
         "id": 77662415,
