@@ -8901,6 +8901,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Plach%C3%A9ho%2044%2C%20Plze%C5%88"
     },
     {
+        "id": 63614185,
+        "url": "https://czap.cz/Sys/PublicProfile/63614185/5485226",
+        "name": "Staňková, Anna",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Boleslavská 31, Brandýs nad Labem-Stará Boleslav",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Boleslavsk%C3%A1%2031%2C%20Brand%C3%BDs%20nad%20Labem-Star%C3%A1%20Boleslav"
+    },
+    {
         "id": 63615531,
         "url": "https://czap.cz/Sys/PublicProfile/63615531/5485226",
         "name": "Hartman, Michal",
@@ -17359,6 +17368,15 @@
         "location": "Malinovského náměstí 603/4, Brno",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Malinovsk%C3%A9ho%20n%C3%A1m%C4%9Bst%C3%AD%20603/4%2C%20Brno"
+    },
+    {
+        "id": 77664163,
+        "url": "https://czap.cz/Sys/PublicProfile/77664163/5485226",
+        "name": "Fojtíčková, Jana",
+        "membership": "Řádné členství",
+        "location": "Pražská 11,, Plzeň",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Pra%C5%BEsk%C3%A1%2011%2C%2C%20Plze%C5%88"
     },
     {
         "id": 77667251,
