@@ -4099,9 +4099,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885381/5485226",
         "name": "Bauerová, Kateřina",
         "membership": "Řádné členství",
-        "location": "Krupá 193, okr. Rakovník, Praha, Krupá okr. Rakovník",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Krup%C3%A1%20193%2C%20okr.%20Rakovn%C3%ADk%2C%20Praha%2C%20Krup%C3%A1%20okr.%20Rakovn%C3%ADk"
+        "location": "Národní 25/961, Praha 1, Národní 25/961, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%2025/961%2C%20Praha%201%2C%20N%C3%A1rodn%C3%AD%2025/961%2C%20Praha%201"
     },
     {
         "id": 58885382,
@@ -12456,6 +12456,15 @@
         "map_url": "https://mapy.cz/zakladni?q=%C5%A0vabinsk%C3%A9ho%2019%2C%20Ostrava"
     },
     {
+        "id": 68859265,
+        "url": "https://czap.cz/Sys/PublicProfile/68859265/5485226",
+        "name": "Nováková, Michaela",
+        "membership": "Řádné členství",
+        "location": "Velehradská 19, Praha 3",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Velehradsk%C3%A1%2019%2C%20Praha%203"
+    },
+    {
         "id": 68875679,
         "url": "https://czap.cz/Sys/PublicProfile/68875679/5485226",
         "name": "Maierová, Martina",
@@ -15583,9 +15592,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/74900838/5485226",
         "name": "Nejezchlebová, Monika",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Mojmírovo náměstí 27, Brno",
+        "location": "Vodova 35, Brno",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Mojm%C3%ADrovo%20n%C3%A1m%C4%9Bst%C3%AD%2027%2C%20Brno"
+        "map_url": "https://mapy.cz/zakladni?q=Vodova%2035%2C%20Brno"
     },
     {
         "id": 74904790,
