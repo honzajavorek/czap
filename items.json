@@ -6599,7 +6599,7 @@
     {
         "id": 61703583,
         "url": "https://czap.cz/Sys/PublicProfile/61703583/5485226",
-        "name": "krištienová, alžbeta",
+        "name": "Zetzmann, Alžbeta",
         "membership": "Řádné členství",
         "location": "Kukučínova 8, Bratislava",
         "availability": "Přijímám nové klienty",
@@ -6649,6 +6649,15 @@
         "location": "Na poříčí 12, Praha 1",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Na%20po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha%201"
+    },
+    {
+        "id": 61759788,
+        "url": "https://czap.cz/Sys/PublicProfile/61759788/5485226",
+        "name": "Váchová, Barbora",
+        "membership": "Řádné členství",
+        "location": "Šaldova 337/15, Praha 8",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%A0aldova%20337/15%2C%20Praha%208"
     },
     {
         "id": 61772711,
@@ -11921,7 +11930,7 @@
         "name": "Haklová, Pavla",
         "membership": "Řádné členství",
         "location": "Poliklinika Liberecká 677/15, Jablonec nad Nisou",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Poliklinika%20Libereck%C3%A1%20677/15%2C%20Jablonec%20nad%20Nisou"
     },
     {
@@ -13093,6 +13102,15 @@
         "location": "Masarykova 1325, Orlová - Lutyně, Masarykova 1325, Orlová - Lutyně",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Masarykova%201325%2C%20Orlov%C3%A1%20-%20Lutyn%C4%9B%2C%20Masarykova%201325%2C%20Orlov%C3%A1%20-%20Lutyn%C4%9B"
+    },
+    {
+        "id": 70034600,
+        "url": "https://czap.cz/Sys/PublicProfile/70034600/5485226",
+        "name": "Handlová, Šárka",
+        "membership": "Řádné členství",
+        "location": "Na okraji 1947, Brandýs n. L. - St. Boleslav",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20okraji%201947%2C%20Brand%C3%BDs%20n.%20L.%20-%20St.%20Boleslav"
     },
     {
         "id": 70040002,
@@ -14670,6 +14688,15 @@
         "map_url": "https://mapy.cz/zakladni?q=P%C5%99%C3%AD%C4%8Dn%C3%A1%20327/1%2C%20Hav%C3%AD%C5%99ov"
     },
     {
+        "id": 72584538,
+        "url": "https://czap.cz/Sys/PublicProfile/72584538/5485226",
+        "name": "Šindlerová, Ivana",
+        "membership": "Řádné členství",
+        "location": "Psychoterapeutické centrum Tavia, Nikoly Tesly 8, Praha 6",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Psychoterapeutick%C3%A9%20centrum%20Tavia%2C%20Nikoly%20Tesly%208%2C%20Praha%206"
+    },
+    {
         "id": 72584844,
         "url": "https://czap.cz/Sys/PublicProfile/72584844/5485226",
         "name": "Berounská, Helena",
@@ -16213,9 +16240,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/75999789/5485226",
         "name": "Pincosy, Karolina",
         "membership": "Řádné členství",
-        "location": "4UŠI, z.s., Valašské Meziříčí",
+        "location": "Hlavu vzhůru, Poláškova 75/15, Valašské Meziříčí",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=4U%C5%A0I%2C%20z.s.%2C%20Vala%C5%A1sk%C3%A9%20Mezi%C5%99%C3%AD%C4%8D%C3%AD"
+        "map_url": "https://mapy.cz/zakladni?q=Hlavu%20vzh%C5%AFru%2C%20Pol%C3%A1%C5%A1kova%2075/15%2C%20Vala%C5%A1sk%C3%A9%20Mezi%C5%99%C3%AD%C4%8D%C3%AD"
     },
     {
         "id": 76000205,
