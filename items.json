@@ -5693,7 +5693,7 @@
         "name": "Petrová, Kateřina",
         "membership": "Řádné členství",
         "location": "Lannova 205/16, České Budějovice",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Lannova%20205/16%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     },
     {
@@ -6874,15 +6874,6 @@
         "location": "Rašínova 102, Brno",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Ra%C5%A1%C3%ADnova%20102%2C%20Brno"
-    },
-    {
-        "id": 62109161,
-        "url": "https://czap.cz/Sys/PublicProfile/62109161/5485226",
-        "name": "Majtán, Tomáš",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Na Výtoni 2, Praha 2",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Na%20V%C3%BDtoni%202%2C%20Praha%202"
     },
     {
         "id": 62109257,
@@ -8807,7 +8798,7 @@
         "name": "Malaniuková, Zuzana",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Charkovská 24, Praha 10-Vršovice",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Charkovsk%C3%A1%2024%2C%20Praha%2010-Vr%C5%A1ovice"
     },
     {
