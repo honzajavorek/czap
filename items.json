@@ -8271,15 +8271,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Ocel%C3%A1%C5%99sk%C3%A1%2035/1354%2C%20Praha%209"
     },
     {
-        "id": 63307261,
-        "url": "https://czap.cz/Sys/PublicProfile/63307261/5485226",
-        "name": "Adamove, Jarmila",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Palác Ymca, Na Poříčí 1041/12, Praha 1",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Pal%C3%A1c%20Ymca%2C%20Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%201041/12%2C%20Praha%201"
-    },
-    {
         "id": 63317670,
         "url": "https://czap.cz/Sys/PublicProfile/63317670/5485226",
         "name": "Ouředníčková, Zuzana",
@@ -14197,9 +14188,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/71983697/5485226",
         "name": "Žert, Vojtěch",
         "membership": "Řádné členství",
-        "location": "Panská 397/2, Brno",
-        "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Pansk%C3%A1%20397/2%2C%20Brno"
+        "location": "nám. SNP 1771/33, Brno-sever-Černá Pole",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=n%C3%A1m.%20SNP%201771/33%2C%20Brno-sever-%C4%8Cern%C3%A1%20Pole"
     },
     {
         "id": 71983701,
@@ -16907,7 +16898,7 @@
         "name": "Machovská, Simona",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Fügnerova  646/11, Moravská Ostrava a Přívoz",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=F%C3%BCgnerova%20%20646/11%2C%20Moravsk%C3%A1%20Ostrava%20a%20P%C5%99%C3%ADvoz"
     },
     {
