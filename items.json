@@ -1521,15 +1521,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha%202"
     },
     {
-        "id": 58885062,
-        "url": "https://czap.cz/Sys/PublicProfile/58885062/5485226",
-        "name": "Hájková Klíčová, Kateřina",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Václavská 12a, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=V%C3%A1clavsk%C3%A1%2012a%2C%20Brno"
-    },
-    {
         "id": 58885063,
         "url": "https://czap.cz/Sys/PublicProfile/58885063/5485226",
         "name": "Onder, Jakub",
@@ -7700,7 +7691,7 @@
         "name": "Židlická, Anna",
         "membership": "Řádné členství",
         "location": "Kobližná 47, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Kobli%C5%BEn%C3%A1%2047%2C%20Brno"
     },
     {
@@ -15262,15 +15253,6 @@
         "location": "Robčice 34, 332 09 Útušice-Štěnovice, Plzeň, Robčice 34, 332 09 Útušice-Štěnovice, Plzeň",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Rob%C4%8Dice%2034%2C%20332%2009%20%C3%9Atu%C5%A1ice-%C5%A0t%C4%9Bnovice%2C%20Plze%C5%88%2C%20Rob%C4%8Dice%2034%2C%20332%2009%20%C3%9Atu%C5%A1ice-%C5%A0t%C4%9Bnovice%2C%20Plze%C5%88"
-    },
-    {
-        "id": 74279361,
-        "url": "https://czap.cz/Sys/PublicProfile/74279361/5485226",
-        "name": "Hladová, Nikol",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Palackého 12, Plzeň",
-        "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Palack%C3%A9ho%2012%2C%20Plze%C5%88"
     },
     {
         "id": 74381235,
