@@ -1238,7 +1238,7 @@
         "name": "Petříčková, Barbora",
         "membership": "Řádné členství",
         "location": "Podhorská 20, Jablonec nad Nisou",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Podhorsk%C3%A1%2020%2C%20Jablonec%20nad%20Nisou"
     },
     {
@@ -1409,7 +1409,7 @@
         "name": "Bachmanová, Jindra",
         "membership": "Řádné členství",
         "location": "Jeseniova 1151/55, Praha 3",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Jeseniova%201151/55%2C%20Praha%203"
     },
     {
@@ -3649,9 +3649,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885328/5485226",
         "name": "Ostrovský, Ondřej",
         "membership": "Řádné členství",
-        "location": "Palackého 12, Plzeň",
+        "location": "Sedláčkova 11, Plzeň",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Palack%C3%A9ho%2012%2C%20Plze%C5%88"
+        "map_url": "https://mapy.cz/zakladni?q=Sedl%C3%A1%C4%8Dkova%2011%2C%20Plze%C5%88"
     },
     {
         "id": 58885329,
@@ -7789,9 +7789,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/62812756/5485226",
         "name": "Jonášová, Petra",
         "membership": "Řádné členství",
-        "location": "I.P. Pavlova, Praha",
+        "location": "None, ",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=I.P.%20Pavlova%2C%20Praha"
+        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
     },
     {
         "id": 62818761,
@@ -11695,9 +11695,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68289293/5485226",
         "name": "Hájková, Kristýna",
         "membership": "Řádné členství",
-        "location": "Špitálka 16, Brno",
+        "location": "Pekařská 84, Brno",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=%C5%A0pit%C3%A1lka%2016%2C%20Brno"
+        "map_url": "https://mapy.cz/zakladni?q=Peka%C5%99sk%C3%A1%2084%2C%20Brno"
     },
     {
         "id": 68292301,
@@ -12157,15 +12157,6 @@
         "location": "Hellichova 9, Praha 1",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Hellichova%209%2C%20Praha%201"
-    },
-    {
-        "id": 68589210,
-        "url": "https://czap.cz/Sys/PublicProfile/68589210/5485226",
-        "name": "Prollová, Vladislava",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Husovo náměstí 38, Chomutov",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Husovo%20n%C3%A1m%C4%9Bst%C3%AD%2038%2C%20Chomutov"
     },
     {
         "id": 68590049,
@@ -16223,7 +16214,7 @@
         "name": "Gutzerová, Miriam",
         "membership": "Řádné členství",
         "location": "Husova 1667, Kadaň",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Husova%201667%2C%20Kada%C5%88"
     },
     {
