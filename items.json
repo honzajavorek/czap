@@ -2282,7 +2282,7 @@
         "name": "Hrešková, Lucia",
         "membership": "Řádné členství",
         "location": "Bardejovské Kúpele 1978/14, Bardejovské Kúpele",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Bardejovsk%C3%A9%20K%C3%BApele%201978/14%2C%20Bardejovsk%C3%A9%20K%C3%BApele"
     },
     {
@@ -3667,9 +3667,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885330/5485226",
         "name": "Finková, Zuzana",
         "membership": "Řádné členství",
-        "location": "Offiicce Park , Jablonského 640 / 2 , Praha 7, viz výše",
+        "location": "Ortennovo náměstí 9, Praha 7",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Offiicce%20Park%20%2C%20Jablonsk%C3%A9ho%20640%20/%202%20%2C%20Praha%207%2C%20viz%20v%C3%BD%C5%A1e"
+        "map_url": "https://mapy.cz/zakladni?q=Ortennovo%20n%C3%A1m%C4%9Bst%C3%AD%209%2C%20Praha%207"
     },
     {
         "id": 58885331,
@@ -7266,7 +7266,7 @@
         "id": 62358537,
         "url": "https://czap.cz/Sys/PublicProfile/62358537/5485226",
         "name": "Vovsová, Rut",
-        "membership": "Kandidátní členství - ve výcviku",
+        "membership": "Řádné členství",
         "location": "Na Žvahově 19, Praha 5",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Na%20%C5%BDvahov%C4%9B%2019%2C%20Praha%205"
@@ -9743,7 +9743,7 @@
         "name": "Kolářová, Marie",
         "membership": "Řádné členství",
         "location": "Březnice 485, Zlín",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=B%C5%99eznice%20485%2C%20Zl%C3%ADn"
     },
     {
