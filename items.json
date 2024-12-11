@@ -1435,9 +1435,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885052/5485226",
         "name": "Radosová, Jeanne",
         "membership": "Řádné členství",
-        "location": "Rváčov 9, Vysočina Rváčov/ Havlíčkův Brod, Rozkošská 2700, Vysočina Rváčov/ Havlíčkův Brod",
+        "location": "Rváčov 9, Vysočina Rváčov 539 01, Vysočina Rváčov",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Rv%C3%A1%C4%8Dov%209%2C%20Vyso%C4%8Dina%20Rv%C3%A1%C4%8Dov/%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod%2C%20Rozko%C5%A1sk%C3%A1%202700%2C%20Vyso%C4%8Dina%20Rv%C3%A1%C4%8Dov/%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod"
+        "map_url": "https://mapy.cz/zakladni?q=Rv%C3%A1%C4%8Dov%209%2C%20Vyso%C4%8Dina%20Rv%C3%A1%C4%8Dov%20539%2001%2C%20Vyso%C4%8Dina%20Rv%C3%A1%C4%8Dov"
     },
     {
         "id": 58885053,
@@ -1519,6 +1519,15 @@
         "location": "Vyšehradská 43, Praha 2",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha%202"
+    },
+    {
+        "id": 58885062,
+        "url": "https://czap.cz/Sys/PublicProfile/58885062/5485226",
+        "name": "Hájková Klíčová, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Václavská 12a, Brno",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=V%C3%A1clavsk%C3%A1%2012a%2C%20Brno"
     },
     {
         "id": 58885063,
@@ -6552,6 +6561,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Plou%C4%8Dnick%C3%A1%201079/22%2C%20Praha%204"
     },
     {
+        "id": 61668504,
+        "url": "https://czap.cz/Sys/PublicProfile/61668504/5485226",
+        "name": "Víšková, Michaela",
+        "membership": "Řádné členství",
+        "location": "Čajkovského 654/37, Jihlava",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C4%8Cajkovsk%C3%A9ho%20654/37%2C%20Jihlava"
+    },
+    {
         "id": 61674559,
         "url": "https://czap.cz/Sys/PublicProfile/61674559/5485226",
         "name": "Dobšíčková, Karolína",
@@ -6856,6 +6874,15 @@
         "location": "Rašínova 102, Brno",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Ra%C5%A1%C3%ADnova%20102%2C%20Brno"
+    },
+    {
+        "id": 62109161,
+        "url": "https://czap.cz/Sys/PublicProfile/62109161/5485226",
+        "name": "Majtán, Tomáš",
+        "membership": "Řádné členství",
+        "location": "Na Výtoni 2, Praha 2",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20V%C3%BDtoni%202%2C%20Praha%202"
     },
     {
         "id": 62109257,
@@ -8253,6 +8280,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Ocel%C3%A1%C5%99sk%C3%A1%2035/1354%2C%20Praha%209"
     },
     {
+        "id": 63307261,
+        "url": "https://czap.cz/Sys/PublicProfile/63307261/5485226",
+        "name": "Adamove, Jarmila",
+        "membership": "Řádné členství",
+        "location": "Palác Ymca, Na Poříčí 1041/12, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Pal%C3%A1c%20Ymca%2C%20Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%201041/12%2C%20Praha%201"
+    },
+    {
         "id": 63317670,
         "url": "https://czap.cz/Sys/PublicProfile/63317670/5485226",
         "name": "Ouředníčková, Zuzana",
@@ -8769,7 +8805,7 @@
         "id": 63548807,
         "url": "https://czap.cz/Sys/PublicProfile/63548807/5485226",
         "name": "Malaniuková, Zuzana",
-        "membership": "Kandidátní členství - ve výcviku",
+        "membership": "Řádné členství",
         "location": "Charkovská 24, Praha 10-Vršovice",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Charkovsk%C3%A1%2024%2C%20Praha%2010-Vr%C5%A1ovice"
@@ -9472,9 +9508,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/64406454/5485226",
         "name": "Procházková, Klára",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Příkop 2a, Brno",
+        "location": "Minská 13, Brno",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=P%C5%99%C3%ADkop%202a%2C%20Brno"
+        "map_url": "https://mapy.cz/zakladni?q=Minsk%C3%A1%2013%2C%20Brno"
     },
     {
         "id": 64420595,
@@ -11784,7 +11820,7 @@
         "id": 68342391,
         "url": "https://czap.cz/Sys/PublicProfile/68342391/5485226",
         "name": "Hejzlar, Štěpán",
-        "membership": "Kandidátní členství - ve výcviku",
+        "membership": "Řádné členství",
         "location": "Plachého 1874/44, Plzeň",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Plach%C3%A9ho%201874/44%2C%20Plze%C5%88"
@@ -12157,6 +12193,15 @@
         "location": "Hellichova 9, Praha 1",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Hellichova%209%2C%20Praha%201"
+    },
+    {
+        "id": 68589210,
+        "url": "https://czap.cz/Sys/PublicProfile/68589210/5485226",
+        "name": "Prollová, Vladislava",
+        "membership": "Řádné členství",
+        "location": "Husovo náměstí 38, Chomutov",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Husovo%20n%C3%A1m%C4%9Bst%C3%AD%2038%2C%20Chomutov"
     },
     {
         "id": 68590049,
@@ -14682,7 +14727,7 @@
         "id": 72708036,
         "url": "https://czap.cz/Sys/PublicProfile/72708036/5485226",
         "name": "Ešnerová, Veronika",
-        "membership": "Kandidátní členství - ve výcviku",
+        "membership": "Řádné členství",
         "location": "Krásova 798/12, Praha 3",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Kr%C3%A1sova%20798/12%2C%20Praha%203"
@@ -14791,9 +14836,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/73041697/5485226",
         "name": "Švejdová Jandová, Markéta",
         "membership": "Řádné členství",
-        "location": "Terronská 19, Praha 6",
+        "location": "Thámova 24, Praha 8",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Terronsk%C3%A1%2019%2C%20Praha%206"
+        "map_url": "https://mapy.cz/zakladni?q=Th%C3%A1mova%2024%2C%20Praha%208"
     },
     {
         "id": 73080372,
@@ -15237,6 +15282,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Rob%C4%8Dice%2034%2C%20332%2009%20%C3%9Atu%C5%A1ice-%C5%A0t%C4%9Bnovice%2C%20Plze%C5%88%2C%20Rob%C4%8Dice%2034%2C%20332%2009%20%C3%9Atu%C5%A1ice-%C5%A0t%C4%9Bnovice%2C%20Plze%C5%88"
     },
     {
+        "id": 74279361,
+        "url": "https://czap.cz/Sys/PublicProfile/74279361/5485226",
+        "name": "Hladová, Nikol",
+        "membership": "Řádné členství",
+        "location": "Perlová 14, Plzeň",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Perlov%C3%A1%2014%2C%20Plze%C5%88"
+    },
+    {
         "id": 74381235,
         "url": "https://czap.cz/Sys/PublicProfile/74381235/5485226",
         "name": "Danhoferová, Zdeňka",
@@ -15566,7 +15620,7 @@
         "name": "Rollová, Anna",
         "membership": "Řádné členství",
         "location": "Staropramenná 29, Praha 5",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Staropramenn%C3%A1%2029%2C%20Praha%205"
     },
     {
@@ -17269,6 +17323,15 @@
         "location": "Mandloňová 1136/12, Praha 9 - Hloubětín",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Mandlo%C5%88ov%C3%A1%201136/12%2C%20Praha%209%20-%20Hloub%C4%9Bt%C3%ADn"
+    },
+    {
+        "id": 77508456,
+        "url": "https://czap.cz/Sys/PublicProfile/77508456/5485226",
+        "name": "Holba, Lubomír",
+        "membership": "Řádné členství",
+        "location": "Znojemská 428, Hrušovany nad Jevišovkou",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Znojemsk%C3%A1%20428%2C%20Hru%C5%A1ovany%20nad%20Jevi%C5%A1ovkou"
     },
     {
         "id": 77511029,
