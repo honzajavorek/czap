@@ -5346,15 +5346,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Dobrovsk%C3%A9ho%2016%2C%20Praha%207"
     },
     {
-        "id": 59306674,
-        "url": "https://czap.cz/Sys/PublicProfile/59306674/5485226",
-        "name": "Šimůnková, Nina",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Budečská 9, Praha 2 - Vinohrady",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Bude%C4%8Dsk%C3%A1%209%2C%20Praha%202%20-%20Vinohrady"
-    },
-    {
         "id": 59323766,
         "url": "https://czap.cz/Sys/PublicProfile/59323766/5485226",
         "name": "Podloucká, Mgr.et Mgr. Barbora",
@@ -7016,7 +7007,7 @@
         "name": "Pažourek, Kateřina",
         "membership": "Řádné členství",
         "location": "Wuchterlova 8, Praha 6",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Wuchterlova%208%2C%20Praha%206"
     },
     {
@@ -7510,9 +7501,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/62619220/5485226",
         "name": "Křížová, Soňa",
         "membership": "Řádné členství",
-        "location": "Smetanovo náměstí 77, Litomyšl",
+        "location": "Havlíčkova 1118, Litomyšl",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Smetanovo%20n%C3%A1m%C4%9Bst%C3%AD%2077%2C%20Litomy%C5%A1l"
+        "map_url": "https://mapy.cz/zakladni?q=Havl%C3%AD%C4%8Dkova%201118%2C%20Litomy%C5%A1l"
     },
     {
         "id": 62639654,
@@ -13493,7 +13484,7 @@
     {
         "id": 70610485,
         "url": "https://czap.cz/Sys/PublicProfile/70610485/5485226",
-        "name": "Lindovská, Tereza",
+        "name": "Lindovská, et Mgr. Tereza",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Golčova 486, Praha 4 Kunratice",
         "availability": "Přijímám nové klienty",
