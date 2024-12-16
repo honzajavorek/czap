@@ -6575,7 +6575,7 @@
         "name": "Kováříková, Zdeňka",
         "membership": "Řádné členství",
         "location": "Kafkova 35, Praha 6",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Kafkova%2035%2C%20Praha%206"
     },
     {
@@ -14472,15 +14472,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Revolu%C4%8Dn%C3%AD%201082/8%2C%20Praha%201"
     },
     {
-        "id": 72343838,
-        "url": "https://czap.cz/Sys/PublicProfile/72343838/5485226",
-        "name": "Kreislová, Barbora",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Tylova 33, Plzeň",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Tylova%2033%2C%20Plze%C5%88"
-    },
-    {
         "id": 72344199,
         "url": "https://czap.cz/Sys/PublicProfile/72344199/5485226",
         "name": "Bína, Jan",
@@ -17503,5 +17494,23 @@
         "location": "Hamry nad Sázavou 464, Žďár nad Sázavou",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Hamry%20nad%20S%C3%A1zavou%20464%2C%20%C5%BD%C4%8F%C3%A1r%20nad%20S%C3%A1zavou"
+    },
+    {
+        "id": 77763186,
+        "url": "https://czap.cz/Sys/PublicProfile/77763186/5485226",
+        "name": "Loja, Radka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Senovážné nám. 978/23, Praha 1",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m.%20978/23%2C%20Praha%201"
+    },
+    {
+        "id": 77864111,
+        "url": "https://czap.cz/Sys/PublicProfile/77864111/5485226",
+        "name": "Kožušníková, Ivana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Výstavní 2224/8, Ostrava - Mariánské hory",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=V%C3%BDstavn%C3%AD%202224/8%2C%20Ostrava%20-%20Mari%C3%A1nsk%C3%A9%20hory"
     }
 ]
