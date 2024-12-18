@@ -734,7 +734,7 @@
         "name": "Francová, Dagmar",
         "membership": "Řádné členství",
         "location": "Balbínova 547/9, Ústí nad Labem",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Balb%C3%ADnova%20547/9%2C%20%C3%9Ast%C3%AD%20nad%20Labem"
     },
     {
@@ -12942,6 +12942,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Sokolsk%C3%A1%20113/8%2C%20Liberec"
     },
     {
+        "id": 69676865,
+        "url": "https://czap.cz/Sys/PublicProfile/69676865/5485226",
+        "name": "Hermanová, Jiřina",
+        "membership": "Řádné členství",
+        "location": "Národní 11, Praha 1",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%2011%2C%20Praha%201"
+    },
+    {
         "id": 69713185,
         "url": "https://czap.cz/Sys/PublicProfile/69713185/5485226",
         "name": "Frinta, Petr",
@@ -17172,6 +17181,15 @@
         "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%20%C3%9Astav%20Du%C5%A1evn%C3%ADho%20Zdrav%C3%AD%2C%20Topolov%C3%A1%2C%20Klecany"
     },
     {
+        "id": 77264050,
+        "url": "https://czap.cz/Sys/PublicProfile/77264050/5485226",
+        "name": "Vlachová, Petra",
+        "membership": "Řádné členství",
+        "location": "nám. sv. Václava 60/12, Stará Boleslav",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=n%C3%A1m.%20sv.%20V%C3%A1clava%2060/12%2C%20Star%C3%A1%20Boleslav"
+    },
+    {
         "id": 77264114,
         "url": "https://czap.cz/Sys/PublicProfile/77264114/5485226",
         "name": "Dubasová, Viktória",
@@ -17433,6 +17451,15 @@
         "map_url": "https://mapy.cz/zakladni?q=V%20Kruhu%20493/2a%2C%20Praha%206"
     },
     {
+        "id": 77678884,
+        "url": "https://czap.cz/Sys/PublicProfile/77678884/5485226",
+        "name": "Fialová, Denisa",
+        "membership": "Řádné členství",
+        "location": "Josefská 15, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Josefsk%C3%A1%2015%2C%20Brno"
+    },
+    {
         "id": 77717791,
         "url": "https://czap.cz/Sys/PublicProfile/77717791/5485226",
         "name": "Říhová, Žaneta",
@@ -17530,6 +17557,15 @@
         "location": "Václavské náměstí 837/11, Praha 1",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=V%C3%A1clavsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20837/11%2C%20Praha%201"
+    },
+    {
+        "id": 77766801,
+        "url": "https://czap.cz/Sys/PublicProfile/77766801/5485226",
+        "name": "Krupařová, Dominika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Fügnerovo námestí 3, Praha 2",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=F%C3%BCgnerovo%20n%C3%A1mest%C3%AD%203%2C%20Praha%202"
     },
     {
         "id": 77864111,
