@@ -2300,7 +2300,7 @@
         "name": "Dufková, Věra",
         "membership": "Řádné členství",
         "location": "Ortenovo náměstí 9, Praha 7",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Ortenovo%20n%C3%A1m%C4%9Bst%C3%AD%209%2C%20Praha%207"
     },
     {
@@ -4612,9 +4612,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885446/5485226",
         "name": "Gregor, Dušan",
         "membership": "Řádné členství",
-        "location": "Oldřichova 97/51, Praha 2",
+        "location": "Rašínova 1061, Úvaly",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Old%C5%99ichova%2097/51%2C%20Praha%202"
+        "map_url": "https://mapy.cz/zakladni?q=Ra%C5%A1%C3%ADnova%201061%2C%20%C3%9Avaly"
     },
     {
         "id": 58885447,
@@ -6574,9 +6574,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/61697462/5485226",
         "name": "Kováříková, Zdeňka",
         "membership": "Řádné členství",
-        "location": "Kafkova 35, Praha 6",
+        "location": "Haštalská 27, Praha 1",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Kafkova%2035%2C%20Praha%206"
+        "map_url": "https://mapy.cz/zakladni?q=Ha%C5%A1talsk%C3%A1%2027%2C%20Praha%201"
     },
     {
         "id": 61702859,
@@ -17539,6 +17539,15 @@
         "location": "Na Hlavní 14/41, Praha 8 Březiněves",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Na%20Hlavn%C3%AD%2014/41%2C%20Praha%208%20B%C5%99ezin%C4%9Bves"
+    },
+    {
+        "id": 77762298,
+        "url": "https://czap.cz/Sys/PublicProfile/77762298/5485226",
+        "name": "Jeníčková Musilová, Lenka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Nekvasilova 625/2, Praha 8",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Nekvasilova%20625/2%2C%20Praha%208"
     },
     {
         "id": 77763186,
