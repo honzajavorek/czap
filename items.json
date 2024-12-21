@@ -6611,7 +6611,7 @@
         "name": "Růžičková, Lenka Terezie",
         "membership": "Řádné členství",
         "location": "Vídeňská 16, Olomouc",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=V%C3%ADde%C5%88sk%C3%A1%2016%2C%20Olomouc"
     },
     {
@@ -8534,7 +8534,7 @@
     {
         "id": 63418510,
         "url": "https://czap.cz/Sys/PublicProfile/63418510/5485226",
-        "name": "Antes, Lucie",
+        "name": "Braborcová, Lucie",
         "membership": "Řádné členství",
         "location": "Velká 255/91, Hradec Králové",
         "availability": "Přijímám nové klienty",
@@ -14290,6 +14290,15 @@
         "location": "Jeseniova 2769/208, Praha 3",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Jeseniova%202769/208%2C%20Praha%203"
+    },
+    {
+        "id": 72040730,
+        "url": "https://czap.cz/Sys/PublicProfile/72040730/5485226",
+        "name": "Svačinová, Jana",
+        "membership": "Řádné členství",
+        "location": "Senovážné náměstí 23, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201"
     },
     {
         "id": 72051131,
