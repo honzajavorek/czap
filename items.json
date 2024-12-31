@@ -4901,7 +4901,7 @@
         "name": "Kalašová, Tereza",
         "membership": "Řádné členství",
         "location": "Dvorecká 289/23, Praha 4-Podolí",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Dvoreck%C3%A1%20289/23%2C%20Praha%204-Podol%C3%AD"
     },
     {
@@ -6993,15 +6993,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Kafkova%2029%2C%20Praha%206"
     },
     {
-        "id": 62187248,
-        "url": "https://czap.cz/Sys/PublicProfile/62187248/5485226",
-        "name": "Mrázová, Zoja",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Francouzská 4, Praha 2",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Francouzsk%C3%A1%204%2C%20Praha%202"
-    },
-    {
         "id": 62191958,
         "url": "https://czap.cz/Sys/PublicProfile/62191958/5485226",
         "name": "Pažourek, Kateřina",
@@ -8959,9 +8950,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63647996/5485226",
         "name": "Kolarová, Soňa",
         "membership": "Řádné členství",
-        "location": "Nad nemocnicí 424, Český Krumlov",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Nad%20nemocnic%C3%AD%20424%2C%20%C4%8Cesk%C3%BD%20Krumlov"
+        "location": "Vyšehrad 169, Český Krumlov",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Vy%C5%A1ehrad%20169%2C%20%C4%8Cesk%C3%BD%20Krumlov"
     },
     {
         "id": 63649207,
@@ -9833,7 +9824,7 @@
         "name": "Vaňková, Eliška",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "1.máje 97/25, Liberec",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=1.m%C3%A1je%2097/25%2C%20Liberec"
     },
     {
@@ -12551,7 +12542,7 @@
         "name": "Novotný, Miroslav",
         "membership": "Řádné členství",
         "location": "Plaňanská 573/1, Praha 10",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Pla%C5%88ansk%C3%A1%20573/1%2C%20Praha%2010"
     },
     {
@@ -13907,7 +13898,7 @@
     {
         "id": 71259818,
         "url": "https://czap.cz/Sys/PublicProfile/71259818/5485226",
-        "name": "Lauterbachová, Aneta",
+        "name": "Traore Lauterbach, Aneta",
         "membership": "Řádné členství",
         "location": "None, online",
         "availability": "Přijímám nové klienty",
