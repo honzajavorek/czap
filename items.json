@@ -3154,9 +3154,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885260/5485226",
         "name": "Směšná, Eva",
         "membership": "Řádné členství",
-        "location": "Slezská 1, Prostějov",
+        "location": "Okružní 115, Prostějov",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Slezsk%C3%A1%201%2C%20Prost%C4%9Bjov"
+        "map_url": "https://mapy.cz/zakladni?q=Okru%C5%BEn%C3%AD%20115%2C%20Prost%C4%9Bjov"
     },
     {
         "id": 58885261,
@@ -6660,6 +6660,15 @@
         "map_url": "https://mapy.cz/zakladni?q=%C4%8CSA%20287%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
     },
     {
+        "id": 61784444,
+        "url": "https://czap.cz/Sys/PublicProfile/61784444/5485226",
+        "name": "Krejčí, Matěj",
+        "membership": "Řádné členství",
+        "location": "Josefská 2, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Josefsk%C3%A1%202%2C%20Brno"
+    },
+    {
         "id": 61784651,
         "url": "https://czap.cz/Sys/PublicProfile/61784651/5485226",
         "name": "Klapal, Michal",
@@ -7949,7 +7958,7 @@
     {
         "id": 62958298,
         "url": "https://czap.cz/Sys/PublicProfile/62958298/5485226",
-        "name": "Vodenka Polák, Michaela",
+        "name": "Vodenka, Michaela",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Thámova 7, Praha 8",
         "availability": "Přijímám nové klienty",
@@ -14342,7 +14351,7 @@
         "name": "Chodúr, Tomáš",
         "membership": "Řádné členství",
         "location": "Masarykův onkologický ústav, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Masaryk%C5%AFv%20onkologick%C3%BD%20%C3%BAstav%2C%20Brno"
     },
     {
@@ -14996,7 +15005,7 @@
     {
         "id": 73626515,
         "url": "https://czap.cz/Sys/PublicProfile/73626515/5485226",
-        "name": "Komárková, Simona",
+        "name": "Vítovcová, Simona",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Příborská 20, Ostrava",
         "availability": "Přijímám nové klienty",
