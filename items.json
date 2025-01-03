@@ -2588,7 +2588,7 @@
         "name": "Gál, Jana",
         "membership": "Řádné členství",
         "location": "Na Příkopě 12, Praha 1",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Na%20P%C5%99%C3%ADkop%C4%9B%2012%2C%20Praha%201"
     },
     {
@@ -4739,7 +4739,7 @@
         "name": "Šedivá, Dana",
         "membership": "Řádné členství",
         "location": "Slovanská alej 28, Plzeň",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Slovansk%C3%A1%20alej%2028%2C%20Plze%C5%88"
     },
     {
@@ -12501,6 +12501,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Moravsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2C%203%2C%20Brno"
     },
     {
+        "id": 68929795,
+        "url": "https://czap.cz/Sys/PublicProfile/68929795/5485226",
+        "name": "Jazairi, Martin",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "E-clinic, Olšanská 3, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=E-clinic%2C%20Ol%C5%A1ansk%C3%A1%203%2C%20Praha"
+    },
+    {
         "id": 68930688,
         "url": "https://czap.cz/Sys/PublicProfile/68930688/5485226",
         "name": "Dostálová, Tereza",
@@ -13214,7 +13223,7 @@
     {
         "id": 70188188,
         "url": "https://czap.cz/Sys/PublicProfile/70188188/5485226",
-        "name": "Šmídová, Barbora",
+        "name": "Tiziani, Barbara",
         "membership": "Řádné členství",
         "location": "Na Poříčí 12, Praha 1",
         "availability": "Přijímám nové klienty",
@@ -17631,6 +17640,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Bezru%C4%8Dova%201%2C%20Plze%C5%88"
     },
     {
+        "id": 77912975,
+        "url": "https://czap.cz/Sys/PublicProfile/77912975/5485226",
+        "name": "Choudhary Palajová, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Na Malovance, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20Malovance%2C%20Praha%201"
+    },
+    {
         "id": 77927967,
         "url": "https://czap.cz/Sys/PublicProfile/77927967/5485226",
         "name": "Medeiros, Marek",
@@ -17638,5 +17656,41 @@
         "location": "Jelení 91/7a, Praha 1",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Jelen%C3%AD%2091/7a%2C%20Praha%201"
+    },
+    {
+        "id": 77941601,
+        "url": "https://czap.cz/Sys/PublicProfile/77941601/5485226",
+        "name": "Ehrenbergerová, Michaela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Americká 444/4, Praha 2",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Americk%C3%A1%20444/4%2C%20Praha%202"
+    },
+    {
+        "id": 77991693,
+        "url": "https://czap.cz/Sys/PublicProfile/77991693/5485226",
+        "name": "Šulcová, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Nekvasilova 692, Praha 8",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Nekvasilova%20692%2C%20Praha%208"
+    },
+    {
+        "id": 78013591,
+        "url": "https://czap.cz/Sys/PublicProfile/78013591/5485226",
+        "name": "Čepelák, Roman",
+        "membership": "Řádné členství",
+        "location": "Počernická 517, Praha 10",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Po%C4%8Dernick%C3%A1%20517%2C%20Praha%2010"
+    },
+    {
+        "id": 78048323,
+        "url": "https://czap.cz/Sys/PublicProfile/78048323/5485226",
+        "name": "Šestáková, Olga",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Máchova 18, Praha 2",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=M%C3%A1chova%2018%2C%20Praha%202"
     }
 ]
