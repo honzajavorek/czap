@@ -6260,7 +6260,7 @@
         "name": "Kaločová, Jenifer",
         "membership": "Řádné členství",
         "location": "Na Baranovci 30, Ostrava",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Na%20Baranovci%2030%2C%20Ostrava"
     },
     {
@@ -8836,6 +8836,15 @@
         "location": "Remedis, Vladimírova 14, Praha 4-Nusle",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Remedis%2C%20Vladim%C3%ADrova%2014%2C%20Praha%204-Nusle"
+    },
+    {
+        "id": 63574624,
+        "url": "https://czap.cz/Sys/PublicProfile/63574624/5485226",
+        "name": "Pijáček, Petr",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Kafkova 547/29, Praha",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Kafkova%20547/29%2C%20Praha"
     },
     {
         "id": 63574996,
@@ -14319,6 +14328,15 @@
         "map_url": "https://mapy.cz/zakladni?q=V%C3%ADtkovick%C3%A1%203056/2%2C%20Ostrava%20-%20Moravsk%C3%A1%20Ostrava"
     },
     {
+        "id": 72054856,
+        "url": "https://czap.cz/Sys/PublicProfile/72054856/5485226",
+        "name": "Cejp, Vladimír",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Ctiradova 10, Praha 4 - Nusle",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Ctiradova%2010%2C%20Praha%204%20-%20Nusle"
+    },
+    {
         "id": 72055225,
         "url": "https://czap.cz/Sys/PublicProfile/72055225/5485226",
         "name": "Šimlovičová, Karolína",
@@ -16160,7 +16178,7 @@
         "name": "Kohoutová, Adéla",
         "membership": "Řádné členství",
         "location": "Denisova 504, Jičín",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Denisova%20504%2C%20Ji%C4%8D%C3%ADn"
     },
     {
@@ -16240,9 +16258,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/75999392/5485226",
         "name": "Hanus, Richard",
         "membership": "Řádné členství",
-        "location": "U Uranie 1414/4, Praha 7",
+        "location": "Sadová 2112, Nymburk",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=U%20Uranie%201414/4%2C%20Praha%207"
+        "map_url": "https://mapy.cz/zakladni?q=Sadov%C3%A1%202112%2C%20Nymburk"
     },
     {
         "id": 75999789,
@@ -17685,6 +17703,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Po%C4%8Dernick%C3%A1%20517%2C%20Praha%2010"
     },
     {
+        "id": 78035598,
+        "url": "https://czap.cz/Sys/PublicProfile/78035598/5485226",
+        "name": "Ondrová, Veronika",
+        "membership": "Řádné členství",
+        "location": "17. listopadu 25, Boskovice",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=17.%20listopadu%2025%2C%20Boskovice"
+    },
+    {
         "id": 78048323,
         "url": "https://czap.cz/Sys/PublicProfile/78048323/5485226",
         "name": "Šestáková, Olga",
@@ -17692,5 +17719,23 @@
         "location": "Máchova 18, Praha 2",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=M%C3%A1chova%2018%2C%20Praha%202"
+    },
+    {
+        "id": 78076531,
+        "url": "https://czap.cz/Sys/PublicProfile/78076531/5485226",
+        "name": "Slavíková, Jana",
+        "membership": "Řádné členství",
+        "location": "Husovo nám. 64, Beroun",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Husovo%20n%C3%A1m.%2064%2C%20Beroun"
+    },
+    {
+        "id": 78080927,
+        "url": "https://czap.cz/Sys/PublicProfile/78080927/5485226",
+        "name": "Vazačová, Petra",
+        "membership": "Řádné členství",
+        "location": "Příkop 27/2a, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno"
     }
 ]
