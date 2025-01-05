@@ -3199,9 +3199,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885267/5485226",
         "name": "Nápravová, Zuzana",
         "membership": "Řádné členství",
-        "location": "Na Širokém III, Ohrobec - Károv",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Na%20%C5%A0irok%C3%A9m%20III%2C%20Ohrobec%20-%20K%C3%A1rov"
+        "location": "Na Širokém III/ 513, Ohrobec - Károv, Dolní Břežany",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20%C5%A0irok%C3%A9m%20III/%20513%2C%20Ohrobec%20-%20K%C3%A1rov%2C%20Doln%C3%AD%20B%C5%99e%C5%BEany"
     },
     {
         "id": 58885268,
@@ -7000,6 +7000,15 @@
         "location": "Kafkova 29, Praha 6",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Kafkova%2029%2C%20Praha%206"
+    },
+    {
+        "id": 62187248,
+        "url": "https://czap.cz/Sys/PublicProfile/62187248/5485226",
+        "name": "Mrázová, Zoja",
+        "membership": "Řádné členství",
+        "location": "Francouzská 4, Praha 2",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Francouzsk%C3%A1%204%2C%20Praha%202"
     },
     {
         "id": 62191958,
@@ -14836,9 +14845,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/72971645/5485226",
         "name": "Starchevska, Svitlana",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Prof.Veselého  493, Beroun",
+        "location": "Politických vězňů  185/10, 26601, Beroun 1, Beroun",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Prof.Vesel%C3%A9ho%20%20493%2C%20Beroun"
+        "map_url": "https://mapy.cz/zakladni?q=Politick%C3%BDch%20v%C4%9Bz%C5%88%C5%AF%20%20185/10%2C%2026601%2C%20Beroun%201%2C%20Beroun"
     },
     {
         "id": 72999865,
