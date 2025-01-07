@@ -1975,9 +1975,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885116/5485226",
         "name": "Hašková, Lucie",
         "membership": "Řádné členství",
-        "location": "Roháčova 66, Praha 3",
+        "location": "Nám. barikád 1, Praha 3",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Roh%C3%A1%C4%8Dova%2066%2C%20Praha%203"
+        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1m.%20barik%C3%A1d%201%2C%20Praha%203"
     },
     {
         "id": 58885117,
@@ -4111,15 +4111,6 @@
         "location": "Schubertova 1540/5, Chomutov",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Schubertova%201540/5%2C%20Chomutov"
-    },
-    {
-        "id": 58885384,
-        "url": "https://czap.cz/Sys/PublicProfile/58885384/5485226",
-        "name": "Hrdličková, Petra",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Sokolovská 1019/312a, Praha 9 - Vysočany",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Sokolovsk%C3%A1%201019/312a%2C%20Praha%209%20-%20Vyso%C4%8Dany"
     },
     {
         "id": 58885385,
@@ -12694,9 +12685,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/69215196/5485226",
         "name": "Müllerová, Daniela",
         "membership": "Řádné členství",
-        "location": "Senovážné náměstí 23, Praha 1",
+        "location": "V Jámě 8, Praha 1",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201"
+        "map_url": "https://mapy.cz/zakladni?q=V%20J%C3%A1m%C4%9B%208%2C%20Praha%201"
     },
     {
         "id": 69218714,
