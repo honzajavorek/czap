@@ -3046,9 +3046,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885247/5485226",
         "name": "Čiberová, Kateřina",
         "membership": "Řádné členství",
-        "location": "Trojanova 12, Praha",
+        "location": "Thámova 24, Praha",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Trojanova%2012%2C%20Praha"
+        "map_url": "https://mapy.cz/zakladni?q=Th%C3%A1mova%2024%2C%20Praha"
     },
     {
         "id": 58885249,
@@ -17649,6 +17649,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Palack%C3%A9ho%20t%C5%99%C3%ADda%20449/64%2C%20Nymburk"
     },
     {
+        "id": 77877818,
+        "url": "https://czap.cz/Sys/PublicProfile/77877818/5485226",
+        "name": "Skálová, Iveta",
+        "membership": "Řádné členství",
+        "location": "Jiráskova 703, MNICHOVICE",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Jir%C3%A1skova%20703%2C%20MNICHOVICE"
+    },
+    {
         "id": 77902997,
         "url": "https://czap.cz/Sys/PublicProfile/77902997/5485226",
         "name": "Grebeň, Tomáš",
@@ -17665,6 +17674,15 @@
         "location": "Na Malovance, Praha 1",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Na%20Malovance%2C%20Praha%201"
+    },
+    {
+        "id": 77919511,
+        "url": "https://czap.cz/Sys/PublicProfile/77919511/5485226",
+        "name": "Gustinová, Pavla",
+        "membership": "Řádné členství",
+        "location": "Hukvaldy 40, Hukvaldy",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Hukvaldy%2040%2C%20Hukvaldy"
     },
     {
         "id": 77927967,
@@ -17737,5 +17755,32 @@
         "location": "Příkop 27/2a, Brno",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno"
+    },
+    {
+        "id": 78105369,
+        "url": "https://czap.cz/Sys/PublicProfile/78105369/5485226",
+        "name": "Lebdušková, Daniela",
+        "membership": "Řádné členství",
+        "location": "Polepská 252, Kolín",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Polepsk%C3%A1%20252%2C%20Kol%C3%ADn"
+    },
+    {
+        "id": 78116778,
+        "url": "https://czap.cz/Sys/PublicProfile/78116778/5485226",
+        "name": "Pavlová, Dita",
+        "membership": "Řádné členství",
+        "location": "Nad Turbovou 928/8, Praha",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Nad%20Turbovou%20928/8%2C%20Praha"
+    },
+    {
+        "id": 78132063,
+        "url": "https://czap.cz/Sys/PublicProfile/78132063/5485226",
+        "name": "Petráková, Markéta",
+        "membership": "Řádné členství",
+        "location": "Ostrovského 253/3, Praha 5",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Ostrovsk%C3%A9ho%20253/3%2C%20Praha%205"
     }
 ]
