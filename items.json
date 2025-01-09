@@ -10022,7 +10022,7 @@
         "name": "Zálišová, Kateřina",
         "membership": "Řádné členství",
         "location": "Bulharská 61, Trutnov",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Bulharsk%C3%A1%2061%2C%20Trutnov"
     },
     {
@@ -12586,9 +12586,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/69010502/5485226",
         "name": "Škarvadová, Lucie",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Bruselská 14, Praha 2",
+        "location": "Lucemburská 3, Praha 2",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Bruselsk%C3%A1%2014%2C%20Praha%202"
+        "map_url": "https://mapy.cz/zakladni?q=Lucembursk%C3%A1%203%2C%20Praha%202"
     },
     {
         "id": 69021177,
@@ -17755,6 +17755,15 @@
         "location": "Příkop 27/2a, Brno",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno"
+    },
+    {
+        "id": 78099042,
+        "url": "https://czap.cz/Sys/PublicProfile/78099042/5485226",
+        "name": "Endrštová, Veronika",
+        "membership": "Řádné členství",
+        "location": "Blanická 25, Praha 2",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Blanick%C3%A1%2025%2C%20Praha%202"
     },
     {
         "id": 78105369,
