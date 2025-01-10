@@ -486,15 +486,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Slezsk%C3%A1%20108%2C%20Praha%203%2C%20Praha"
     },
     {
-        "id": 58884935,
-        "url": "https://czap.cz/Sys/PublicProfile/58884935/5485226",
-        "name": "Moravcová, Eliška",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "None, ",
-        "availability": "",
-        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
-    },
-    {
         "id": 58884936,
         "url": "https://czap.cz/Sys/PublicProfile/58884936/5485226",
         "name": "Trnková, Sabina",
@@ -13162,9 +13153,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/70068950/5485226",
         "name": "Křížová, Hana",
         "membership": "Řádné členství",
-        "location": "Haštalská 27, Praha 1",
+        "location": "Karlovo náměstí 317/5, Praha 2",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Ha%C5%A1talsk%C3%A1%2027%2C%20Praha%201"
+        "map_url": "https://mapy.cz/zakladni?q=Karlovo%20n%C3%A1m%C4%9Bst%C3%AD%20317/5%2C%20Praha%202"
     },
     {
         "id": 70070278,
@@ -17262,6 +17253,15 @@
         "map_url": "https://mapy.cz/zakladni?q=1.%20m%C3%A1je%2097/25%2C%20Liberec"
     },
     {
+        "id": 77352787,
+        "url": "https://czap.cz/Sys/PublicProfile/77352787/5485226",
+        "name": "Malá, Barbora",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Kappa Praha, Tychonova 44/3, Praha 6 - Hradčany",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Kappa%20Praha%2C%20Tychonova%2044/3%2C%20Praha%206%20-%20Hrad%C4%8Dany"
+    },
+    {
         "id": 77352912,
         "url": "https://czap.cz/Sys/PublicProfile/77352912/5485226",
         "name": "Doksanská, Ivana",
@@ -17471,7 +17471,7 @@
     {
         "id": 77664163,
         "url": "https://czap.cz/Sys/PublicProfile/77664163/5485226",
-        "name": "Fojtíčková, Jana",
+        "name": "Fojtíčková, /Jana",
         "membership": "Řádné členství",
         "location": "Pražská 11,, Plzeň",
         "availability": "Přijímám nové klienty",
