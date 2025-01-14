@@ -4883,7 +4883,7 @@
         "name": "Kalašová, Tereza",
         "membership": "Řádné členství",
         "location": "Dvorecká 289/23, Praha 4-Podolí",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Dvoreck%C3%A1%20289/23%2C%20Praha%204-Podol%C3%AD"
     },
     {
@@ -6511,9 +6511,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/61642630/5485226",
         "name": "Sarisová, Kristina",
         "membership": "Řádné členství",
-        "location": "Národní obrany 21, Praha 6",
+        "location": "Puškinovo náměstí 6, Praha 6",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%20obrany%2021%2C%20Praha%206"
+        "map_url": "https://mapy.cz/zakladni?q=Pu%C5%A1kinovo%20n%C3%A1m%C4%9Bst%C3%AD%206%2C%20Praha%206"
     },
     {
         "id": 61653865,
@@ -10282,9 +10282,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/66920701/5485226",
         "name": "Aujezká, Anna",
         "membership": "Řádné členství",
-        "location": "Náměstí SNP 33, Brno",
+        "location": "Sládkova 45, Brno",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1m%C4%9Bst%C3%AD%20SNP%2033%2C%20Brno"
+        "map_url": "https://mapy.cz/zakladni?q=Sl%C3%A1dkova%2045%2C%20Brno"
     },
     {
         "id": 66981733,
@@ -11479,9 +11479,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68164902/5485226",
         "name": "Žemla, Martin",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Na Březince 20, Praha 5",
+        "location": "Budečská 9, Praha 2",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Na%20B%C5%99ezince%2020%2C%20Praha%205"
+        "map_url": "https://mapy.cz/zakladni?q=Bude%C4%8Dsk%C3%A1%209%2C%20Praha%202"
     },
     {
         "id": 68175564,
@@ -15223,9 +15223,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/74118938/5485226",
         "name": "Markus, Radek",
         "membership": "Řádné členství",
-        "location": "Opletalova 25, Praha 1",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Opletalova%2025%2C%20Praha%201"
+        "location": "Štěpánská 35, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%A0t%C4%9Bp%C3%A1nsk%C3%A1%2035%2C%20Praha%201"
     },
     {
         "id": 74168819,
@@ -15287,7 +15287,7 @@
         "name": "Danhoferová, Zdeňka",
         "membership": "Řádné členství",
         "location": "Dolní 165/1, Žďár nad Sázavou",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Doln%C3%AD%20165/1%2C%20%C5%BD%C4%8F%C3%A1r%20nad%20S%C3%A1zavou"
     },
     {
@@ -17422,6 +17422,15 @@
         "location": "Na Doubkové 8, Praha 5",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Na%20Doubkov%C3%A9%208%2C%20Praha%205"
+    },
+    {
+        "id": 77649066,
+        "url": "https://czap.cz/Sys/PublicProfile/77649066/5485226",
+        "name": "Vykoukalová, Hana",
+        "membership": "Řádné členství",
+        "location": "Josefská 15, Brno",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Josefsk%C3%A1%2015%2C%20Brno"
     },
     {
         "id": 77649467,
