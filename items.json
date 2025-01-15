@@ -2786,7 +2786,7 @@
         "name": "Böhmová, Gabriela",
         "membership": "Řádné členství",
         "location": "Národní 60/28, Praha",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%2060/28%2C%20Praha"
     },
     {
@@ -6341,7 +6341,7 @@
         "name": "Hejný, Josef",
         "membership": "Řádné členství",
         "location": "Úvalská 3411/47, Praha 10",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=%C3%9Avalsk%C3%A1%203411/47%2C%20Praha%2010"
     },
     {
@@ -6514,15 +6514,6 @@
         "location": "Puškinovo náměstí 6, Praha 6",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Pu%C5%A1kinovo%20n%C3%A1m%C4%9Bst%C3%AD%206%2C%20Praha%206"
-    },
-    {
-        "id": 61653865,
-        "url": "https://czap.cz/Sys/PublicProfile/61653865/5485226",
-        "name": "Fialka, Matyáš",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Ploučnická 1079/22, Praha 4",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Plou%C4%8Dnick%C3%A1%201079/22%2C%20Praha%204"
     },
     {
         "id": 61668504,
@@ -9679,9 +9670,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/64667004/5485226",
         "name": "Zatloukalová, Jana",
         "membership": "Řádné členství",
-        "location": "Žerotínovo nám. 215/4, Olomouc",
+        "location": "Bořivojova 1, Olomouc",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=%C5%BDerot%C3%ADnovo%20n%C3%A1m.%20215/4%2C%20Olomouc"
+        "map_url": "https://mapy.cz/zakladni?q=Bo%C5%99ivojova%201%2C%20Olomouc"
     },
     {
         "id": 64675374,
@@ -12560,7 +12551,7 @@
         "name": "Štětková, Andrea",
         "membership": "Řádné členství",
         "location": "tř. 1. máje 618, Dobřany",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=t%C5%99.%201.%20m%C3%A1je%20618%2C%20Dob%C5%99any"
     },
     {
@@ -15469,15 +15460,6 @@
         "location": "Ibsenova 128/12, Olomouc",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Ibsenova%20128/12%2C%20Olomouc"
-    },
-    {
-        "id": 74745359,
-        "url": "https://czap.cz/Sys/PublicProfile/74745359/5485226",
-        "name": "Krásná, Alena",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Evropská 692/14, Praha 6",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Evropsk%C3%A1%20692/14%2C%20Praha%206"
     },
     {
         "id": 74750493,
