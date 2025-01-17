@@ -486,6 +486,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Slezsk%C3%A1%20108%2C%20Praha%203%2C%20Praha"
     },
     {
+        "id": 58884935,
+        "url": "https://czap.cz/Sys/PublicProfile/58884935/5485226",
+        "name": "Moravcová, Eliška",
+        "membership": "Řádné členství",
+        "location": "Příkop 2a, Brno",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=P%C5%99%C3%ADkop%202a%2C%20Brno"
+    },
+    {
         "id": 58884936,
         "url": "https://czap.cz/Sys/PublicProfile/58884936/5485226",
         "name": "Trnková, Sabina",
@@ -15628,9 +15637,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/74992566/5485226",
         "name": "Frňková, Pavla",
         "membership": "Řádné členství",
-        "location": "Fibichova 146/38, Adamov (okres Blansko)",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Fibichova%20146/38%2C%20Adamov%20%28okres%20Blansko%29"
+        "location": "None, ",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
     },
     {
         "id": 75011332,
