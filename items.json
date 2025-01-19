@@ -6741,6 +6741,15 @@
         "map_url": "https://mapy.cz/zakladni?q=online%2C%20online"
     },
     {
+        "id": 61827698,
+        "url": "https://czap.cz/Sys/PublicProfile/61827698/5485226",
+        "name": "Chaloupka, Otakar",
+        "membership": "Řádné členství",
+        "location": "Karmelitská 18, Praha 1  Malá strana",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Karmelitsk%C3%A1%2018%2C%20Praha%201%20%20Mal%C3%A1%20strana"
+    },
+    {
         "id": 61834972,
         "url": "https://czap.cz/Sys/PublicProfile/61834972/5485226",
         "name": "Křivancová, Kateřina",
@@ -10429,6 +10438,15 @@
         "location": "Bajkalská 666/8, Praha 10",
         "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Bajkalsk%C3%A1%20666/8%2C%20Praha%2010"
+    },
+    {
+        "id": 67109216,
+        "url": "https://czap.cz/Sys/PublicProfile/67109216/5485226",
+        "name": "Lapáčková, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Sídliště Hegerova 927, Polička",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=S%C3%ADdli%C5%A1t%C4%9B%20Hegerova%20927%2C%20Poli%C4%8Dka"
     },
     {
         "id": 67123021,
@@ -15264,6 +15282,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Na%20M%C3%AD%C4%8D%C3%A1nce%2032%2C%20Praha%206"
     },
     {
+        "id": 74051665,
+        "url": "https://czap.cz/Sys/PublicProfile/74051665/5485226",
+        "name": "Andrlová, Veronika",
+        "membership": "Řádné členství",
+        "location": "Vladislavova 373, Kutná Hora",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Vladislavova%20373%2C%20Kutn%C3%A1%20Hora"
+    },
+    {
         "id": 74101206,
         "url": "https://czap.cz/Sys/PublicProfile/74101206/5485226",
         "name": "Horká, Anna",
@@ -15529,9 +15556,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/74745359/5485226",
         "name": "Krásná, Alena",
         "membership": "Řádné členství",
-        "location": "Evropská 692/14, Praha 6",
+        "location": "Evropska 1, Praha",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Evropsk%C3%A1%20692/14%2C%20Praha%206"
+        "map_url": "https://mapy.cz/zakladni?q=Evropska%201%2C%20Praha"
     },
     {
         "id": 74750493,
@@ -16785,6 +16812,15 @@
         "map_url": "https://mapy.cz/zakladni?q=%C4%8Cs.%20arm%C3%A1dy%201328/9%2C%20Kop%C5%99ivnice"
     },
     {
+        "id": 76941213,
+        "url": "https://czap.cz/Sys/PublicProfile/76941213/5485226",
+        "name": "Lahodová, Kamila",
+        "membership": "Řádné členství",
+        "location": "Žižkova třída 309/12, České Budějovice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%BDi%C5%BEkova%20t%C5%99%C3%ADda%20309/12%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
+    },
+    {
         "id": 76948028,
         "url": "https://czap.cz/Sys/PublicProfile/76948028/5485226",
         "name": "Orlíková, Hana",
@@ -17892,6 +17928,24 @@
         "map_url": "https://mapy.cz/zakladni?q=Palack%C3%A9ho%20t%C5%99.%201644/8%2C%20Brno"
     },
     {
+        "id": 78172701,
+        "url": "https://czap.cz/Sys/PublicProfile/78172701/5485226",
+        "name": "Murariková, Kamila",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Záhorského 886/4, Praha 5",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Z%C3%A1horsk%C3%A9ho%20886/4%2C%20Praha%205"
+    },
+    {
+        "id": 78185901,
+        "url": "https://czap.cz/Sys/PublicProfile/78185901/5485226",
+        "name": "Horecká, Miroslava",
+        "membership": "Řádné členství",
+        "location": "Smetanova 1284/32, Tábor",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Smetanova%201284/32%2C%20T%C3%A1bor"
+    },
+    {
         "id": 78193889,
         "url": "https://czap.cz/Sys/PublicProfile/78193889/5485226",
         "name": "Dušková, Eva",
@@ -17899,6 +17953,15 @@
         "location": "Rozsedly 20, Sušice, Rozsedly 20, Sušice",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Rozsedly%2020%2C%20Su%C5%A1ice%2C%20Rozsedly%2020%2C%20Su%C5%A1ice"
+    },
+    {
+        "id": 78200856,
+        "url": "https://czap.cz/Sys/PublicProfile/78200856/5485226",
+        "name": "Urbanová, Dana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "KC Riaps, Chelčického 39/842, Praha 3",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=KC%20Riaps%2C%20Chel%C4%8Dick%C3%A9ho%2039/842%2C%20Praha%203"
     },
     {
         "id": 78248274,
