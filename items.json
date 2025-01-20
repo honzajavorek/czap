@@ -15905,7 +15905,7 @@
     {
         "id": 75391551,
         "url": "https://czap.cz/Sys/PublicProfile/75391551/5485226",
-        "name": "Horváthová, Monika",
+        "name": "Gerber, Monika",
         "membership": "Řádné členství",
         "location": "Dačického 15, Praha 4 - Nusle",
         "availability": "Info o dostupnosti na vyžádání",
@@ -17919,6 +17919,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Karlovo%20n%C3%A1m%C4%9Bst%C3%AD%205%2C%20Praha%202%20-%20Nov%C3%A9%20M%C4%9Bsto"
     },
     {
+        "id": 78170375,
+        "url": "https://czap.cz/Sys/PublicProfile/78170375/5485226",
+        "name": "Holubová, Tereza",
+        "membership": "Řádné členství",
+        "location": "Pod koupalištěm 881, Kosmonosy",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Pod%20koupali%C5%A1t%C4%9Bm%20881%2C%20Kosmonosy"
+    },
+    {
         "id": 78170790,
         "url": "https://czap.cz/Sys/PublicProfile/78170790/5485226",
         "name": "Pokluda, Jan",
@@ -17946,6 +17955,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Smetanova%201284/32%2C%20T%C3%A1bor"
     },
     {
+        "id": 78188842,
+        "url": "https://czap.cz/Sys/PublicProfile/78188842/5485226",
+        "name": "Holmes, Anastasiia",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "neuvedeno, neuvedeno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=neuvedeno%2C%20neuvedeno"
+    },
+    {
         "id": 78193889,
         "url": "https://czap.cz/Sys/PublicProfile/78193889/5485226",
         "name": "Dušková, Eva",
@@ -17962,6 +17980,15 @@
         "location": "KC Riaps, Chelčického 39/842, Praha 3",
         "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=KC%20Riaps%2C%20Chel%C4%8Dick%C3%A9ho%2039/842%2C%20Praha%203"
+    },
+    {
+        "id": 78213779,
+        "url": "https://czap.cz/Sys/PublicProfile/78213779/5485226",
+        "name": "Koreš, Jiří",
+        "membership": "Řádné členství",
+        "location": "Novohradská 1452/1, České Budějovice",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Novohradsk%C3%A1%201452/1%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     },
     {
         "id": 78248274,
