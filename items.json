@@ -10616,7 +10616,7 @@
         "name": "Hlavicová, Karla",
         "membership": "Řádné členství",
         "location": "Kobližná 19, Brno",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Kobli%C5%BEn%C3%A1%2019%2C%20Brno"
     },
     {
@@ -10899,15 +10899,6 @@
         "map_url": "https://mapy.cz/zakladni?q=ul.Tyr%C5%A1e%20a%20F%C3%BCgnera%20105/7%2C%20%C5%98%C3%AD%C4%8Dany%20u%20Prahy"
     },
     {
-        "id": 67681858,
-        "url": "https://czap.cz/Sys/PublicProfile/67681858/5485226",
-        "name": "Kasalová, Vanda",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Majakovského 707/29, Karlovy Vary- Rybáře",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Majakovsk%C3%A9ho%20707/29%2C%20Karlovy%20Vary-%20Ryb%C3%A1%C5%99e"
-    },
-    {
         "id": 67697965,
         "url": "https://czap.cz/Sys/PublicProfile/67697965/5485226",
         "name": "Kykalová, Martina",
@@ -11180,7 +11171,7 @@
     {
         "id": 67882897,
         "url": "https://czap.cz/Sys/PublicProfile/67882897/5485226",
-        "name": "Jelínková, Petra",
+        "name": "Valeš Jelínková, Petra",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Budečská 35, Praha 2",
         "availability": "Přijímám nové klienty",
@@ -17685,6 +17676,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Nekvasilova%20625/2%2C%20Praha%208"
     },
     {
+        "id": 77762310,
+        "url": "https://czap.cz/Sys/PublicProfile/77762310/5485226",
+        "name": "Schindler, Jana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Husova 64/20, Poděbrady",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Husova%2064/20%2C%20Pod%C4%9Bbrady"
+    },
+    {
         "id": 77762478,
         "url": "https://czap.cz/Sys/PublicProfile/77762478/5485226",
         "name": "Sodomková, Barbora",
@@ -17883,6 +17883,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Polepsk%C3%A1%20252%2C%20Kol%C3%ADn"
     },
     {
+        "id": 78116284,
+        "url": "https://czap.cz/Sys/PublicProfile/78116284/5485226",
+        "name": "Běhounková, Leona",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Ohradní 20, Praha 4 - Michle",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Ohradn%C3%AD%2020%2C%20Praha%204%20-%20Michle"
+    },
+    {
         "id": 78116778,
         "url": "https://czap.cz/Sys/PublicProfile/78116778/5485226",
         "name": "Pavlová, Dita",
@@ -17890,6 +17899,15 @@
         "location": "Nad Turbovou 928/8, Praha",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Nad%20Turbovou%20928/8%2C%20Praha"
+    },
+    {
+        "id": 78116917,
+        "url": "https://czap.cz/Sys/PublicProfile/78116917/5485226",
+        "name": "Jasenková, Zuzana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Osadní 1466/3, Osadní 1466/3",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Osadn%C3%AD%201466/3%2C%20Osadn%C3%AD%201466/3"
     },
     {
         "id": 78132063,
