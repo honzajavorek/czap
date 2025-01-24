@@ -6457,9 +6457,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/61498819/5485226",
         "name": "Fockeová, Erika",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Bubenské nábřeží 306/13, Praha",
+        "location": "Mlýnská 166, Lipová",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Bubensk%C3%A9%20n%C3%A1b%C5%99e%C5%BE%C3%AD%20306/13%2C%20Praha"
+        "map_url": "https://mapy.cz/zakladni?q=Ml%C3%BDnsk%C3%A1%20166%2C%20Lipov%C3%A1"
     },
     {
         "id": 61510429,
@@ -7097,7 +7097,7 @@
         "name": "Soukup, Jan",
         "membership": "Řádné členství",
         "location": "Nad Štolou 18, Praha 7 - Holešovice",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Nad%20%C5%A0tolou%2018%2C%20Praha%207%20-%20Hole%C5%A1ovice"
     },
     {
@@ -10897,6 +10897,15 @@
         "location": "ul.Tyrše a Fügnera 105/7, Říčany u Prahy",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=ul.Tyr%C5%A1e%20a%20F%C3%BCgnera%20105/7%2C%20%C5%98%C3%AD%C4%8Dany%20u%20Prahy"
+    },
+    {
+        "id": 67681858,
+        "url": "https://czap.cz/Sys/PublicProfile/67681858/5485226",
+        "name": "Kasalová, Vanda",
+        "membership": "Řádné členství",
+        "location": "Majakovského 707/29, Karlovy Vary- Rybáře",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Majakovsk%C3%A9ho%20707/29%2C%20Karlovy%20Vary-%20Ryb%C3%A1%C5%99e"
     },
     {
         "id": 67697965,
@@ -14719,9 +14728,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/72545138/5485226",
         "name": "Šterbáková, Daniela",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Milady Horákové 64/101, Praha 6 - Hradčany",
+        "location": "Na pěšinách 89/66, Praha 8 - Kobylisy",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Milady%20Hor%C3%A1kov%C3%A9%2064/101%2C%20Praha%206%20-%20Hrad%C4%8Dany"
+        "map_url": "https://mapy.cz/zakladni?q=Na%20p%C4%9B%C5%A1in%C3%A1ch%2089/66%2C%20Praha%208%20-%20Kobylisy"
     },
     {
         "id": 72552118,
@@ -17766,6 +17775,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Bezru%C4%8Dova%201%2C%20Plze%C5%88"
     },
     {
+        "id": 77903084,
+        "url": "https://czap.cz/Sys/PublicProfile/77903084/5485226",
+        "name": "Jiráková, Barbora",
+        "membership": "Řádné členství",
+        "location": "Riegrovo náměstí 33/6, Poděbrady",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Riegrovo%20n%C3%A1m%C4%9Bst%C3%AD%2033/6%2C%20Pod%C4%9Bbrady"
+    },
+    {
         "id": 77912975,
         "url": "https://czap.cz/Sys/PublicProfile/77912975/5485226",
         "name": "Choudhary Palajová, Kateřina",
@@ -18014,8 +18032,17 @@
         "name": "Koreš, Jiří",
         "membership": "Řádné členství",
         "location": "Novohradská 1452/1, České Budějovice",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Novohradsk%C3%A1%201452/1%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
+    },
+    {
+        "id": 78244879,
+        "url": "https://czap.cz/Sys/PublicProfile/78244879/5485226",
+        "name": "Havránek, Vlastimil",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "1. máje 97/25, Liberec",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=1.%20m%C3%A1je%2097/25%2C%20Liberec"
     },
     {
         "id": 78248274,
@@ -18025,5 +18052,59 @@
         "location": "Kavčí plácek 121, Hradec Králové",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Kav%C4%8D%C3%AD%20pl%C3%A1cek%20121%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
+    },
+    {
+        "id": 78326727,
+        "url": "https://czap.cz/Sys/PublicProfile/78326727/5485226",
+        "name": "Jobánek, Jiří",
+        "membership": "Řádné členství",
+        "location": "Blanenská 1191, Kuřim",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Blanensk%C3%A1%201191%2C%20Ku%C5%99im"
+    },
+    {
+        "id": 78326952,
+        "url": "https://czap.cz/Sys/PublicProfile/78326952/5485226",
+        "name": "Jagrik, Filip",
+        "membership": "Řádné členství",
+        "location": "Malířská 1, Praha 7",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Mal%C3%AD%C5%99sk%C3%A1%201%2C%20Praha%207"
+    },
+    {
+        "id": 78360253,
+        "url": "https://czap.cz/Sys/PublicProfile/78360253/5485226",
+        "name": "Demeterová, Pavla",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Sokolovska 407, Kopřivnice",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Sokolovska%20407%2C%20Kop%C5%99ivnice"
+    },
+    {
+        "id": 78377047,
+        "url": "https://czap.cz/Sys/PublicProfile/78377047/5485226",
+        "name": "Štěpánková, Veronika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Psychiatrická nemocnice Rozkošská 2322, Havlíčkův Brod",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Psychiatrick%C3%A1%20nemocnice%20Rozko%C5%A1sk%C3%A1%202322%2C%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod"
+    },
+    {
+        "id": 78483000,
+        "url": "https://czap.cz/Sys/PublicProfile/78483000/5485226",
+        "name": "Gertnerová, Ilona",
+        "membership": "Řádné členství",
+        "location": "Antonínská 637/27, Dolní Kounice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Anton%C3%ADnsk%C3%A1%20637/27%2C%20Doln%C3%AD%20Kounice"
+    },
+    {
+        "id": 78483401,
+        "url": "https://czap.cz/Sys/PublicProfile/78483401/5485226",
+        "name": "Švarcová, Kateřina",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Lucemburská 1578/3, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Lucembursk%C3%A1%201578/3%2C%20Praha"
     }
 ]
