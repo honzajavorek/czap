@@ -6323,7 +6323,7 @@
         "name": "Zelená, Markéta",
         "membership": "Řádné členství",
         "location": "Muchova 33, Brno",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Muchova%2033%2C%20Brno"
     },
     {
@@ -6637,9 +6637,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/61759788/5485226",
         "name": "Váchová, Barbora",
         "membership": "Řádné členství",
-        "location": "Šaldova 337/15, Praha 8",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=%C5%A0aldova%20337/15%2C%20Praha%208"
+        "location": "Ostrovského 253/3, Praha 5",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Ostrovsk%C3%A9ho%20253/3%2C%20Praha%205"
     },
     {
         "id": 61772711,
