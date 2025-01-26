@@ -6556,9 +6556,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/61674559/5485226",
         "name": "Dobšíčková, Karolína",
         "membership": "Řádné členství",
-        "location": "B. Martinů 980, Lanškroun",
+        "location": "B. Němcové 127, Lanškroun",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=B.%20Martin%C5%AF%20980%2C%20Lan%C5%A1kroun"
+        "map_url": "https://mapy.cz/zakladni?q=B.%20N%C4%9Bmcov%C3%A9%20127%2C%20Lan%C5%A1kroun"
     },
     {
         "id": 61697462,
@@ -9205,15 +9205,6 @@
         "location": "Nad Smetankou 225/2, Praha 9",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Nad%20Smetankou%20225/2%2C%20Praha%209"
-    },
-    {
-        "id": 63896846,
-        "url": "https://czap.cz/Sys/PublicProfile/63896846/5485226",
-        "name": "Dolhova, Olena",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Dům Radost, Nám. Winstona Churchilla 1800/2, Praha-3 - Žižkov",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=D%C5%AFm%20Radost%2C%20N%C3%A1m.%20Winstona%20Churchilla%201800/2%2C%20Praha-3%20-%20%C5%BDi%C5%BEkov"
     },
     {
         "id": 63901626,
