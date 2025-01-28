@@ -5756,7 +5756,7 @@
         "name": "Valová, Alžbeta",
         "membership": "Řádné členství",
         "location": "Dvořákova 13, Brno",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Dvo%C5%99%C3%A1kova%2013%2C%20Brno"
     },
     {
@@ -9205,6 +9205,15 @@
         "location": "Nad Smetankou 225/2, Praha 9",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Nad%20Smetankou%20225/2%2C%20Praha%209"
+    },
+    {
+        "id": 63896846,
+        "url": "https://czap.cz/Sys/PublicProfile/63896846/5485226",
+        "name": "Dolhova, Olena",
+        "membership": "Řádné členství",
+        "location": "Dům Radost, Nám. Winstona Churchilla 1800/2, Praha-3 - Žižkov",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=D%C5%AFm%20Radost%2C%20N%C3%A1m.%20Winstona%20Churchilla%201800/2%2C%20Praha-3%20-%20%C5%BDi%C5%BEkov"
     },
     {
         "id": 63901626,
@@ -18043,6 +18052,15 @@
         "location": "Kavčí plácek 121, Hradec Králové",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Kav%C4%8D%C3%AD%20pl%C3%A1cek%20121%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
+    },
+    {
+        "id": 78248374,
+        "url": "https://czap.cz/Sys/PublicProfile/78248374/5485226",
+        "name": "Motl, Jiří",
+        "membership": "Řádné členství",
+        "location": "Mánesova 8, Praha 2",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=M%C3%A1nesova%208%2C%20Praha%202"
     },
     {
         "id": 78326727,
