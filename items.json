@@ -1332,6 +1332,15 @@
         "map_url": "https://mapy.cz/zakladni?q=T%C3%BDnsk%C3%A1%20uli%C4%8Dka%206%2C%20Praha%201"
     },
     {
+        "id": 58885040,
+        "url": "https://czap.cz/Sys/PublicProfile/58885040/5485226",
+        "name": "Odstrčil Vlachynská, Kateřina",
+        "membership": "Řádné členství",
+        "location": "None, ",
+        "availability": "",
+        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
+    },
+    {
         "id": 58885041,
         "url": "https://czap.cz/Sys/PublicProfile/58885041/5485226",
         "name": "Kolář, Jan",
@@ -14661,15 +14670,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Revolu%C4%8Dn%C3%AD%2098%2C%20Plze%C5%88%20-%20Lobzy"
     },
     {
-        "id": 72442849,
-        "url": "https://czap.cz/Sys/PublicProfile/72442849/5485226",
-        "name": "Králová, Josefína",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Brno, Brno",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Brno%2C%20Brno"
-    },
-    {
         "id": 72443144,
         "url": "https://czap.cz/Sys/PublicProfile/72443144/5485226",
         "name": "Böhmová, Gabriela",
@@ -15556,9 +15556,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/74745359/5485226",
         "name": "Krásná, Alena",
         "membership": "Řádné členství",
-        "location": "Evropska 1, Praha",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Evropska%201%2C%20Praha"
+        "location": "Evropská 114, Praha",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Evropsk%C3%A1%20114%2C%20Praha"
     },
     {
         "id": 74750493,
@@ -15887,7 +15887,7 @@
     {
         "id": 75254095,
         "url": "https://czap.cz/Sys/PublicProfile/75254095/5485226",
-        "name": "Olivová, Alena",
+        "name": "Gogolínová, Alena",
         "membership": "Řádné členství",
         "location": "Sukova 4, Brno",
         "availability": "Info o dostupnosti na vyžádání",
@@ -17113,9 +17113,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/77110484/5485226",
         "name": "Zemánková, Kateřina",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Vlastislavova 152/4, Praha 4 – Nusle",
+        "location": "Národní 60/28, Praha 1 – Nové Měso",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Vlastislavova%20152/4%2C%20Praha%204%20%E2%80%93%20Nusle"
+        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%2060/28%2C%20Praha%201%20%E2%80%93%20Nov%C3%A9%20M%C4%9Bso"
     },
     {
         "id": 77117736,
@@ -17901,6 +17901,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Polepsk%C3%A1%20252%2C%20Kol%C3%ADn"
     },
     {
+        "id": 78109387,
+        "url": "https://czap.cz/Sys/PublicProfile/78109387/5485226",
+        "name": "Slivka, Michal",
+        "membership": "Řádné členství",
+        "location": "CAP - následná péče, Doudlevecká 71, Plzeň",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=CAP%20-%20n%C3%A1sledn%C3%A1%20p%C3%A9%C4%8De%2C%20Doudleveck%C3%A1%2071%2C%20Plze%C5%88"
+    },
+    {
         "id": 78116284,
         "url": "https://czap.cz/Sys/PublicProfile/78116284/5485226",
         "name": "Běhounková, Leona",
@@ -18099,6 +18108,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Psychiatrick%C3%A1%20nemocnice%20Rozko%C5%A1sk%C3%A1%202322%2C%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod"
     },
     {
+        "id": 78389568,
+        "url": "https://czap.cz/Sys/PublicProfile/78389568/5485226",
+        "name": "Kučerová, Andrea",
+        "membership": "Řádné členství",
+        "location": "Perlová 3, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Perlov%C3%A1%203%2C%20Praha%201"
+    },
+    {
         "id": 78483000,
         "url": "https://czap.cz/Sys/PublicProfile/78483000/5485226",
         "name": "Gertnerová, Ilona",
@@ -18115,5 +18133,50 @@
         "location": "Lucemburská 1578/3, Praha",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Lucembursk%C3%A1%201578/3%2C%20Praha"
+    },
+    {
+        "id": 78530682,
+        "url": "https://czap.cz/Sys/PublicProfile/78530682/5485226",
+        "name": "Drazdíková, Hana",
+        "membership": "Řádné členství",
+        "location": "Revoluční 8, Praha",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Revolu%C4%8Dn%C3%AD%208%2C%20Praha"
+    },
+    {
+        "id": 78560790,
+        "url": "https://czap.cz/Sys/PublicProfile/78560790/5485226",
+        "name": "Mikošková, Jitka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Pánská 9, Olomouc",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=P%C3%A1nsk%C3%A1%209%2C%20Olomouc"
+    },
+    {
+        "id": 78635388,
+        "url": "https://czap.cz/Sys/PublicProfile/78635388/5485226",
+        "name": "Plecháčková, Michaela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Tovární 486/7, Ostrava - Mar. Hory",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Tov%C3%A1rn%C3%AD%20486/7%2C%20Ostrava%20-%20Mar.%20Hory"
+    },
+    {
+        "id": 78649926,
+        "url": "https://czap.cz/Sys/PublicProfile/78649926/5485226",
+        "name": "Lačev, Alek",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Durychova 101/66, Praha 4",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Durychova%20101/66%2C%20Praha%204"
+    },
+    {
+        "id": 78704580,
+        "url": "https://czap.cz/Sys/PublicProfile/78704580/5485226",
+        "name": "Dušinská, Katarína",
+        "membership": "Řádné členství",
+        "location": "Nová cvernovka - Račianska 78, Bratislava",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Nov%C3%A1%20cvernovka%20-%20Ra%C4%8Dianska%2078%2C%20Bratislava"
     }
 ]
