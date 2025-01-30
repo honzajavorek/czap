@@ -7259,7 +7259,7 @@
         "name": "Polášková, Kristýna",
         "membership": "Řádné členství",
         "location": "Vyšehradská 43 (čtvrtek), Lublaňská 5/57 (úterý a středa), Praha 2",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%20%28%C4%8Dtvrtek%29%2C%20Lubla%C5%88sk%C3%A1%205/57%20%28%C3%BAter%C3%BD%20a%20st%C5%99eda%29%2C%20Praha%202"
     },
     {
@@ -8717,7 +8717,7 @@
         "name": "Soukupová, Veronika",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Lipenská 869/17, České Budějovice",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Lipensk%C3%A1%20869/17%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     },
     {
@@ -18151,6 +18151,15 @@
         "location": "Pánská 9, Olomouc",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=P%C3%A1nsk%C3%A1%209%2C%20Olomouc"
+    },
+    {
+        "id": 78563885,
+        "url": "https://czap.cz/Sys/PublicProfile/78563885/5485226",
+        "name": "Slavík, Lukáš",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Krapkova 709/4, Olomouc",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Krapkova%20709/4%2C%20Olomouc"
     },
     {
         "id": 78635388,
