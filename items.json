@@ -12145,9 +12145,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68549674/5485226",
         "name": "Lehečka, Tereza",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Hálkova 2, Praha 2",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=H%C3%A1lkova%202%2C%20Praha%202"
+        "location": "V Jámě 1, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=V%20J%C3%A1m%C4%9B%201%2C%20Praha%201"
     },
     {
         "id": 68552785,
@@ -14670,6 +14670,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Revolu%C4%8Dn%C3%AD%2098%2C%20Plze%C5%88%20-%20Lobzy"
     },
     {
+        "id": 72442849,
+        "url": "https://czap.cz/Sys/PublicProfile/72442849/5485226",
+        "name": "Králová, Josefína",
+        "membership": "Řádné členství",
+        "location": "Brno, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Brno%2C%20Brno"
+    },
+    {
         "id": 72443144,
         "url": "https://czap.cz/Sys/PublicProfile/72443144/5485226",
         "name": "Böhmová, Gabriela",
@@ -14708,7 +14717,7 @@
     {
         "id": 72519158,
         "url": "https://czap.cz/Sys/PublicProfile/72519158/5485226",
-        "name": "Dumitriu, Monica",
+        "name": "Dumitriu, MUDr. Monica",
         "membership": "Řádné členství",
         "location": "Pod Lazni 12, Nusle",
         "availability": "Přijímám nové klienty",
@@ -18135,6 +18144,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Lucembursk%C3%A1%201578/3%2C%20Praha"
     },
     {
+        "id": 78530093,
+        "url": "https://czap.cz/Sys/PublicProfile/78530093/5485226",
+        "name": "Kruml Singerová, Sylvie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Na břehu 35, Praha 9, Na břehu 35, Praha 9",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20b%C5%99ehu%2035%2C%20Praha%209%2C%20Na%20b%C5%99ehu%2035%2C%20Praha%209"
+    },
+    {
         "id": 78530682,
         "url": "https://czap.cz/Sys/PublicProfile/78530682/5485226",
         "name": "Drazdíková, Hana",
@@ -18160,6 +18178,15 @@
         "location": "Krapkova 709/4, Olomouc",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Krapkova%20709/4%2C%20Olomouc"
+    },
+    {
+        "id": 78619508,
+        "url": "https://czap.cz/Sys/PublicProfile/78619508/5485226",
+        "name": "Woffová, Jaroslava",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Masarykovo nám. 1544, Pardubice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Masarykovo%20n%C3%A1m.%201544%2C%20Pardubice"
     },
     {
         "id": 78635388,
