@@ -7097,7 +7097,7 @@
         "name": "Porubová, Radka",
         "membership": "Řádné členství",
         "location": "U tří lvů 294/4, České Budějovice",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=U%20t%C5%99%C3%AD%20lv%C5%AF%20294/4%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     },
     {
@@ -9931,9 +9931,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/65231453/5485226",
         "name": "Audes, Jitka",
         "membership": "Řádné členství",
-        "location": "Tomešova 563/2b, Brno",
+        "location": "Příkop 27/2a, Brno",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Tome%C5%A1ova%20563/2b%2C%20Brno"
+        "map_url": "https://mapy.cz/zakladni?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno"
     },
     {
         "id": 65240280,
@@ -18054,6 +18054,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Novohradsk%C3%A1%201452/1%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     },
     {
+        "id": 78214556,
+        "url": "https://czap.cz/Sys/PublicProfile/78214556/5485226",
+        "name": "Cherednychenko, Іryna",
+        "membership": "Řádné členství",
+        "location": "-, -",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=-%2C%20-"
+    },
+    {
         "id": 78244879,
         "url": "https://czap.cz/Sys/PublicProfile/78244879/5485226",
         "name": "Havránek, Vlastimil",
@@ -18214,5 +18223,23 @@
         "location": "Nová cvernovka - Račianska 78, Bratislava",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Nov%C3%A1%20cvernovka%20-%20Ra%C4%8Dianska%2078%2C%20Bratislava"
+    },
+    {
+        "id": 78720343,
+        "url": "https://czap.cz/Sys/PublicProfile/78720343/5485226",
+        "name": "Litošová, Dagmar",
+        "membership": "Řádné členství",
+        "location": "Palackého 99, Dvůr Králové nad Labem",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Palack%C3%A9ho%2099%2C%20Dv%C5%AFr%20Kr%C3%A1lov%C3%A9%20nad%20Labem"
+    },
+    {
+        "id": 78829651,
+        "url": "https://czap.cz/Sys/PublicProfile/78829651/5485226",
+        "name": "Malůš, Marek",
+        "membership": "Řádné členství",
+        "location": "Schweitzerova 84/50, Olomouc",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Schweitzerova%2084/50%2C%20Olomouc"
     }
 ]
