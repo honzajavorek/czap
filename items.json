@@ -9531,6 +9531,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Slovensk%C3%A1%206%2C%20Praha%2010%20-%20Vinohrady"
     },
     {
+        "id": 64406454,
+        "url": "https://czap.cz/Sys/PublicProfile/64406454/5485226",
+        "name": "Procházková, Klára",
+        "membership": "Řádné členství",
+        "location": "Minská 13, Brno",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Minsk%C3%A1%2013%2C%20Brno"
+    },
+    {
         "id": 64420595,
         "url": "https://czap.cz/Sys/PublicProfile/64420595/5485226",
         "name": "Divíšková, Petra",
@@ -16798,9 +16807,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/76925550/5485226",
         "name": "Zálešáková, Monika",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Hodonín, Dolní Valy 1, Kyjov, Educante, Masarykovo náměstí 40",
+        "location": "Hodonín, Dolní Valy 1, Hodonín, Centrum pro rodinu, Štefánikova 15",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Hodon%C3%ADn%2C%20Doln%C3%AD%20Valy%201%2C%20Kyjov%2C%20Educante%2C%20Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%2040"
+        "map_url": "https://mapy.cz/zakladni?q=Hodon%C3%ADn%2C%20Doln%C3%AD%20Valy%201%2C%20Hodon%C3%ADn%2C%20Centrum%20pro%20rodinu%2C%20%C5%A0tef%C3%A1nikova%2015"
     },
     {
         "id": 76932861,
@@ -18000,6 +18009,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Legerova%2039%2C%20Praha%202%20-%20Nov%C3%A9%20M%C4%9Bsto"
     },
     {
+        "id": 78161280,
+        "url": "https://czap.cz/Sys/PublicProfile/78161280/5485226",
+        "name": "Voskovcová - Vaksmanová, Radka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Haštalská 27, Praha 1",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Ha%C5%A1talsk%C3%A1%2027%2C%20Praha%201"
+    },
+    {
         "id": 78170375,
         "url": "https://czap.cz/Sys/PublicProfile/78170375/5485226",
         "name": "Holubová, Tereza",
@@ -18241,6 +18259,15 @@
         "location": "Durychova 101/66, Praha 4",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Durychova%20101/66%2C%20Praha%204"
+    },
+    {
+        "id": 78658206,
+        "url": "https://czap.cz/Sys/PublicProfile/78658206/5485226",
+        "name": "Nejedlá, Gabriela",
+        "membership": "Řádné členství",
+        "location": "Velenická 147/23, Praha 11",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Velenick%C3%A1%20147/23%2C%20Praha%2011"
     },
     {
         "id": 78658257,
