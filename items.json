@@ -1346,7 +1346,7 @@
         "name": "Kolář, Jan",
         "membership": "Řádné členství",
         "location": "Sukova 49/4, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Sukova%2049/4%2C%20Brno"
     },
     {
@@ -8917,15 +8917,6 @@
         "location": "Anenská 988/3, Jablonec nad Nisou",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Anensk%C3%A1%20988/3%2C%20Jablonec%20nad%20Nisou"
-    },
-    {
-        "id": 63602248,
-        "url": "https://czap.cz/Sys/PublicProfile/63602248/5485226",
-        "name": "Evors, Nicole",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Hermodsgade 29, Copenhagen",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Hermodsgade%2029%2C%20Copenhagen"
     },
     {
         "id": 63602584,
@@ -18171,6 +18162,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Psychiatrick%C3%A1%20nemocnice%20Rozko%C5%A1sk%C3%A1%202322%2C%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod"
     },
     {
+        "id": 78389271,
+        "url": "https://czap.cz/Sys/PublicProfile/78389271/5485226",
+        "name": "Frunc, Ondrej",
+        "membership": "Řádné členství",
+        "location": "Senovážné Náměstí 23, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20N%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201"
+    },
+    {
         "id": 78389568,
         "url": "https://czap.cz/Sys/PublicProfile/78389568/5485226",
         "name": "Kučerová, Andrea",
@@ -18304,6 +18304,15 @@
         "location": "Palackého 99, Dvůr Králové nad Labem",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Palack%C3%A9ho%2099%2C%20Dv%C5%AFr%20Kr%C3%A1lov%C3%A9%20nad%20Labem"
+    },
+    {
+        "id": 78750418,
+        "url": "https://czap.cz/Sys/PublicProfile/78750418/5485226",
+        "name": "Zakri Alinčová, Milena",
+        "membership": "Řádné členství",
+        "location": "neuvedeno, Praha",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=neuvedeno%2C%20Praha"
     },
     {
         "id": 78770170,
