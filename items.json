@@ -7654,9 +7654,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/62719440/5485226",
         "name": "Zahradníček, Jakub",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Malinovského nám. 4, Brno",
+        "location": "Panská 2, Brno",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Malinovsk%C3%A9ho%20n%C3%A1m.%204%2C%20Brno"
+        "map_url": "https://mapy.cz/zakladni?q=Pansk%C3%A1%202%2C%20Brno"
     },
     {
         "id": 62731587,
@@ -17249,7 +17249,7 @@
         "name": "Holubičková, Lucie",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Křižíkova 345/4, Praha 8 - Florenc",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=K%C5%99i%C5%BE%C3%ADkova%20345/4%2C%20Praha%208%20-%20Florenc"
     },
     {
@@ -18288,6 +18288,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Durychova%20101/66%2C%20Praha%204"
     },
     {
+        "id": 78650073,
+        "url": "https://czap.cz/Sys/PublicProfile/78650073/5485226",
+        "name": "Štěpánková, Tereza",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Hradecká 6, Telč",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Hradeck%C3%A1%206%2C%20Tel%C4%8D"
+    },
+    {
         "id": 78657361,
         "url": "https://czap.cz/Sys/PublicProfile/78657361/5485226",
         "name": "Konečná, Hana",
@@ -18403,6 +18412,60 @@
         "location": "Francouzská 75/4, Praha 2",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Francouzsk%C3%A1%2075/4%2C%20Praha%202"
+    },
+    {
+        "id": 78896100,
+        "url": "https://czap.cz/Sys/PublicProfile/78896100/5485226",
+        "name": "Malotová, Martina",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Dukelských hrdinů 17, Praha 7",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Dukelsk%C3%BDch%20hrdin%C5%AF%2017%2C%20Praha%207"
+    },
+    {
+        "id": 78903008,
+        "url": "https://czap.cz/Sys/PublicProfile/78903008/5485226",
+        "name": "Gabrielová, Renata",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Jakartovice 142, Jakartovice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Jakartovice%20142%2C%20Jakartovice"
+    },
+    {
+        "id": 78959097,
+        "url": "https://czap.cz/Sys/PublicProfile/78959097/5485226",
+        "name": "Hriciková, Kristýna",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "17.listopadu 5, Ostrava",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=17.listopadu%205%2C%20Ostrava"
+    },
+    {
+        "id": 78959121,
+        "url": "https://czap.cz/Sys/PublicProfile/78959121/5485226",
+        "name": "Biittnerová, Klára",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Hornokrčská 707/7, Praha 4 - Krč",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Hornokr%C4%8Dsk%C3%A1%20707/7%2C%20Praha%204%20-%20Kr%C4%8D"
+    },
+    {
+        "id": 78964529,
+        "url": "https://czap.cz/Sys/PublicProfile/78964529/5485226",
+        "name": "Tomášková, Markéta",
+        "membership": "Řádné členství",
+        "location": "Frýdlant nad Ostravicí, Frýdlant nad Ostravicí",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Fr%C3%BDdlant%20nad%20Ostravic%C3%AD%2C%20Fr%C3%BDdlant%20nad%20Ostravic%C3%AD"
+    },
+    {
+        "id": 78967997,
+        "url": "https://czap.cz/Sys/PublicProfile/78967997/5485226",
+        "name": "Steklá, Markéta",
+        "membership": "Řádné členství",
+        "location": "Pražská 92, Kolín",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Pra%C5%BEsk%C3%A1%2092%2C%20Kol%C3%ADn"
     },
     {
         "id": 78977108,
