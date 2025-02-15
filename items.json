@@ -671,7 +671,7 @@
         "name": "Obersteinová, Michaela",
         "membership": "Řádné členství",
         "location": "Milady Horákové 119, Praha 6",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Milady%20Hor%C3%A1kov%C3%A9%20119%2C%20Praha%206"
     },
     {
@@ -5218,15 +5218,6 @@
         "location": "U Křižovatky 608, Kolín",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=U%20K%C5%99i%C5%BEovatky%20608%2C%20Kol%C3%ADn"
-    },
-    {
-        "id": 59119960,
-        "url": "https://czap.cz/Sys/PublicProfile/59119960/5485226",
-        "name": "Mladá, Jana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Zlatnická 7, Praha Nové Město",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Zlatnick%C3%A1%207%2C%20Praha%20Nov%C3%A9%20M%C4%9Bsto"
     },
     {
         "id": 59120001,
@@ -10237,9 +10228,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/66603589/5485226",
         "name": "Jiran, Tomáš",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Hornická 209, Kutná Hora",
+        "location": "Husova 128/2, Čáslav",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Hornick%C3%A1%20209%2C%20Kutn%C3%A1%20Hora"
+        "map_url": "https://mapy.cz/zakladni?q=Husova%20128/2%2C%20%C4%8C%C3%A1slav"
     },
     {
         "id": 66672780,
@@ -15916,9 +15907,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/75231453/5485226",
         "name": "Valová, Veronika",
         "membership": "Řádné členství",
-        "location": "Mládežnická 229, Třebíč",
+        "location": "online - celá ČR, kraj Vysočina",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Ml%C3%A1de%C5%BEnick%C3%A1%20229%2C%20T%C5%99eb%C3%AD%C4%8D"
+        "map_url": "https://mapy.cz/zakladni?q=online%20-%20cel%C3%A1%20%C4%8CR%2C%20kraj%20Vyso%C4%8Dina"
     },
     {
         "id": 75234638,
@@ -17410,9 +17401,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/77419905/5485226",
         "name": "Špičková, Mirka",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Liberec, U Zoologické zahrady 979/5, Liberec",
+        "location": "Liberec, Husova 986/89, Liberec",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Liberec%2C%20U%20Zoologick%C3%A9%20zahrady%20979/5%2C%20Liberec"
+        "map_url": "https://mapy.cz/zakladni?q=Liberec%2C%20Husova%20986/89%2C%20Liberec"
     },
     {
         "id": 77421258,
@@ -18468,6 +18459,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Pra%C5%BEsk%C3%A1%2092%2C%20Kol%C3%ADn"
     },
     {
+        "id": 78975716,
+        "url": "https://czap.cz/Sys/PublicProfile/78975716/5485226",
+        "name": "Müllerová, Barbora",
+        "membership": "Řádné členství",
+        "location": "Jezdecká 7, Prostějov",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Jezdeck%C3%A1%207%2C%20Prost%C4%9Bjov"
+    },
+    {
         "id": 78977108,
         "url": "https://czap.cz/Sys/PublicProfile/78977108/5485226",
         "name": "Michajlovičová, Marika",
@@ -18475,6 +18475,24 @@
         "location": "Kollárova 632, Kroměříž",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Koll%C3%A1rova%20632%2C%20Krom%C4%9B%C5%99%C3%AD%C5%BE"
+    },
+    {
+        "id": 79014534,
+        "url": "https://czap.cz/Sys/PublicProfile/79014534/5485226",
+        "name": "Návoj, Milan",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Krejčího 1173/5, Liberec VI",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Krej%C4%8D%C3%ADho%201173/5%2C%20Liberec%20VI"
+    },
+    {
+        "id": 79021397,
+        "url": "https://czap.cz/Sys/PublicProfile/79021397/5485226",
+        "name": "Mavropulo, Julia Maura",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Opletalova 55, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Opletalova%2055%2C%20Praha"
     },
     {
         "id": 79036802,
