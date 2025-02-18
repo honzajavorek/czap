@@ -7137,15 +7137,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Jihov%C3%BDchodn%C3%AD%20V%20914/5%2C%20Praha%204"
     },
     {
-        "id": 62292061,
-        "url": "https://czap.cz/Sys/PublicProfile/62292061/5485226",
-        "name": "Vydra, Václav",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Botanická 834/56, Brno",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Botanick%C3%A1%20834/56%2C%20Brno"
-    },
-    {
         "id": 62294999,
         "url": "https://czap.cz/Sys/PublicProfile/62294999/5485226",
         "name": "Teplá, Michaela",
@@ -9328,9 +9319,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/64046467/5485226",
         "name": "Nováček, Tomáš",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Orlí 20, Brno",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Orl%C3%AD%2020%2C%20Brno"
+        "location": "Sukova 4, Brno",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Sukova%204%2C%20Brno"
     },
     {
         "id": 64064730,
@@ -16601,7 +16592,7 @@
         "name": "Voleková, Zuzana",
         "membership": "Řádné členství",
         "location": "Mrkosova 25, Brno",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Mrkosova%2025%2C%20Brno"
     },
     {
@@ -18250,6 +18241,15 @@
         "location": "Tovární 486/7, Ostrava - Mar. Hory",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Tov%C3%A1rn%C3%AD%20486/7%2C%20Ostrava%20-%20Mar.%20Hory"
+    },
+    {
+        "id": 78636599,
+        "url": "https://czap.cz/Sys/PublicProfile/78636599/5485226",
+        "name": "Sudík, Pavel",
+        "membership": "Řádné členství",
+        "location": "tř. Václava Klementa 601, Mladá Boleslav",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=t%C5%99.%20V%C3%A1clava%20Klementa%20601%2C%20Mlad%C3%A1%20Boleslav"
     },
     {
         "id": 78649926,
