@@ -4410,6 +4410,15 @@
         "map_url": "https://mapy.cz/zakladni?q=%C5%A0tef%C3%A1nikova%2065%2C%20Praha%205"
     },
     {
+        "id": 58885419,
+        "url": "https://czap.cz/Sys/PublicProfile/58885419/5485226",
+        "name": "Plýhalová, Aneta",
+        "membership": "Řádné členství",
+        "location": "None, ",
+        "availability": "",
+        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
+    },
+    {
         "id": 58885420,
         "url": "https://czap.cz/Sys/PublicProfile/58885420/5485226",
         "name": "Jelínková, Monika",
@@ -7731,6 +7740,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Jana%20Bab%C3%A1ka%201861/3%2C%20Brno"
     },
     {
+        "id": 62763058,
+        "url": "https://czap.cz/Sys/PublicProfile/62763058/5485226",
+        "name": "Thorová, Kateřina",
+        "membership": "Řádné členství",
+        "location": "None, ",
+        "availability": "",
+        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
+    },
+    {
         "id": 62763448,
         "url": "https://czap.cz/Sys/PublicProfile/62763448/5485226",
         "name": "Bábek, Oskar",
@@ -8260,6 +8278,15 @@
         "location": "Podhorská 20, Jablonec nad Nisou",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Podhorsk%C3%A1%2020%2C%20Jablonec%20nad%20Nisou"
+    },
+    {
+        "id": 63286566,
+        "url": "https://czap.cz/Sys/PublicProfile/63286566/5485226",
+        "name": "Kuttnerová, Tereza",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "None, ",
+        "availability": "",
+        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
     },
     {
         "id": 63298895,
@@ -10879,15 +10906,6 @@
         "location": "Zahradní 744/34, Třebíč",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Zahradn%C3%AD%20744/34%2C%20T%C5%99eb%C3%AD%C4%8D"
-    },
-    {
-        "id": 67626374,
-        "url": "https://czap.cz/Sys/PublicProfile/67626374/5485226",
-        "name": "Jirsová, Lenka",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Národní 28, Praha 1",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%2028%2C%20Praha%201"
     },
     {
         "id": 67632692,
@@ -16661,10 +16679,10 @@
     {
         "id": 76793810,
         "url": "https://czap.cz/Sys/PublicProfile/76793810/5485226",
-        "name": "Zuntychová, Terezie",
+        "name": "Vohrádková, Terezie",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Alešova 759, Černošice",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Ale%C5%A1ova%20759%2C%20%C4%8Cerno%C5%A1ice"
     },
     {
