@@ -5305,9 +5305,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/59120121/5485226",
         "name": "Remešová, Eliška",
         "membership": "Řádné členství",
-        "location": "Slezská 74, Praha",
+        "location": "Bělehradská 79, Praha",
         "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Slezsk%C3%A1%2074%2C%20Praha"
+        "map_url": "https://mapy.cz/zakladni?q=B%C4%9Blehradsk%C3%A1%2079%2C%20Praha"
     },
     {
         "id": 59261691,
@@ -7380,6 +7380,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Bo%C5%BEeny%20N%C4%9Bmcov%C3%A9%202530%2C%20Varnsdorf"
     },
     {
+        "id": 62377079,
+        "url": "https://czap.cz/Sys/PublicProfile/62377079/5485226",
+        "name": "Sova, Jakub",
+        "membership": "Řádné členství",
+        "location": "U Kanálky 5, Praha 2 - Vinohrady",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=U%20Kan%C3%A1lky%205%2C%20Praha%202%20-%20Vinohrady"
+    },
+    {
         "id": 62377331,
         "url": "https://czap.cz/Sys/PublicProfile/62377331/5485226",
         "name": "Drbohlav, Andrej",
@@ -8485,6 +8494,15 @@
         "location": "Psychiatrická nemocnice, Praha",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Psychiatrick%C3%A1%20nemocnice%2C%20Praha"
+    },
+    {
+        "id": 63382197,
+        "url": "https://czap.cz/Sys/PublicProfile/63382197/5485226",
+        "name": "Brémová, Veronika",
+        "membership": "Řádné členství",
+        "location": "Národní 25, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%2025%2C%20Praha%201"
     },
     {
         "id": 63382298,
@@ -10593,6 +10611,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Holandsk%C3%A1%2019%2C%20Praha%2010"
     },
     {
+        "id": 67234915,
+        "url": "https://czap.cz/Sys/PublicProfile/67234915/5485226",
+        "name": "Knoflíčková, Marie",
+        "membership": "Řádné členství",
+        "location": "U Kanálky 5, Praha 2",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=U%20Kan%C3%A1lky%205%2C%20Praha%202"
+    },
+    {
         "id": 67234960,
         "url": "https://czap.cz/Sys/PublicProfile/67234960/5485226",
         "name": "Barcalová, Miroslava",
@@ -11653,15 +11680,6 @@
         "location": "AllforCare.cz, Slivenecká 137/53, Praha 5 - Hlubočepy",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=AllforCare.cz%2C%20Sliveneck%C3%A1%20137/53%2C%20Praha%205%20-%20Hlubo%C4%8Depy"
-    },
-    {
-        "id": 68215349,
-        "url": "https://czap.cz/Sys/PublicProfile/68215349/5485226",
-        "name": "Wieczorek, Karina",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Zacpalova 379/27, Opava",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Zacpalova%20379/27%2C%20Opava"
     },
     {
         "id": 68221743,
@@ -18583,5 +18601,23 @@
         "location": "Palác Ymca, Na Poříčí 12, Praha 1",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Pal%C3%A1c%20Ymca%2C%20Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha%201"
+    },
+    {
+        "id": 79422177,
+        "url": "https://czap.cz/Sys/PublicProfile/79422177/5485226",
+        "name": "Puchernová Kubínová, Vlasta",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Jamborova 2, Praha 9",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Jamborova%202%2C%20Praha%209"
+    },
+    {
+        "id": 79478771,
+        "url": "https://czap.cz/Sys/PublicProfile/79478771/5485226",
+        "name": "Kupka, Martin",
+        "membership": "Řádné členství",
+        "location": "Vodární 601/6, Olomouc",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Vod%C3%A1rn%C3%AD%20601/6%2C%20Olomouc"
     }
 ]
