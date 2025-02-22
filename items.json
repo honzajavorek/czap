@@ -9846,6 +9846,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Ma%C5%99%C3%A1kova%204%2C%20Praha"
     },
     {
+        "id": 64811796,
+        "url": "https://czap.cz/Sys/PublicProfile/64811796/5485226",
+        "name": "Horáková, Jana",
+        "membership": "Řádné členství",
+        "location": "Botanická 834/56, Brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Botanick%C3%A1%20834/56%2C%20Brno"
+    },
+    {
         "id": 64833121,
         "url": "https://czap.cz/Sys/PublicProfile/64833121/5485226",
         "name": "Kolářová, Marie",
@@ -16573,9 +16582,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/76762232/5485226",
         "name": "Legát, Tomáš",
         "membership": "Řádné členství",
-        "location": "Tylovo nábřeží 315/4, Hradec Králové",
+        "location": "Špitálská 7, Hradec Králové",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Tylovo%20n%C3%A1b%C5%99e%C5%BE%C3%AD%20315/4%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
+        "map_url": "https://mapy.cz/zakladni?q=%C5%A0pit%C3%A1lsk%C3%A1%207%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
     },
     {
         "id": 76763013,
@@ -18603,6 +18612,69 @@
         "map_url": "https://mapy.cz/zakladni?q=Pal%C3%A1c%20Ymca%2C%20Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha%201"
     },
     {
+        "id": 79106190,
+        "url": "https://czap.cz/Sys/PublicProfile/79106190/5485226",
+        "name": "Pešek, Martin",
+        "membership": "Řádné členství",
+        "location": "Radlická 2487/99, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Radlick%C3%A1%202487/99%2C%20Praha"
+    },
+    {
+        "id": 79161434,
+        "url": "https://czap.cz/Sys/PublicProfile/79161434/5485226",
+        "name": "Dzurňáková, Jana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Kamenný Újezd 103, Rokycany",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Kamenn%C3%BD%20%C3%9Ajezd%20103%2C%20Rokycany"
+    },
+    {
+        "id": 79225973,
+        "url": "https://czap.cz/Sys/PublicProfile/79225973/5485226",
+        "name": "Jandourková, Danuše",
+        "membership": "Řádné členství",
+        "location": "Na Vyhlídce 582, Dobřichovice",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20Vyhl%C3%ADdce%20582%2C%20Dob%C5%99ichovice"
+    },
+    {
+        "id": 79298201,
+        "url": "https://czap.cz/Sys/PublicProfile/79298201/5485226",
+        "name": "Marek, Matouš",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Dukelských hrdinů 52, Praha 7",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Dukelsk%C3%BDch%20hrdin%C5%AF%2052%2C%20Praha%207"
+    },
+    {
+        "id": 79351553,
+        "url": "https://czap.cz/Sys/PublicProfile/79351553/5485226",
+        "name": "Krajča, Zuzana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Školská 694/32, Praha 1",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%A0kolsk%C3%A1%20694/32%2C%20Praha%201"
+    },
+    {
+        "id": 79356830,
+        "url": "https://czap.cz/Sys/PublicProfile/79356830/5485226",
+        "name": "Šuhájková, Anežka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "28.října 1161, Řevnice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=28.%C5%99%C3%ADjna%201161%2C%20%C5%98evnice"
+    },
+    {
+        "id": 79411472,
+        "url": "https://czap.cz/Sys/PublicProfile/79411472/5485226",
+        "name": "Macková, Jana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "ŠPP Mozaika, Lužická 1208, Hradec Králové",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%A0PP%20Mozaika%2C%20Lu%C5%BEick%C3%A1%201208%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
+    },
+    {
         "id": 79422177,
         "url": "https://czap.cz/Sys/PublicProfile/79422177/5485226",
         "name": "Puchernová Kubínová, Vlasta",
@@ -18619,5 +18691,14 @@
         "location": "Vodární 601/6, Olomouc",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Vod%C3%A1rn%C3%AD%20601/6%2C%20Olomouc"
+    },
+    {
+        "id": 79479950,
+        "url": "https://czap.cz/Sys/PublicProfile/79479950/5485226",
+        "name": "Čihák, Martin",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Topolová 748, Klecany",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Topolov%C3%A1%20748%2C%20Klecany"
     }
 ]
