@@ -5783,7 +5783,7 @@
         "name": "Valová, Alžbeta",
         "membership": "Řádné členství",
         "location": "Dvořákova 13, Brno",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Dvo%C5%99%C3%A1kova%2013%2C%20Brno"
     },
     {
@@ -18387,6 +18387,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Famful%C3%ADkova%201145/9%2C%20Praha%208%20-%20Kobylisy"
     },
     {
+        "id": 78671662,
+        "url": "https://czap.cz/Sys/PublicProfile/78671662/5485226",
+        "name": "Soukopová, Barbora",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "nám. 9. května 2136/10, Boskovice",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=n%C3%A1m.%209.%20kv%C4%9Btna%202136/10%2C%20Boskovice"
+    },
+    {
         "id": 78703780,
         "url": "https://czap.cz/Sys/PublicProfile/78703780/5485226",
         "name": "Kostková, Eliška",
@@ -18621,6 +18630,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Radlick%C3%A1%202487/99%2C%20Praha"
     },
     {
+        "id": 79111405,
+        "url": "https://czap.cz/Sys/PublicProfile/79111405/5485226",
+        "name": "Milićová, Monika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Senovážné náměstí 978, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20978%2C%20Praha%201"
+    },
+    {
         "id": 79161434,
         "url": "https://czap.cz/Sys/PublicProfile/79161434/5485226",
         "name": "Dzurňáková, Jana",
@@ -18664,6 +18682,15 @@
         "location": "28.října 1161, Řevnice",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=28.%C5%99%C3%ADjna%201161%2C%20%C5%98evnice"
+    },
+    {
+        "id": 79389355,
+        "url": "https://czap.cz/Sys/PublicProfile/79389355/5485226",
+        "name": "Starcev, Lucie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Drtinová 10, Praha 5",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Drtinov%C3%A1%2010%2C%20Praha%205"
     },
     {
         "id": 79411472,
