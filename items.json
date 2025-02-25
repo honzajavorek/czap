@@ -7362,15 +7362,6 @@
         "map_url": "https://mapy.cz/zakladni?q=G.%20A.%20Gerstnera%2021/3%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice"
     },
     {
-        "id": 62377021,
-        "url": "https://czap.cz/Sys/PublicProfile/62377021/5485226",
-        "name": "Kučerová, Eliška",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Křenová 57, Brno",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=K%C5%99enov%C3%A1%2057%2C%20Brno"
-    },
-    {
         "id": 62377036,
         "url": "https://czap.cz/Sys/PublicProfile/62377036/5485226",
         "name": "Šolcová, Bohdana Pěva",
@@ -13104,15 +13095,6 @@
         "map_url": "https://mapy.cz/zakladni?q=B%C3%BD%C5%A1%C5%A5%20231%2C%20B%C3%BD%C5%A1%C5%A5"
     },
     {
-        "id": 69862739,
-        "url": "https://czap.cz/Sys/PublicProfile/69862739/5485226",
-        "name": "Diondet, Sofie",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Na Bělidle 309/31, Praha-Smíchov",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Na%20B%C4%9Blidle%20309/31%2C%20Praha-Sm%C3%ADchov"
-    },
-    {
         "id": 69880602,
         "url": "https://czap.cz/Sys/PublicProfile/69880602/5485226",
         "name": "Malinská, Dita",
@@ -18319,9 +18301,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/78635388/5485226",
         "name": "Plecháčková, Michaela",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Tovární 486/7, Ostrava - Mar. Hory",
+        "location": "Rožnov pod Radhoštěm: 486/7 Zátiší 513, Ostrava: Tovární 486, Rožnov pod Radhoštěm + Ostrava",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Tov%C3%A1rn%C3%AD%20486/7%2C%20Ostrava%20-%20Mar.%20Hory"
+        "map_url": "https://mapy.cz/zakladni?q=Ro%C5%BEnov%20pod%20Radho%C5%A1t%C4%9Bm%3A%20486/7%20Z%C3%A1ti%C5%A1%C3%AD%20513%2C%20Ostrava%3A%20Tov%C3%A1rn%C3%AD%20486%2C%20Ro%C5%BEnov%20pod%20Radho%C5%A1t%C4%9Bm%20%2B%20Ostrava"
     },
     {
         "id": 78636599,
