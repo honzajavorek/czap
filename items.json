@@ -2516,7 +2516,7 @@
         "name": "Mertinová, Aneta",
         "membership": "Řádné členství",
         "location": "Benediktinské opatství v Emauzích, Vyšehradská 49/320, Praha 2",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Benediktinsk%C3%A9%20opatstv%C3%AD%20v%20Emauz%C3%ADch%2C%20Vy%C5%A1ehradsk%C3%A1%2049/320%2C%20Praha%202"
     },
     {
@@ -6350,7 +6350,7 @@
         "name": "Zelená, Markéta",
         "membership": "Řádné členství",
         "location": "Muchova 33, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Muchova%2033%2C%20Brno"
     },
     {
@@ -6385,9 +6385,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/61238263/5485226",
         "name": "Hejný, Josef",
         "membership": "Řádné členství",
-        "location": "Úvalská 3411/47, Praha 10",
+        "location": "Lucemburská 3, Praha 3",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=%C3%9Avalsk%C3%A1%203411/47%2C%20Praha%2010"
+        "map_url": "https://mapy.cz/zakladni?q=Lucembursk%C3%A1%203%2C%20Praha%203"
     },
     {
         "id": 61294991,
@@ -7333,6 +7333,15 @@
         "location": "Uzavřená 1, Praha 8 - Kobylisy",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Uzav%C5%99en%C3%A1%201%2C%20Praha%208%20-%20Kobylisy"
+    },
+    {
+        "id": 62373557,
+        "url": "https://czap.cz/Sys/PublicProfile/62373557/5485226",
+        "name": "Flemrová, Petra",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Riegrova 14 (1.adresa), Brandýs nad Labem - Stará Boleslav",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Riegrova%2014%20%281.adresa%29%2C%20Brand%C3%BDs%20nad%20Labem%20-%20Star%C3%A1%20Boleslav"
     },
     {
         "id": 62373991,
@@ -8446,9 +8455,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63368322/5485226",
         "name": "Šaňáková, Veronika",
         "membership": "Řádné členství",
-        "location": "Národní obrany 685, Praha 6",
+        "location": "Na Dlouhém lánu 11, Praha 6",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%20obrany%20685%2C%20Praha%206"
+        "map_url": "https://mapy.cz/zakladni?q=Na%20Dlouh%C3%A9m%20l%C3%A1nu%2011%2C%20Praha%206"
     },
     {
         "id": 63368399,
@@ -11322,6 +11331,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Dvo%C5%99%C3%A1kov%C3%A1%2013%2C%20Brno"
     },
     {
+        "id": 67944290,
+        "url": "https://czap.cz/Sys/PublicProfile/67944290/5485226",
+        "name": "Frank, Michaela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Výstavní 8, Ostrava",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=V%C3%BDstavn%C3%AD%208%2C%20Ostrava"
+    },
+    {
         "id": 67948140,
         "url": "https://czap.cz/Sys/PublicProfile/67948140/5485226",
         "name": "Hamplová, Natálie",
@@ -12112,15 +12130,6 @@
         "location": "Palackého 12, Plzeň",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Palack%C3%A9ho%2012%2C%20Plze%C5%88"
-    },
-    {
-        "id": 68489318,
-        "url": "https://czap.cz/Sys/PublicProfile/68489318/5485226",
-        "name": "Urbanová, Hana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Dukelských hrdinů 500, Praha 7",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Dukelsk%C3%BDch%20hrdin%C5%AF%20500%2C%20Praha%207"
     },
     {
         "id": 68490064,
@@ -18691,6 +18700,15 @@
         "location": "Jamborova 2, Praha 9",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Jamborova%202%2C%20Praha%209"
+    },
+    {
+        "id": 79422901,
+        "url": "https://czap.cz/Sys/PublicProfile/79422901/5485226",
+        "name": "Peničová, Petra",
+        "membership": "Řádné členství",
+        "location": "Dolní 222, Choceň",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Doln%C3%AD%20222%2C%20Choce%C5%88"
     },
     {
         "id": 79478771,
