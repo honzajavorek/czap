@@ -10633,9 +10633,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/67234915/5485226",
         "name": "Knoflíčková, Marie",
         "membership": "Řádné členství",
-        "location": "U Kanálky 5, Praha 2",
+        "location": "Americká 39, Praha 2",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=U%20Kan%C3%A1lky%205%2C%20Praha%202"
+        "map_url": "https://mapy.cz/zakladni?q=Americk%C3%A1%2039%2C%20Praha%202"
     },
     {
         "id": 67234960,
@@ -11709,6 +11709,15 @@
         "map_url": "https://mapy.cz/zakladni?q=AllforCare.cz%2C%20Sliveneck%C3%A1%20137/53%2C%20Praha%205%20-%20Hlubo%C4%8Depy"
     },
     {
+        "id": 68215349,
+        "url": "https://czap.cz/Sys/PublicProfile/68215349/5485226",
+        "name": "Wieczorek, Karina",
+        "membership": "Řádné členství",
+        "location": "Zámecké náměstí 13, Krnov",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Z%C3%A1meck%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2013%2C%20Krnov"
+    },
+    {
         "id": 68221743,
         "url": "https://czap.cz/Sys/PublicProfile/68221743/5485226",
         "name": "Geisslerová, Jana",
@@ -12749,7 +12758,7 @@
         "name": "Mohyla, Richard",
         "membership": "Řádné členství",
         "location": "Hasičská 551/52, Ostrava",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Hasi%C4%8Dsk%C3%A1%20551/52%2C%20Ostrava"
     },
     {
@@ -17348,7 +17357,7 @@
         "name": "Tučeková, Ivona",
         "membership": "Řádné členství",
         "location": "Panská 12, Brno",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Pansk%C3%A1%2012%2C%20Brno"
     },
     {
@@ -18754,5 +18763,14 @@
         "location": "Topolová 748, Klecany",
         "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Topolov%C3%A1%20748%2C%20Klecany"
+    },
+    {
+        "id": 79803313,
+        "url": "https://czap.cz/Sys/PublicProfile/79803313/5485226",
+        "name": "Karvanová, Lucie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "K Hrnčířům 25, Praha 4",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=K%20Hrn%C4%8D%C3%AD%C5%99%C5%AFm%2025%2C%20Praha%204"
     }
 ]
