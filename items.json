@@ -3969,6 +3969,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Heinrichova%208%2C%20Brno"
     },
     {
+        "id": 58885364,
+        "url": "https://czap.cz/Sys/PublicProfile/58885364/5485226",
+        "name": "Morcinek, Tomáš",
+        "membership": "Řádné členství",
+        "location": "Mlýnská 6, Praha 6",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Ml%C3%BDnsk%C3%A1%206%2C%20Praha%206"
+    },
+    {
         "id": 58885365,
         "url": "https://czap.cz/Sys/PublicProfile/58885365/5485226",
         "name": "Rataj, Pavel",
@@ -15921,6 +15930,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Bubensk%C3%A1%2019%2C%20Praha%207"
     },
     {
+        "id": 75163258,
+        "url": "https://czap.cz/Sys/PublicProfile/75163258/5485226",
+        "name": "Malinová, Andrea",
+        "membership": "Řádné členství",
+        "location": "Bezručova 109, Mělník",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Bezru%C4%8Dova%20109%2C%20M%C4%9Bln%C3%ADk"
+    },
+    {
         "id": 75163966,
         "url": "https://czap.cz/Sys/PublicProfile/75163966/5485226",
         "name": "Kubísková, Dana",
@@ -18844,6 +18862,15 @@
         "location": "Roklanská 1678/28, Říčany",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Roklansk%C3%A1%201678/28%2C%20%C5%98%C3%AD%C4%8Dany"
+    },
+    {
+        "id": 79788895,
+        "url": "https://czap.cz/Sys/PublicProfile/79788895/5485226",
+        "name": "Polívková, Lenka",
+        "membership": "Řádné členství",
+        "location": "Hrdinů 122/11, Liberec 12",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Hrdin%C5%AF%20122/11%2C%20Liberec%2012"
     },
     {
         "id": 79802996,
