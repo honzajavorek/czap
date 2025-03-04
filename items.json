@@ -6917,7 +6917,7 @@
         "name": "Majtán, Tomáš",
         "membership": "Řádné členství",
         "location": "Na Výtoni 2, Praha 2",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Na%20V%C3%BDtoni%202%2C%20Praha%202"
     },
     {
@@ -14011,6 +14011,15 @@
         "location": "Jeronymova 1894, Tábor",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Jeronymova%201894%2C%20T%C3%A1bor"
+    },
+    {
+        "id": 71219340,
+        "url": "https://czap.cz/Sys/PublicProfile/71219340/5485226",
+        "name": "Zahradníková, Tereza",
+        "membership": "Řádné členství",
+        "location": "Řemenovská 1999, Pelhřimov",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%98emenovsk%C3%A1%201999%2C%20Pelh%C5%99imov"
     },
     {
         "id": 71219639,
