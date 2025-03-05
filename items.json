@@ -5512,9 +5512,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/59508572/5485226",
         "name": "Lukáš, Richard",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Jiřího z Poděbrad 290/17, Kutná Hora",
+        "location": "Hornická 209/4, Kutná Hora",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Ji%C5%99%C3%ADho%20z%20Pod%C4%9Bbrad%20290/17%2C%20Kutn%C3%A1%20Hora"
+        "map_url": "https://mapy.cz/zakladni?q=Hornick%C3%A1%20209/4%2C%20Kutn%C3%A1%20Hora"
     },
     {
         "id": 59576735,
@@ -7180,15 +7180,6 @@
         "location": "Budečská 9, Praha 2",
         "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Bude%C4%8Dsk%C3%A1%209%2C%20Praha%202"
-    },
-    {
-        "id": 62295724,
-        "url": "https://czap.cz/Sys/PublicProfile/62295724/5485226",
-        "name": "Štěchová, Lucie",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Ostrovského 253/3, Praha 5",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Ostrovsk%C3%A9ho%20253/3%2C%20Praha%205"
     },
     {
         "id": 62307209,
@@ -11713,9 +11704,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68214913/5485226",
         "name": "Abrahamová, Tereza",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "AllforCare.cz, Slivenecká 137/53, Praha 5 - Hlubočepy",
+        "location": "Žitná 1575/49, Praha 1 Nové město",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=AllforCare.cz%2C%20Sliveneck%C3%A1%20137/53%2C%20Praha%205%20-%20Hlubo%C4%8Depy"
+        "map_url": "https://mapy.cz/zakladni?q=%C5%BDitn%C3%A1%201575/49%2C%20Praha%201%20Nov%C3%A9%20m%C4%9Bsto"
     },
     {
         "id": 68215349,
@@ -14206,9 +14197,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/71575817/5485226",
         "name": "Mrázová, Iva",
         "membership": "Řádné členství",
-        "location": "Jablonského 640/2,, Praha 7",
+        "location": "Eliášova 20, Praha 6",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Jablonsk%C3%A9ho%20640/2%2C%2C%20Praha%207"
+        "map_url": "https://mapy.cz/zakladni?q=Eli%C3%A1%C5%A1ova%2020%2C%20Praha%206"
     },
     {
         "id": 71587386,
@@ -18817,6 +18808,15 @@
         "location": "Dolní 222, Choceň",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Doln%C3%AD%20222%2C%20Choce%C5%88"
+    },
+    {
+        "id": 79463038,
+        "url": "https://czap.cz/Sys/PublicProfile/79463038/5485226",
+        "name": "Buchta, Petr",
+        "membership": "Řádné členství",
+        "location": "Na Poříčí 12, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha"
     },
     {
         "id": 79478771,
