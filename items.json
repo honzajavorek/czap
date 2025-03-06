@@ -1237,9 +1237,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885028/5485226",
         "name": "Petříčková, Barbora",
         "membership": "Řádné členství",
-        "location": "Podhorská 20, Jablonec nad Nisou",
+        "location": "Lovecká 561/14, Jablonec nad Nisou",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Podhorsk%C3%A1%2020%2C%20Jablonec%20nad%20Nisou"
+        "map_url": "https://mapy.cz/zakladni?q=Loveck%C3%A1%20561/14%2C%20Jablonec%20nad%20Nisou"
     },
     {
         "id": 58885029,
@@ -6836,7 +6836,7 @@
         "name": "Pilařová, Naďa",
         "membership": "Řádné členství",
         "location": "Dolní Lánov 228, Dolní Lánov u Vrchlabí, Dolní Lánov u Vrchlabí / Jičín",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Doln%C3%AD%20L%C3%A1nov%20228%2C%20Doln%C3%AD%20L%C3%A1nov%20u%20Vrchlab%C3%AD%2C%20Doln%C3%AD%20L%C3%A1nov%20u%20Vrchlab%C3%AD%20/%20Ji%C4%8D%C3%ADn"
     },
     {
@@ -9634,9 +9634,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/64456399/5485226",
         "name": "Hudson, Linda",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Varšavská 38, Praha 2",
+        "location": "Vinohradská 28, Praha 2",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Var%C5%A1avsk%C3%A1%2038%2C%20Praha%202"
+        "map_url": "https://mapy.cz/zakladni?q=Vinohradsk%C3%A1%2028%2C%20Praha%202"
     },
     {
         "id": 64462199,
@@ -10618,15 +10618,6 @@
         "location": "Italská 18, Praha 2",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Italsk%C3%A1%2018%2C%20Praha%202"
-    },
-    {
-        "id": 67224925,
-        "url": "https://czap.cz/Sys/PublicProfile/67224925/5485226",
-        "name": "Krusberská, Hana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Holandská 19, Praha 10",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Holandsk%C3%A1%2019%2C%20Praha%2010"
     },
     {
         "id": 67234915,
@@ -16488,15 +16479,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Lan%C5%A1krounsk%C3%A1%205%2C%20Svitavy"
     },
     {
-        "id": 76156644,
-        "url": "https://czap.cz/Sys/PublicProfile/76156644/5485226",
-        "name": "Marciniak, Rafał",
-        "membership": "Řádné členství",
-        "location": "Poliklinika Horníkova 34, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Poliklinika%20Horn%C3%ADkova%2034%2C%20Brno"
-    },
-    {
         "id": 76166714,
         "url": "https://czap.cz/Sys/PublicProfile/76166714/5485226",
         "name": "Benešová, Ivana",
@@ -18907,5 +18889,23 @@
         "location": "Opavská 776/87, Ostrava-Poruba",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Opavsk%C3%A1%20776/87%2C%20Ostrava-Poruba"
+    },
+    {
+        "id": 79878663,
+        "url": "https://czap.cz/Sys/PublicProfile/79878663/5485226",
+        "name": "Mištová, Šárka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Na Tabulovém vrchu 5, Olomouc, Olomouc",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Na%20Tabulov%C3%A9m%20vrchu%205%2C%20Olomouc%2C%20Olomouc"
+    },
+    {
+        "id": 79956193,
+        "url": "https://czap.cz/Sys/PublicProfile/79956193/5485226",
+        "name": "Textoris, Vladimír",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "U Beránky 2140/4, Praha - Dejvice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=U%20Ber%C3%A1nky%202140/4%2C%20Praha%20-%20Dejvice"
     }
 ]
