@@ -7182,6 +7182,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Bude%C4%8Dsk%C3%A1%209%2C%20Praha%202"
     },
     {
+        "id": 62295724,
+        "url": "https://czap.cz/Sys/PublicProfile/62295724/5485226",
+        "name": "Štěchová, Lucie",
+        "membership": "Řádné členství",
+        "location": "Národní 25, Praha 1",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%2025%2C%20Praha%201"
+    },
+    {
         "id": 62307209,
         "url": "https://czap.cz/Sys/PublicProfile/62307209/5485226",
         "name": "Hoblíková, Hana",
@@ -18536,7 +18545,7 @@
         "name": "Součková, Monika",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "K Hrnčířům 14, Praha Šeberov",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=K%20Hrn%C4%8D%C3%AD%C5%99%C5%AFm%2014%2C%20Praha%20%C5%A0eberov"
     },
     {
@@ -18900,6 +18909,33 @@
         "map_url": "https://mapy.cz/zakladni?q=Na%20Tabulov%C3%A9m%20vrchu%205%2C%20Olomouc%2C%20Olomouc"
     },
     {
+        "id": 79903226,
+        "url": "https://czap.cz/Sys/PublicProfile/79903226/5485226",
+        "name": "Rudá, Adéla",
+        "membership": "Řádné členství",
+        "location": "Senovážné náměstí 23, Praha 1",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201"
+    },
+    {
+        "id": 79903342,
+        "url": "https://czap.cz/Sys/PublicProfile/79903342/5485226",
+        "name": "Krčmářová, Denisa",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Rezlerova 305, Praha 10",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Rezlerova%20305%2C%20Praha%2010"
+    },
+    {
+        "id": 79904611,
+        "url": "https://czap.cz/Sys/PublicProfile/79904611/5485226",
+        "name": "Kárníková, Barbora",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Lucemburská 3, Praha 3",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Lucembursk%C3%A1%203%2C%20Praha%203"
+    },
+    {
         "id": 79956193,
         "url": "https://czap.cz/Sys/PublicProfile/79956193/5485226",
         "name": "Textoris, Vladimír",
@@ -18907,5 +18943,14 @@
         "location": "U Beránky 2140/4, Praha - Dejvice",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=U%20Ber%C3%A1nky%202140/4%2C%20Praha%20-%20Dejvice"
+    },
+    {
+        "id": 79970763,
+        "url": "https://czap.cz/Sys/PublicProfile/79970763/5485226",
+        "name": "Faldyna, Zdeněk",
+        "membership": "Řádné členství",
+        "location": "Sušilovo náměstí 5, Olomouc",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Su%C5%A1ilovo%20n%C3%A1m%C4%9Bst%C3%AD%205%2C%20Olomouc"
     }
 ]
