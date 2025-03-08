@@ -2461,9 +2461,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885172/5485226",
         "name": "Černíková, Kristýna Anna",
         "membership": "Řádné členství",
-        "location": "Kateřinská 17, Olomouc",
-        "availability": "Nepřijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Kate%C5%99insk%C3%A1%2017%2C%20Olomouc"
+        "location": "Olomouc, Olomouc",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Olomouc%2C%20Olomouc"
     },
     {
         "id": 58885173,
@@ -11619,15 +11619,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Vrchlick%C3%A9ho%2016%2C%20Poli%C4%8Dka%2C%20Poli%C4%8Dka"
     },
     {
-        "id": 68164902,
-        "url": "https://czap.cz/Sys/PublicProfile/68164902/5485226",
-        "name": "Žemla, Martin",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Budečská 9, Praha 2",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Bude%C4%8Dsk%C3%A1%209%2C%20Praha%202"
-    },
-    {
         "id": 68175564,
         "url": "https://czap.cz/Sys/PublicProfile/68175564/5485226",
         "name": "Teichmanová, Irena",
@@ -18855,6 +18846,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Chel%C4%8Dick%C3%A9ho%2039%2C%20Praha%203"
     },
     {
+        "id": 79755649,
+        "url": "https://czap.cz/Sys/PublicProfile/79755649/5485226",
+        "name": "Juráková, Petra",
+        "membership": "Řádné členství",
+        "location": "F.Čejky 427, Frýdek-Místek",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=F.%C4%8Cejky%20427%2C%20Fr%C3%BDdek-M%C3%ADstek"
+    },
+    {
         "id": 79756384,
         "url": "https://czap.cz/Sys/PublicProfile/79756384/5485226",
         "name": "Hanko, Jitka",
@@ -18952,5 +18952,23 @@
         "location": "Sušilovo náměstí 5, Olomouc",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Su%C5%A1ilovo%20n%C3%A1m%C4%9Bst%C3%AD%205%2C%20Olomouc"
+    },
+    {
+        "id": 79971065,
+        "url": "https://czap.cz/Sys/PublicProfile/79971065/5485226",
+        "name": "Vávrová, Petra",
+        "membership": "Řádné členství",
+        "location": "Vrážská 1418, Praha - Radotín",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Vr%C3%A1%C5%BEsk%C3%A1%201418%2C%20Praha%20-%20Radot%C3%ADn"
+    },
+    {
+        "id": 79978962,
+        "url": "https://czap.cz/Sys/PublicProfile/79978962/5485226",
+        "name": "Matoušová, Lenka",
+        "membership": "Řádné členství",
+        "location": "Lazarská 6, Praha 2",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Lazarsk%C3%A1%206%2C%20Praha%202"
     }
 ]
