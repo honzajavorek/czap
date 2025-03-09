@@ -11619,6 +11619,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Vrchlick%C3%A9ho%2016%2C%20Poli%C4%8Dka%2C%20Poli%C4%8Dka"
     },
     {
+        "id": 68164902,
+        "url": "https://czap.cz/Sys/PublicProfile/68164902/5485226",
+        "name": "Žemla, Martin",
+        "membership": "Řádné členství",
+        "location": "Budečská 9, Praha 2",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Bude%C4%8Dsk%C3%A1%209%2C%20Praha%202"
+    },
+    {
         "id": 68175564,
         "url": "https://czap.cz/Sys/PublicProfile/68175564/5485226",
         "name": "Teichmanová, Irena",
@@ -15700,9 +15709,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/74830798/5485226",
         "name": "Korfová, Eva",
         "membership": "Řádné členství",
-        "location": "Praha, Praha",
+        "location": "Praha 7, Praha 7",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Praha%2C%20Praha"
+        "map_url": "https://mapy.cz/zakladni?q=Praha%207%2C%20Praha%207"
     },
     {
         "id": 74830811,
@@ -16524,6 +16533,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Radlick%C3%A1%202487/99%2C%20Praha%205%2C%20Sm%C3%ADchov"
     },
     {
+        "id": 76685860,
+        "url": "https://czap.cz/Sys/PublicProfile/76685860/5485226",
+        "name": "Páralová, Kristýna",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Ortenovo náměstí 9, Ortenovo náměstí 9",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Ortenovo%20n%C3%A1m%C4%9Bst%C3%AD%209%2C%20Ortenovo%20n%C3%A1m%C4%9Bst%C3%AD%209"
+    },
+    {
         "id": 76751378,
         "url": "https://czap.cz/Sys/PublicProfile/76751378/5485226",
         "name": "Koros Bartošová, Kateřina",
@@ -17017,6 +17035,15 @@
         "location": "Čápkova 40/37, Brno-střed",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=%C4%8C%C3%A1pkova%2040/37%2C%20Brno-st%C5%99ed"
+    },
+    {
+        "id": 77023843,
+        "url": "https://czap.cz/Sys/PublicProfile/77023843/5485226",
+        "name": "Vojtíšková, Karolína",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Kavčí plácek, Hradec Králové",
+        "availability": "Nepřijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Kav%C4%8D%C3%AD%20pl%C3%A1cek%2C%20Hradec%20Kr%C3%A1lov%C3%A9"
     },
     {
         "id": 77028957,
