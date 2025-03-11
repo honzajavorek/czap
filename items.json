@@ -8942,7 +8942,7 @@
         "name": "Titěrová, Pavla",
         "membership": "Řádné členství",
         "location": "Jana Antonína Bati 5520, 760 01 Zlín, Zlín",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Jana%20Anton%C3%ADna%20Bati%205520%2C%20760%2001%20Zl%C3%ADn%2C%20Zl%C3%ADn"
     },
     {
@@ -10629,6 +10629,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Italsk%C3%A1%2018%2C%20Praha%202"
     },
     {
+        "id": 67224925,
+        "url": "https://czap.cz/Sys/PublicProfile/67224925/5485226",
+        "name": "Krusberská, Hana",
+        "membership": "Řádné členství",
+        "location": "Holandská 19, Praha 10",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Holandsk%C3%A1%2019%2C%20Praha%2010"
+    },
+    {
         "id": 67234915,
         "url": "https://czap.cz/Sys/PublicProfile/67234915/5485226",
         "name": "Knoflíčková, Marie",
@@ -11831,7 +11840,7 @@
         "name": "Matoušek, Petr",
         "membership": "Řádné členství",
         "location": "náměstí Míru 10, Plzeň",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=n%C3%A1m%C4%9Bst%C3%AD%20M%C3%ADru%2010%2C%20Plze%C5%88"
     },
     {
@@ -18837,6 +18846,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Vod%C3%A1rn%C3%AD%20601/6%2C%20Olomouc"
     },
     {
+        "id": 79479930,
+        "url": "https://czap.cz/Sys/PublicProfile/79479930/5485226",
+        "name": "Hejdová, Barbora",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Dlouhá 16, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Dlouh%C3%A1%2016%2C%20Praha"
+    },
+    {
         "id": 79479950,
         "url": "https://czap.cz/Sys/PublicProfile/79479950/5485226",
         "name": "Čihák, Martin",
@@ -18934,6 +18952,15 @@
         "location": "Na Tabulovém vrchu 5, Olomouc, Olomouc",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Na%20Tabulov%C3%A9m%20vrchu%205%2C%20Olomouc%2C%20Olomouc"
+    },
+    {
+        "id": 79903197,
+        "url": "https://czap.cz/Sys/PublicProfile/79903197/5485226",
+        "name": "Šormová, Magdalena",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Drtinova 2A, Praha 5",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Drtinova%202A%2C%20Praha%205"
     },
     {
         "id": 79903226,
