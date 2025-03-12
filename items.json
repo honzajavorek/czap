@@ -4784,7 +4784,7 @@
         "name": "Šimurková (Čejková), Eliška",
         "membership": "Řádné členství",
         "location": "Malinovského náměstí 4, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Malinovsk%C3%A9ho%20n%C3%A1m%C4%9Bst%C3%AD%204%2C%20Brno"
     },
     {
@@ -5576,7 +5576,7 @@
         "name": "Krátká, Veronika",
         "membership": "Řádné členství",
         "location": "Josefská 15, Brno",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Josefsk%C3%A1%2015%2C%20Brno"
     },
     {
@@ -6046,15 +6046,6 @@
         "location": "Praha, Praha",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Praha%2C%20Praha"
-    },
-    {
-        "id": 60856555,
-        "url": "https://czap.cz/Sys/PublicProfile/60856555/5485226",
-        "name": "Tylová, Tereza",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Pohořelec 110/26, Praha 1 - Hradčany",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Poho%C5%99elec%20110/26%2C%20Praha%201%20-%20Hrad%C4%8Dany"
     },
     {
         "id": 60860584,
@@ -10913,7 +10904,7 @@
         "name": "Šimonová, Radka",
         "membership": "Řádné členství",
         "location": "Smetanova 1284, Tábor",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Smetanova%201284%2C%20T%C3%A1bor"
     },
     {
@@ -14486,7 +14477,7 @@
         "name": "Majuk, Ondřej",
         "membership": "Řádné členství",
         "location": "Řehořova 908/4, Praha 3 - Žižkov",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=%C5%98eho%C5%99ova%20908/4%2C%20Praha%203%20-%20%C5%BDi%C5%BEkov"
     },
     {
@@ -15278,7 +15269,7 @@
         "name": "Urbánková, Iveta",
         "membership": "Řádné členství",
         "location": "Optátova 37, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Opt%C3%A1tova%2037%2C%20Brno"
     },
     {
@@ -18709,6 +18700,15 @@
         "location": "Palác Ymca, Na Poříčí 12, Praha 1",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Pal%C3%A1c%20Ymca%2C%20Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha%201"
+    },
+    {
+        "id": 79054798,
+        "url": "https://czap.cz/Sys/PublicProfile/79054798/5485226",
+        "name": "Lefflerová, Petra",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Senovážné náměstí 23, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201"
     },
     {
         "id": 79075729,
