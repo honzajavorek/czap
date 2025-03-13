@@ -13910,7 +13910,7 @@
         "name": "Flaksová, Magdalena",
         "membership": "Řádné členství",
         "location": "Francouzská 4, Praha 2",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Francouzsk%C3%A1%204%2C%20Praha%202"
     },
     {
@@ -18988,6 +18988,15 @@
         "location": "Lucemburská 3, Praha 3",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Lucembursk%C3%A1%203%2C%20Praha%203"
+    },
+    {
+        "id": 79912903,
+        "url": "https://czap.cz/Sys/PublicProfile/79912903/5485226",
+        "name": "Mačák, Dušan",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Olomouc, Olomouc",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Olomouc%2C%20Olomouc"
     },
     {
         "id": 79956193,
