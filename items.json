@@ -4657,9 +4657,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885448/5485226",
         "name": "Chvojková, Petra",
         "membership": "Řádné členství",
-        "location": "Markova 3, Praha",
+        "location": "Na Petynce 151/90, Praha 6 Střešovice",
         "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Markova%203%2C%20Praha"
+        "map_url": "https://mapy.cz/zakladni?q=Na%20Petynce%20151/90%2C%20Praha%206%20St%C5%99e%C5%A1ovice"
     },
     {
         "id": 58885449,
@@ -6590,7 +6590,7 @@
     {
         "id": 61697462,
         "url": "https://czap.cz/Sys/PublicProfile/61697462/5485226",
-        "name": "Kováříková, Zdeňka",
+        "name": "Walsh Kováříková, Zdeňka",
         "membership": "Řádné členství",
         "location": "Haštalská 27, Praha 1",
         "availability": "Přijímám nové klienty",
@@ -18765,6 +18765,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Dukelsk%C3%BDch%20hrdin%C5%AF%2052%2C%20Praha%207"
     },
     {
+        "id": 79301977,
+        "url": "https://czap.cz/Sys/PublicProfile/79301977/5485226",
+        "name": "Vrba, Jindřich",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Lucemburská 3, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Lucembursk%C3%A1%203%2C%20Praha"
+    },
+    {
         "id": 79351553,
         "url": "https://czap.cz/Sys/PublicProfile/79351553/5485226",
         "name": "Krajča, Zuzana",
@@ -18941,7 +18950,7 @@
         "name": "Složilová, Lenka",
         "membership": "Řádné členství",
         "location": "Opavská 776/87, Ostrava-Poruba",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Opavsk%C3%A1%20776/87%2C%20Ostrava-Poruba"
     },
     {
@@ -18979,6 +18988,15 @@
         "location": "Rezlerova 305, Praha 10",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Rezlerova%20305%2C%20Praha%2010"
+    },
+    {
+        "id": 79903359,
+        "url": "https://czap.cz/Sys/PublicProfile/79903359/5485226",
+        "name": "Petrovičová, Jana",
+        "membership": "Řádné členství",
+        "location": "Husovo nám. 37,, Beroun",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Husovo%20n%C3%A1m.%2037%2C%2C%20Beroun"
     },
     {
         "id": 79904611,
