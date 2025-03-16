@@ -12974,7 +12974,7 @@
         "name": "Burešová, Marie",
         "membership": "Řádné členství",
         "location": "Příkop 2a, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=P%C5%99%C3%ADkop%202a%2C%20Brno"
     },
     {
@@ -17728,6 +17728,15 @@
         "location": "Palác Dunaj, Soukenné náměstí 121/1, Liberec",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Pal%C3%A1c%20Dunaj%2C%20Soukenn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20121/1%2C%20Liberec"
+    },
+    {
+        "id": 77712396,
+        "url": "https://czap.cz/Sys/PublicProfile/77712396/5485226",
+        "name": "Polívková, Hana",
+        "membership": "Řádné členství",
+        "location": "Za Hládkovem 20, Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Za%20Hl%C3%A1dkovem%2020%2C%20Praha"
     },
     {
         "id": 77717791,
