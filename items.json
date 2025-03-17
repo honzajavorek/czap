@@ -3227,7 +3227,7 @@
         "name": "Salamonová, Martina",
         "membership": "Řádné členství",
         "location": "Národní 60/28, Praha 1",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%2060/28%2C%20Praha%201"
     },
     {
@@ -3407,7 +3407,7 @@
         "name": "Barešová, Jitka",
         "membership": "Řádné členství",
         "location": "Příkop 2a, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=P%C5%99%C3%ADkop%202a%2C%20Brno"
     },
     {
@@ -11273,7 +11273,7 @@
         "name": "Valeš Jelínková, Petra",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Budečská 35, Praha 2",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Bude%C4%8Dsk%C3%A1%2035%2C%20Praha%202"
     },
     {
@@ -11768,7 +11768,7 @@
         "name": "Zikmundová, Romana",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Sokolovská 193, Praha 9",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Sokolovsk%C3%A1%20193%2C%20Praha%209"
     },
     {
@@ -16700,7 +16700,7 @@
         "name": "Voleková, Zuzana",
         "membership": "Řádné členství",
         "location": "Mrkosova 25, Brno",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Mrkosova%2025%2C%20Brno"
     },
     {
