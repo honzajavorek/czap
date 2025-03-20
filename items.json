@@ -4793,7 +4793,7 @@
         "name": "Renza, Jiří",
         "membership": "Řádné členství",
         "location": "Kopečná 19, Brno",
-        "availability": "Nepřijímám nové klienty",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Kope%C4%8Dn%C3%A1%2019%2C%20Brno"
     },
     {
@@ -6046,6 +6046,15 @@
         "location": "Praha, Praha",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Praha%2C%20Praha"
+    },
+    {
+        "id": 60856555,
+        "url": "https://czap.cz/Sys/PublicProfile/60856555/5485226",
+        "name": "Tylová, Tereza",
+        "membership": "Řádné členství",
+        "location": "Opletalova 29, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Opletalova%2029%2C%20Praha%201"
     },
     {
         "id": 60860584,
@@ -15062,7 +15071,7 @@
         "name": "Šmahaj, Jan",
         "membership": "Řádné členství",
         "location": "nábř. Přemyslovců 867/8, Olomouc",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=n%C3%A1b%C5%99.%20P%C5%99emyslovc%C5%AF%20867/8%2C%20Olomouc"
     },
     {
@@ -19035,6 +19044,15 @@
         "map_url": "https://mapy.cz/zakladni?q=U%20Ber%C3%A1nky%202140/4%2C%20Praha%20-%20Dejvice"
     },
     {
+        "id": 79964949,
+        "url": "https://czap.cz/Sys/PublicProfile/79964949/5485226",
+        "name": "Toncarová, Jana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Čechova 778, Mladá Boleslav, Radlická 99, Praha 5",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C4%8Cechova%20778%2C%20Mlad%C3%A1%20Boleslav%2C%20Radlick%C3%A1%2099%2C%20Praha%205"
+    },
+    {
         "id": 79970763,
         "url": "https://czap.cz/Sys/PublicProfile/79970763/5485226",
         "name": "Faldyna, Zdeněk",
@@ -19060,5 +19078,14 @@
         "location": "Lazarská 6, Praha 2",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Lazarsk%C3%A1%206%2C%20Praha%202"
+    },
+    {
+        "id": 80077282,
+        "url": "https://czap.cz/Sys/PublicProfile/80077282/5485226",
+        "name": "Bártková, Radmila",
+        "membership": "Řádné členství",
+        "location": "Žerotínovo náměstí 4, Olomouc",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%BDerot%C3%ADnovo%20n%C3%A1m%C4%9Bst%C3%AD%204%2C%20Olomouc"
     }
 ]
