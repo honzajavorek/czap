@@ -5022,6 +5022,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Kab%C3%A1tn%C3%ADkova%202%2C%20Brno"
     },
     {
+        "id": 58885493,
+        "url": "https://czap.cz/Sys/PublicProfile/58885493/5485226",
+        "name": "Tesařová, Eva",
+        "membership": "Řádné členství",
+        "location": "None, ",
+        "availability": "",
+        "map_url": "https://mapy.cz/zakladni?q=None%2C%20"
+    },
+    {
         "id": 58885494,
         "url": "https://czap.cz/Sys/PublicProfile/58885494/5485226",
         "name": "Pecková Svitáková, Libuše",
@@ -19087,5 +19096,14 @@
         "location": "Žerotínovo náměstí 4, Olomouc",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=%C5%BDerot%C3%ADnovo%20n%C3%A1m%C4%9Bst%C3%AD%204%2C%20Olomouc"
+    },
+    {
+        "id": 80660592,
+        "url": "https://czap.cz/Sys/PublicProfile/80660592/5485226",
+        "name": "Kameník, Jiří",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Žižkovo nám. 5, Olomouc",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%BDi%C5%BEkovo%20n%C3%A1m.%205%2C%20Olomouc"
     }
 ]
