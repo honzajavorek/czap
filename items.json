@@ -19143,6 +19143,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Kl%C3%A1%C5%A1tersk%C3%A1%2078%2C%20Jind%C5%99ich%C5%AFv%20Hradec"
     },
     {
+        "id": 80053130,
+        "url": "https://czap.cz/Sys/PublicProfile/80053130/5485226",
+        "name": "Svozilová, Klára",
+        "membership": "Řádné členství",
+        "location": "Střední 145/2, Šternberk",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=St%C5%99edn%C3%AD%20145/2%2C%20%C5%A0ternberk"
+    },
+    {
         "id": 80076485,
         "url": "https://czap.cz/Sys/PublicProfile/80076485/5485226",
         "name": "Juroška, Miroslav",
@@ -19213,6 +19222,15 @@
         "location": "Bruselská 266/14, Praha 2",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Bruselsk%C3%A1%20266/14%2C%20Praha%202"
+    },
+    {
+        "id": 80502778,
+        "url": "https://czap.cz/Sys/PublicProfile/80502778/5485226",
+        "name": "Prajerová, Michaela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Olivova, Říčany",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Olivova%2C%20%C5%98%C3%AD%C4%8Dany"
     },
     {
         "id": 80660592,
