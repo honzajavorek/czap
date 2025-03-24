@@ -19134,6 +19134,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Lazarsk%C3%A1%206%2C%20Praha%202"
     },
     {
+        "id": 80029565,
+        "url": "https://czap.cz/Sys/PublicProfile/80029565/5485226",
+        "name": "Novotná, Miroslava",
+        "membership": "Řádné členství",
+        "location": "Námestie Svätého Egídia 59/36, Poprad",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=N%C3%A1mestie%20Sv%C3%A4t%C3%A9ho%20Eg%C3%ADdia%2059/36%2C%20Poprad"
+    },
+    {
         "id": 80049414,
         "url": "https://czap.cz/Sys/PublicProfile/80049414/5485226",
         "name": "Houšková, Tereza",
@@ -19195,6 +19204,15 @@
         "location": "Radlicka 99, Praha",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Radlicka%2099%2C%20Praha"
+    },
+    {
+        "id": 80094069,
+        "url": "https://czap.cz/Sys/PublicProfile/80094069/5485226",
+        "name": "Koronthály, Tereza",
+        "membership": "Řádné členství",
+        "location": "Karlovo náměstí 317/5, Praha 2",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Karlovo%20n%C3%A1m%C4%9Bst%C3%AD%20317/5%2C%20Praha%202"
     },
     {
         "id": 80336033,
