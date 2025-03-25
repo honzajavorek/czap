@@ -9000,15 +9000,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Anensk%C3%A1%20988/3%2C%20Jablonec%20nad%20Nisou"
     },
     {
-        "id": 63602248,
-        "url": "https://czap.cz/Sys/PublicProfile/63602248/5485226",
-        "name": "Evors, Nicole",
-        "membership": "Řádné členství",
-        "location": "Hermodsgade 29, Copenhagen",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Hermodsgade%2029%2C%20Copenhagen"
-    },
-    {
         "id": 63602584,
         "url": "https://czap.cz/Sys/PublicProfile/63602584/5485226",
         "name": "Trpáková, Petra",
@@ -10908,6 +10899,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Masarykova%20336/54%2C%20Plze%C5%88"
     },
     {
+        "id": 67503348,
+        "url": "https://czap.cz/Sys/PublicProfile/67503348/5485226",
+        "name": "Soukupová, Markéta",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Pod Košutkou 2276/27, Plzeň",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Pod%20Ko%C5%A1utkou%202276/27%2C%20Plze%C5%88"
+    },
+    {
         "id": 67511270,
         "url": "https://czap.cz/Sys/PublicProfile/67511270/5485226",
         "name": "Mishchenko, Maryna",
@@ -12184,6 +12184,15 @@
         "location": "Palackého 12, Plzeň",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Palack%C3%A9ho%2012%2C%20Plze%C5%88"
+    },
+    {
+        "id": 68489318,
+        "url": "https://czap.cz/Sys/PublicProfile/68489318/5485226",
+        "name": "Hogendoorn Urbanová, Hana",
+        "membership": "Řádné členství",
+        "location": "Ječná 39a), Praha",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Je%C4%8Dn%C3%A1%2039a%29%2C%20Praha"
     },
     {
         "id": 68490064,
@@ -15106,9 +15115,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/73331957/5485226",
         "name": "Gregorová, Markéta",
         "membership": "Řádné členství",
-        "location": "Polská 1505/40, Praha",
+        "location": "U Kanálky 1559/5, 120 00 Prague 2 - Vinohrady, Praha",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Polsk%C3%A1%201505/40%2C%20Praha"
+        "map_url": "https://mapy.cz/zakladni?q=U%20Kan%C3%A1lky%201559/5%2C%20120%2000%20Prague%202%20-%20Vinohrady%2C%20Praha"
     },
     {
         "id": 73334276,
@@ -16522,6 +16531,15 @@
         "location": "Lanškrounská 5, Svitavy",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Lan%C5%A1krounsk%C3%A1%205%2C%20Svitavy"
+    },
+    {
+        "id": 76156644,
+        "url": "https://czap.cz/Sys/PublicProfile/76156644/5485226",
+        "name": "Marciniak, Rafał",
+        "membership": "Řádné členství",
+        "location": "Poliklinika Horníkova 34, Brno",
+        "availability": "",
+        "map_url": "https://mapy.cz/zakladni?q=Poliklinika%20Horn%C3%ADkova%2034%2C%20Brno"
     },
     {
         "id": 76166714,
@@ -19258,6 +19276,15 @@
         "location": "Žižkovo nám. 5, Olomouc",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=%C5%BDi%C5%BEkovo%20n%C3%A1m.%205%2C%20Olomouc"
+    },
+    {
+        "id": 80661242,
+        "url": "https://czap.cz/Sys/PublicProfile/80661242/5485226",
+        "name": "Kovářová, Alžběta",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Řípská 767/15, Praha",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%98%C3%ADpsk%C3%A1%20767/15%2C%20Praha"
     },
     {
         "id": 80734095,
