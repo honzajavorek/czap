@@ -2804,7 +2804,7 @@
         "name": "Böhmová, Gabriela",
         "membership": "Řádné členství",
         "location": "Národní 60/28, Praha",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=N%C3%A1rodn%C3%AD%2060/28%2C%20Praha"
     },
     {
@@ -9331,6 +9331,15 @@
         "location": "Masarykova 506/37602 00 Brno-střed, Želešice",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Masarykova%20506/37602%2000%20Brno-st%C5%99ed%2C%20%C5%BDele%C5%A1ice"
+    },
+    {
+        "id": 63903364,
+        "url": "https://czap.cz/Sys/PublicProfile/63903364/5485226",
+        "name": "Knězů, Vojtěch",
+        "membership": "Řádné členství",
+        "location": "V jámě 1, Praha 1",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=V%20j%C3%A1m%C4%9B%201%2C%20Praha%201"
     },
     {
         "id": 63904575,
@@ -19197,6 +19206,24 @@
         "map_url": "https://mapy.cz/zakladni?q=T.%20G.%20Masaryka%20789%2C%20Litomy%C5%A1l"
     },
     {
+        "id": 80077091,
+        "url": "https://czap.cz/Sys/PublicProfile/80077091/5485226",
+        "name": "Madronová, Monika",
+        "membership": "Řádné členství",
+        "location": "Žižkova, Hustopeče",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=%C5%BDi%C5%BEkova%2C%20Hustope%C4%8De"
+    },
+    {
+        "id": 80077119,
+        "url": "https://czap.cz/Sys/PublicProfile/80077119/5485226",
+        "name": "Žampachová, Monika",
+        "membership": "Řádné členství",
+        "location": "U Měšťanských škol 525, Praha 8 - Kobylisy",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=U%20M%C4%9B%C5%A1%C5%A5ansk%C3%BDch%20%C5%A1kol%20525%2C%20Praha%208%20-%20Kobylisy"
+    },
+    {
         "id": 80077282,
         "url": "https://czap.cz/Sys/PublicProfile/80077282/5485226",
         "name": "Bártková, Radmila",
@@ -19260,6 +19287,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Bruselsk%C3%A1%20266/14%2C%20Praha%202"
     },
     {
+        "id": 80502502,
+        "url": "https://czap.cz/Sys/PublicProfile/80502502/5485226",
+        "name": "Počarovská, Jitka",
+        "membership": "Řádné členství",
+        "location": "Václavská 20, Praha 2, Praha 2",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=V%C3%A1clavsk%C3%A1%2020%2C%20Praha%202%2C%20Praha%202"
+    },
+    {
         "id": 80502778,
         "url": "https://czap.cz/Sys/PublicProfile/80502778/5485226",
         "name": "Prajerová, Michaela",
@@ -19294,5 +19330,14 @@
         "location": "Revoluční 6/1963, Praha 1",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Revolu%C4%8Dn%C3%AD%206/1963%2C%20Praha%201"
+    },
+    {
+        "id": 81184687,
+        "url": "https://czap.cz/Sys/PublicProfile/81184687/5485226",
+        "name": "Červenková, Markéta",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Korunní 23, Praha 2",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Korunn%C3%AD%2023%2C%20Praha%202"
     }
 ]
