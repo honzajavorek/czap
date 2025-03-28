@@ -6926,7 +6926,7 @@
         "name": "Majtán, Tomáš",
         "membership": "Řádné členství",
         "location": "Na Výtoni 2, Praha 2",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Na%20V%C3%BDtoni%202%2C%20Praha%202"
     },
     {
@@ -9412,15 +9412,6 @@
         "location": "Komenského 609/6, Odry",
         "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Komensk%C3%A9ho%20609/6%2C%20Odry"
-    },
-    {
-        "id": 63982067,
-        "url": "https://czap.cz/Sys/PublicProfile/63982067/5485226",
-        "name": "Gridasova, Olena",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Ostrovského 253, Ženské domovy, Praha",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Ostrovsk%C3%A9ho%20253%2C%20%C5%BDensk%C3%A9%20domovy%2C%20Praha"
     },
     {
         "id": 64027948,
@@ -14486,7 +14477,7 @@
         "name": "Franc, Lukáš",
         "membership": "Řádné členství",
         "location": "Jeremenkova 42, Olomouc",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Jeremenkova%2042%2C%20Olomouc"
     },
     {
@@ -16214,7 +16205,7 @@
         "name": "Štrinclová, Marta",
         "membership": "Řádné členství",
         "location": "Podhorská 377/20, Jablonec nad Nisou",
-        "availability": "Přijímám nové klienty",
+        "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Podhorsk%C3%A1%20377/20%2C%20Jablonec%20nad%20Nisou"
     },
     {
@@ -18810,6 +18801,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Karmelitsk%C3%A1%2018%2C%20Praha"
     },
     {
+        "id": 79034965,
+        "url": "https://czap.cz/Sys/PublicProfile/79034965/5485226",
+        "name": "Bednář, Jakub",
+        "membership": "Řádné členství",
+        "location": "Jakubské nám. 5, Brno",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Jakubsk%C3%A9%20n%C3%A1m.%205%2C%20Brno"
+    },
+    {
         "id": 79036802,
         "url": "https://czap.cz/Sys/PublicProfile/79036802/5485226",
         "name": "Matoušková, Kateřina",
@@ -18862,6 +18862,15 @@
         "location": "Kamenný Újezd 103, Rokycany",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Kamenn%C3%BD%20%C3%9Ajezd%20103%2C%20Rokycany"
+    },
+    {
+        "id": 79181213,
+        "url": "https://czap.cz/Sys/PublicProfile/79181213/5485226",
+        "name": "Březovská, Eva",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Lafayettova 47/9, Olomouc",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Lafayettova%2047/9%2C%20Olomouc"
     },
     {
         "id": 79225973,
