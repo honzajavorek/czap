@@ -11538,15 +11538,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Vrbova%201427%2C%20Praha"
     },
     {
-        "id": 68031940,
-        "url": "https://czap.cz/Sys/PublicProfile/68031940/5485226",
-        "name": "Stuchlíková, Jana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "17.listopadu 1074, Jičín",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=17.listopadu%201074%2C%20Ji%C4%8D%C3%ADn"
-    },
-    {
         "id": 68045652,
         "url": "https://czap.cz/Sys/PublicProfile/68045652/5485226",
         "name": "Matějková, Monika",
@@ -14341,9 +14332,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/71801089/5485226",
         "name": "Dubovská, Eva",
         "membership": "Řádné členství",
-        "location": "Slavíkova 6, Praha 3",
-        "availability": "Info o dostupnosti na vyžádání",
-        "map_url": "https://mapy.cz/zakladni?q=Slav%C3%ADkova%206%2C%20Praha%203"
+        "location": "Ondříčkova 16, Praha 3",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Ond%C5%99%C3%AD%C4%8Dkova%2016%2C%20Praha%203"
     },
     {
         "id": 71828963,
@@ -19377,6 +19368,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Revolu%C4%8Dn%C3%AD%206/1963%2C%20Praha%201"
     },
     {
+        "id": 80805390,
+        "url": "https://czap.cz/Sys/PublicProfile/80805390/5485226",
+        "name": "Oláh, Michal",
+        "membership": "Řádné členství",
+        "location": "Archa Harmony, resocializačná komunita, Modra 3590",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Archa%20Harmony%2C%20resocializa%C4%8Dn%C3%A1%20komunita%2C%20Modra%203590"
+    },
+    {
         "id": 80897865,
         "url": "https://czap.cz/Sys/PublicProfile/80897865/5485226",
         "name": "Tlapáková, Blanka",
@@ -19393,6 +19393,15 @@
         "location": "Ant. Dvořáka 215/40, Třebíč",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Ant.%20Dvo%C5%99%C3%A1ka%20215/40%2C%20T%C5%99eb%C3%AD%C4%8D"
+    },
+    {
+        "id": 80926416,
+        "url": "https://czap.cz/Sys/PublicProfile/80926416/5485226",
+        "name": "Chrástková, Marie",
+        "membership": "Řádné členství",
+        "location": "Centrum pro rodinu a sociální péči z. s. Syllabova 3039/19e, Ostrava, Ostrava",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Centrum%20pro%20rodinu%20a%20soci%C3%A1ln%C3%AD%20p%C3%A9%C4%8Di%20z.%20s.%20Syllabova%203039/19e%2C%20Ostrava%2C%20Ostrava"
     },
     {
         "id": 81169021,
