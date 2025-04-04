@@ -15187,9 +15187,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/73513669/5485226",
         "name": "Malá, Ladislava",
         "membership": "Řádné členství",
-        "location": "Jiráskova 116, Vodňany",
+        "location": "Jiráskova 116, Protivín",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Jir%C3%A1skova%20116%2C%20Vod%C5%88any"
+        "map_url": "https://mapy.cz/zakladni?q=Jir%C3%A1skova%20116%2C%20Protiv%C3%ADn"
     },
     {
         "id": 73544098,
@@ -19260,6 +19260,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Zelen%C3%A1%2010%2C%20Praha6"
     },
     {
+        "id": 80089898,
+        "url": "https://czap.cz/Sys/PublicProfile/80089898/5485226",
+        "name": "Trnka Hassmanová, Klára",
+        "membership": "Řádné členství",
+        "location": "Eliášova 20, Praha 6",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Eli%C3%A1%C5%A1ova%2020%2C%20Praha%206"
+    },
+    {
         "id": 80090920,
         "url": "https://czap.cz/Sys/PublicProfile/80090920/5485226",
         "name": "Mykahlchuk, Anna",
@@ -19382,7 +19391,7 @@
         "name": "Větrovcová, Markéta",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Ant. Dvořáka 215/40, Třebíč",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Ant.%20Dvo%C5%99%C3%A1ka%20215/40%2C%20T%C5%99eb%C3%AD%C4%8D"
     },
     {
@@ -19411,5 +19420,14 @@
         "location": "Korunní 23, Praha 2",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Korunn%C3%AD%2023%2C%20Praha%202"
+    },
+    {
+        "id": 81341224,
+        "url": "https://czap.cz/Sys/PublicProfile/81341224/5485226",
+        "name": "Marková, Tereza",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "V Závětří 6, Praha",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=V%20Z%C3%A1v%C4%9Bt%C5%99%C3%AD%206%2C%20Praha"
     }
 ]
