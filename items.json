@@ -6885,15 +6885,6 @@
         "map_url": "https://mapy.cz/zakladni?q=Doma%C5%BElick%C3%A1%2015%2C%20Praha%203"
     },
     {
-        "id": 62186289,
-        "url": "https://czap.cz/Sys/PublicProfile/62186289/5485226",
-        "name": "Tomková, Alexandra",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Kafkova 29, Praha 6",
-        "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Kafkova%2029%2C%20Praha%206"
-    },
-    {
         "id": 62187248,
         "url": "https://czap.cz/Sys/PublicProfile/62187248/5485226",
         "name": "Mrázová, Zoja",
@@ -8505,6 +8496,15 @@
         "map_url": "https://mapy.cz/zakladni?q=B%C5%99ehov%C3%A1%2040/1%2C%20Praha%201"
     },
     {
+        "id": 63496611,
+        "url": "https://czap.cz/Sys/PublicProfile/63496611/5485226",
+        "name": "Luongová, Eva",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Bruselská 14,, Praha, Vinohrady",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Bruselsk%C3%A1%2014%2C%2C%20Praha%2C%20Vinohrady"
+    },
+    {
         "id": 63512067,
         "url": "https://czap.cz/Sys/PublicProfile/63512067/5485226",
         "name": "Hrušková, Zuzana",
@@ -8662,9 +8662,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63548807/5485226",
         "name": "Malaniuková, Zuzana",
         "membership": "Řádné členství",
-        "location": "Charkovská 24, Praha 10-Vršovice",
+        "location": "Na Šafránce 1771/17, Praha 10-Vinohrady",
         "availability": "Přijímám nové klienty",
-        "map_url": "https://mapy.cz/zakladni?q=Charkovsk%C3%A1%2024%2C%20Praha%2010-Vr%C5%A1ovice"
+        "map_url": "https://mapy.cz/zakladni?q=Na%20%C5%A0afr%C3%A1nce%201771/17%2C%20Praha%2010-Vinohrady"
     },
     {
         "id": 63549152,
@@ -11581,6 +11581,15 @@
         "location": "Bruselská 14, Praha 2",
         "availability": "Přijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Bruselsk%C3%A1%2014%2C%20Praha%202"
+    },
+    {
+        "id": 68297508,
+        "url": "https://czap.cz/Sys/PublicProfile/68297508/5485226",
+        "name": "Vytvytska, Oleksandra",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Topolova 748, Kličany",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Topolova%20748%2C%20Kli%C4%8Dany"
     },
     {
         "id": 68300207,
@@ -17226,6 +17235,15 @@
         "map_url": "https://mapy.cz/zakladni?q=Josefsk%C3%A1%2015%2C%20Brno"
     },
     {
+        "id": 77705704,
+        "url": "https://czap.cz/Sys/PublicProfile/77705704/5485226",
+        "name": "Nemcová, Martina",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Palác Dunaj, Soukenné náměstí 121/1, Liberec",
+        "availability": "Info o dostupnosti na vyžádání",
+        "map_url": "https://mapy.cz/zakladni?q=Pal%C3%A1c%20Dunaj%2C%20Soukenn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20121/1%2C%20Liberec"
+    },
+    {
         "id": 77712396,
         "url": "https://czap.cz/Sys/PublicProfile/77712396/5485226",
         "name": "Polívková, Hana",
@@ -18882,6 +18900,15 @@
         "map_url": "https://mapy.cz/zakladni?q=St%C5%99%C3%ADbrnick%C3%A1%203030/2%2C%20%C3%9Ast%C3%AD%20nad%20Labem"
     },
     {
+        "id": 81354287,
+        "url": "https://czap.cz/Sys/PublicProfile/81354287/5485226",
+        "name": "Zámečník, Petr",
+        "membership": "Řádné členství",
+        "location": "josefská 15, brno",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=josefsk%C3%A1%2015%2C%20brno"
+    },
+    {
         "id": 81543312,
         "url": "https://czap.cz/Sys/PublicProfile/81543312/5485226",
         "name": "Bažantová, Hana",
@@ -18898,5 +18925,14 @@
         "location": "Zelený pruh 95/97, Praha 4",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Zelen%C3%BD%20pruh%2095/97%2C%20Praha%204"
+    },
+    {
+        "id": 81619439,
+        "url": "https://czap.cz/Sys/PublicProfile/81619439/5485226",
+        "name": "Urbancová, Martina",
+        "membership": "Řádné členství",
+        "location": "Trojská 68, Praha 8",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Trojsk%C3%A1%2068%2C%20Praha%208"
     }
 ]
