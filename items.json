@@ -8411,7 +8411,7 @@
         "name": "Hradská, Barbora",
         "membership": "Řádné členství",
         "location": "Třída Komenského 2124/88, Kyjov",
-        "availability": "Info o dostupnosti na vyžádání",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=T%C5%99%C3%ADda%20Komensk%C3%A9ho%202124/88%2C%20Kyjov"
     },
     {
@@ -11273,7 +11273,7 @@
         "name": "Fremlová, Pavlína",
         "membership": "Řádné členství",
         "location": "Biskupské náměstí 2, Olomouc",
-        "availability": "Přijímám nové klienty",
+        "availability": "Nepřijímám nové klienty",
         "map_url": "https://mapy.cz/zakladni?q=Biskupsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%202%2C%20Olomouc"
     },
     {
@@ -18880,6 +18880,15 @@
         "location": "Malostranské náměstí 203/14, Praha 1",
         "availability": "Info o dostupnosti na vyžádání",
         "map_url": "https://mapy.cz/zakladni?q=Malostransk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20203/14%2C%20Praha%201"
+    },
+    {
+        "id": 81304449,
+        "url": "https://czap.cz/Sys/PublicProfile/81304449/5485226",
+        "name": "Tichotová, Lenka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Poběžovická 21, Praha- Kunratice",
+        "availability": "Přijímám nové klienty",
+        "map_url": "https://mapy.cz/zakladni?q=Pob%C4%9B%C5%BEovick%C3%A1%2021%2C%20Praha-%20Kunratice"
     },
     {
         "id": 81341224,
