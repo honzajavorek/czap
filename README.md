@@ -28,7 +28,7 @@ I added cache so that the parse result stays around at least for a day.
 
 That data contains some info about members.
 It is structured, but it's in a very cryptic structure which needs to be reverse-engineered.
-If you're the kind of person who is into such thing, look at the end of the `parse()` method, where it iterates over individual members, and feel free to add fields there.
+If you're the kind of person who is into such thing, feel free to add fields there.
 
-If you prefer good old HTML scraping, look at the `parse_member()` method, where you can access response of individual member profile pages.
+If you prefer good old HTML scraping, the scraper also makes requests to all individual member profile pages.
 There you can use [Scrapy selectors](https://docs.scrapy.org/en/latest/topics/selectors.html) to add fields to the data.
