@@ -8,6 +8,10 @@ DOWNLOAD_DELAY = 1
 
 AUTOTHROTTLE_ENABLED = True
 
+HTTPCACHE_ENABLED = True
+
+HTTPCACHE_EXPIRATION_SECS = 60 * 60 * 24  # 1 day (in seconds)
+
 FEED_EXPORTERS = {
     "sorted_json": "czap.exporters.SortedJsonItemExporter",
 }
@@ -15,10 +19,18 @@ FEED_EXPORTERS = {
 FEEDS = {
     "items.json": {
         "format": "sorted_json",
-        "encoding": "utf-8",
+        "encoding": "utf8",
         "indent": 4,
+        "overwrite": True,
+    },
+    "items.csv": {
+        "format": "csv",
         "overwrite": True,
     },
 }
 
 DISKCACHE_DIR = ".cache"
+
+DISKCACHE_EXPIRATION_SECS = 60 * 60 * 24  # 1 day (in seconds)
+
+CLOSESPIDER_ERRORCOUNT = 1
