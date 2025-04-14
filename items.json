@@ -5844,9 +5844,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/59306674/5485226",
         "name": "Šimůnková, Nina",
         "membership": "Řádné členství",
-        "location": "x",
-        "mapycom_url": "https://mapy.com/zakladni?q=x",
-        "googlemaps_url": "https://www.google.com/maps?q=x",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -15587,7 +15587,7 @@
         "location": "Jeremenkova 42, Olomouc",
         "mapycom_url": "https://mapy.com/zakladni?q=Jeremenkova%2042%2C%20Olomouc",
         "googlemaps_url": "https://www.google.com/maps?q=Jeremenkova%2042%2C%20Olomouc",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 72020872,
@@ -19124,9 +19124,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/77656208/5485226",
         "name": "Janoušková, Vladěna",
         "membership": "Řádné členství",
-        "location": "momentálně nemám fyzické pracoviště, Nymburk",
-        "mapycom_url": "https://mapy.com/zakladni?q=moment%C3%A1ln%C4%9B%20nem%C3%A1m%20fyzick%C3%A9%20pracovi%C5%A1t%C4%9B%2C%20Nymburk",
-        "googlemaps_url": "https://www.google.com/maps?q=moment%C3%A1ln%C4%9B%20nem%C3%A1m%20fyzick%C3%A9%20pracovi%C5%A1t%C4%9B%2C%20Nymburk",
+        "location": "Nymburk",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nymburk",
+        "googlemaps_url": "https://www.google.com/maps?q=Nymburk",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
