@@ -14760,6 +14760,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 70591133,
+        "url": "https://czap.cz/Sys/PublicProfile/70591133/5485226",
+        "name": "Marečková Kloudová, Zuzana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Jiráskova 32, Jihlava",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jir%C3%A1skova%2032%2C%20Jihlava",
+        "googlemaps_url": "https://www.google.com/maps?q=Jir%C3%A1skova%2032%2C%20Jihlava",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 70595489,
         "url": "https://czap.cz/Sys/PublicProfile/70595489/5485226",
         "name": "Rudinská, Lucie",
@@ -18074,9 +18084,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/76793519/5485226",
         "name": "Gažák, Miroslav",
         "membership": "Řádné členství",
-        "location": "Havířská 11, Plzeň 3-Jižní Předměstí",
-        "mapycom_url": "https://mapy.com/zakladni?q=Hav%C3%AD%C5%99sk%C3%A1%2011%2C%20Plze%C5%88%203-Ji%C5%BEn%C3%AD%20P%C5%99edm%C4%9Bst%C3%AD",
-        "googlemaps_url": "https://www.google.com/maps?q=Hav%C3%AD%C5%99sk%C3%A1%2011%2C%20Plze%C5%88%203-Ji%C5%BEn%C3%AD%20P%C5%99edm%C4%9Bst%C3%AD",
+        "location": "Pobřežní 8, Plzeň 3-Jižní Předměstí",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pob%C5%99e%C5%BEn%C3%AD%208%2C%20Plze%C5%88%203-Ji%C5%BEn%C3%AD%20P%C5%99edm%C4%9Bst%C3%AD",
+        "googlemaps_url": "https://www.google.com/maps?q=Pob%C5%99e%C5%BEn%C3%AD%208%2C%20Plze%C5%88%203-Ji%C5%BEn%C3%AD%20P%C5%99edm%C4%9Bst%C3%AD",
         "availability": "Přijímám nové klienty"
     },
     {
