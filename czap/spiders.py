@@ -90,7 +90,16 @@ def is_empty_location(value):
         return True
     if "online" in value.lower() or "on-line" in value.lower():
         return True
-    if value.lower() in ["na", "n/a", "-", "000", "neuvedeno", "xxx"]:
+    if value.lower() in [
+        "na",
+        "n/a",
+        "-",
+        "000",
+        "neuvedeno",
+        "xxx",
+        "x",
+        "momentálně nemám fyzické pracoviště",
+    ]:
         return True
     return False
 
