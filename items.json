@@ -5130,16 +5130,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 58885459,
-        "url": "https://czap.cz/Sys/PublicProfile/58885459/5485226",
-        "name": "Szabó, Zoltán",
-        "membership": "Řádné členství",
-        "location": "Máchova, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=M%C3%A1chova%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=M%C3%A1chova%2C%20Praha",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 58885460,
         "url": "https://czap.cz/Sys/PublicProfile/58885460/5485226",
         "name": "Parma, Petr",
@@ -10470,6 +10460,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 64462199,
+        "url": "https://czap.cz/Sys/PublicProfile/64462199/5485226",
+        "name": "Vrbata, Aleš",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Platěnice, č.p.16, Platěnice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Plat%C4%9Bnice%2C%20%C4%8D.p.16%2C%20Plat%C4%9Bnice",
+        "googlemaps_url": "https://www.google.com/maps?q=Plat%C4%9Bnice%2C%20%C4%8D.p.16%2C%20Plat%C4%9Bnice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 64473181,
         "url": "https://czap.cz/Sys/PublicProfile/64473181/5485226",
         "name": "Lankocz Carbolová, Tereza",
@@ -15340,6 +15340,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 71516179,
+        "url": "https://czap.cz/Sys/PublicProfile/71516179/5485226",
+        "name": "Pletková, Pavlína",
+        "membership": "Řádné členství",
+        "location": "Kafkova 35, Praha 6 Dejvice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kafkova%2035%2C%20Praha%206%20Dejvice",
+        "googlemaps_url": "https://www.google.com/maps?q=Kafkova%2035%2C%20Praha%206%20Dejvice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 71564346,
         "url": "https://czap.cz/Sys/PublicProfile/71564346/5485226",
         "name": "Žiak, Ondrej",
@@ -15397,6 +15407,16 @@
         "location": "Na okraji 108/68, Praha 6",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20okraji%20108/68%2C%20Praha%206",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20okraji%20108/68%2C%20Praha%206",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 71614645,
+        "url": "https://czap.cz/Sys/PublicProfile/71614645/5485226",
+        "name": "Jirový, František",
+        "membership": "Řádné členství",
+        "location": "Lužická 26, Praha 2 - Vinohrady",
+        "mapycom_url": "https://mapy.com/zakladni?q=Lu%C5%BEick%C3%A1%2026%2C%20Praha%202%20-%20Vinohrady",
+        "googlemaps_url": "https://www.google.com/maps?q=Lu%C5%BEick%C3%A1%2026%2C%20Praha%202%20-%20Vinohrady",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -16967,6 +16987,16 @@
         "location": "Brníčko 1562, Uničov",
         "mapycom_url": "https://mapy.com/zakladni?q=Brn%C3%AD%C4%8Dko%201562%2C%20Uni%C4%8Dov",
         "googlemaps_url": "https://www.google.com/maps?q=Brn%C3%AD%C4%8Dko%201562%2C%20Uni%C4%8Dov",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 74835528,
+        "url": "https://czap.cz/Sys/PublicProfile/74835528/5485226",
+        "name": "Pelletier, Tereza",
+        "membership": "Řádné členství",
+        "location": "Zenklova 305/11, Praha 8",
+        "mapycom_url": "https://mapy.com/zakladni?q=Zenklova%20305/11%2C%20Praha%208",
+        "googlemaps_url": "https://www.google.com/maps?q=Zenklova%20305/11%2C%20Praha%208",
         "availability": "Přijímám nové klienty"
     },
     {
