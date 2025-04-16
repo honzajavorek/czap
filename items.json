@@ -5327,7 +5327,7 @@
         "location": "Dvorecká 289/23, Praha 4-Podolí",
         "mapycom_url": "https://mapy.com/zakladni?q=Dvoreck%C3%A1%20289/23%2C%20Praha%204-Podol%C3%AD",
         "googlemaps_url": "https://www.google.com/maps?q=Dvoreck%C3%A1%20289/23%2C%20Praha%204-Podol%C3%AD",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 58885483,
@@ -7637,6 +7637,16 @@
         "location": "Domažlická 15, Praha 3",
         "mapycom_url": "https://mapy.com/zakladni?q=Doma%C5%BElick%C3%A1%2015%2C%20Praha%203",
         "googlemaps_url": "https://www.google.com/maps?q=Doma%C5%BElick%C3%A1%2015%2C%20Praha%203",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 62186289,
+        "url": "https://czap.cz/Sys/PublicProfile/62186289/5485226",
+        "name": "Tomková, Alexandra",
+        "membership": "Řádné členství",
+        "location": "Kafkova 29, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kafkova%2029%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Kafkova%2029%2C%20Praha%206",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -11354,10 +11364,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/67022095/5485226",
         "name": "Louženský, Jaromír",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Na Stínadlech 445, Písek",
-        "mapycom_url": "https://mapy.com/zakladni?q=Na%20St%C3%ADnadlech%20445%2C%20P%C3%ADsek",
-        "googlemaps_url": "https://www.google.com/maps?q=Na%20St%C3%ADnadlech%20445%2C%20P%C3%ADsek",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Londýnská 182/67, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Lond%C3%BDnsk%C3%A1%20182/67%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Lond%C3%BDnsk%C3%A1%20182/67%2C%20Praha",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 67035822,
@@ -17810,16 +17820,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 76156644,
-        "url": "https://czap.cz/Sys/PublicProfile/76156644/5485226",
-        "name": "Marciniak, Rafał",
-        "membership": "Řádné členství",
-        "location": "Poliklinika Horníkova 34, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Poliklinika%20Horn%C3%ADkova%2034%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Poliklinika%20Horn%C3%ADkova%2034%2C%20Brno",
-        "availability": ""
-    },
-    {
         "id": 76166714,
         "url": "https://czap.cz/Sys/PublicProfile/76166714/5485226",
         "name": "Benešová, Ivana",
@@ -20637,7 +20637,7 @@
         "location": "Senovážné náměstí 23, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 79903342,
