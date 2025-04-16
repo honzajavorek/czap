@@ -2,7 +2,8 @@
 
 Scraping [czap.cz members](https://czap.cz/adresar) so you can filter available psychotherapists by any criteria you wish:
 
--   [Download JSON](https://raw.githubusercontent.com/honzajavorek/czap/main/items.json)
+-   [Download CSV](http://honzajavorek.github.io/czap/items.csv)
+-   [Download JSON](https://honzajavorek.github.io/czap/items.json)
 
 I wanted to filter a list of Czech psychotherapists according to different criteria than those available at the [registry website](https://czap.cz/adresar). For example, the registry allows to filter by location, but only to the level of region. As there is 700+ therapists in Prague itself, it's not very useful.
 
