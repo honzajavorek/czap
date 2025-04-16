@@ -10,7 +10,7 @@ on:
 
 # Allow GITHUB_TOKEN to deploy to GitHub Pages
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
