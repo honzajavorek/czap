@@ -14110,16 +14110,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 69563841,
-        "url": "https://czap.cz/Sys/PublicProfile/69563841/5485226",
-        "name": "Štorková, Andrea",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Roháčova 2572, Písek",
-        "mapycom_url": "https://mapy.com/zakladni?q=Roh%C3%A1%C4%8Dova%202572%2C%20P%C3%ADsek",
-        "googlemaps_url": "https://www.google.com/maps?q=Roh%C3%A1%C4%8Dova%202572%2C%20P%C3%ADsek",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 69563923,
         "url": "https://czap.cz/Sys/PublicProfile/69563923/5485226",
         "name": "Vávrová, Alice",
@@ -21054,9 +21044,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/81347169/5485226",
         "name": "Vladyková, Barbora",
         "membership": "Řádné členství",
-        "location": "Stříbrnická 3030/2, Ústí nad Labem",
-        "mapycom_url": "https://mapy.com/zakladni?q=St%C5%99%C3%ADbrnick%C3%A1%203030/2%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
-        "googlemaps_url": "https://www.google.com/maps?q=St%C5%99%C3%ADbrnick%C3%A1%203030/2%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
+        "location": "Terapeutické a konzultační centrum MaJa, Hradiště 97/4, Ústí nad Labem",
+        "mapycom_url": "https://mapy.com/zakladni?q=Terapeutick%C3%A9%20a%20konzulta%C4%8Dn%C3%AD%20centrum%20MaJa%2C%20Hradi%C5%A1t%C4%9B%2097/4%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
+        "googlemaps_url": "https://www.google.com/maps?q=Terapeutick%C3%A9%20a%20konzulta%C4%8Dn%C3%AD%20centrum%20MaJa%2C%20Hradi%C5%A1t%C4%9B%2097/4%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -21108,6 +21098,26 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Trojsk%C3%A1%2068%2C%20Praha%208",
         "googlemaps_url": "https://www.google.com/maps?q=Trojsk%C3%A1%2068%2C%20Praha%208",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 81840648,
+        "url": "https://czap.cz/Sys/PublicProfile/81840648/5485226",
+        "name": "Šrámková, Petra",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Městský park 274, Chrudim",
+        "mapycom_url": "https://mapy.com/zakladni?q=M%C4%9Bstsk%C3%BD%20park%20274%2C%20Chrudim",
+        "googlemaps_url": "https://www.google.com/maps?q=M%C4%9Bstsk%C3%BD%20park%20274%2C%20Chrudim",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 81959927,
+        "url": "https://czap.cz/Sys/PublicProfile/81959927/5485226",
+        "name": "Nováková, Veronika",
+        "membership": "Řádné členství",
+        "location": "Střelničníá 1680, Praha 8",
+        "mapycom_url": "https://mapy.com/zakladni?q=St%C5%99elni%C4%8Dn%C3%AD%C3%A1%201680%2C%20Praha%208",
+        "googlemaps_url": "https://www.google.com/maps?q=St%C5%99elni%C4%8Dn%C3%AD%C3%A1%201680%2C%20Praha%208",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 82105360,
