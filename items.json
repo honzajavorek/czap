@@ -4430,6 +4430,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 58885378,
+        "url": "https://czap.cz/Sys/PublicProfile/58885378/5485226",
+        "name": "Vojtko, Jan",
+        "membership": "Řádné členství",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 58885379,
         "url": "https://czap.cz/Sys/PublicProfile/58885379/5485226",
         "name": "Šatrová, Šárka",
@@ -6017,6 +6027,16 @@
         "location": "Domažlická 15, Praha 3",
         "mapycom_url": "https://mapy.com/zakladni?q=Doma%C5%BElick%C3%A1%2015%2C%20Praha%203",
         "googlemaps_url": "https://www.google.com/maps?q=Doma%C5%BElick%C3%A1%2015%2C%20Praha%203",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 59638195,
+        "url": "https://czap.cz/Sys/PublicProfile/59638195/5485226",
+        "name": "Vysloužilová, Leona",
+        "membership": "Řádné členství",
+        "location": "Vídeňská 10, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=V%C3%ADde%C5%88sk%C3%A1%2010%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=V%C3%ADde%C5%88sk%C3%A1%2010%2C%20Olomouc",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -16610,6 +16630,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 74013848,
+        "url": "https://czap.cz/Sys/PublicProfile/74013848/5485226",
+        "name": "Janeček, Tomáš",
+        "membership": "Řádné členství",
+        "location": "Na Míčánce 32, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20M%C3%AD%C4%8D%C3%A1nce%2032%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20M%C3%AD%C4%8D%C3%A1nce%2032%2C%20Praha%206",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 74051665,
         "url": "https://czap.cz/Sys/PublicProfile/74051665/5485226",
         "name": "Andrlová, Veronika",
@@ -19367,6 +19397,16 @@
         "location": "Václavské náměstí 837/11, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=V%C3%A1clavsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20837/11%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=V%C3%A1clavsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20837/11%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 77766801,
+        "url": "https://czap.cz/Sys/PublicProfile/77766801/5485226",
+        "name": "Krupařová, Dominika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Fügnerovo námestí 3, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=F%C3%BCgnerovo%20n%C3%A1mest%C3%AD%203%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=F%C3%BCgnerovo%20n%C3%A1mest%C3%AD%203%2C%20Praha%202",
         "availability": "Přijímám nové klienty"
     },
     {
