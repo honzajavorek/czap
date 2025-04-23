@@ -8200,6 +8200,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 62587531,
+        "url": "https://czap.cz/Sys/PublicProfile/62587531/5485226",
+        "name": "Svobodová, Dagmar",
+        "membership": "Řádné členství",
+        "location": "Tyršova 291/26a, Jeseník",
+        "mapycom_url": "https://mapy.com/zakladni?q=Tyr%C5%A1ova%20291/26a%2C%20Jesen%C3%ADk",
+        "googlemaps_url": "https://www.google.com/maps?q=Tyr%C5%A1ova%20291/26a%2C%20Jesen%C3%ADk",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 62595100,
         "url": "https://czap.cz/Sys/PublicProfile/62595100/5485226",
         "name": "Schmoranz, Tereza",
@@ -8718,6 +8728,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha%202",
         "googlemaps_url": "https://www.google.com/maps?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha%202",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 62953148,
+        "url": "https://czap.cz/Sys/PublicProfile/62953148/5485226",
+        "name": "Schneiderová, Veronika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Jeremenkova 106, Praha 4",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jeremenkova%20106%2C%20Praha%204",
+        "googlemaps_url": "https://www.google.com/maps?q=Jeremenkova%20106%2C%20Praha%204",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 62958298,
@@ -9804,9 +9824,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63645270/5485226",
         "name": "Radlička Kořínková, Jana",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Malinovského náměstí 4, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Malinovsk%C3%A9ho%20n%C3%A1m%C4%9Bst%C3%AD%204%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Malinovsk%C3%A9ho%20n%C3%A1m%C4%9Bst%C3%AD%204%2C%20Brno",
+        "location": "Příkop 27/2a, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -14100,6 +14120,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 69528394,
+        "url": "https://czap.cz/Sys/PublicProfile/69528394/5485226",
+        "name": "Smetanová, Michaela",
+        "membership": "Řádné členství",
+        "location": "Eliášova 20, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Eli%C3%A1%C5%A1ova%2020%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Eli%C3%A1%C5%A1ova%2020%2C%20Praha%206",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 69550423,
         "url": "https://czap.cz/Sys/PublicProfile/69550423/5485226",
         "name": "Burešová, Marie",
@@ -16107,6 +16137,16 @@
         "location": "Jeremenkova 88, Praha 4 - Podolí",
         "mapycom_url": "https://mapy.com/zakladni?q=Jeremenkova%2088%2C%20Praha%204%20-%20Podol%C3%AD",
         "googlemaps_url": "https://www.google.com/maps?q=Jeremenkova%2088%2C%20Praha%204%20-%20Podol%C3%AD",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 72597445,
+        "url": "https://czap.cz/Sys/PublicProfile/72597445/5485226",
+        "name": "Rothová, Eliška",
+        "membership": "Řádné členství",
+        "location": "Milady Horákové 119, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Milady%20Hor%C3%A1kov%C3%A9%20119%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Milady%20Hor%C3%A1kov%C3%A9%20119%2C%20Praha%206",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
