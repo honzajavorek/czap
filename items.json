@@ -5337,7 +5337,7 @@
         "location": "Dvorecká 289/23, Praha 4-Podolí",
         "mapycom_url": "https://mapy.com/zakladni?q=Dvoreck%C3%A1%20289/23%2C%20Praha%204-Podol%C3%AD",
         "googlemaps_url": "https://www.google.com/maps?q=Dvoreck%C3%A1%20289/23%2C%20Praha%204-Podol%C3%AD",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885483,
@@ -7328,6 +7328,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Sk%C3%A1lova%2084%2C%20Turnov",
         "googlemaps_url": "https://www.google.com/maps?q=Sk%C3%A1lova%2084%2C%20Turnov",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 61800019,
+        "url": "https://czap.cz/Sys/PublicProfile/61800019/5485226",
+        "name": "Sajdlová, Jana",
+        "membership": "Řádné členství",
+        "location": "Školní 328, Neveklov",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0koln%C3%AD%20328%2C%20Neveklov",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%A0koln%C3%AD%20328%2C%20Neveklov",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 61800349,
@@ -21180,6 +21190,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 81662389,
+        "url": "https://czap.cz/Sys/PublicProfile/81662389/5485226",
+        "name": "Franc, Jan",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Města Mayen 1536, Uherské Hradiště",
+        "mapycom_url": "https://mapy.com/zakladni?q=M%C4%9Bsta%20Mayen%201536%2C%20Uhersk%C3%A9%20Hradi%C5%A1t%C4%9B",
+        "googlemaps_url": "https://www.google.com/maps?q=M%C4%9Bsta%20Mayen%201536%2C%20Uhersk%C3%A9%20Hradi%C5%A1t%C4%9B",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 81840648,
         "url": "https://czap.cz/Sys/PublicProfile/81840648/5485226",
         "name": "Šrámková, Petra",
@@ -21207,6 +21227,96 @@
         "location": null,
         "mapycom_url": null,
         "googlemaps_url": null,
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 82147360,
+        "url": "https://czap.cz/Sys/PublicProfile/82147360/5485226",
+        "name": "Kutinová, Lucie",
+        "membership": "Řádné členství",
+        "location": "Slezská 2033/11, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Slezsk%C3%A1%202033/11%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Slezsk%C3%A1%202033/11%2C%20Praha%202",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 82274712,
+        "url": "https://czap.cz/Sys/PublicProfile/82274712/5485226",
+        "name": "Hensel, Petr",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Malostranské náměstí 203/14, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Malostransk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20203/14%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Malostransk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20203/14%2C%20Praha",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 82278730,
+        "url": "https://czap.cz/Sys/PublicProfile/82278730/5485226",
+        "name": "Schreiberová, Jarmila",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Malostranské náměstí 203/14, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Malostransk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20203/14%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Malostransk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20203/14%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 82316108,
+        "url": "https://czap.cz/Sys/PublicProfile/82316108/5485226",
+        "name": "Vyskočil, Ivan",
+        "membership": "Řádné členství",
+        "location": "Bratislavská 83, Pezinok",
+        "mapycom_url": "https://mapy.com/zakladni?q=Bratislavsk%C3%A1%2083%2C%20Pezinok",
+        "googlemaps_url": "https://www.google.com/maps?q=Bratislavsk%C3%A1%2083%2C%20Pezinok",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 82505210,
+        "url": "https://czap.cz/Sys/PublicProfile/82505210/5485226",
+        "name": "Farkaš, Slavomír",
+        "membership": "Řádné členství",
+        "location": "Přístavní 31, Praha 7 - Holešovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADstavn%C3%AD%2031%2C%20Praha%207%20-%20Hole%C5%A1ovice",
+        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADstavn%C3%AD%2031%2C%20Praha%207%20-%20Hole%C5%A1ovice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 82688237,
+        "url": "https://czap.cz/Sys/PublicProfile/82688237/5485226",
+        "name": "Müller, Dan",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Mírová 414, Teplice",
+        "mapycom_url": "https://mapy.com/zakladni?q=M%C3%ADrov%C3%A1%20414%2C%20Teplice",
+        "googlemaps_url": "https://www.google.com/maps?q=M%C3%ADrov%C3%A1%20414%2C%20Teplice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 82722347,
+        "url": "https://czap.cz/Sys/PublicProfile/82722347/5485226",
+        "name": "Vaníčková, Hana",
+        "membership": "Řádné členství",
+        "location": "Kubelíkova 41, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kubel%C3%ADkova%2041%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Kubel%C3%ADkova%2041%2C%20Praha%203",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 82747192,
+        "url": "https://czap.cz/Sys/PublicProfile/82747192/5485226",
+        "name": "Huječková, Kristýna",
+        "membership": "Řádné členství",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 82748925,
+        "url": "https://czap.cz/Sys/PublicProfile/82748925/5485226",
+        "name": "Widemannová, Kateřina",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Zaříčanská 640, Praha 9",
+        "mapycom_url": "https://mapy.com/zakladni?q=Za%C5%99%C3%AD%C4%8Dansk%C3%A1%20640%2C%20Praha%209",
+        "googlemaps_url": "https://www.google.com/maps?q=Za%C5%99%C3%AD%C4%8Dansk%C3%A1%20640%2C%20Praha%209",
         "availability": "Přijímám nové klienty"
     }
 ]
