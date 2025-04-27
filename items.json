@@ -10250,16 +10250,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 64046467,
-        "url": "https://czap.cz/Sys/PublicProfile/64046467/5485226",
-        "name": "Nováček, Tomáš",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Sukova 4, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Sukova%204%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Sukova%204%2C%20Brno",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 64064730,
         "url": "https://czap.cz/Sys/PublicProfile/64064730/5485226",
         "name": "Vidová, Tímea",
@@ -11298,16 +11288,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Vodi%C4%8Dkova%2041%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Vodi%C4%8Dkova%2041%2C%20Praha%201",
         "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 66770137,
-        "url": "https://czap.cz/Sys/PublicProfile/66770137/5485226",
-        "name": "Hladíková, Julie",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Ústavní 91, Praha 8",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C3%9Astavn%C3%AD%2091%2C%20Praha%208",
-        "googlemaps_url": "https://www.google.com/maps?q=%C3%9Astavn%C3%AD%2091%2C%20Praha%208",
-        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 66775833,
