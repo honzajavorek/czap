@@ -7490,16 +7490,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 61979143,
-        "url": "https://czap.cz/Sys/PublicProfile/61979143/5485226",
-        "name": "Vaňková, Lenka",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Jiráskovo náměstí 159/10, Ostrava",
-        "mapycom_url": "https://mapy.com/zakladni?q=Jir%C3%A1skovo%20n%C3%A1m%C4%9Bst%C3%AD%20159/10%2C%20Ostrava",
-        "googlemaps_url": "https://www.google.com/maps?q=Jir%C3%A1skovo%20n%C3%A1m%C4%9Bst%C3%AD%20159/10%2C%20Ostrava",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 62000294,
         "url": "https://czap.cz/Sys/PublicProfile/62000294/5485226",
         "name": "Dydňanská, Radka",
@@ -9667,7 +9657,7 @@
         "location": "Bolzanova 1697/3, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Bolzanova%201697/3%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Bolzanova%201697/3%2C%20Praha",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 63548610,
@@ -11828,16 +11818,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%201047/26%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%201047/26%2C%20Praha",
         "availability": "Nepřijímám nové klienty"
-    },
-    {
-        "id": 67495862,
-        "url": "https://czap.cz/Sys/PublicProfile/67495862/5485226",
-        "name": "Dolejšová, Aneta",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Masarykova 336/54, Plzeň",
-        "mapycom_url": "https://mapy.com/zakladni?q=Masarykova%20336/54%2C%20Plze%C5%88",
-        "googlemaps_url": "https://www.google.com/maps?q=Masarykova%20336/54%2C%20Plze%C5%88",
-        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 67503348,
