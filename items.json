@@ -8740,6 +8740,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 62958688,
+        "url": "https://czap.cz/Sys/PublicProfile/62958688/5485226",
+        "name": "Bárta, Marek",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Kavčí plácek 121/1, Hradec Kálové",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kav%C4%8D%C3%AD%20pl%C3%A1cek%20121/1%2C%20Hradec%20K%C3%A1lov%C3%A9",
+        "googlemaps_url": "https://www.google.com/maps?q=Kav%C4%8D%C3%AD%20pl%C3%A1cek%20121/1%2C%20Hradec%20K%C3%A1lov%C3%A9",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 62963930,
         "url": "https://czap.cz/Sys/PublicProfile/62963930/5485226",
         "name": "Pisak, Jan",
@@ -10240,6 +10250,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 64046467,
+        "url": "https://czap.cz/Sys/PublicProfile/64046467/5485226",
+        "name": "Nováček, Tomáš",
+        "membership": "Řádné členství",
+        "location": "Sukova 4, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Sukova%204%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Sukova%204%2C%20Brno",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 64064730,
         "url": "https://czap.cz/Sys/PublicProfile/64064730/5485226",
         "name": "Vidová, Tímea",
@@ -10307,16 +10327,6 @@
         "location": "V Pátém 293, Praha 9 Klánovice",
         "mapycom_url": "https://mapy.com/zakladni?q=V%20P%C3%A1t%C3%A9m%20293%2C%20Praha%209%20Kl%C3%A1novice",
         "googlemaps_url": "https://www.google.com/maps?q=V%20P%C3%A1t%C3%A9m%20293%2C%20Praha%209%20Kl%C3%A1novice",
-        "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 64158948,
-        "url": "https://czap.cz/Sys/PublicProfile/64158948/5485226",
-        "name": "Mikošková, Iveta",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Příkop 2a, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%202a%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%202a%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -11280,6 +11290,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 66770137,
+        "url": "https://czap.cz/Sys/PublicProfile/66770137/5485226",
+        "name": "Hladíková, Julie",
+        "membership": "Řádné členství",
+        "location": "Ústavní 91, Praha 8",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C3%9Astavn%C3%AD%2091%2C%20Praha%208",
+        "googlemaps_url": "https://www.google.com/maps?q=%C3%9Astavn%C3%AD%2091%2C%20Praha%208",
+        "availability": "Nepřijímám nové klienty"
+    },
+    {
         "id": 66775833,
         "url": "https://czap.cz/Sys/PublicProfile/66775833/5485226",
         "name": "Nováková, Kristýna",
@@ -11818,6 +11838,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%201047/26%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%201047/26%2C%20Praha",
         "availability": "Nepřijímám nové klienty"
+    },
+    {
+        "id": 67495862,
+        "url": "https://czap.cz/Sys/PublicProfile/67495862/5485226",
+        "name": "Dolejšová, Aneta",
+        "membership": "Řádné členství",
+        "location": "Masarykova 336/54, Plzeň",
+        "mapycom_url": "https://mapy.com/zakladni?q=Masarykova%20336/54%2C%20Plze%C5%88",
+        "googlemaps_url": "https://www.google.com/maps?q=Masarykova%20336/54%2C%20Plze%C5%88",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 67503348,
@@ -15568,16 +15598,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Smetanova%201284%2C%20T%C3%A1bor",
         "googlemaps_url": "https://www.google.com/maps?q=Smetanova%201284%2C%20T%C3%A1bor",
         "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 71942334,
-        "url": "https://czap.cz/Sys/PublicProfile/71942334/5485226",
-        "name": "Holancová, Pavlína",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": null,
-        "mapycom_url": null,
-        "googlemaps_url": null,
-        "availability": ""
     },
     {
         "id": 71955771,
