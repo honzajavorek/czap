@@ -7320,6 +7320,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 61789857,
+        "url": "https://czap.cz/Sys/PublicProfile/61789857/5485226",
+        "name": "Mikulová, Radka",
+        "membership": "Řádné členství",
+        "location": "Skálova 84, Turnov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Sk%C3%A1lova%2084%2C%20Turnov",
+        "googlemaps_url": "https://www.google.com/maps?q=Sk%C3%A1lova%2084%2C%20Turnov",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 61800019,
         "url": "https://czap.cz/Sys/PublicProfile/61800019/5485226",
         "name": "Sajdlová, Jana",
@@ -8287,16 +8297,6 @@
         "location": "Vyšehradská 43, Praha - Nové Město",
         "mapycom_url": "https://mapy.com/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha%20-%20Nov%C3%A9%20M%C4%9Bsto",
         "googlemaps_url": "https://www.google.com/maps?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha%20-%20Nov%C3%A9%20M%C4%9Bsto",
-        "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 62688265,
-        "url": "https://czap.cz/Sys/PublicProfile/62688265/5485226",
-        "name": "Danel, David",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Smetanovo náměstí 979/2, Ostrava",
-        "mapycom_url": "https://mapy.com/zakladni?q=Smetanovo%20n%C3%A1m%C4%9Bst%C3%AD%20979/2%2C%20Ostrava",
-        "googlemaps_url": "https://www.google.com/maps?q=Smetanovo%20n%C3%A1m%C4%9Bst%C3%AD%20979/2%2C%20Ostrava",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -15598,6 +15598,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Smetanova%201284%2C%20T%C3%A1bor",
         "googlemaps_url": "https://www.google.com/maps?q=Smetanova%201284%2C%20T%C3%A1bor",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 71942334,
+        "url": "https://czap.cz/Sys/PublicProfile/71942334/5485226",
+        "name": "Holancová, Pavlína",
+        "membership": "Řádné členství",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
+        "availability": ""
     },
     {
         "id": 71955771,
