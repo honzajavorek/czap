@@ -7500,6 +7500,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 61979143,
+        "url": "https://czap.cz/Sys/PublicProfile/61979143/5485226",
+        "name": "Vaňková, Lenka",
+        "membership": "Řádné členství",
+        "location": "Jiráskovo náměstí 159/10, Ostrava",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jir%C3%A1skovo%20n%C3%A1m%C4%9Bst%C3%AD%20159/10%2C%20Ostrava",
+        "googlemaps_url": "https://www.google.com/maps?q=Jir%C3%A1skovo%20n%C3%A1m%C4%9Bst%C3%AD%20159/10%2C%20Ostrava",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 62000294,
         "url": "https://czap.cz/Sys/PublicProfile/62000294/5485226",
         "name": "Dydňanská, Radka",
@@ -8857,6 +8867,16 @@
         "location": "Říční 478, Kadaň",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%98%C3%AD%C4%8Dn%C3%AD%20478%2C%20Kada%C5%88",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%98%C3%AD%C4%8Dn%C3%AD%20478%2C%20Kada%C5%88",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 63118084,
+        "url": "https://czap.cz/Sys/PublicProfile/63118084/5485226",
+        "name": "Novotná Kubínková, Denisa",
+        "membership": "Řádné členství",
+        "location": "Nerudova 918, Louny",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nerudova%20918%2C%20Louny",
+        "googlemaps_url": "https://www.google.com/maps?q=Nerudova%20918%2C%20Louny",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -11908,16 +11928,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Neklanova%20123/19%2C%20Praha%20-%20Vy%C5%A1ehrad",
         "googlemaps_url": "https://www.google.com/maps?q=Neklanova%20123/19%2C%20Praha%20-%20Vy%C5%A1ehrad",
         "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 67592370,
-        "url": "https://czap.cz/Sys/PublicProfile/67592370/5485226",
-        "name": "Brožíková, Kateřina",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Klatovská třída 73/7A, Plzeň",
-        "mapycom_url": "https://mapy.com/zakladni?q=Klatovsk%C3%A1%20t%C5%99%C3%ADda%2073/7A%2C%20Plze%C5%88",
-        "googlemaps_url": "https://www.google.com/maps?q=Klatovsk%C3%A1%20t%C5%99%C3%ADda%2073/7A%2C%20Plze%C5%88",
-        "availability": "Přijímám nové klienty"
     },
     {
         "id": 67611392,
@@ -15817,6 +15827,16 @@
         "location": "5. Května 163, Louny",
         "mapycom_url": "https://mapy.com/zakladni?q=5.%20Kv%C4%9Btna%20163%2C%20Louny",
         "googlemaps_url": "https://www.google.com/maps?q=5.%20Kv%C4%9Btna%20163%2C%20Louny",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 72128572,
+        "url": "https://czap.cz/Sys/PublicProfile/72128572/5485226",
+        "name": "Pelikánová, Kristína",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Národní 25, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1rodn%C3%AD%2025%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1rodn%C3%AD%2025%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
     },
     {
