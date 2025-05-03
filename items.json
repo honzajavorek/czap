@@ -8310,6 +8310,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 62688265,
+        "url": "https://czap.cz/Sys/PublicProfile/62688265/5485226",
+        "name": "Danel, David",
+        "membership": "Řádné členství",
+        "location": "Smetanovo náměstí 979/2, Ostrava",
+        "mapycom_url": "https://mapy.com/zakladni?q=Smetanovo%20n%C3%A1m%C4%9Bst%C3%AD%20979/2%2C%20Ostrava",
+        "googlemaps_url": "https://www.google.com/maps?q=Smetanovo%20n%C3%A1m%C4%9Bst%C3%AD%20979/2%2C%20Ostrava",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 62688419,
         "url": "https://czap.cz/Sys/PublicProfile/62688419/5485226",
         "name": "Goláňová, Ivana",
@@ -19598,16 +19608,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Jelen%C3%AD%2091/7a%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Jelen%C3%AD%2091/7a%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 77941601,
-        "url": "https://czap.cz/Sys/PublicProfile/77941601/5485226",
-        "name": "Ehrenbergerová, Michaela",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Americká 444/4, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=Americk%C3%A1%20444/4%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=Americk%C3%A1%20444/4%2C%20Praha%202",
-        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 77991693,
