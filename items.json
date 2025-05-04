@@ -14297,7 +14297,7 @@
         "location": "Sokolská 113/8, Liberec",
         "mapycom_url": "https://mapy.com/zakladni?q=Sokolsk%C3%A1%20113/8%2C%20Liberec",
         "googlemaps_url": "https://www.google.com/maps?q=Sokolsk%C3%A1%20113/8%2C%20Liberec",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 69676865,
@@ -21348,6 +21348,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Bratislavsk%C3%A1%2083%2C%20Pezinok",
         "googlemaps_url": "https://www.google.com/maps?q=Bratislavsk%C3%A1%2083%2C%20Pezinok",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 82463803,
+        "url": "https://czap.cz/Sys/PublicProfile/82463803/5485226",
+        "name": "Kohoutková, Monika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Ostrovní 30, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ostrovn%C3%AD%2030%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Ostrovn%C3%AD%2030%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 82505210,
