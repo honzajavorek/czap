@@ -10360,6 +10360,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 64158948,
+        "url": "https://czap.cz/Sys/PublicProfile/64158948/5485226",
+        "name": "Mikošková, Iveta",
+        "membership": "Řádné členství",
+        "location": "Příkop 6, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%206%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%206%2C%20Brno",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 64168097,
         "url": "https://czap.cz/Sys/PublicProfile/64168097/5485226",
         "name": "Jínková, Martina",
@@ -13144,9 +13154,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68422809/5485226",
         "name": "Venclíková, Lucie",
         "membership": "Řádné členství",
-        "location": "Hermelínská 6, Praha 6",
-        "mapycom_url": "https://mapy.com/zakladni?q=Hermel%C3%ADnsk%C3%A1%206%2C%20Praha%206",
-        "googlemaps_url": "https://www.google.com/maps?q=Hermel%C3%ADnsk%C3%A1%206%2C%20Praha%206",
+        "location": "Nad Šárkou 58, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nad%20%C5%A0%C3%A1rkou%2058%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Nad%20%C5%A0%C3%A1rkou%2058%2C%20Praha%206",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -21230,6 +21240,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 81613703,
+        "url": "https://czap.cz/Sys/PublicProfile/81613703/5485226",
+        "name": "Literáková, Kateřina",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Drlíčov 155, Písek",
+        "mapycom_url": "https://mapy.com/zakladni?q=Drl%C3%AD%C4%8Dov%20155%2C%20P%C3%ADsek",
+        "googlemaps_url": "https://www.google.com/maps?q=Drl%C3%AD%C4%8Dov%20155%2C%20P%C3%ADsek",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 81618453,
         "url": "https://czap.cz/Sys/PublicProfile/81618453/5485226",
         "name": "Balatá, Ivana",
@@ -21278,6 +21298,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=St%C5%99elni%C4%8Dn%C3%AD%C3%A1%201680%2C%20Praha%208",
         "googlemaps_url": "https://www.google.com/maps?q=St%C5%99elni%C4%8Dn%C3%AD%C3%A1%201680%2C%20Praha%208",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 81987176,
+        "url": "https://czap.cz/Sys/PublicProfile/81987176/5485226",
+        "name": "Novotná, Lucie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Ostrovského 253, Praha 5",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ostrovsk%C3%A9ho%20253%2C%20Praha%205",
+        "googlemaps_url": "https://www.google.com/maps?q=Ostrovsk%C3%A9ho%20253%2C%20Praha%205",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 82105360,
