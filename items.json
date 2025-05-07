@@ -3477,7 +3477,7 @@
         "location": "Na Širokém III/ 513, Ohrobec - Károv, Dolní Břežany",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20%C5%A0irok%C3%A9m%20III/%20513%2C%20Ohrobec%20-%20K%C3%A1rov%2C%20Doln%C3%AD%20B%C5%99e%C5%BEany",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20%C5%A0irok%C3%A9m%20III/%20513%2C%20Ohrobec%20-%20K%C3%A1rov%2C%20Doln%C3%AD%20B%C5%99e%C5%BEany",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885268,
@@ -11950,6 +11950,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 67592370,
+        "url": "https://czap.cz/Sys/PublicProfile/67592370/5485226",
+        "name": "Brožíková, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Klatovská třída 73/7A, Plzeň",
+        "mapycom_url": "https://mapy.com/zakladni?q=Klatovsk%C3%A1%20t%C5%99%C3%ADda%2073/7A%2C%20Plze%C5%88",
+        "googlemaps_url": "https://www.google.com/maps?q=Klatovsk%C3%A1%20t%C5%99%C3%ADda%2073/7A%2C%20Plze%C5%88",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 67611392,
         "url": "https://czap.cz/Sys/PublicProfile/67611392/5485226",
         "name": "Doležel, Štěpán",
@@ -19620,6 +19630,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 77941601,
+        "url": "https://czap.cz/Sys/PublicProfile/77941601/5485226",
+        "name": "Ehrenbergerová, Michaela",
+        "membership": "Řádné členství",
+        "location": "Americká 444/4, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Americk%C3%A1%20444/4%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Americk%C3%A1%20444/4%2C%20Praha%202",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 77991693,
         "url": "https://czap.cz/Sys/PublicProfile/77991693/5485226",
         "name": "Šulcová, Kateřina",
@@ -19884,9 +19904,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/78214556/5485226",
         "name": "Cherednychenko, Іryna",
         "membership": "Řádné členství",
-        "location": null,
-        "mapycom_url": null,
-        "googlemaps_url": null,
+        "location": "Kodaňská 1441/46, Praha 10 - Vršovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Koda%C5%88sk%C3%A1%201441/46%2C%20Praha%2010%20-%20Vr%C5%A1ovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Koda%C5%88sk%C3%A1%201441/46%2C%20Praha%2010%20-%20Vr%C5%A1ovice",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -21447,6 +21467,16 @@
         "location": "Zaříčanská 640, Praha 9",
         "mapycom_url": "https://mapy.com/zakladni?q=Za%C5%99%C3%AD%C4%8Dansk%C3%A1%20640%2C%20Praha%209",
         "googlemaps_url": "https://www.google.com/maps?q=Za%C5%99%C3%AD%C4%8Dansk%C3%A1%20640%2C%20Praha%209",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 82749628,
+        "url": "https://czap.cz/Sys/PublicProfile/82749628/5485226",
+        "name": "Žáková, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Antonínská 18, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Anton%C3%ADnsk%C3%A1%2018%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Anton%C3%ADnsk%C3%A1%2018%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
