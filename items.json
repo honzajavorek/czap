@@ -21488,5 +21488,45 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Karmelitsk%C3%A1%2018%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Karmelitsk%C3%A1%2018%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 82849992,
+        "url": "https://czap.cz/Sys/PublicProfile/82849992/5485226",
+        "name": "Macková, Petra",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Šafaříkova 24, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0afa%C5%99%C3%ADkova%2024%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%A0afa%C5%99%C3%ADkova%2024%2C%20Praha%202",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 83287591,
+        "url": "https://czap.cz/Sys/PublicProfile/83287591/5485226",
+        "name": "Klůzová Kráčmarová, Lucie",
+        "membership": "Řádné členství",
+        "location": "Chlum 73, Hořice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Chlum%2073%2C%20Ho%C5%99ice",
+        "googlemaps_url": "https://www.google.com/maps?q=Chlum%2073%2C%20Ho%C5%99ice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 83360020,
+        "url": "https://czap.cz/Sys/PublicProfile/83360020/5485226",
+        "name": "Kohut, Tereza",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Jeseniova 47, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jeseniova%2047%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Jeseniova%2047%2C%20Praha",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 83807184,
+        "url": "https://czap.cz/Sys/PublicProfile/83807184/5485226",
+        "name": "Machová, Lucie",
+        "membership": "Řádné členství",
+        "location": "Nepomuckých 18, Praha 9",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nepomuck%C3%BDch%2018%2C%20Praha%209",
+        "googlemaps_url": "https://www.google.com/maps?q=Nepomuck%C3%BDch%2018%2C%20Praha%209",
+        "availability": "Info o dostupnosti na vyžádání"
     }
 ]
