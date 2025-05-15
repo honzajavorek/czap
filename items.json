@@ -6860,16 +6860,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 61043434,
-        "url": "https://czap.cz/Sys/PublicProfile/61043434/5485226",
-        "name": "Procházková, Ivana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Křenová 69a, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=K%C5%99enov%C3%A1%2069a%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=K%C5%99enov%C3%A1%2069a%2C%20Brno",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 61043438,
         "url": "https://czap.cz/Sys/PublicProfile/61043438/5485226",
         "name": "Vlčková, Tereza",
@@ -19130,6 +19120,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 77325177,
+        "url": "https://czap.cz/Sys/PublicProfile/77325177/5485226",
+        "name": "Tulpová, Lucia",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Starobrněnská 334/3, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Starobrn%C4%9Bnsk%C3%A1%20334/3%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Starobrn%C4%9Bnsk%C3%A1%20334/3%2C%20Brno",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 77329366,
         "url": "https://czap.cz/Sys/PublicProfile/77329366/5485226",
         "name": "Bolinová Fialová, Jitka",
@@ -21390,6 +21390,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 81625549,
+        "url": "https://czap.cz/Sys/PublicProfile/81625549/5485226",
+        "name": "Dávid, Dalibor",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Bezděkovská 162, Strakonice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Bezd%C4%9Bkovsk%C3%A1%20162%2C%20Strakonice",
+        "googlemaps_url": "https://www.google.com/maps?q=Bezd%C4%9Bkovsk%C3%A1%20162%2C%20Strakonice",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 81662389,
         "url": "https://czap.cz/Sys/PublicProfile/81662389/5485226",
         "name": "Franc, Jan",
@@ -21642,7 +21652,7 @@
     {
         "id": 82859802,
         "url": "https://czap.cz/Sys/PublicProfile/82859802/5485226",
-        "name": "Szűcsová, Tereza",
+        "name": "Szücsová, Tereza",
         "membership": "Řádné členství",
         "location": "Nová 1824, Hranice",
         "mapycom_url": "https://mapy.com/zakladni?q=Nov%C3%A1%201824%2C%20Hranice",
