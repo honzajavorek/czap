@@ -21450,6 +21450,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 81674528,
+        "url": "https://czap.cz/Sys/PublicProfile/81674528/5485226",
+        "name": "Unger, Kristýna",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Bruselská 266/14, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Bruselsk%C3%A1%20266/14%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Bruselsk%C3%A1%20266/14%2C%20Praha",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 81840648,
         "url": "https://czap.cz/Sys/PublicProfile/81840648/5485226",
         "name": "Šrámková, Petra",
@@ -21830,6 +21840,26 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 84720190,
+        "url": "https://czap.cz/Sys/PublicProfile/84720190/5485226",
+        "name": "Dudášová, Ludmila",
+        "membership": "Řádné členství",
+        "location": "Ečerova 16, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=E%C4%8Derova%2016%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=E%C4%8Derova%2016%2C%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 84784124,
+        "url": "https://czap.cz/Sys/PublicProfile/84784124/5485226",
+        "name": "Stroudová, Michaela",
+        "membership": "Řádné členství",
+        "location": "Krakovská 7, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Krakovsk%C3%A1%207%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Krakovsk%C3%A1%207%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 84803047,
         "url": "https://czap.cz/Sys/PublicProfile/84803047/5485226",
         "name": "Mertlíková, Jitka",
@@ -21837,6 +21867,46 @@
         "location": "Mánesova 11/3b, České Budějovice",
         "mapycom_url": "https://mapy.com/zakladni?q=M%C3%A1nesova%2011/3b%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
         "googlemaps_url": "https://www.google.com/maps?q=M%C3%A1nesova%2011/3b%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 84870863,
+        "url": "https://czap.cz/Sys/PublicProfile/84870863/5485226",
+        "name": "Jílek, Jakub",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Masarykovo náměstí 1544, Pardubice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%201544%2C%20Pardubice",
+        "googlemaps_url": "https://www.google.com/maps?q=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%201544%2C%20Pardubice",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 84886785,
+        "url": "https://czap.cz/Sys/PublicProfile/84886785/5485226",
+        "name": "Nováková, Monika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "tř. T. G. Masaryka 1108, Frýdek-Místek",
+        "mapycom_url": "https://mapy.com/zakladni?q=t%C5%99.%20T.%20G.%20Masaryka%201108%2C%20Fr%C3%BDdek-M%C3%ADstek",
+        "googlemaps_url": "https://www.google.com/maps?q=t%C5%99.%20T.%20G.%20Masaryka%201108%2C%20Fr%C3%BDdek-M%C3%ADstek",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 84958787,
+        "url": "https://czap.cz/Sys/PublicProfile/84958787/5485226",
+        "name": "Rovnerová, Aneta",
+        "membership": "Řádné členství",
+        "location": "Strahovské nádvoří 3, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Strahovsk%C3%A9%20n%C3%A1dvo%C5%99%C3%AD%203%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Strahovsk%C3%A9%20n%C3%A1dvo%C5%99%C3%AD%203%2C%20Praha",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 84986016,
+        "url": "https://czap.cz/Sys/PublicProfile/84986016/5485226",
+        "name": "Melikhova, Tetiana",
+        "membership": "Řádné členství",
+        "location": "Nám. Winstona Churchilla 2, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1m.%20Winstona%20Churchilla%202%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1m.%20Winstona%20Churchilla%202%2C%20Praha%203",
         "availability": "Info o dostupnosti na vyžádání"
     }
 ]
