@@ -5994,9 +5994,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/59412059/5485226",
         "name": "Štráfeldová, Hana",
         "membership": "Řádné členství",
-        "location": "Duchoslávka 2052/8, Praha 6 Dejvice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Duchosl%C3%A1vka%202052/8%2C%20Praha%206%20Dejvice",
-        "googlemaps_url": "https://www.google.com/maps?q=Duchosl%C3%A1vka%202052/8%2C%20Praha%206%20Dejvice",
+        "location": "náměstí Bořislavka 393/7, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=n%C3%A1m%C4%9Bst%C3%AD%20Bo%C5%99islavka%20393/7%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=n%C3%A1m%C4%9Bst%C3%AD%20Bo%C5%99islavka%20393/7%2C%20Praha%206",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -8108,6 +8108,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=U%20Kan%C3%A1lky%205%2C%20Praha%202%20-%20Vinohrady",
         "googlemaps_url": "https://www.google.com/maps?q=U%20Kan%C3%A1lky%205%2C%20Praha%202%20-%20Vinohrady",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 62377331,
+        "url": "https://czap.cz/Sys/PublicProfile/62377331/5485226",
+        "name": "Drbohlav, Andrej",
+        "membership": "Řádné členství",
+        "location": "V Kopečku 163, Hradec Králové",
+        "mapycom_url": "https://mapy.com/zakladni?q=V%20Kope%C4%8Dku%20163%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "googlemaps_url": "https://www.google.com/maps?q=V%20Kope%C4%8Dku%20163%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 62382078,
@@ -10404,9 +10414,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/64158948/5485226",
         "name": "Mikošková, Iveta",
         "membership": "Řádné členství",
-        "location": "Příkop 6, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%206%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%206%2C%20Brno",
+        "location": "Příkop 838/6, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%20838/6%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%20838/6%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -14237,7 +14247,17 @@
         "location": "Drahomířino nábřeží 16, Karlovy Vary",
         "mapycom_url": "https://mapy.com/zakladni?q=Drahom%C3%AD%C5%99ino%20n%C3%A1b%C5%99e%C5%BE%C3%AD%2016%2C%20Karlovy%20Vary",
         "googlemaps_url": "https://www.google.com/maps?q=Drahom%C3%AD%C5%99ino%20n%C3%A1b%C5%99e%C5%BE%C3%AD%2016%2C%20Karlovy%20Vary",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 69526873,
+        "url": "https://czap.cz/Sys/PublicProfile/69526873/5485226",
+        "name": "Šramota, Miroslav Jan",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Hořovičky 134, okr. Rakovník, Hořovičky",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ho%C5%99ovi%C4%8Dky%20134%2C%20okr.%20Rakovn%C3%ADk%2C%20Ho%C5%99ovi%C4%8Dky",
+        "googlemaps_url": "https://www.google.com/maps?q=Ho%C5%99ovi%C4%8Dky%20134%2C%20okr.%20Rakovn%C3%ADk%2C%20Ho%C5%99ovi%C4%8Dky",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 69528018,
