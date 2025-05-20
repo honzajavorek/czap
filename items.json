@@ -5084,10 +5084,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885448/5485226",
         "name": "Chvojková, Petra",
         "membership": "Řádné členství",
-        "location": "Na Petynce 151/90, Praha 6 Střešovice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Petynce%20151/90%2C%20Praha%206%20St%C5%99e%C5%A1ovice",
-        "googlemaps_url": "https://www.google.com/maps?q=Na%20Petynce%20151/90%2C%20Praha%206%20St%C5%99e%C5%A1ovice",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Vlastislavova 152/4, Praha 4",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vlastislavova%20152/4%2C%20Praha%204",
+        "googlemaps_url": "https://www.google.com/maps?q=Vlastislavova%20152/4%2C%20Praha%204",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885449,
@@ -5217,7 +5217,7 @@
         "location": "Malinovského náměstí 4, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Malinovsk%C3%A9ho%20n%C3%A1m%C4%9Bst%C3%AD%204%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Malinovsk%C3%A9ho%20n%C3%A1m%C4%9Bst%C3%AD%204%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 58885464,
@@ -6868,6 +6868,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Po%C5%A1tovn%C3%AD%20252%2C%20Uhersk%C3%A9%20Hradi%C5%A1t%C4%9B",
         "googlemaps_url": "https://www.google.com/maps?q=Po%C5%A1tovn%C3%AD%20252%2C%20Uhersk%C3%A9%20Hradi%C5%A1t%C4%9B",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 61043434,
+        "url": "https://czap.cz/Sys/PublicProfile/61043434/5485226",
+        "name": "Procházková, Ivana",
+        "membership": "Řádné členství",
+        "location": "Křenová 69a, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=K%C5%99enov%C3%A1%2069a%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=K%C5%99enov%C3%A1%2069a%2C%20Brno",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 61043438,
@@ -11492,7 +11502,7 @@
     {
         "id": 66996224,
         "url": "https://czap.cz/Sys/PublicProfile/66996224/5485226",
-        "name": "Dvořáčková Jungbauerová, Aneta",
+        "name": "Jungbauerová, Aneta",
         "membership": "Řádné členství",
         "location": "Rumunská 1, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Rumunsk%C3%A1%201%2C%20Praha",
@@ -19390,6 +19400,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 77607805,
+        "url": "https://czap.cz/Sys/PublicProfile/77607805/5485226",
+        "name": "Novotná, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Konvitská 13, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Konvitsk%C3%A1%2013%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Konvitsk%C3%A1%2013%2C%20Praha%201",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 77617465,
         "url": "https://czap.cz/Sys/PublicProfile/77617465/5485226",
         "name": "Plaček, Pavel",
@@ -20700,6 +20720,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 79241165,
+        "url": "https://czap.cz/Sys/PublicProfile/79241165/5485226",
+        "name": "Hamanaka, Klára",
+        "membership": "Řádné členství",
+        "location": "Kluky 176, Kluky u Písku",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kluky%20176%2C%20Kluky%20u%20P%C3%ADsku",
+        "googlemaps_url": "https://www.google.com/maps?q=Kluky%20176%2C%20Kluky%20u%20P%C3%ADsku",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 79298201,
         "url": "https://czap.cz/Sys/PublicProfile/79298201/5485226",
         "name": "Marek, Matouš",
@@ -21920,6 +21950,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 84985511,
+        "url": "https://czap.cz/Sys/PublicProfile/84985511/5485226",
+        "name": "Hronová, Pavlína",
+        "membership": "Řádné členství",
+        "location": "Italská 704, Milovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Italsk%C3%A1%20704%2C%20Milovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Italsk%C3%A1%20704%2C%20Milovice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 84986016,
         "url": "https://czap.cz/Sys/PublicProfile/84986016/5485226",
         "name": "Melikhova, Tetiana",
@@ -21928,5 +21968,15 @@
         "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1m.%20Winstona%20Churchilla%202%2C%20Praha%203",
         "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1m.%20Winstona%20Churchilla%202%2C%20Praha%203",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 85061567,
+        "url": "https://czap.cz/Sys/PublicProfile/85061567/5485226",
+        "name": "Kubieńová, Jolana",
+        "membership": "Řádné členství",
+        "location": "Brixovy Dvory 194, Volary",
+        "mapycom_url": "https://mapy.com/zakladni?q=Brixovy%20Dvory%20194%2C%20Volary",
+        "googlemaps_url": "https://www.google.com/maps?q=Brixovy%20Dvory%20194%2C%20Volary",
+        "availability": "Přijímám nové klienty"
     }
 ]
