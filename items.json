@@ -8957,7 +8957,7 @@
         "location": "Senovážné náměstí 23, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 63130903,
@@ -10807,7 +10807,7 @@
         "location": "Kvítková 3643, Zlín",
         "mapycom_url": "https://mapy.com/zakladni?q=Kv%C3%ADtkov%C3%A1%203643%2C%20Zl%C3%ADn",
         "googlemaps_url": "https://www.google.com/maps?q=Kv%C3%ADtkov%C3%A1%203643%2C%20Zl%C3%ADn",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 64730829,
@@ -20834,9 +20834,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/79478771/5485226",
         "name": "Kupka, Martin",
         "membership": "Řádné členství",
-        "location": "Vodární 601/6, Olomouc",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vod%C3%A1rn%C3%AD%20601/6%2C%20Olomouc",
-        "googlemaps_url": "https://www.google.com/maps?q=Vod%C3%A1rn%C3%AD%20601/6%2C%20Olomouc",
+        "location": "Olomouc - Jeseník, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Olomouc%20-%20Jesen%C3%ADk%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Olomouc%20-%20Jesen%C3%ADk%2C%20Olomouc",
         "availability": "Přijímám nové klienty"
     },
     {
