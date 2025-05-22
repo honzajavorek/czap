@@ -13244,10 +13244,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/68422809/5485226",
         "name": "Venclíková, Lucie",
         "membership": "Řádné členství",
-        "location": "Nad Šárkou 58, Praha 6",
-        "mapycom_url": "https://mapy.com/zakladni?q=Nad%20%C5%A0%C3%A1rkou%2058%2C%20Praha%206",
-        "googlemaps_url": "https://www.google.com/maps?q=Nad%20%C5%A0%C3%A1rkou%2058%2C%20Praha%206",
-        "availability": "Přijímám nové klienty"
+        "location": "Nad Šárkou 58/766, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nad%20%C5%A0%C3%A1rkou%2058/766%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Nad%20%C5%A0%C3%A1rkou%2058/766%2C%20Praha%206",
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 68425128,
@@ -17574,9 +17574,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/75231453/5485226",
         "name": "Valová, Veronika",
         "membership": "Řádné členství",
-        "location": "kraj Vysočina",
-        "mapycom_url": "https://mapy.com/zakladni?q=kraj%20Vyso%C4%8Dina",
-        "googlemaps_url": "https://www.google.com/maps?q=kraj%20Vyso%C4%8Dina",
+        "location": "Náměšť nad Oslavou",
+        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1m%C4%9B%C5%A1%C5%A5%20nad%20Oslavou",
+        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1m%C4%9B%C5%A1%C5%A5%20nad%20Oslavou",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -21737,6 +21737,16 @@
         "location": "Moravské náměstí 127/3, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Moravsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20127/3%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Moravsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20127/3%2C%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 82811558,
+        "url": "https://czap.cz/Sys/PublicProfile/82811558/5485226",
+        "name": "Bílková, Zuzana",
+        "membership": "Řádné členství",
+        "location": "Blahoslavova 227/2, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Blahoslavova%20227/2%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Blahoslavova%20227/2%2C%20Praha%203",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
