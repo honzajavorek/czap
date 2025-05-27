@@ -6147,7 +6147,7 @@
         "location": "Zlatnická 1124/7, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=Zlatnick%C3%A1%201124/7%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Zlatnick%C3%A1%201124/7%2C%20Praha%201",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 59848628,
@@ -8532,11 +8532,11 @@
     {
         "id": 62761848,
         "url": "https://czap.cz/Sys/PublicProfile/62761848/5485226",
-        "name": "Kostolanská, Eva",
+        "name": "Šupej, Eva",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Jana Babáka 1861/3, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Jana%20Bab%C3%A1ka%201861/3%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Jana%20Bab%C3%A1ka%201861/3%2C%20Brno",
+        "location": "Kobližná 47, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kobli%C5%BEn%C3%A1%2047%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Kobli%C5%BEn%C3%A1%2047%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -9017,16 +9017,6 @@
         "location": "Palackého 147, Dobřichovice",
         "mapycom_url": "https://mapy.com/zakladni?q=Palack%C3%A9ho%20147%2C%20Dob%C5%99ichovice",
         "googlemaps_url": "https://www.google.com/maps?q=Palack%C3%A9ho%20147%2C%20Dob%C5%99ichovice",
-        "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 63203815,
-        "url": "https://czap.cz/Sys/PublicProfile/63203815/5485226",
-        "name": "Francová, Světlana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Slezská 2292/127, Praha 3",
-        "mapycom_url": "https://mapy.com/zakladni?q=Slezsk%C3%A1%202292/127%2C%20Praha%203",
-        "googlemaps_url": "https://www.google.com/maps?q=Slezsk%C3%A1%202292/127%2C%20Praha%203",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -17434,9 +17424,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/75023284/5485226",
         "name": "Prokopová, Barbora",
         "membership": "Řádné členství",
-        "location": "Olomoucká 1848/173, Šternberk",
-        "mapycom_url": "https://mapy.com/zakladni?q=Olomouck%C3%A1%201848/173%2C%20%C5%A0ternberk",
-        "googlemaps_url": "https://www.google.com/maps?q=Olomouck%C3%A1%201848/173%2C%20%C5%A0ternberk",
+        "location": "Novosadský dvůr 18, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Novosadsk%C3%BD%20dv%C5%AFr%2018%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Novosadsk%C3%BD%20dv%C5%AFr%2018%2C%20Olomouc",
         "availability": "Přijímám nové klienty"
     },
     {
