@@ -11142,7 +11142,7 @@
     {
         "id": 65797143,
         "url": "https://czap.cz/Sys/PublicProfile/65797143/5485226",
-        "name": "BUBNIK, LUCIE",
+        "name": "ŠKOP BUBNIK, LUCIE",
         "membership": "Řádné členství",
         "location": "Holečkova 106/10, Praha 5",
         "mapycom_url": "https://mapy.com/zakladni?q=Hole%C4%8Dkova%20106/10%2C%20Praha%205",
@@ -15647,6 +15647,16 @@
         "location": "Palackého 3, Olomouc",
         "mapycom_url": "https://mapy.com/zakladni?q=Palack%C3%A9ho%203%2C%20Olomouc",
         "googlemaps_url": "https://www.google.com/maps?q=Palack%C3%A9ho%203%2C%20Olomouc",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 71587395,
+        "url": "https://czap.cz/Sys/PublicProfile/71587395/5485226",
+        "name": "Maulenová, Kristýna",
+        "membership": "Řádné členství",
+        "location": "Velehradská 19, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Velehradsk%C3%A1%2019%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Velehradsk%C3%A1%2019%2C%20Praha%203",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
