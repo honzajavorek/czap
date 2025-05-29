@@ -1464,9 +1464,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885041/5485226",
         "name": "Kolář, Jan",
         "membership": "Řádné členství",
-        "location": "Sukova 49/4, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Sukova%2049/4%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Sukova%2049/4%2C%20Brno",
+        "location": "Štefánikova 85/16, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0tef%C3%A1nikova%2085/16%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%A0tef%C3%A1nikova%2085/16%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -7020,6 +7020,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 61300441,
+        "url": "https://czap.cz/Sys/PublicProfile/61300441/5485226",
+        "name": "Kempf, Karin",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Perlova 3, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Perlova%203%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Perlova%203%2C%20Praha%201",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 61304000,
         "url": "https://czap.cz/Sys/PublicProfile/61304000/5485226",
         "name": "Passinger, Břetislav",
@@ -9584,9 +9594,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63521569/5485226",
         "name": "Schejbalová, Michaela",
         "membership": "Řádné členství",
-        "location": null,
-        "mapycom_url": null,
-        "googlemaps_url": null,
+        "location": "Na Ostrově 207, Chrudim",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Ostrov%C4%9B%20207%2C%20Chrudim",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Ostrov%C4%9B%20207%2C%20Chrudim",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -13444,9 +13454,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68536093/5485226",
         "name": "Sechkar, Tatiana",
         "membership": "Řádné členství",
-        "location": "Zenklova 305/11, Praha Libeň",
-        "mapycom_url": "https://mapy.com/zakladni?q=Zenklova%20305/11%2C%20Praha%20Libe%C5%88",
-        "googlemaps_url": "https://www.google.com/maps?q=Zenklova%20305/11%2C%20Praha%20Libe%C5%88",
+        "location": "Thámova 133/24, Praha 8-Karlín",
+        "mapycom_url": "https://mapy.com/zakladni?q=Th%C3%A1mova%20133/24%2C%20Praha%208-Karl%C3%ADn",
+        "googlemaps_url": "https://www.google.com/maps?q=Th%C3%A1mova%20133/24%2C%20Praha%208-Karl%C3%ADn",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -21997,6 +22007,16 @@
         "location": "Brixovy Dvory 194, Volary",
         "mapycom_url": "https://mapy.com/zakladni?q=Brixovy%20Dvory%20194%2C%20Volary",
         "googlemaps_url": "https://www.google.com/maps?q=Brixovy%20Dvory%20194%2C%20Volary",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 85962197,
+        "url": "https://czap.cz/Sys/PublicProfile/85962197/5485226",
+        "name": "Jůnová, Petra",
+        "membership": "Řádné členství",
+        "location": "Na Zátorách 613/8, Praha 7 - Holešovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Z%C3%A1tor%C3%A1ch%20613/8%2C%20Praha%207%20-%20Hole%C5%A1ovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Z%C3%A1tor%C3%A1ch%20613/8%2C%20Praha%207%20-%20Hole%C5%A1ovice",
         "availability": "Přijímám nové klienty"
     }
 ]
