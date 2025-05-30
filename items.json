@@ -8984,9 +8984,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63141831/5485226",
         "name": "Schönová, Kateřina",
         "membership": "Řádné členství",
-        "location": "Národní 25/961, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1rodn%C3%AD%2025/961%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1rodn%C3%AD%2025/961%2C%20Praha%201",
+        "location": "Velflíkova 385/14, Ostrava Hrabůvka",
+        "mapycom_url": "https://mapy.com/zakladni?q=Velfl%C3%ADkova%20385/14%2C%20Ostrava%20Hrab%C5%AFvka",
+        "googlemaps_url": "https://www.google.com/maps?q=Velfl%C3%ADkova%20385/14%2C%20Ostrava%20Hrab%C5%AFvka",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -9027,6 +9027,16 @@
         "location": "Palackého 147, Dobřichovice",
         "mapycom_url": "https://mapy.com/zakladni?q=Palack%C3%A9ho%20147%2C%20Dob%C5%99ichovice",
         "googlemaps_url": "https://www.google.com/maps?q=Palack%C3%A9ho%20147%2C%20Dob%C5%99ichovice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 63203815,
+        "url": "https://czap.cz/Sys/PublicProfile/63203815/5485226",
+        "name": "Francová, Světlana",
+        "membership": "Řádné členství",
+        "location": "Slezská 2292/127, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Slezsk%C3%A1%202292/127%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Slezsk%C3%A1%202292/127%2C%20Praha%203",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -13254,9 +13264,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68422809/5485226",
         "name": "Venclíková, Lucie",
         "membership": "Řádné členství",
-        "location": "Nad Šárkou 58/766, Praha 6",
-        "mapycom_url": "https://mapy.com/zakladni?q=Nad%20%C5%A0%C3%A1rkou%2058/766%2C%20Praha%206",
-        "googlemaps_url": "https://www.google.com/maps?q=Nad%20%C5%A0%C3%A1rkou%2058/766%2C%20Praha%206",
+        "location": "Hermelínská 6, Praha 6 - Dejvice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Hermel%C3%ADnsk%C3%A1%206%2C%20Praha%206%20-%20Dejvice",
+        "googlemaps_url": "https://www.google.com/maps?q=Hermel%C3%ADnsk%C3%A1%206%2C%20Praha%206%20-%20Dejvice",
         "availability": "Nepřijímám nové klienty"
     },
     {
@@ -21650,6 +21660,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 82406144,
+        "url": "https://czap.cz/Sys/PublicProfile/82406144/5485226",
+        "name": "Pašková, Beata",
+        "membership": "Řádné členství",
+        "location": "Wolkerova 16, Praha 6 - Bubeneč",
+        "mapycom_url": "https://mapy.com/zakladni?q=Wolkerova%2016%2C%20Praha%206%20-%20Bubene%C4%8D",
+        "googlemaps_url": "https://www.google.com/maps?q=Wolkerova%2016%2C%20Praha%206%20-%20Bubene%C4%8D",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 82463803,
         "url": "https://czap.cz/Sys/PublicProfile/82463803/5485226",
         "name": "Kohoutková, Monika",
@@ -22030,6 +22050,36 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 85907379,
+        "url": "https://czap.cz/Sys/PublicProfile/85907379/5485226",
+        "name": "Glaserová, Jana",
+        "membership": "Řádné členství",
+        "location": "Paní Zdislavy 418, Česká Lípa",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pan%C3%AD%20Zdislavy%20418%2C%20%C4%8Cesk%C3%A1%20L%C3%ADpa",
+        "googlemaps_url": "https://www.google.com/maps?q=Pan%C3%AD%20Zdislavy%20418%2C%20%C4%8Cesk%C3%A1%20L%C3%ADpa",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 85935944,
+        "url": "https://czap.cz/Sys/PublicProfile/85935944/5485226",
+        "name": "Klechová, Aneta",
+        "membership": "Řádné členství",
+        "location": "Wellnerova 1, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Wellnerova%201%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Wellnerova%201%2C%20Olomouc",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 85936085,
+        "url": "https://czap.cz/Sys/PublicProfile/85936085/5485226",
+        "name": "Salačová Svobodová, Hana",
+        "membership": "Řádné členství",
+        "location": "Mladých Běchovic 2, Praha 9",
+        "mapycom_url": "https://mapy.com/zakladni?q=Mlad%C3%BDch%20B%C4%9Bchovic%202%2C%20Praha%209",
+        "googlemaps_url": "https://www.google.com/maps?q=Mlad%C3%BDch%20B%C4%9Bchovic%202%2C%20Praha%209",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 85962197,
         "url": "https://czap.cz/Sys/PublicProfile/85962197/5485226",
         "name": "Jůnová, Petra",
@@ -22037,6 +22087,26 @@
         "location": "Na Zátorách 613/8, Praha 7 - Holešovice",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Z%C3%A1tor%C3%A1ch%20613/8%2C%20Praha%207%20-%20Hole%C5%A1ovice",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Z%C3%A1tor%C3%A1ch%20613/8%2C%20Praha%207%20-%20Hole%C5%A1ovice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 86081908,
+        "url": "https://czap.cz/Sys/PublicProfile/86081908/5485226",
+        "name": "Panka Vodilová, Mgr. Natália",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Písecká 376, Bechyně",
+        "mapycom_url": "https://mapy.com/zakladni?q=P%C3%ADseck%C3%A1%20376%2C%20Bechyn%C4%9B",
+        "googlemaps_url": "https://www.google.com/maps?q=P%C3%ADseck%C3%A1%20376%2C%20Bechyn%C4%9B",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 86160043,
+        "url": "https://czap.cz/Sys/PublicProfile/86160043/5485226",
+        "name": "Prášilová, Michaela",
+        "membership": "Řádné členství",
+        "location": "Urbinská 183, Český Krumlov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Urbinsk%C3%A1%20183%2C%20%C4%8Cesk%C3%BD%20Krumlov",
+        "googlemaps_url": "https://www.google.com/maps?q=Urbinsk%C3%A1%20183%2C%20%C4%8Cesk%C3%BD%20Krumlov",
         "availability": "Přijímám nové klienty"
     }
 ]
