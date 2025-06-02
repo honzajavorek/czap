@@ -1897,7 +1897,7 @@
         "location": "Lečická 243,, Nová Ves pod Pleší",
         "mapycom_url": "https://mapy.com/zakladni?q=Le%C4%8Dick%C3%A1%20243%2C%2C%20Nov%C3%A1%20Ves%20pod%20Ple%C5%A1%C3%AD",
         "googlemaps_url": "https://www.google.com/maps?q=Le%C4%8Dick%C3%A1%20243%2C%2C%20Nov%C3%A1%20Ves%20pod%20Ple%C5%A1%C3%AD",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 58885090,
@@ -7512,7 +7512,7 @@
     {
         "id": 61901147,
         "url": "https://czap.cz/Sys/PublicProfile/61901147/5485226",
-        "name": "Pilařová, Naďa",
+        "name": "Nátěstová Pilařová, Naďa",
         "membership": "Řádné členství",
         "location": "Dolní Lánov 228, Dolní Lánov u Vrchlabí, Dolní Lánov u Vrchlabí / Jičín",
         "mapycom_url": "https://mapy.com/zakladni?q=Doln%C3%AD%20L%C3%A1nov%20228%2C%20Doln%C3%AD%20L%C3%A1nov%20u%20Vrchlab%C3%AD%2C%20Doln%C3%AD%20L%C3%A1nov%20u%20Vrchlab%C3%AD%20/%20Ji%C4%8D%C3%ADn",
@@ -11388,16 +11388,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Peka%C5%99sk%C3%A1%2018%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Peka%C5%99sk%C3%A1%2018%2C%20Brno",
         "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 66749046,
-        "url": "https://czap.cz/Sys/PublicProfile/66749046/5485226",
-        "name": "Krčmářová, Barbora",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Jana Masaryka 26/257, Praha, Vinohrady",
-        "mapycom_url": "https://mapy.com/zakladni?q=Jana%20Masaryka%2026/257%2C%20Praha%2C%20Vinohrady",
-        "googlemaps_url": "https://www.google.com/maps?q=Jana%20Masaryka%2026/257%2C%20Praha%2C%20Vinohrady",
-        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 66749192,
