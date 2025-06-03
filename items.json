@@ -5460,16 +5460,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 58885490,
-        "url": "https://czap.cz/Sys/PublicProfile/58885490/5485226",
-        "name": "Špačková, Michaela",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Na Struze 30, Trutnov",
-        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Struze%2030%2C%20Trutnov",
-        "googlemaps_url": "https://www.google.com/maps?q=Na%20Struze%2030%2C%20Trutnov",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 58885491,
         "url": "https://czap.cz/Sys/PublicProfile/58885491/5485226",
         "name": "Vybíral, Michal",
@@ -5517,7 +5507,7 @@
         "location": "Jamné 45, Tišnov",
         "mapycom_url": "https://mapy.com/zakladni?q=Jamn%C3%A9%2045%2C%20Ti%C5%A1nov",
         "googlemaps_url": "https://www.google.com/maps?q=Jamn%C3%A9%2045%2C%20Ti%C5%A1nov",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 58885496,
@@ -9838,6 +9828,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Remedis%2C%20Vladim%C3%ADrova%2014%2C%20Praha%204-Nusle",
         "googlemaps_url": "https://www.google.com/maps?q=Remedis%2C%20Vladim%C3%ADrova%2014%2C%20Praha%204-Nusle",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 63572968,
+        "url": "https://czap.cz/Sys/PublicProfile/63572968/5485226",
+        "name": "Mládková, Petra",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Senovážné nám. 23, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m.%2023%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m.%2023%2C%20Praha%201",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 63574624,
@@ -22108,5 +22108,15 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Urbinsk%C3%A1%20183%2C%20%C4%8Cesk%C3%BD%20Krumlov",
         "googlemaps_url": "https://www.google.com/maps?q=Urbinsk%C3%A1%20183%2C%20%C4%8Cesk%C3%BD%20Krumlov",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 86618693,
+        "url": "https://czap.cz/Sys/PublicProfile/86618693/5485226",
+        "name": "Blaha, Tomáš",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Kubelíkova 827/55, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kubel%C3%ADkova%20827/55%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Kubel%C3%ADkova%20827/55%2C%20Praha%203",
+        "availability": "Info o dostupnosti na vyžádání"
     }
 ]
