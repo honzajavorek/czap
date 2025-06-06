@@ -10432,7 +10432,7 @@
     {
         "id": 64141416,
         "url": "https://czap.cz/Sys/PublicProfile/64141416/5485226",
-        "name": "Kosheleva, Svetlana",
+        "name": "Košeleva, Světlana",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "V Pátém 293, Praha 9 Klánovice",
         "mapycom_url": "https://mapy.com/zakladni?q=V%20P%C3%A1t%C3%A9m%20293%2C%20Praha%209%20Kl%C3%A1novice",
@@ -21320,6 +21320,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 80803189,
+        "url": "https://czap.cz/Sys/PublicProfile/80803189/5485226",
+        "name": "Ratislavová, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Plaská 1265/7, Plzeň",
+        "mapycom_url": "https://mapy.com/zakladni?q=Plask%C3%A1%201265/7%2C%20Plze%C5%88",
+        "googlemaps_url": "https://www.google.com/maps?q=Plask%C3%A1%201265/7%2C%20Plze%C5%88",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 80805390,
         "url": "https://czap.cz/Sys/PublicProfile/80805390/5485226",
         "name": "Oláh, Michal",
@@ -22097,6 +22107,16 @@
         "location": "Písecká 376, Bechyně",
         "mapycom_url": "https://mapy.com/zakladni?q=P%C3%ADseck%C3%A1%20376%2C%20Bechyn%C4%9B",
         "googlemaps_url": "https://www.google.com/maps?q=P%C3%ADseck%C3%A1%20376%2C%20Bechyn%C4%9B",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 86129496,
+        "url": "https://czap.cz/Sys/PublicProfile/86129496/5485226",
+        "name": "Hobzová, Hana",
+        "membership": "Řádné členství",
+        "location": "Vackova 44, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vackova%2044%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Vackova%2044%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
