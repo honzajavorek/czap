@@ -6030,16 +6030,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 59508572,
-        "url": "https://czap.cz/Sys/PublicProfile/59508572/5485226",
-        "name": "Lukáš, Richard",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Hornická 209/4, Kutná Hora",
-        "mapycom_url": "https://mapy.com/zakladni?q=Hornick%C3%A1%20209/4%2C%20Kutn%C3%A1%20Hora",
-        "googlemaps_url": "https://www.google.com/maps?q=Hornick%C3%A1%20209/4%2C%20Kutn%C3%A1%20Hora",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 59576735,
         "url": "https://czap.cz/Sys/PublicProfile/59576735/5485226",
         "name": "Arleth, Marie",
@@ -10168,16 +10158,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=%C4%8CR",
         "googlemaps_url": "https://www.google.com/maps?q=%C4%8CR",
         "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 63822121,
-        "url": "https://czap.cz/Sys/PublicProfile/63822121/5485226",
-        "name": "Petrek, Nikola",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Masarykovo náměstí 1544, Pardubice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%201544%2C%20Pardubice",
-        "googlemaps_url": "https://www.google.com/maps?q=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%201544%2C%20Pardubice",
-        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 63831627,
@@ -14454,9 +14434,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/69713185/5485226",
         "name": "Frinta, Petr",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Bruselská 14, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=Bruselsk%C3%A1%2014%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=Bruselsk%C3%A1%2014%2C%20Praha%202",
+        "location": "Máchova 18, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=M%C3%A1chova%2018%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=M%C3%A1chova%2018%2C%20Praha%202",
         "availability": "Přijímám nové klienty"
     },
     {
