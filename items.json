@@ -1864,9 +1864,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885085/5485226",
         "name": "Vlková, Miloslava",
         "membership": "Řádné členství",
-        "location": "Hornokrčská 707/7, Praha 4",
-        "mapycom_url": "https://mapy.com/zakladni?q=Hornokr%C4%8Dsk%C3%A1%20707/7%2C%20Praha%204",
-        "googlemaps_url": "https://www.google.com/maps?q=Hornokr%C4%8Dsk%C3%A1%20707/7%2C%20Praha%204",
+        "location": "Prvního pluku 129, Praha 8",
+        "mapycom_url": "https://mapy.com/zakladni?q=Prvn%C3%ADho%20pluku%20129%2C%20Praha%208",
+        "googlemaps_url": "https://www.google.com/maps?q=Prvn%C3%ADho%20pluku%20129%2C%20Praha%208",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -22038,6 +22038,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Sedlackova%2022%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Sedlackova%2022%2C%20Brno",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 85467969,
+        "url": "https://czap.cz/Sys/PublicProfile/85467969/5485226",
+        "name": "Pánek, Lukáš",
+        "membership": "Řádné členství",
+        "location": "Na Moráni 3, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Mor%C3%A1ni%203%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Mor%C3%A1ni%203%2C%20Praha%202",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 85907379,
