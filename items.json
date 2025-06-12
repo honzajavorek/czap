@@ -9700,6 +9700,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 63543411,
+        "url": "https://czap.cz/Sys/PublicProfile/63543411/5485226",
+        "name": "Adam, Iveta",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Chocholouškova 1578/4, 702 00 Ostrava, Opava 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Chocholou%C5%A1kova%201578/4%2C%20702%2000%20Ostrava%2C%20Opava%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Chocholou%C5%A1kova%201578/4%2C%20702%2000%20Ostrava%2C%20Opava%201",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 63543533,
         "url": "https://czap.cz/Sys/PublicProfile/63543533/5485226",
         "name": "Bařinková, Ivana",
@@ -10837,7 +10847,7 @@
         "location": "Ostrovského 253/3, Praha 5",
         "mapycom_url": "https://mapy.com/zakladni?q=Ostrovsk%C3%A9ho%20253/3%2C%20Praha%205",
         "googlemaps_url": "https://www.google.com/maps?q=Ostrovsk%C3%A9ho%20253/3%2C%20Praha%205",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 64803170,
@@ -15794,10 +15804,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/71942334/5485226",
         "name": "Holancová, Pavlína",
         "membership": "Řádné členství",
-        "location": null,
-        "mapycom_url": null,
-        "googlemaps_url": null,
-        "availability": ""
+        "location": "KVÍTKOVÁ 124, druhé patro, dveře č. 304 a 305, Zlín",
+        "mapycom_url": "https://mapy.com/zakladni?q=KV%C3%8DTKOV%C3%81%20124%2C%20druh%C3%A9%20patro%2C%20dve%C5%99e%20%C4%8D.%20304%20a%20305%2C%20Zl%C3%ADn",
+        "googlemaps_url": "https://www.google.com/maps?q=KV%C3%8DTKOV%C3%81%20124%2C%20druh%C3%A9%20patro%2C%20dve%C5%99e%20%C4%8D.%20304%20a%20305%2C%20Zl%C3%ADn",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 71955771,
