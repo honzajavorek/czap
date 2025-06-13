@@ -15934,9 +15934,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/72051131/5485226",
         "name": "Cahová, Veronika",
         "membership": "Řádné členství",
-        "location": "Vítkovická 3056/2, Ostrava - Moravská Ostrava",
-        "mapycom_url": "https://mapy.com/zakladni?q=V%C3%ADtkovick%C3%A1%203056/2%2C%20Ostrava%20-%20Moravsk%C3%A1%20Ostrava",
-        "googlemaps_url": "https://www.google.com/maps?q=V%C3%ADtkovick%C3%A1%203056/2%2C%20Ostrava%20-%20Moravsk%C3%A1%20Ostrava",
+        "location": "Tržní 22, Frýdek-Místek",
+        "mapycom_url": "https://mapy.com/zakladni?q=Tr%C5%BEn%C3%AD%2022%2C%20Fr%C3%BDdek-M%C3%ADstek",
+        "googlemaps_url": "https://www.google.com/maps?q=Tr%C5%BEn%C3%AD%2022%2C%20Fr%C3%BDdek-M%C3%ADstek",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -20832,7 +20832,7 @@
     {
         "id": 79422901,
         "url": "https://czap.cz/Sys/PublicProfile/79422901/5485226",
-        "name": "Peničová, Petra",
+        "name": "Knapovská, Petra",
         "membership": "Řádné členství",
         "location": "Dolní 222, Choceň",
         "mapycom_url": "https://mapy.com/zakladni?q=Doln%C3%AD%20222%2C%20Choce%C5%88",
@@ -21920,6 +21920,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 84491827,
+        "url": "https://czap.cz/Sys/PublicProfile/84491827/5485226",
+        "name": "Krnáčová, Alena",
+        "membership": "Řádné členství",
+        "location": "Mezi potoky 6 a, Praha 100 00  Altercentrum, Logarte Drahobejlová 41, Praha 9",
+        "mapycom_url": "https://mapy.com/zakladni?q=Mezi%20potoky%206%20a%2C%20Praha%20100%2000%20%20Altercentrum%2C%20Logarte%20Drahobejlov%C3%A1%2041%2C%20Praha%209",
+        "googlemaps_url": "https://www.google.com/maps?q=Mezi%20potoky%206%20a%2C%20Praha%20100%2000%20%20Altercentrum%2C%20Logarte%20Drahobejlov%C3%A1%2041%2C%20Praha%209",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 84692631,
         "url": "https://czap.cz/Sys/PublicProfile/84692631/5485226",
         "name": "Vosyková, Šárka",
@@ -22138,5 +22148,15 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Kubel%C3%ADkova%20827/55%2C%20Praha%203",
         "googlemaps_url": "https://www.google.com/maps?q=Kubel%C3%ADkova%20827/55%2C%20Praha%203",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 86721089,
+        "url": "https://czap.cz/Sys/PublicProfile/86721089/5485226",
+        "name": "Ševčíková, Dagmar",
+        "membership": "Řádné členství",
+        "location": "Syllabova 3039/19e, Ostrava - Vítkovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Syllabova%203039/19e%2C%20Ostrava%20-%20V%C3%ADtkovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Syllabova%203039/19e%2C%20Ostrava%20-%20V%C3%ADtkovice",
+        "availability": "Přijímám nové klienty"
     }
 ]
