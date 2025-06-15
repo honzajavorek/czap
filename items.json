@@ -11754,9 +11754,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/67235352/5485226",
         "name": "Kirchnerová, Marie",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Húskova 2, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=H%C3%BAskova%202%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=H%C3%BAskova%202%2C%20Brno",
+        "location": "Matzenauerova 4, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Matzenauerova%204%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Matzenauerova%204%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -21447,7 +21447,7 @@
         "location": "K.H. Máchy 1276, Sokolov",
         "mapycom_url": "https://mapy.com/zakladni?q=K.H.%20M%C3%A1chy%201276%2C%20Sokolov",
         "googlemaps_url": "https://www.google.com/maps?q=K.H.%20M%C3%A1chy%201276%2C%20Sokolov",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 81543312,
@@ -22188,6 +22188,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Turnovsk%C3%A1%20477/6%2C%20Praha%208%20-%20Libe%C5%88",
         "googlemaps_url": "https://www.google.com/maps?q=Turnovsk%C3%A1%20477/6%2C%20Praha%208%20-%20Libe%C5%88",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 87018372,
+        "url": "https://czap.cz/Sys/PublicProfile/87018372/5485226",
+        "name": "Musilová, Jitka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Na Okrouhlíku 1371, Hradec Králové",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Okrouhl%C3%ADku%201371%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Okrouhl%C3%ADku%201371%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 87279572,
