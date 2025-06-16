@@ -7370,6 +7370,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 61795624,
+        "url": "https://czap.cz/Sys/PublicProfile/61795624/5485226",
+        "name": "Barusová - Lesová, Dáša",
+        "membership": "Řádné členství",
+        "location": "Hauptova 594, zbraslav",
+        "mapycom_url": "https://mapy.com/zakladni?q=Hauptova%20594%2C%20zbraslav",
+        "googlemaps_url": "https://www.google.com/maps?q=Hauptova%20594%2C%20zbraslav",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 61800019,
         "url": "https://czap.cz/Sys/PublicProfile/61800019/5485226",
         "name": "Sajdlová, Jana",
@@ -14218,6 +14228,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Centrum%20protidrogov%C3%A9%20prevence%20a%20terapie%2C%20o.%20p.%20s.Tylova%20707/20%2C%20Plze%C5%88",
         "googlemaps_url": "https://www.google.com/maps?q=Centrum%20protidrogov%C3%A9%20prevence%20a%20terapie%2C%20o.%20p.%20s.Tylova%20707/20%2C%20Plze%C5%88",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 69382059,
+        "url": "https://czap.cz/Sys/PublicProfile/69382059/5485226",
+        "name": "Skýba, Marcel",
+        "membership": "Řádné členství",
+        "location": "Wellnerova 1, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Wellnerova%201%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Wellnerova%201%2C%20Olomouc",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 69391808,
