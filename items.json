@@ -3764,9 +3764,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885297/5485226",
         "name": "Kopřivová, Šárka",
         "membership": "Řádné členství",
-        "location": "Českobratrská 16, Ostrava",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C4%8Ceskobratrsk%C3%A1%2016%2C%20Ostrava",
-        "googlemaps_url": "https://www.google.com/maps?q=%C4%8Ceskobratrsk%C3%A1%2016%2C%20Ostrava",
+        "location": "Fráni Šrámka 3, Ostrava",
+        "mapycom_url": "https://mapy.com/zakladni?q=Fr%C3%A1ni%20%C5%A0r%C3%A1mka%203%2C%20Ostrava",
+        "googlemaps_url": "https://www.google.com/maps?q=Fr%C3%A1ni%20%C5%A0r%C3%A1mka%203%2C%20Ostrava",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -12754,9 +12754,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68031784/5485226",
         "name": "Patzelt, Daniel",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Vrbova 1427, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vrbova%201427%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Vrbova%201427%2C%20Praha",
+        "location": "Pacovská 31, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pacovsk%C3%A1%2031%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Pacovsk%C3%A1%2031%2C%20Praha",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -14552,12 +14552,12 @@
     {
         "id": 69788541,
         "url": "https://czap.cz/Sys/PublicProfile/69788541/5485226",
-        "name": "Švecová, Eliška",
+        "name": "Mohaghegh, Eliška",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Na Zámecké 9, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Z%C3%A1meck%C3%A9%209%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Z%C3%A1meck%C3%A9%209%2C%20Praha",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 69830096,
@@ -22497,6 +22497,16 @@
         "location": "Smetanovo náměstí 328/1, Ostrava",
         "mapycom_url": "https://mapy.com/zakladni?q=Smetanovo%20n%C3%A1m%C4%9Bst%C3%AD%20328/1%2C%20Ostrava",
         "googlemaps_url": "https://www.google.com/maps?q=Smetanovo%20n%C3%A1m%C4%9Bst%C3%AD%20328/1%2C%20Ostrava",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 88077455,
+        "url": "https://czap.cz/Sys/PublicProfile/88077455/5485226",
+        "name": "Bartošová Kavková, Jitka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Charkovská 24, Praha 10-Vršovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Charkovsk%C3%A1%2024%2C%20Praha%2010-Vr%C5%A1ovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Charkovsk%C3%A1%2024%2C%20Praha%2010-Vr%C5%A1ovice",
         "availability": "Info o dostupnosti na vyžádání"
     }
 ]
