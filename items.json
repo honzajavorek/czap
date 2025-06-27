@@ -6977,7 +6977,7 @@
         "location": "Muchova 33, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Muchova%2033%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Muchova%2033%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 61184793,
@@ -16532,12 +16532,12 @@
     {
         "id": 72812339,
         "url": "https://czap.cz/Sys/PublicProfile/72812339/5485226",
-        "name": "Nádvorníková, Magdaléna",
+        "name": "Šimková, Magdaléna",
         "membership": "Řádné členství",
         "location": "Desná 16, Desná",
         "mapycom_url": "https://mapy.com/zakladni?q=Desn%C3%A1%2016%2C%20Desn%C3%A1",
         "googlemaps_url": "https://www.google.com/maps?q=Desn%C3%A1%2016%2C%20Desn%C3%A1",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 72830840,
@@ -16862,7 +16862,7 @@
     {
         "id": 73706431,
         "url": "https://czap.cz/Sys/PublicProfile/73706431/5485226",
-        "name": "Lehečková, Kristýna",
+        "name": "Tonar, Kristýna",
         "membership": "Kandidátní členství - ve výcviku",
         "location": null,
         "mapycom_url": null,
@@ -22024,9 +22024,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/84491827/5485226",
         "name": "Krnáčová, Alena",
         "membership": "Řádné členství",
-        "location": "Mezi potoky 6 a, Praha 100 00  Altercentrum, Logarte Drahobejlová 41, Praha 9",
-        "mapycom_url": "https://mapy.com/zakladni?q=Mezi%20potoky%206%20a%2C%20Praha%20100%2000%20%20Altercentrum%2C%20Logarte%20Drahobejlov%C3%A1%2041%2C%20Praha%209",
-        "googlemaps_url": "https://www.google.com/maps?q=Mezi%20potoky%206%20a%2C%20Praha%20100%2000%20%20Altercentrum%2C%20Logarte%20Drahobejlov%C3%A1%2041%2C%20Praha%209",
+        "location": "Mezi potoky 6 a, Praha 100 00  Altercentrum, Altercentrum",
+        "mapycom_url": "https://mapy.com/zakladni?q=Mezi%20potoky%206%20a%2C%20Praha%20100%2000%20%20Altercentrum%2C%20Altercentrum",
+        "googlemaps_url": "https://www.google.com/maps?q=Mezi%20potoky%206%20a%2C%20Praha%20100%2000%20%20Altercentrum%2C%20Altercentrum",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -22424,9 +22424,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/87265235/5485226",
         "name": "Procházková, Eva",
         "membership": "Řádné členství",
-        "location": "Wellnerova 11, Olomouc",
-        "mapycom_url": "https://mapy.com/zakladni?q=Wellnerova%2011%2C%20Olomouc",
-        "googlemaps_url": "https://www.google.com/maps?q=Wellnerova%2011%2C%20Olomouc",
+        "location": "Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Olomouc",
         "availability": "Přijímám nové klienty"
     },
     {
