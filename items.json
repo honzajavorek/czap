@@ -14004,9 +14004,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68875679/5485226",
         "name": "Maierová, Martina",
         "membership": "Řádné členství",
-        "location": "Střelničná 645/39, Praha 8 (Ládví), Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=St%C5%99elni%C4%8Dn%C3%A1%20645/39%2C%20Praha%208%20%28L%C3%A1dv%C3%AD%29%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=St%C5%99elni%C4%8Dn%C3%A1%20645/39%2C%20Praha%208%20%28L%C3%A1dv%C3%AD%29%2C%20Praha",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
         "availability": "Přijímám nové klienty"
     },
     {
@@ -18134,10 +18134,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/75966382/5485226",
         "name": "Bobovníková, Kateřina",
         "membership": "Řádné členství",
-        "location": "Mathonova 1, Prostějov",
-        "mapycom_url": "https://mapy.com/zakladni?q=Mathonova%201%2C%20Prost%C4%9Bjov",
-        "googlemaps_url": "https://www.google.com/maps?q=Mathonova%201%2C%20Prost%C4%9Bjov",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "U Výstaviště 8, Přerov",
+        "mapycom_url": "https://mapy.com/zakladni?q=U%20V%C3%BDstavi%C5%A1t%C4%9B%208%2C%20P%C5%99erov",
+        "googlemaps_url": "https://www.google.com/maps?q=U%20V%C3%BDstavi%C5%A1t%C4%9B%208%2C%20P%C5%99erov",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 75972854,
