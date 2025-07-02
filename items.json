@@ -3877,7 +3877,7 @@
         "location": "Ostrovského 253/3, 150 00 , Prague 5, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Ostrovsk%C3%A9ho%20253/3%2C%20150%2000%20%2C%20Prague%205%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Ostrovsk%C3%A9ho%20253/3%2C%20150%2000%20%2C%20Prague%205%2C%20Praha",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885312,
@@ -9217,16 +9217,6 @@
         "location": "Brandýská 133/33, Praha 8",
         "mapycom_url": "https://mapy.com/zakladni?q=Brand%C3%BDsk%C3%A1%20133/33%2C%20Praha%208",
         "googlemaps_url": "https://www.google.com/maps?q=Brand%C3%BDsk%C3%A1%20133/33%2C%20Praha%208",
-        "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 63320519,
-        "url": "https://czap.cz/Sys/PublicProfile/63320519/5485226",
-        "name": "Gőth, Petr",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Kutná Hora",
-        "mapycom_url": "https://mapy.com/zakladni?q=Kutn%C3%A1%20Hora",
-        "googlemaps_url": "https://www.google.com/maps?q=Kutn%C3%A1%20Hora",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -16554,9 +16544,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/72873963/5485226",
         "name": "Hozáková, Michaela",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Mezi potoky 35, Praha 10, Praha 10  Hostivař",
-        "mapycom_url": "https://mapy.com/zakladni?q=Mezi%20potoky%2035%2C%20Praha%2010%2C%20Praha%2010%20%20Hostiva%C5%99",
-        "googlemaps_url": "https://www.google.com/maps?q=Mezi%20potoky%2035%2C%20Praha%2010%2C%20Praha%2010%20%20Hostiva%C5%99",
+        "location": "Branická 107, Praha 4",
+        "mapycom_url": "https://mapy.com/zakladni?q=Branick%C3%A1%20107%2C%20Praha%204",
+        "googlemaps_url": "https://www.google.com/maps?q=Branick%C3%A1%20107%2C%20Praha%204",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -19772,7 +19762,7 @@
     {
         "id": 77762478,
         "url": "https://czap.cz/Sys/PublicProfile/77762478/5485226",
-        "name": "Sodomková, Barbora",
+        "name": "Kotmelová, Barbora",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Na Poříčí 12, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha",
@@ -20194,9 +20184,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/78244879/5485226",
         "name": "Havránek, Vlastimil",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "1. máje 97/25, Liberec",
-        "mapycom_url": "https://mapy.com/zakladni?q=1.%20m%C3%A1je%2097/25%2C%20Liberec",
-        "googlemaps_url": "https://www.google.com/maps?q=1.%20m%C3%A1je%2097/25%2C%20Liberec",
+        "location": "8. března 20/12, Liberec",
+        "mapycom_url": "https://mapy.com/zakladni?q=8.%20b%C5%99ezna%2020/12%2C%20Liberec",
+        "googlemaps_url": "https://www.google.com/maps?q=8.%20b%C5%99ezna%2020/12%2C%20Liberec",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -21504,9 +21494,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/81341224/5485226",
         "name": "Marková, Tereza",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "V Závětří 6, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=V%20Z%C3%A1v%C4%9Bt%C5%99%C3%AD%206%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=V%20Z%C3%A1v%C4%9Bt%C5%99%C3%AD%206%2C%20Praha",
+        "location": "Křižíkova 264/22, Praha 8",
+        "mapycom_url": "https://mapy.com/zakladni?q=K%C5%99i%C5%BE%C3%ADkova%20264/22%2C%20Praha%208",
+        "googlemaps_url": "https://www.google.com/maps?q=K%C5%99i%C5%BE%C3%ADkova%20264/22%2C%20Praha%208",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
