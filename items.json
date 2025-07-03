@@ -5307,7 +5307,7 @@
         "location": "Kateřinská 10, Praha 2",
         "mapycom_url": "https://mapy.com/zakladni?q=Kate%C5%99insk%C3%A1%2010%2C%20Praha%202",
         "googlemaps_url": "https://www.google.com/maps?q=Kate%C5%99insk%C3%A1%2010%2C%20Praha%202",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 58885475,
@@ -7074,9 +7074,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/61384112/5485226",
         "name": "Uhlíková, Tereza",
         "membership": "Řádné členství",
-        "location": "Černá 1705/13, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C4%8Cern%C3%A1%201705/13%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=%C4%8Cern%C3%A1%201705/13%2C%20Praha%201",
+        "location": "Centrum Anabell - Cimburkova 21, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Centrum%20Anabell%20-%20Cimburkova%2021%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Centrum%20Anabell%20-%20Cimburkova%2021%2C%20Praha%203",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -9220,6 +9220,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 63320519,
+        "url": "https://czap.cz/Sys/PublicProfile/63320519/5485226",
+        "name": "Gőth, Petr",
+        "membership": "Řádné členství",
+        "location": "Kutná Hora",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kutn%C3%A1%20Hora",
+        "googlemaps_url": "https://www.google.com/maps?q=Kutn%C3%A1%20Hora",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 63327049,
         "url": "https://czap.cz/Sys/PublicProfile/63327049/5485226",
         "name": "Bečvářová, Monika",
@@ -9474,9 +9484,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63418510/5485226",
         "name": "Braborcová, Lucie",
         "membership": "Řádné členství",
-        "location": "Velká 255/91, Hradec Králové",
-        "mapycom_url": "https://mapy.com/zakladni?q=Velk%C3%A1%20255/91%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
-        "googlemaps_url": "https://www.google.com/maps?q=Velk%C3%A1%20255/91%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "location": "Slezákova 90, Ostřešany",
+        "mapycom_url": "https://mapy.com/zakladni?q=Slez%C3%A1kova%2090%2C%20Ost%C5%99e%C5%A1any",
+        "googlemaps_url": "https://www.google.com/maps?q=Slez%C3%A1kova%2090%2C%20Ost%C5%99e%C5%A1any",
         "availability": "Přijímám nové klienty"
     },
     {
