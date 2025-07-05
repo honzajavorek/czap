@@ -7960,6 +7960,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 62318617,
+        "url": "https://czap.cz/Sys/PublicProfile/62318617/5485226",
+        "name": "Vodňanská, Jana",
+        "membership": "Řádné členství",
+        "location": "Vrchlického 7, Teplice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vrchlick%C3%A9ho%207%2C%20Teplice",
+        "googlemaps_url": "https://www.google.com/maps?q=Vrchlick%C3%A9ho%207%2C%20Teplice",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 62326812,
         "url": "https://czap.cz/Sys/PublicProfile/62326812/5485226",
         "name": "Kašparovská, Barbara",
@@ -22528,6 +22538,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Charkovsk%C3%A1%2024%2C%20Praha%2010-Vr%C5%A1ovice",
         "googlemaps_url": "https://www.google.com/maps?q=Charkovsk%C3%A1%2024%2C%20Praha%2010-Vr%C5%A1ovice",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 88077590,
+        "url": "https://czap.cz/Sys/PublicProfile/88077590/5485226",
+        "name": "Chaloupecká, Katarina",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Revoluční 1082/8, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Revolu%C4%8Dn%C3%AD%201082/8%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Revolu%C4%8Dn%C3%AD%201082/8%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 88124149,
