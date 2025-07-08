@@ -1864,9 +1864,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885085/5485226",
         "name": "Vlková, Miloslava",
         "membership": "Řádné členství",
-        "location": "Prvního pluku 129, Praha 8",
-        "mapycom_url": "https://mapy.com/zakladni?q=Prvn%C3%ADho%20pluku%20129%2C%20Praha%208",
-        "googlemaps_url": "https://www.google.com/maps?q=Prvn%C3%ADho%20pluku%20129%2C%20Praha%208",
+        "location": "Jabloňová 2992/8, Praha 10",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jablo%C5%88ov%C3%A1%202992/8%2C%20Praha%2010",
+        "googlemaps_url": "https://www.google.com/maps?q=Jablo%C5%88ov%C3%A1%202992/8%2C%20Praha%2010",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -8640,6 +8640,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 62780883,
+        "url": "https://czap.cz/Sys/PublicProfile/62780883/5485226",
+        "name": "Gasior, Michaela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Pražská 151, Dobřichovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pra%C5%BEsk%C3%A1%20151%2C%20Dob%C5%99ichovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Pra%C5%BEsk%C3%A1%20151%2C%20Dob%C5%99ichovice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 62788769,
         "url": "https://czap.cz/Sys/PublicProfile/62788769/5485226",
         "name": "Lichnovská, Marie",
@@ -9872,7 +9882,7 @@
     {
         "id": 63572006,
         "url": "https://czap.cz/Sys/PublicProfile/63572006/5485226",
-        "name": "Pekárková, Markéta",
+        "name": "Bláhová, Markéta",
         "membership": "Řádné členství",
         "location": "Radlická 99, Praha 5",
         "mapycom_url": "https://mapy.com/zakladni?q=Radlick%C3%A1%2099%2C%20Praha%205",
@@ -12957,6 +12967,16 @@
         "location": "Fügnerova 646/11, Ostrava",
         "mapycom_url": "https://mapy.com/zakladni?q=F%C3%BCgnerova%20646/11%2C%20Ostrava",
         "googlemaps_url": "https://www.google.com/maps?q=F%C3%BCgnerova%20646/11%2C%20Ostrava",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 68184454,
+        "url": "https://czap.cz/Sys/PublicProfile/68184454/5485226",
+        "name": "Ferenčíková, Milena",
+        "membership": "Řádné členství",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
         "availability": "Přijímám nové klienty"
     },
     {
@@ -22558,5 +22578,25 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Rokitansk%C3%A9ho%2062%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "googlemaps_url": "https://www.google.com/maps?q=Rokitansk%C3%A9ho%2062%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 89727358,
+        "url": "https://czap.cz/Sys/PublicProfile/89727358/5485226",
+        "name": "Homola, Jan",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "9. května 678, Tábor",
+        "mapycom_url": "https://mapy.com/zakladni?q=9.%20kv%C4%9Btna%20678%2C%20T%C3%A1bor",
+        "googlemaps_url": "https://www.google.com/maps?q=9.%20kv%C4%9Btna%20678%2C%20T%C3%A1bor",
+        "availability": "Nepřijímám nové klienty"
+    },
+    {
+        "id": 90152387,
+        "url": "https://czap.cz/Sys/PublicProfile/90152387/5485226",
+        "name": "Hollá, Marie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Slavětínská 771, Praha 9",
+        "mapycom_url": "https://mapy.com/zakladni?q=Slav%C4%9Bt%C3%ADnsk%C3%A1%20771%2C%20Praha%209",
+        "googlemaps_url": "https://www.google.com/maps?q=Slav%C4%9Bt%C3%ADnsk%C3%A1%20771%2C%20Praha%209",
+        "availability": "Přijímám nové klienty"
     }
 ]
