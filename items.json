@@ -3950,6 +3950,16 @@
         "availability": "Nepřijímám nové klienty"
     },
     {
+        "id": 58885319,
+        "url": "https://czap.cz/Sys/PublicProfile/58885319/5485226",
+        "name": "Nundy-Malá, Andrea",
+        "membership": "Řádné členství",
+        "location": "Eliašova 20 Hradčanská,, Prague 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Elia%C5%A1ova%2020%20Hrad%C4%8Dansk%C3%A1%2C%2C%20Prague%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Elia%C5%A1ova%2020%20Hrad%C4%8Dansk%C3%A1%2C%2C%20Prague%206",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 58885323,
         "url": "https://czap.cz/Sys/PublicProfile/58885323/5485226",
         "name": "Krajča, Martin",
@@ -9560,6 +9570,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 63423890,
+        "url": "https://czap.cz/Sys/PublicProfile/63423890/5485226",
+        "name": "Bartaková, Vladislava",
+        "membership": "Řádné členství",
+        "location": "Vršovické náměstí 8, Praha 10",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vr%C5%A1ovick%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%208%2C%20Praha%2010",
+        "googlemaps_url": "https://www.google.com/maps?q=Vr%C5%A1ovick%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%208%2C%20Praha%2010",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 63428352,
         "url": "https://czap.cz/Sys/PublicProfile/63428352/5485226",
         "name": "Šikulová, Nina",
@@ -15130,6 +15150,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 70590557,
+        "url": "https://czap.cz/Sys/PublicProfile/70590557/5485226",
+        "name": "Sanvenero, Lada",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Senovážné nám. 23, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m.%2023%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m.%2023%2C%20Praha",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 70591133,
         "url": "https://czap.cz/Sys/PublicProfile/70591133/5485226",
         "name": "Marečková Kloudová, Zuzana",
@@ -15428,16 +15458,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Nademlejnsk%C3%A1%2016%2C%20Praha%209",
         "googlemaps_url": "https://www.google.com/maps?q=Nademlejnsk%C3%A1%2016%2C%20Praha%209",
         "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 71018992,
-        "url": "https://czap.cz/Sys/PublicProfile/71018992/5485226",
-        "name": "Šímová, Leona",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Vodičkova 729/11, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vodi%C4%8Dkova%20729/11%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=Vodi%C4%8Dkova%20729/11%2C%20Praha%201",
-        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 71019087,
@@ -22187,6 +22207,16 @@
         "location": "Sojková 115, Jesenice - Zdiměřice",
         "mapycom_url": "https://mapy.com/zakladni?q=Sojkov%C3%A1%20115%2C%20Jesenice%20-%20Zdim%C4%9B%C5%99ice",
         "googlemaps_url": "https://www.google.com/maps?q=Sojkov%C3%A1%20115%2C%20Jesenice%20-%20Zdim%C4%9B%C5%99ice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 85277849,
+        "url": "https://czap.cz/Sys/PublicProfile/85277849/5485226",
+        "name": "Beswaldová, Eva",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Národní 25, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1rodn%C3%AD%2025%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1rodn%C3%AD%2025%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
     },
     {
