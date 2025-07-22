@@ -15470,6 +15470,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 71018992,
+        "url": "https://czap.cz/Sys/PublicProfile/71018992/5485226",
+        "name": "Šímová, Leona",
+        "membership": "Řádné členství",
+        "location": "Vodičkova 729/11, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vodi%C4%8Dkova%20729/11%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Vodi%C4%8Dkova%20729/11%2C%20Praha%201",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 71019087,
         "url": "https://czap.cz/Sys/PublicProfile/71019087/5485226",
         "name": "Lazarenko, Serhii",
@@ -15904,9 +15914,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/71866385/5485226",
         "name": "Šidlová, Zuzana",
         "membership": "Řádné členství",
-        "location": "Opletalova 4/607  736 01, Havířov - Šumbark, Havířov",
-        "mapycom_url": "https://mapy.com/zakladni?q=Opletalova%204/607%20%20736%2001%2C%20Hav%C3%AD%C5%99ov%20-%20%C5%A0umbark%2C%20Hav%C3%AD%C5%99ov",
-        "googlemaps_url": "https://www.google.com/maps?q=Opletalova%204/607%20%20736%2001%2C%20Hav%C3%AD%C5%99ov%20-%20%C5%A0umbark%2C%20Hav%C3%AD%C5%99ov",
+        "location": "Dlouhá Třída 1199/32, Havířov-Podlesí, Havířov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Dlouh%C3%A1%20T%C5%99%C3%ADda%201199/32%2C%20Hav%C3%AD%C5%99ov-Podles%C3%AD%2C%20Hav%C3%AD%C5%99ov",
+        "googlemaps_url": "https://www.google.com/maps?q=Dlouh%C3%A1%20T%C5%99%C3%ADda%201199/32%2C%20Hav%C3%AD%C5%99ov-Podles%C3%AD%2C%20Hav%C3%AD%C5%99ov",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -15938,6 +15948,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Smetanova%201284%2C%20T%C3%A1bor",
         "googlemaps_url": "https://www.google.com/maps?q=Smetanova%201284%2C%20T%C3%A1bor",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 71924174,
+        "url": "https://czap.cz/Sys/PublicProfile/71924174/5485226",
+        "name": "Feřtek, Jan",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Revoluční 8, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Revolu%C4%8Dn%C3%AD%208%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Revolu%C4%8Dn%C3%AD%208%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 71942334,
@@ -16267,7 +16287,7 @@
         "location": "Komenského 375, Kolín",
         "mapycom_url": "https://mapy.com/zakladni?q=Komensk%C3%A9ho%20375%2C%20Kol%C3%ADn",
         "googlemaps_url": "https://www.google.com/maps?q=Komensk%C3%A9ho%20375%2C%20Kol%C3%ADn",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 72293453,
@@ -22648,6 +22668,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Rokitansk%C3%A9ho%2062%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "googlemaps_url": "https://www.google.com/maps?q=Rokitansk%C3%A9ho%2062%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 88189176,
+        "url": "https://czap.cz/Sys/PublicProfile/88189176/5485226",
+        "name": "Dušková, Klára",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Pešinova 10, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pe%C5%A1inova%2010%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Pe%C5%A1inova%2010%2C%20Olomouc",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 88468781,
