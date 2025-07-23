@@ -5967,7 +5967,7 @@
         "location": "Mírové náměstí 157/30, Litoměřice",
         "mapycom_url": "https://mapy.com/zakladni?q=M%C3%ADrov%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20157/30%2C%20Litom%C4%9B%C5%99ice",
         "googlemaps_url": "https://www.google.com/maps?q=M%C3%ADrov%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20157/30%2C%20Litom%C4%9B%C5%99ice",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 59360834,
@@ -6927,7 +6927,7 @@
         "location": "Na Baranovci 30, Ostrava",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Baranovci%2030%2C%20Ostrava",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Baranovci%2030%2C%20Ostrava",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 61043453,
@@ -22857,6 +22857,16 @@
         "location": "Revoluční 1082/8, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Revolu%C4%8Dn%C3%AD%201082/8%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Revolu%C4%8Dn%C3%AD%201082/8%2C%20Praha",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 90325225,
+        "url": "https://czap.cz/Sys/PublicProfile/90325225/5485226",
+        "name": "Cvrkalová, Eliška",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
         "availability": "Přijímám nové klienty"
     },
     {
