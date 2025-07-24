@@ -21240,6 +21240,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 79969525,
+        "url": "https://czap.cz/Sys/PublicProfile/79969525/5485226",
+        "name": "Pechová, Ivona",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Tovaryšský vrch 1358/3, 460 01 Liberec, Liberec",
+        "mapycom_url": "https://mapy.com/zakladni?q=Tovary%C5%A1sk%C3%BD%20vrch%201358/3%2C%20460%2001%20Liberec%2C%20Liberec",
+        "googlemaps_url": "https://www.google.com/maps?q=Tovary%C5%A1sk%C3%BD%20vrch%201358/3%2C%20460%2001%20Liberec%2C%20Liberec",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 79969544,
         "url": "https://czap.cz/Sys/PublicProfile/79969544/5485226",
         "name": "Vinklárková, Martina",
@@ -22878,5 +22888,45 @@
         "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99ed%C3%ADn%20286%2C%20P%C5%99ed%C3%ADn",
         "googlemaps_url": "https://www.google.com/maps?q=P%C5%99ed%C3%ADn%20286%2C%20P%C5%99ed%C3%ADn",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 90457682,
+        "url": "https://czap.cz/Sys/PublicProfile/90457682/5485226",
+        "name": "Hoffmanová, Denisa",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "V Uličce 17, Holubice",
+        "mapycom_url": "https://mapy.com/zakladni?q=V%20Uli%C4%8Dce%2017%2C%20Holubice",
+        "googlemaps_url": "https://www.google.com/maps?q=V%20Uli%C4%8Dce%2017%2C%20Holubice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 90612191,
+        "url": "https://czap.cz/Sys/PublicProfile/90612191/5485226",
+        "name": "Nguyen, Van Anh",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Vyšehradská 43, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 90616422,
+        "url": "https://czap.cz/Sys/PublicProfile/90616422/5485226",
+        "name": "Hasník, Marta",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Slavětínská 771, Praha - Klánovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Slav%C4%9Bt%C3%ADnsk%C3%A1%20771%2C%20Praha%20-%20Kl%C3%A1novice",
+        "googlemaps_url": "https://www.google.com/maps?q=Slav%C4%9Bt%C3%ADnsk%C3%A1%20771%2C%20Praha%20-%20Kl%C3%A1novice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 90892481,
+        "url": "https://czap.cz/Sys/PublicProfile/90892481/5485226",
+        "name": "Fialová, Zuzana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
+        "availability": "Info o dostupnosti na vyžádání"
     }
 ]
