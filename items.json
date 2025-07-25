@@ -2804,9 +2804,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885187/5485226",
         "name": "Henzl, Edita",
         "membership": "Řádné členství",
-        "location": "Yorckstraße 26, Berlin",
-        "mapycom_url": "https://mapy.com/zakladni?q=Yorckstra%C3%9Fe%2026%2C%20Berlin",
-        "googlemaps_url": "https://www.google.com/maps?q=Yorckstra%C3%9Fe%2026%2C%20Berlin",
+        "location": "Obentrautstr. 27, Berlin",
+        "mapycom_url": "https://mapy.com/zakladni?q=Obentrautstr.%2027%2C%20Berlin",
+        "googlemaps_url": "https://www.google.com/maps?q=Obentrautstr.%2027%2C%20Berlin",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -22918,6 +22918,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Slav%C4%9Bt%C3%ADnsk%C3%A1%20771%2C%20Praha%20-%20Kl%C3%A1novice",
         "googlemaps_url": "https://www.google.com/maps?q=Slav%C4%9Bt%C3%ADnsk%C3%A1%20771%2C%20Praha%20-%20Kl%C3%A1novice",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 90765791,
+        "url": "https://czap.cz/Sys/PublicProfile/90765791/5485226",
+        "name": "Dostálová, Šárka",
+        "membership": "Řádné členství",
+        "location": "Malé náměstí 14/30, Hradec Králové",
+        "mapycom_url": "https://mapy.com/zakladni?q=Mal%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2014/30%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "googlemaps_url": "https://www.google.com/maps?q=Mal%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2014/30%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 90892481,
