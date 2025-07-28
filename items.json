@@ -10740,6 +10740,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 64441490,
+        "url": "https://czap.cz/Sys/PublicProfile/64441490/5485226",
+        "name": "Tománková, Barbora",
+        "membership": "Řádné členství",
+        "location": "ZŠ , Jana Výravy219, České Meziříčí",
+        "mapycom_url": "https://mapy.com/zakladni?q=Z%C5%A0%20%2C%20Jana%20V%C3%BDravy219%2C%20%C4%8Cesk%C3%A9%20Mezi%C5%99%C3%AD%C4%8D%C3%AD",
+        "googlemaps_url": "https://www.google.com/maps?q=Z%C5%A0%20%2C%20Jana%20V%C3%BDravy219%2C%20%C4%8Cesk%C3%A9%20Mezi%C5%99%C3%AD%C4%8D%C3%AD",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 64456399,
         "url": "https://czap.cz/Sys/PublicProfile/64456399/5485226",
         "name": "Hudson, Linda",
@@ -13297,7 +13307,7 @@
         "location": "Dvořákova 13, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Dvo%C5%99%C3%A1kova%2013%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Dvo%C5%99%C3%A1kova%2013%2C%20Brno",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 68337835,
@@ -16630,16 +16640,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 72873963,
-        "url": "https://czap.cz/Sys/PublicProfile/72873963/5485226",
-        "name": "Hozáková, Michaela",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Branická 107, Praha 4",
-        "mapycom_url": "https://mapy.com/zakladni?q=Branick%C3%A1%20107%2C%20Praha%204",
-        "googlemaps_url": "https://www.google.com/maps?q=Branick%C3%A1%20107%2C%20Praha%204",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 72890716,
         "url": "https://czap.cz/Sys/PublicProfile/72890716/5485226",
         "name": "Kletečková, Eliška",
@@ -17128,6 +17128,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Helv%C3%ADkovice%20204%2C%20Helv%C3%ADkovice",
         "googlemaps_url": "https://www.google.com/maps?q=Helv%C3%ADkovice%20204%2C%20Helv%C3%ADkovice",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 74172522,
+        "url": "https://czap.cz/Sys/PublicProfile/74172522/5485226",
+        "name": "Kulakovská, Alina",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Nádražní 316, Židlochovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1dra%C5%BEn%C3%AD%20316%2C%20%C5%BDidlochovice",
+        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1dra%C5%BEn%C3%AD%20316%2C%20%C5%BDidlochovice",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 74190449,
