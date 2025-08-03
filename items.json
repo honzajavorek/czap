@@ -724,9 +724,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58884957/5485226",
         "name": "Květoňová, Andrea",
         "membership": "Řádné členství",
-        "location": "V Jámě 8, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=V%20J%C3%A1m%C4%9B%208%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=V%20J%C3%A1m%C4%9B%208%2C%20Praha%201",
+        "location": "Francouzská 4, Praha Vinohrady",
+        "mapycom_url": "https://mapy.com/zakladni?q=Francouzsk%C3%A1%204%2C%20Praha%20Vinohrady",
+        "googlemaps_url": "https://www.google.com/maps?q=Francouzsk%C3%A1%204%2C%20Praha%20Vinohrady",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -17444,9 +17444,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/74782565/5485226",
         "name": "Bílý, Ondřej",
         "membership": "Řádné členství",
-        "location": "Pravdova 1113/2, Jindřichův Hradec",
-        "mapycom_url": "https://mapy.com/zakladni?q=Pravdova%201113/2%2C%20Jind%C5%99ich%C5%AFv%20Hradec",
-        "googlemaps_url": "https://www.google.com/maps?q=Pravdova%201113/2%2C%20Jind%C5%99ich%C5%AFv%20Hradec",
+        "location": "Klášterská 126/II, Jindřichův Hradec",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kl%C3%A1%C5%A1tersk%C3%A1%20126/II%2C%20Jind%C5%99ich%C5%AFv%20Hradec",
+        "googlemaps_url": "https://www.google.com/maps?q=Kl%C3%A1%C5%A1tersk%C3%A1%20126/II%2C%20Jind%C5%99ich%C5%AFv%20Hradec",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -22190,6 +22190,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 84793688,
+        "url": "https://czap.cz/Sys/PublicProfile/84793688/5485226",
+        "name": "Rut, Vojtěch",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Tyrše a Fügnera 105/7, Říčany u Prahy-Radošovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Tyr%C5%A1e%20a%20F%C3%BCgnera%20105/7%2C%20%C5%98%C3%AD%C4%8Dany%20u%20Prahy-Rado%C5%A1ovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Tyr%C5%A1e%20a%20F%C3%BCgnera%20105/7%2C%20%C5%98%C3%AD%C4%8Dany%20u%20Prahy-Rado%C5%A1ovice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 84803047,
         "url": "https://czap.cz/Sys/PublicProfile/84803047/5485226",
         "name": "Mertlíková, Jitka",
@@ -22967,6 +22977,16 @@
         "location": null,
         "mapycom_url": null,
         "googlemaps_url": null,
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 91152126,
+        "url": "https://czap.cz/Sys/PublicProfile/91152126/5485226",
+        "name": "Knotková, Lenka",
+        "membership": "Řádné členství",
+        "location": "Dětmarovice 872, Dětmarovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=D%C4%9Btmarovice%20872%2C%20D%C4%9Btmarovice",
+        "googlemaps_url": "https://www.google.com/maps?q=D%C4%9Btmarovice%20872%2C%20D%C4%9Btmarovice",
         "availability": "Info o dostupnosti na vyžádání"
     }
 ]
