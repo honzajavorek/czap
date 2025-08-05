@@ -7974,10 +7974,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/62316636/5485226",
         "name": "Bernátková, Andrea",
         "membership": "Řádné členství",
-        "location": "Rožnov pod Radhoštěm",
-        "mapycom_url": "https://mapy.com/zakladni?q=Ro%C5%BEnov%20pod%20Radho%C5%A1t%C4%9Bm",
-        "googlemaps_url": "https://www.google.com/maps?q=Ro%C5%BEnov%20pod%20Radho%C5%A1t%C4%9Bm",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Praha",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 62318617,
@@ -11724,9 +11724,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/67066902/5485226",
         "name": "Vitáková, Petra",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Ostrovského 253/3 (Ženské domovy), Praha 5",
-        "mapycom_url": "https://mapy.com/zakladni?q=Ostrovsk%C3%A9ho%20253/3%20%28%C5%BDensk%C3%A9%20domovy%29%2C%20Praha%205",
-        "googlemaps_url": "https://www.google.com/maps?q=Ostrovsk%C3%A9ho%20253/3%20%28%C5%BDensk%C3%A9%20domovy%29%2C%20Praha%205",
+        "location": "Římská 2135/45, Vinohrady, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%98%C3%ADmsk%C3%A1%202135/45%2C%20Vinohrady%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%98%C3%ADmsk%C3%A1%202135/45%2C%20Vinohrady%2C%20Praha%202",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -22727,6 +22727,16 @@
         "location": "T.G.Masaryka T.G. Masaryka 1117, Frýdek-Místek 1",
         "mapycom_url": "https://mapy.com/zakladni?q=T.G.Masaryka%20T.G.%20Masaryka%C2%A01117%2C%20Fr%C3%BDdek-M%C3%ADstek%201",
         "googlemaps_url": "https://www.google.com/maps?q=T.G.Masaryka%20T.G.%20Masaryka%C2%A01117%2C%20Fr%C3%BDdek-M%C3%ADstek%201",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 88469776,
+        "url": "https://czap.cz/Sys/PublicProfile/88469776/5485226",
+        "name": "Kubíková, Zuzana",
+        "membership": "Řádné členství",
+        "location": "Šimáčkova 11, Praha 7",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0im%C3%A1%C4%8Dkova%2011%2C%20Praha%207",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%A0im%C3%A1%C4%8Dkova%2011%2C%20Praha%207",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
