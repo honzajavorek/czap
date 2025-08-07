@@ -8080,16 +8080,6 @@
         "availability": ""
     },
     {
-        "id": 62353520,
-        "url": "https://czap.cz/Sys/PublicProfile/62353520/5485226",
-        "name": "Keharová, Klára",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Školská 32, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0kolsk%C3%A1%2032%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=%C5%A0kolsk%C3%A1%2032%2C%20Praha%201",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 62358537,
         "url": "https://czap.cz/Sys/PublicProfile/62358537/5485226",
         "name": "Vovsová, Rut",
@@ -10447,7 +10437,7 @@
         "location": "Komenského 609/6, Odry",
         "mapycom_url": "https://mapy.com/zakladni?q=Komensk%C3%A9ho%20609/6%2C%20Odry",
         "googlemaps_url": "https://www.google.com/maps?q=Komensk%C3%A9ho%20609/6%2C%20Odry",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 63982067,
@@ -21957,7 +21947,7 @@
         "location": "Slezská 763, Frýdek-Místek",
         "mapycom_url": "https://mapy.com/zakladni?q=Slezsk%C3%A1%20763%2C%20Fr%C3%BDdek-M%C3%ADstek",
         "googlemaps_url": "https://www.google.com/maps?q=Slezsk%C3%A1%20763%2C%20Fr%C3%BDdek-M%C3%ADstek",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 82748925,
@@ -22827,7 +22817,7 @@
         "location": "9. května 678, Tábor",
         "mapycom_url": "https://mapy.com/zakladni?q=9.%20kv%C4%9Btna%20678%2C%20T%C3%A1bor",
         "googlemaps_url": "https://www.google.com/maps?q=9.%20kv%C4%9Btna%20678%2C%20T%C3%A1bor",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 89825888,
