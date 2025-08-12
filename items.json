@@ -8080,6 +8080,16 @@
         "availability": ""
     },
     {
+        "id": 62353520,
+        "url": "https://czap.cz/Sys/PublicProfile/62353520/5485226",
+        "name": "Keharová, Klára",
+        "membership": "Řádné členství",
+        "location": "Husovo náměstí 42/29, Beroun",
+        "mapycom_url": "https://mapy.com/zakladni?q=Husovo%20n%C3%A1m%C4%9Bst%C3%AD%2042/29%2C%20Beroun",
+        "googlemaps_url": "https://www.google.com/maps?q=Husovo%20n%C3%A1m%C4%9Bst%C3%AD%2042/29%2C%20Beroun",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 62358537,
         "url": "https://czap.cz/Sys/PublicProfile/62358537/5485226",
         "name": "Vovsová, Rut",
@@ -9328,6 +9338,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Vinohradech%20167%2C%20Kr%C3%A1l%C5%AFv%20Dv%C5%AFr%20-%20K%C5%99i%C5%BEatky",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Vinohradech%20167%2C%20Kr%C3%A1l%C5%AFv%20Dv%C5%AFr%20-%20K%C5%99i%C5%BEatky",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 63352253,
+        "url": "https://czap.cz/Sys/PublicProfile/63352253/5485226",
+        "name": "Bojko, Michaela",
+        "membership": "Řádné členství",
+        "location": "Mariánské nám. 480/5, Ostrava – Mariánské Hory a Hulváky",
+        "mapycom_url": "https://mapy.com/zakladni?q=Mari%C3%A1nsk%C3%A9%20n%C3%A1m.%20480/5%2C%20Ostrava%20%E2%80%93%20Mari%C3%A1nsk%C3%A9%20Hory%20a%20Hulv%C3%A1ky",
+        "googlemaps_url": "https://www.google.com/maps?q=Mari%C3%A1nsk%C3%A9%20n%C3%A1m.%20480/5%2C%20Ostrava%20%E2%80%93%20Mari%C3%A1nsk%C3%A9%20Hory%20a%20Hulv%C3%A1ky",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 63354133,
@@ -15327,6 +15347,16 @@
         "location": "Hradební 12, Trutnov",
         "mapycom_url": "https://mapy.com/zakladni?q=Hradebn%C3%AD%2012%2C%20Trutnov",
         "googlemaps_url": "https://www.google.com/maps?q=Hradebn%C3%AD%2012%2C%20Trutnov",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 70792259,
+        "url": "https://czap.cz/Sys/PublicProfile/70792259/5485226",
+        "name": "Navaříková Goláňová, Barbora",
+        "membership": "Řádné členství",
+        "location": "28.října 1161, Řevnice",
+        "mapycom_url": "https://mapy.com/zakladni?q=28.%C5%99%C3%ADjna%201161%2C%20%C5%98evnice",
+        "googlemaps_url": "https://www.google.com/maps?q=28.%C5%99%C3%ADjna%201161%2C%20%C5%98evnice",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -22988,5 +23018,15 @@
         "mapycom_url": "https://mapy.com/zakladni?q=D%C4%9Btmarovice%20872%2C%20D%C4%9Btmarovice",
         "googlemaps_url": "https://www.google.com/maps?q=D%C4%9Btmarovice%20872%2C%20D%C4%9Btmarovice",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 92467094,
+        "url": "https://czap.cz/Sys/PublicProfile/92467094/5485226",
+        "name": "Marvánová Vargová, Branislava",
+        "membership": "Řádné členství",
+        "location": "Lazarská 11/6, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Lazarsk%C3%A1%2011/6%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Lazarsk%C3%A1%2011/6%2C%20Praha%202",
+        "availability": "Přijímám nové klienty"
     }
 ]
