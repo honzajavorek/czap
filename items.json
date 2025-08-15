@@ -507,7 +507,7 @@
         "location": "Senovážné náměstí, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2C%20Praha%201",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58884933,
@@ -20764,9 +20764,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/78959121/5485226",
         "name": "Bittnerová, Klára",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Hornokrčská 707/7, Praha 4 - Krč",
-        "mapycom_url": "https://mapy.com/zakladni?q=Hornokr%C4%8Dsk%C3%A1%20707/7%2C%20Praha%204%20-%20Kr%C4%8D",
-        "googlemaps_url": "https://www.google.com/maps?q=Hornokr%C4%8Dsk%C3%A1%20707/7%2C%20Praha%204%20-%20Kr%C4%8D",
+        "location": "Heleny Malířové 272/17, Praha 6 - Břevnov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Heleny%20Mal%C3%AD%C5%99ov%C3%A9%20272/17%2C%20Praha%206%20-%20B%C5%99evnov",
+        "googlemaps_url": "https://www.google.com/maps?q=Heleny%20Mal%C3%AD%C5%99ov%C3%A9%20272/17%2C%20Praha%206%20-%20B%C5%99evnov",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -22057,7 +22057,7 @@
         "location": "Nová 1824, Hranice",
         "mapycom_url": "https://mapy.com/zakladni?q=Nov%C3%A1%201824%2C%20Hranice",
         "googlemaps_url": "https://www.google.com/maps?q=Nov%C3%A1%201824%2C%20Hranice",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 82894857,
@@ -22640,6 +22640,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 87443127,
+        "url": "https://czap.cz/Sys/PublicProfile/87443127/5485226",
+        "name": "Macura, Roman",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Ostrava, Na hradbách 18, Ostrava",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ostrava%2C%20Na%20hradb%C3%A1ch%2018%2C%20Ostrava",
+        "googlemaps_url": "https://www.google.com/maps?q=Ostrava%2C%20Na%20hradb%C3%A1ch%2018%2C%20Ostrava",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 87443314,
         "url": "https://czap.cz/Sys/PublicProfile/87443314/5485226",
         "name": "Herinková, Markéta",
@@ -22757,6 +22767,16 @@
         "location": "Šimáčkova 11, Praha 7",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0im%C3%A1%C4%8Dkova%2011%2C%20Praha%207",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%A0im%C3%A1%C4%8Dkova%2011%2C%20Praha%207",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 88718674,
+        "url": "https://czap.cz/Sys/PublicProfile/88718674/5485226",
+        "name": "Vadovičová, Eva",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Republikánská 1102/45, Plzeň",
+        "mapycom_url": "https://mapy.com/zakladni?q=Republik%C3%A1nsk%C3%A1%201102/45%2C%20Plze%C5%88",
+        "googlemaps_url": "https://www.google.com/maps?q=Republik%C3%A1nsk%C3%A1%201102/45%2C%20Plze%C5%88",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -23017,6 +23037,46 @@
         "location": "Dětmarovice 872, Dětmarovice",
         "mapycom_url": "https://mapy.com/zakladni?q=D%C4%9Btmarovice%20872%2C%20D%C4%9Btmarovice",
         "googlemaps_url": "https://www.google.com/maps?q=D%C4%9Btmarovice%20872%2C%20D%C4%9Btmarovice",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 91872816,
+        "url": "https://czap.cz/Sys/PublicProfile/91872816/5485226",
+        "name": "Ondrušová Maradová, Tereza",
+        "membership": "Řádné členství",
+        "location": "Josefská 15, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Josefsk%C3%A1%2015%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Josefsk%C3%A1%2015%2C%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 91923307,
+        "url": "https://czap.cz/Sys/PublicProfile/91923307/5485226",
+        "name": "Stavjaníková, Martina",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Santražiny 753, Zlín",
+        "mapycom_url": "https://mapy.com/zakladni?q=Santra%C5%BEiny%20753%2C%20Zl%C3%ADn",
+        "googlemaps_url": "https://www.google.com/maps?q=Santra%C5%BEiny%20753%2C%20Zl%C3%ADn",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 92368238,
+        "url": "https://czap.cz/Sys/PublicProfile/92368238/5485226",
+        "name": "Sedlářová, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Na Truhlářce 24, Praha 8",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Truhl%C3%A1%C5%99ce%2024%2C%20Praha%208",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Truhl%C3%A1%C5%99ce%2024%2C%20Praha%208",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 92369435,
+        "url": "https://czap.cz/Sys/PublicProfile/92369435/5485226",
+        "name": "Dlasková, Júlia",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Pivovarská 7, Praha 5",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pivovarsk%C3%A1%207%2C%20Praha%205",
+        "googlemaps_url": "https://www.google.com/maps?q=Pivovarsk%C3%A1%207%2C%20Praha%205",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
