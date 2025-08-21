@@ -3067,7 +3067,7 @@
         "location": "Národní 60/28, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1rodn%C3%AD%2060/28%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1rodn%C3%AD%2060/28%2C%20Praha",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885219,
@@ -9492,7 +9492,7 @@
     {
         "id": 63415336,
         "url": "https://czap.cz/Sys/PublicProfile/63415336/5485226",
-        "name": "Wolf, Umay",
+        "name": "Wolfová, Karin",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Brno",
@@ -14612,7 +14612,7 @@
     {
         "id": 69788541,
         "url": "https://czap.cz/Sys/PublicProfile/69788541/5485226",
-        "name": "Mohaghegh, Eliška",
+        "name": "Švecová, Eliška",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Na Zámecké 9, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Z%C3%A1meck%C3%A9%209%2C%20Praha",
@@ -22084,10 +22084,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/83287591/5485226",
         "name": "Klůzová Kráčmarová, Lucie",
         "membership": "Řádné členství",
-        "location": "Chlum 73, Hořice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Chlum%2073%2C%20Ho%C5%99ice",
-        "googlemaps_url": "https://www.google.com/maps?q=Chlum%2073%2C%20Ho%C5%99ice",
-        "availability": "Přijímám nové klienty"
+        "location": "Hořice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ho%C5%99ice",
+        "googlemaps_url": "https://www.google.com/maps?q=Ho%C5%99ice",
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 83302222,
@@ -22767,7 +22767,7 @@
         "location": "Šimáčkova 11, Praha 7",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0im%C3%A1%C4%8Dkova%2011%2C%20Praha%207",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%A0im%C3%A1%C4%8Dkova%2011%2C%20Praha%207",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 88718674,
