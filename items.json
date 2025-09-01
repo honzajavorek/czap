@@ -280,16 +280,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 58884908,
-        "url": "https://czap.cz/Sys/PublicProfile/58884908/5485226",
-        "name": "Kiedroń, Barbara",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "nám. Míru 551, Třinec",
-        "mapycom_url": "https://mapy.com/zakladni?q=n%C3%A1m.%20M%C3%ADru%20551%2C%20T%C5%99inec",
-        "googlemaps_url": "https://www.google.com/maps?q=n%C3%A1m.%20M%C3%ADru%20551%2C%20T%C5%99inec",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 58884909,
         "url": "https://czap.cz/Sys/PublicProfile/58884909/5485226",
         "name": "Vávrová, Kateřina",
@@ -23088,5 +23078,15 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Lazarsk%C3%A1%2011/6%2C%20Praha%202",
         "googlemaps_url": "https://www.google.com/maps?q=Lazarsk%C3%A1%2011/6%2C%20Praha%202",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 93654112,
+        "url": "https://czap.cz/Sys/PublicProfile/93654112/5485226",
+        "name": "Levitová, Lucie",
+        "membership": "Řádné členství",
+        "location": "Martinická 986/1, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Martinick%C3%A1%20986/1%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Martinick%C3%A1%20986/1%2C%20Praha",
+        "availability": "Info o dostupnosti na vyžádání"
     }
 ]
