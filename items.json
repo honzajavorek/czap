@@ -1797,7 +1797,7 @@
         "location": "Sámova 18, Ostrava",
         "mapycom_url": "https://mapy.com/zakladni?q=S%C3%A1mova%2018%2C%20Ostrava",
         "googlemaps_url": "https://www.google.com/maps?q=S%C3%A1mova%2018%2C%20Ostrava",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 58885079,
@@ -5414,9 +5414,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885484/5485226",
         "name": "Zelinka Sachomská, Denisa",
         "membership": "Řádné členství",
-        "location": "Staroměstské nám., Mladá Boleslav",
-        "mapycom_url": "https://mapy.com/zakladni?q=Starom%C4%9Bstsk%C3%A9%20n%C3%A1m.%2C%20Mlad%C3%A1%20Boleslav",
-        "googlemaps_url": "https://www.google.com/maps?q=Starom%C4%9Bstsk%C3%A9%20n%C3%A1m.%2C%20Mlad%C3%A1%20Boleslav",
+        "location": "Mladá Boleslav",
+        "mapycom_url": "https://mapy.com/zakladni?q=Mlad%C3%A1%20Boleslav",
+        "googlemaps_url": "https://www.google.com/maps?q=Mlad%C3%A1%20Boleslav",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -21224,10 +21224,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/79904611/5485226",
         "name": "Kárníková, Barbora",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Lucemburská 3, Praha 3",
-        "mapycom_url": "https://mapy.com/zakladni?q=Lucembursk%C3%A1%203%2C%20Praha%203",
-        "googlemaps_url": "https://www.google.com/maps?q=Lucembursk%C3%A1%203%2C%20Praha%203",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Bořivojova 17, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Bo%C5%99ivojova%2017%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Bo%C5%99ivojova%2017%2C%20Praha%203",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 79909202,
@@ -22594,9 +22594,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/87279572/5485226",
         "name": "Smítková, Alena",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Václavské nám. 29, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=V%C3%A1clavsk%C3%A9%20n%C3%A1m.%2029%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=V%C3%A1clavsk%C3%A9%20n%C3%A1m.%2029%2C%20Praha%201",
+        "location": "Václavské nám. 821/39, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=V%C3%A1clavsk%C3%A9%20n%C3%A1m.%20821/39%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=V%C3%A1clavsk%C3%A9%20n%C3%A1m.%20821/39%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
     },
     {
