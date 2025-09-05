@@ -204,9 +204,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58884898/5485226",
         "name": "Mertin, Tomáš",
         "membership": "Řádné členství",
-        "location": "Kafkova 35, Praha 6",
-        "mapycom_url": "https://mapy.com/zakladni?q=Kafkova%2035%2C%20Praha%206",
-        "googlemaps_url": "https://www.google.com/maps?q=Kafkova%2035%2C%20Praha%206",
+        "location": "Radlická 505/58, Praha 5",
+        "mapycom_url": "https://mapy.com/zakladni?q=Radlick%C3%A1%20505/58%2C%20Praha%205",
+        "googlemaps_url": "https://www.google.com/maps?q=Radlick%C3%A1%20505/58%2C%20Praha%205",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -8994,9 +8994,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63081968/5485226",
         "name": "Man, Lukáš",
         "membership": "Řádné členství",
-        "location": "Rumunská 1, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=Rumunsk%C3%A1%201%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=Rumunsk%C3%A1%201%2C%20Praha%202",
+        "location": "Táborská 57, Praha 4",
+        "mapycom_url": "https://mapy.com/zakladni?q=T%C3%A1borsk%C3%A1%2057%2C%20Praha%204",
+        "googlemaps_url": "https://www.google.com/maps?q=T%C3%A1borsk%C3%A1%2057%2C%20Praha%204",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -9858,16 +9858,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=n%C3%A1m.%20T.%20G.%20Masaryka%20106%2C%20Unho%C5%A1%C5%A5",
         "googlemaps_url": "https://www.google.com/maps?q=n%C3%A1m.%20T.%20G.%20Masaryka%20106%2C%20Unho%C5%A1%C5%A5",
         "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 63548610,
-        "url": "https://czap.cz/Sys/PublicProfile/63548610/5485226",
-        "name": "Vačkářová, Zuzana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Anny Letenské 8, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=Anny%20Letensk%C3%A9%208%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=Anny%20Letensk%C3%A9%208%2C%20Praha%202",
-        "availability": "Přijímám nové klienty"
     },
     {
         "id": 63548807,
@@ -20574,9 +20564,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/78720343/5485226",
         "name": "Litošová, Dagmar",
         "membership": "Řádné členství",
-        "location": "Palackého 99, Dvůr Králové nad Labem",
-        "mapycom_url": "https://mapy.com/zakladni?q=Palack%C3%A9ho%2099%2C%20Dv%C5%AFr%20Kr%C3%A1lov%C3%A9%20nad%20Labem",
-        "googlemaps_url": "https://www.google.com/maps?q=Palack%C3%A9ho%2099%2C%20Dv%C5%AFr%20Kr%C3%A1lov%C3%A9%20nad%20Labem",
+        "location": "Nábřeží Benešovo 1679, Dvůr Králové nad Labem",
+        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1b%C5%99e%C5%BE%C3%AD%20Bene%C5%A1ovo%201679%2C%20Dv%C5%AFr%20Kr%C3%A1lov%C3%A9%20nad%20Labem",
+        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1b%C5%99e%C5%BE%C3%AD%20Bene%C5%A1ovo%201679%2C%20Dv%C5%AFr%20Kr%C3%A1lov%C3%A9%20nad%20Labem",
         "availability": "Přijímám nové klienty"
     },
     {
