@@ -2287,7 +2287,7 @@
         "location": "Kozí 7, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=Koz%C3%AD%207%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Koz%C3%AD%207%2C%20Praha%201",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885130,
@@ -13714,10 +13714,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/68582315/5485226",
         "name": "Petr Šafránková, Anna",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Litovelská, Olomouc",
-        "mapycom_url": "https://mapy.com/zakladni?q=Litovelsk%C3%A1%2C%20Olomouc",
-        "googlemaps_url": "https://www.google.com/maps?q=Litovelsk%C3%A1%2C%20Olomouc",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Olomouc",
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 68585558,
@@ -14318,6 +14318,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=T%C3%BDnsk%C3%A1%2017a%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=T%C3%BDnsk%C3%A1%2017a%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 69276314,
+        "url": "https://czap.cz/Sys/PublicProfile/69276314/5485226",
+        "name": "Kukrálová, Barbora",
+        "membership": "Řádné členství",
+        "location": "Riegrova 1751/51, České Budějovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Riegrova%201751/51%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Riegrova%201751/51%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 69339015,
@@ -17707,7 +17717,7 @@
         "location": "Bezručova 109, Mělník",
         "mapycom_url": "https://mapy.com/zakladni?q=Bezru%C4%8Dova%20109%2C%20M%C4%9Bln%C3%ADk",
         "googlemaps_url": "https://www.google.com/maps?q=Bezru%C4%8Dova%20109%2C%20M%C4%9Bln%C3%ADk",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 75163966,
