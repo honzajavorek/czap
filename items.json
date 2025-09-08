@@ -210,16 +210,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 58884899,
-        "url": "https://czap.cz/Sys/PublicProfile/58884899/5485226",
-        "name": "Bradová, Lucie",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Národní 9, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1rodn%C3%AD%209%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1rodn%C3%AD%209%2C%20Praha%201",
-        "availability": "Nepřijímám nové klienty"
-    },
-    {
         "id": 58884900,
         "url": "https://czap.cz/Sys/PublicProfile/58884900/5485226",
         "name": "Hodina, Miroslav",
@@ -8590,16 +8580,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 62761848,
-        "url": "https://czap.cz/Sys/PublicProfile/62761848/5485226",
-        "name": "Šupej, Eva",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Kobližná 47, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Kobli%C5%BEn%C3%A1%2047%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Kobli%C5%BEn%C3%A1%2047%2C%20Brno",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 62763058,
         "url": "https://czap.cz/Sys/PublicProfile/62763058/5485226",
         "name": "Thorová, Kateřina",
@@ -8998,16 +8978,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=T%C3%A1borsk%C3%A1%2057%2C%20Praha%204",
         "googlemaps_url": "https://www.google.com/maps?q=T%C3%A1borsk%C3%A1%2057%2C%20Praha%204",
         "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 63091745,
-        "url": "https://czap.cz/Sys/PublicProfile/63091745/5485226",
-        "name": "Gauchet Kobzová, Stanislava",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Říční 478, Kadaň",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C5%98%C3%AD%C4%8Dn%C3%AD%20478%2C%20Kada%C5%88",
-        "googlemaps_url": "https://www.google.com/maps?q=%C5%98%C3%AD%C4%8Dn%C3%AD%20478%2C%20Kada%C5%88",
-        "availability": "Přijímám nové klienty"
     },
     {
         "id": 63118084,
@@ -14097,7 +14067,7 @@
         "location": "E-clinic, Olšanská 3, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=E-clinic%2C%20Ol%C5%A1ansk%C3%A1%203%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=E-clinic%2C%20Ol%C5%A1ansk%C3%A1%203%2C%20Praha",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 68930688,
@@ -18567,7 +18537,7 @@
         "location": "Mrkosova 25, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Mrkosova%2025%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Mrkosova%2025%2C%20Brno",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 76773851,
