@@ -1017,7 +1017,7 @@
         "location": "Prvního pluku 12a, Praha 8 - Karlín",
         "mapycom_url": "https://mapy.com/zakladni?q=Prvn%C3%ADho%20pluku%2012a%2C%20Praha%208%20-%20Karl%C3%ADn",
         "googlemaps_url": "https://www.google.com/maps?q=Prvn%C3%ADho%20pluku%2012a%2C%20Praha%208%20-%20Karl%C3%ADn",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58884992,
@@ -6060,16 +6060,6 @@
         "availability": "Nepřijímám nové klienty"
     },
     {
-        "id": 59595982,
-        "url": "https://czap.cz/Sys/PublicProfile/59595982/5485226",
-        "name": "Straka, Karel",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Vítkova 243/13, Praha 8 - Karlín",
-        "mapycom_url": "https://mapy.com/zakladni?q=V%C3%ADtkova%20243/13%2C%20Praha%208%20-%20Karl%C3%ADn",
-        "googlemaps_url": "https://www.google.com/maps?q=V%C3%ADtkova%20243/13%2C%20Praha%208%20-%20Karl%C3%ADn",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 59621323,
         "url": "https://czap.cz/Sys/PublicProfile/59621323/5485226",
         "name": "Přečková, Martina",
@@ -6917,7 +6907,7 @@
         "location": "Na Baranovci 30, Ostrava",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Baranovci%2030%2C%20Ostrava",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Baranovci%2030%2C%20Ostrava",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 61043453,
@@ -22107,7 +22097,7 @@
         "location": "Vodova 35, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Vodova%2035%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Vodova%2035%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 84220864,
@@ -23098,6 +23088,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Wuchterlova%208%2C%20Praha%206",
         "googlemaps_url": "https://www.google.com/maps?q=Wuchterlova%208%2C%20Praha%206",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 93301677,
+        "url": "https://czap.cz/Sys/PublicProfile/93301677/5485226",
+        "name": "Nykodým, Pavel",
+        "membership": "Řádné členství",
+        "location": "Thámova 21/34, Praha 8",
+        "mapycom_url": "https://mapy.com/zakladni?q=Th%C3%A1mova%2021/34%2C%20Praha%208",
+        "googlemaps_url": "https://www.google.com/maps?q=Th%C3%A1mova%2021/34%2C%20Praha%208",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 93579172,
