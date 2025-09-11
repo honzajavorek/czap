@@ -9580,16 +9580,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 63439974,
-        "url": "https://czap.cz/Sys/PublicProfile/63439974/5485226",
-        "name": "Kešnerová, Michaela",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "U Trojice 1042, Praha 5",
-        "mapycom_url": "https://mapy.com/zakladni?q=U%20Trojice%201042%2C%20Praha%205",
-        "googlemaps_url": "https://www.google.com/maps?q=U%20Trojice%201042%2C%20Praha%205",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 63443987,
         "url": "https://czap.cz/Sys/PublicProfile/63443987/5485226",
         "name": "Kalusová, Simona",
@@ -9818,6 +9808,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=n%C3%A1m.%20T.%20G.%20Masaryka%20106%2C%20Unho%C5%A1%C5%A5",
         "googlemaps_url": "https://www.google.com/maps?q=n%C3%A1m.%20T.%20G.%20Masaryka%20106%2C%20Unho%C5%A1%C5%A5",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 63548610,
+        "url": "https://czap.cz/Sys/PublicProfile/63548610/5485226",
+        "name": "Vačkářová, Zuzana",
+        "membership": "Řádné členství",
+        "location": "Anny Letenské 8, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Anny%20Letensk%C3%A9%208%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Anny%20Letensk%C3%A9%208%2C%20Praha%202",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 63548807,
