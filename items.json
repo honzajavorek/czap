@@ -5970,16 +5970,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 59360834,
-        "url": "https://czap.cz/Sys/PublicProfile/59360834/5485226",
-        "name": "Pasnichenko, Viktor",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Žitná 562, Praha 10",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDitn%C3%A1%20562%2C%20Praha%2010",
-        "googlemaps_url": "https://www.google.com/maps?q=%C5%BDitn%C3%A1%20562%2C%20Praha%2010",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 59360852,
         "url": "https://czap.cz/Sys/PublicProfile/59360852/5485226",
         "name": "Lukášová, Hana",
@@ -23180,6 +23170,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 93616300,
+        "url": "https://czap.cz/Sys/PublicProfile/93616300/5485226",
+        "name": "Zuntová, Hana",
+        "membership": "Řádné členství",
+        "location": "Jalubí 453, Jalubí",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jalub%C3%AD%20453%2C%20Jalub%C3%AD",
+        "googlemaps_url": "https://www.google.com/maps?q=Jalub%C3%AD%20453%2C%20Jalub%C3%AD",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 93654112,
         "url": "https://czap.cz/Sys/PublicProfile/93654112/5485226",
         "name": "Levitová, Lucie",
@@ -23208,6 +23208,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Revolu%C4%8Dn%C3%AD%201082/8%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Revolu%C4%8Dn%C3%AD%201082/8%2C%20Praha",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 93822541,
+        "url": "https://czap.cz/Sys/PublicProfile/93822541/5485226",
+        "name": "Dvořáková, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Rožmitálova 2291/14, Blansko",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ro%C5%BEmit%C3%A1lova%202291/14%2C%20Blansko",
+        "googlemaps_url": "https://www.google.com/maps?q=Ro%C5%BEmit%C3%A1lova%202291/14%2C%20Blansko",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 93889977,
