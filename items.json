@@ -10400,6 +10400,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 63936121,
+        "url": "https://czap.cz/Sys/PublicProfile/63936121/5485226",
+        "name": "Kyrianová, Hana",
+        "membership": "Řádné členství",
+        "location": "Šlejnická 1, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0lejnick%C3%A1%201%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%A0lejnick%C3%A1%201%2C%20Praha%206",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 63956543,
         "url": "https://czap.cz/Sys/PublicProfile/63956543/5485226",
         "name": "Jakubská, Dagmar",
@@ -21674,9 +21684,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/81533357/5485226",
         "name": "Moravíková, Gabriela",
         "membership": "Řádné členství",
-        "location": "K.H. Máchy 1276, Sokolov",
-        "mapycom_url": "https://mapy.com/zakladni?q=K.H.%20M%C3%A1chy%201276%2C%20Sokolov",
-        "googlemaps_url": "https://www.google.com/maps?q=K.H.%20M%C3%A1chy%201276%2C%20Sokolov",
+        "location": "Obětí Nacismu 1127/16, Cheb",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ob%C4%9Bt%C3%AD%20Nacismu%201127/16%2C%20Cheb",
+        "googlemaps_url": "https://www.google.com/maps?q=Ob%C4%9Bt%C3%AD%20Nacismu%201127/16%2C%20Cheb",
         "availability": "Přijímám nové klienty"
     },
     {
