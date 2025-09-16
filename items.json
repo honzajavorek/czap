@@ -4490,16 +4490,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 58885379,
-        "url": "https://czap.cz/Sys/PublicProfile/58885379/5485226",
-        "name": "Šatrová, Šárka",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Tyršova 293, Jičín",
-        "mapycom_url": "https://mapy.com/zakladni?q=Tyr%C5%A1ova%20293%2C%20Ji%C4%8D%C3%ADn",
-        "googlemaps_url": "https://www.google.com/maps?q=Tyr%C5%A1ova%20293%2C%20Ji%C4%8D%C3%ADn",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 58885380,
         "url": "https://czap.cz/Sys/PublicProfile/58885380/5485226",
         "name": "Lacko, Dušan",
@@ -5970,6 +5960,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 59360834,
+        "url": "https://czap.cz/Sys/PublicProfile/59360834/5485226",
+        "name": "Pasnichenko, Viktor",
+        "membership": "Řádné členství",
+        "location": "Žitná 562, Praha 10",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDitn%C3%A1%20562%2C%20Praha%2010",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%BDitn%C3%A1%20562%2C%20Praha%2010",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 59360852,
         "url": "https://czap.cz/Sys/PublicProfile/59360852/5485226",
         "name": "Lukášová, Hana",
@@ -6987,7 +6987,7 @@
         "location": "Muchova 33, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Muchova%2033%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Muchova%2033%2C%20Brno",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 61184793,
@@ -8618,16 +8618,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=B%C5%99%C3%AD%20Lu%C5%BE%C5%AF%20114%2C%20Uhersk%C3%BD%20Brod",
         "googlemaps_url": "https://www.google.com/maps?q=B%C5%99%C3%AD%20Lu%C5%BE%C5%AF%20114%2C%20Uhersk%C3%BD%20Brod",
         "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 62767756,
-        "url": "https://czap.cz/Sys/PublicProfile/62767756/5485226",
-        "name": "Nováček, Cyril",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "U Tří lvů 294, České Budějovice",
-        "mapycom_url": "https://mapy.com/zakladni?q=U%20T%C5%99%C3%AD%20lv%C5%AF%20294%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
-        "googlemaps_url": "https://www.google.com/maps?q=U%20T%C5%99%C3%AD%20lv%C5%AF%20294%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
-        "availability": "Přijímám nové klienty"
     },
     {
         "id": 62780883,
@@ -16484,9 +16474,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/72552118/5485226",
         "name": "Pivolusková, Hana",
         "membership": "Řádné členství",
-        "location": "Hilleho 4, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Hilleho%204%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Hilleho%204%2C%20Brno",
+        "location": "Zahradnická 6, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Zahradnick%C3%A1%206%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Zahradnick%C3%A1%206%2C%20Brno",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -16854,9 +16844,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/73626245/5485226",
         "name": "Burianová, Jana",
         "membership": "Řádné členství",
-        "location": "Žižkova 277, Vimperk",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDi%C5%BEkova%20277%2C%20Vimperk",
-        "googlemaps_url": "https://www.google.com/maps?q=%C5%BDi%C5%BEkova%20277%2C%20Vimperk",
+        "location": "Omladinářů 2, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Omladin%C3%A1%C5%99%C5%AF%202%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Omladin%C3%A1%C5%99%C5%AF%202%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -23227,6 +23217,16 @@
         "location": "Wuchterlova 8, Praha 6",
         "mapycom_url": "https://mapy.com/zakladni?q=Wuchterlova%208%2C%20Praha%206",
         "googlemaps_url": "https://www.google.com/maps?q=Wuchterlova%208%2C%20Praha%206",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 94182172,
+        "url": "https://czap.cz/Sys/PublicProfile/94182172/5485226",
+        "name": "Smejkal, Jiří",
+        "membership": "Řádné členství",
+        "location": "Wellnerova 3, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Wellnerova%203%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Wellnerova%203%2C%20Olomouc",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
