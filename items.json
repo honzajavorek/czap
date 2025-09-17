@@ -7520,6 +7520,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 61895735,
+        "url": "https://czap.cz/Sys/PublicProfile/61895735/5485226",
+        "name": "Orlovská, Sabina",
+        "membership": "Řádné členství",
+        "location": "Osadní 12A, Praha 7 - Holešovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Osadn%C3%AD%2012A%2C%20Praha%207%20-%20Hole%C5%A1ovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Osadn%C3%AD%2012A%2C%20Praha%207%20-%20Hole%C5%A1ovice",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 61901147,
         "url": "https://czap.cz/Sys/PublicProfile/61901147/5485226",
         "name": "Nátěstová Pilařová, Naďa",
@@ -7887,6 +7897,16 @@
         "location": "Jihovýchodní V 914/5, Praha 4",
         "mapycom_url": "https://mapy.com/zakladni?q=Jihov%C3%BDchodn%C3%AD%20V%20914/5%2C%20Praha%204",
         "googlemaps_url": "https://www.google.com/maps?q=Jihov%C3%BDchodn%C3%AD%20V%20914/5%2C%20Praha%204",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 62291709,
+        "url": "https://czap.cz/Sys/PublicProfile/62291709/5485226",
+        "name": "Baďurová, Monika",
+        "membership": "Řádné členství",
+        "location": "Lotos Brno, Dvořákova 63, Hodonín, Brněnská 14/F, HODONÍN",
+        "mapycom_url": "https://mapy.com/zakladni?q=Lotos%20Brno%2C%20Dvo%C5%99%C3%A1kova%2063%2C%20Hodon%C3%ADn%2C%20Brn%C4%9Bnsk%C3%A1%2014/F%2C%20HODON%C3%8DN",
+        "googlemaps_url": "https://www.google.com/maps?q=Lotos%20Brno%2C%20Dvo%C5%99%C3%A1kova%2063%2C%20Hodon%C3%ADn%2C%20Brn%C4%9Bnsk%C3%A1%2014/F%2C%20HODON%C3%8DN",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -10127,6 +10147,16 @@
         "location": "Mařákova 4, Praha 6",
         "mapycom_url": "https://mapy.com/zakladni?q=Ma%C5%99%C3%A1kova%204%2C%20Praha%206",
         "googlemaps_url": "https://www.google.com/maps?q=Ma%C5%99%C3%A1kova%204%2C%20Praha%206",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 63685020,
+        "url": "https://czap.cz/Sys/PublicProfile/63685020/5485226",
+        "name": "Perglerová, Klára",
+        "membership": "Řádné členství",
+        "location": "Bělehradská 314/18, Praha 4- Nusle",
+        "mapycom_url": "https://mapy.com/zakladni?q=B%C4%9Blehradsk%C3%A1%20314/18%2C%20Praha%204-%20Nusle",
+        "googlemaps_url": "https://www.google.com/maps?q=B%C4%9Blehradsk%C3%A1%20314/18%2C%20Praha%204-%20Nusle",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -22860,6 +22890,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 89848829,
+        "url": "https://czap.cz/Sys/PublicProfile/89848829/5485226",
+        "name": "Třešňáková, Petra",
+        "membership": "Řádné členství",
+        "location": "Bělehradská 314/18, Praha 4",
+        "mapycom_url": "https://mapy.com/zakladni?q=B%C4%9Blehradsk%C3%A1%20314/18%2C%20Praha%204",
+        "googlemaps_url": "https://www.google.com/maps?q=B%C4%9Blehradsk%C3%A1%20314/18%2C%20Praha%204",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 89881351,
         "url": "https://czap.cz/Sys/PublicProfile/89881351/5485226",
         "name": "Lebdušková, Radka",
@@ -23207,6 +23247,26 @@
         "location": "Úvalská 3411/47, Praha 10, Strašnice",
         "mapycom_url": "https://mapy.com/zakladni?q=%C3%9Avalsk%C3%A1%203411/47%2C%20Praha%2010%2C%20Stra%C5%A1nice",
         "googlemaps_url": "https://www.google.com/maps?q=%C3%9Avalsk%C3%A1%203411/47%2C%20Praha%2010%2C%20Stra%C5%A1nice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 94003957,
+        "url": "https://czap.cz/Sys/PublicProfile/94003957/5485226",
+        "name": "Beranová, Nela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Legerova 29, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Legerova%2029%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Legerova%2029%2C%20Praha%202",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 94068562,
+        "url": "https://czap.cz/Sys/PublicProfile/94068562/5485226",
+        "name": "Frýbová Kmoníčková, Jindra",
+        "membership": "Řádné členství",
+        "location": "Zelený pruh 1294/52, Praha 4",
+        "mapycom_url": "https://mapy.com/zakladni?q=Zelen%C3%BD%20pruh%201294/52%2C%20Praha%204",
+        "googlemaps_url": "https://www.google.com/maps?q=Zelen%C3%BD%20pruh%201294/52%2C%20Praha%204",
         "availability": "Přijímám nové klienty"
     },
     {
