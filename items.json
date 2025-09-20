@@ -5517,7 +5517,7 @@
         "location": "Jamné 45, Tišnov",
         "mapycom_url": "https://mapy.com/zakladni?q=Jamn%C3%A9%2045%2C%20Ti%C5%A1nov",
         "googlemaps_url": "https://www.google.com/maps?q=Jamn%C3%A9%2045%2C%20Ti%C5%A1nov",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885496,
@@ -23227,7 +23227,7 @@
         "location": "Petrská 12, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=Petrsk%C3%A1%2012%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Petrsk%C3%A1%2012%2C%20Praha%201",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 93754490,
@@ -23267,6 +23267,16 @@
         "location": "Legerova 29, Praha 2",
         "mapycom_url": "https://mapy.com/zakladni?q=Legerova%2029%2C%20Praha%202",
         "googlemaps_url": "https://www.google.com/maps?q=Legerova%2029%2C%20Praha%202",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 94058606,
+        "url": "https://czap.cz/Sys/PublicProfile/94058606/5485226",
+        "name": "Oral, Ivo",
+        "membership": "Řádné členství",
+        "location": "Bělá 102, Bělá",
+        "mapycom_url": "https://mapy.com/zakladni?q=B%C4%9Bl%C3%A1%20102%2C%20B%C4%9Bl%C3%A1",
+        "googlemaps_url": "https://www.google.com/maps?q=B%C4%9Bl%C3%A1%20102%2C%20B%C4%9Bl%C3%A1",
         "availability": "Přijímám nové klienty"
     },
     {
