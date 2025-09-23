@@ -9827,7 +9827,7 @@
         "location": "Bolzanova 1697/3, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Bolzanova%201697/3%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Bolzanova%201697/3%2C%20Praha",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 63548510,
@@ -23250,6 +23250,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 93826294,
+        "url": "https://czap.cz/Sys/PublicProfile/93826294/5485226",
+        "name": "Hazuchová, Ingrid",
+        "membership": "Řádné členství",
+        "location": "Hostim 45/2, Hostim",
+        "mapycom_url": "https://mapy.com/zakladni?q=Hostim%2045/2%2C%20Hostim",
+        "googlemaps_url": "https://www.google.com/maps?q=Hostim%2045/2%2C%20Hostim",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 93889977,
         "url": "https://czap.cz/Sys/PublicProfile/93889977/5485226",
         "name": "Zroková, Kristína",
@@ -23348,5 +23358,25 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Monada%20s.r.o.%2C%20Praha%208",
         "googlemaps_url": "https://www.google.com/maps?q=Monada%20s.r.o.%2C%20Praha%208",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 94471577,
+        "url": "https://czap.cz/Sys/PublicProfile/94471577/5485226",
+        "name": "Šídlová, Michaela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Sdružení 1336/41, Praha 4",
+        "mapycom_url": "https://mapy.com/zakladni?q=Sdru%C5%BEen%C3%AD%201336/41%2C%20Praha%204",
+        "googlemaps_url": "https://www.google.com/maps?q=Sdru%C5%BEen%C3%AD%201336/41%2C%20Praha%204",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 94472318,
+        "url": "https://czap.cz/Sys/PublicProfile/94472318/5485226",
+        "name": "Turek, Jiří",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Tř. Kap. Jaroše 1922/3, Brno - Střed",
+        "mapycom_url": "https://mapy.com/zakladni?q=T%C5%99.%20Kap.%20Jaro%C5%A1e%201922/3%2C%20Brno%20-%20St%C5%99ed",
+        "googlemaps_url": "https://www.google.com/maps?q=T%C5%99.%20Kap.%20Jaro%C5%A1e%201922/3%2C%20Brno%20-%20St%C5%99ed",
+        "availability": "Přijímám nové klienty"
     }
 ]
