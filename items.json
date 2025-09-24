@@ -6517,7 +6517,7 @@
         "location": "Klapkova 83, Praha 8",
         "mapycom_url": "https://mapy.com/zakladni?q=Klapkova%2083%2C%20Praha%208",
         "googlemaps_url": "https://www.google.com/maps?q=Klapkova%2083%2C%20Praha%208",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 60503342,
@@ -11463,7 +11463,7 @@
         "id": 66582495,
         "url": "https://czap.cz/Sys/PublicProfile/66582495/5485226",
         "name": "Ševčík, Leoš",
-        "membership": "Kandidátní členství - ve výcviku",
+        "membership": "Řádné členství",
         "location": "Josefská 15, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Josefsk%C3%A1%2015%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Josefsk%C3%A1%2015%2C%20Brno",
@@ -23358,6 +23358,26 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Monada%20s.r.o.%2C%20Praha%208",
         "googlemaps_url": "https://www.google.com/maps?q=Monada%20s.r.o.%2C%20Praha%208",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 94304364,
+        "url": "https://czap.cz/Sys/PublicProfile/94304364/5485226",
+        "name": "Táborská, Pavla",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Budečská 795/3, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Bude%C4%8Dsk%C3%A1%20795/3%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Bude%C4%8Dsk%C3%A1%20795/3%2C%20Praha%202",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 94321897,
+        "url": "https://czap.cz/Sys/PublicProfile/94321897/5485226",
+        "name": "Berková, Alena Marie",
+        "membership": "Řádné členství",
+        "location": "V Lánech 273, Ústí nad Labem",
+        "mapycom_url": "https://mapy.com/zakladni?q=V%20L%C3%A1nech%20273%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
+        "googlemaps_url": "https://www.google.com/maps?q=V%20L%C3%A1nech%20273%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 94471577,
