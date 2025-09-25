@@ -7940,16 +7940,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 62307209,
-        "url": "https://czap.cz/Sys/PublicProfile/62307209/5485226",
-        "name": "Hoblíková, Hana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Českobratrská 7, Ostrava",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C4%8Ceskobratrsk%C3%A1%207%2C%20Ostrava",
-        "googlemaps_url": "https://www.google.com/maps?q=%C4%8Ceskobratrsk%C3%A1%207%2C%20Ostrava",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 62307998,
         "url": "https://czap.cz/Sys/PublicProfile/62307998/5485226",
         "name": "Odstrčilová, Helena",
@@ -11014,9 +11004,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/64841371/5485226",
         "name": "Palatová, Barbora",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Orlí 516/20, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Orl%C3%AD%20516/20%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Orl%C3%AD%20516/20%2C%20Brno",
+        "location": "Starobrněnská 341/18, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Starobrn%C4%9Bnsk%C3%A1%20341/18%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Starobrn%C4%9Bnsk%C3%A1%20341/18%2C%20Brno",
         "availability": "Nepřijímám nové klienty"
     },
     {
@@ -12807,16 +12797,6 @@
         "location": "Rúbanisko III 2785/5, Lučenec, Slovenská republika",
         "mapycom_url": "https://mapy.com/zakladni?q=R%C3%BAbanisko%20III%202785/5%2C%20Lu%C4%8Denec%2C%20Slovensk%C3%A1%20republika",
         "googlemaps_url": "https://www.google.com/maps?q=R%C3%BAbanisko%20III%202785/5%2C%20Lu%C4%8Denec%2C%20Slovensk%C3%A1%20republika",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 68031784,
-        "url": "https://czap.cz/Sys/PublicProfile/68031784/5485226",
-        "name": "Patzelt, Daniel",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Pacovská 31, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Pacovsk%C3%A1%2031%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Pacovsk%C3%A1%2031%2C%20Praha",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -16594,9 +16574,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/72723304/5485226",
         "name": "Kamenická, Jitka",
         "membership": "Řádné členství",
-        "location": "Náměstí Svobody 450, Hradec Králové",
-        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1m%C4%9Bst%C3%AD%20Svobody%20450%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
-        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1m%C4%9Bst%C3%AD%20Svobody%20450%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "location": "Baťkovo náměstí 552/2, Hradec Králové",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ba%C5%A5kovo%20n%C3%A1m%C4%9Bst%C3%AD%20552/2%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "googlemaps_url": "https://www.google.com/maps?q=Ba%C5%A5kovo%20n%C3%A1m%C4%9Bst%C3%AD%20552/2%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -23210,6 +23190,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 93617190,
+        "url": "https://czap.cz/Sys/PublicProfile/93617190/5485226",
+        "name": "Hádková, Dita",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Brno",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 93654112,
         "url": "https://czap.cz/Sys/PublicProfile/93654112/5485226",
         "name": "Levitová, Lucie",
@@ -23360,6 +23350,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 94233543,
+        "url": "https://czap.cz/Sys/PublicProfile/94233543/5485226",
+        "name": "Hykšová, Julie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Zahradní 46, Kolín",
+        "mapycom_url": "https://mapy.com/zakladni?q=Zahradn%C3%AD%2046%2C%20Kol%C3%ADn",
+        "googlemaps_url": "https://www.google.com/maps?q=Zahradn%C3%AD%2046%2C%20Kol%C3%ADn",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 94304364,
         "url": "https://czap.cz/Sys/PublicProfile/94304364/5485226",
         "name": "Táborská, Pavla",
@@ -23370,6 +23370,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 94321845,
+        "url": "https://czap.cz/Sys/PublicProfile/94321845/5485226",
+        "name": "Brychtová, Ivana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Mírové náměstí 100/24, Ústí nad Labem",
+        "mapycom_url": "https://mapy.com/zakladni?q=M%C3%ADrov%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20100/24%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
+        "googlemaps_url": "https://www.google.com/maps?q=M%C3%ADrov%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20100/24%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 94321897,
         "url": "https://czap.cz/Sys/PublicProfile/94321897/5485226",
         "name": "Berková, Alena Marie",
@@ -23378,6 +23388,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=V%20L%C3%A1nech%20273%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
         "googlemaps_url": "https://www.google.com/maps?q=V%20L%C3%A1nech%20273%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
         "availability": "Nepřijímám nové klienty"
+    },
+    {
+        "id": 94357033,
+        "url": "https://czap.cz/Sys/PublicProfile/94357033/5485226",
+        "name": "Grymová, Markéta",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Palackého, Moravská Ostrava a Přívoz, Moravská Ostrava a Přívoz",
+        "mapycom_url": "https://mapy.com/zakladni?q=Palack%C3%A9ho%2C%20Moravsk%C3%A1%20Ostrava%20a%20P%C5%99%C3%ADvoz%2C%20Moravsk%C3%A1%20Ostrava%20a%20P%C5%99%C3%ADvoz",
+        "googlemaps_url": "https://www.google.com/maps?q=Palack%C3%A9ho%2C%20Moravsk%C3%A1%20Ostrava%20a%20P%C5%99%C3%ADvoz%2C%20Moravsk%C3%A1%20Ostrava%20a%20P%C5%99%C3%ADvoz",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 94471577,
