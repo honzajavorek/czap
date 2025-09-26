@@ -7537,7 +7537,7 @@
         "location": "Dolní Lánov 228, Dolní Lánov u Vrchlabí, Dolní Lánov u Vrchlabí / Jičín",
         "mapycom_url": "https://mapy.com/zakladni?q=Doln%C3%AD%20L%C3%A1nov%20228%2C%20Doln%C3%AD%20L%C3%A1nov%20u%20Vrchlab%C3%AD%2C%20Doln%C3%AD%20L%C3%A1nov%20u%20Vrchlab%C3%AD%20/%20Ji%C4%8D%C3%ADn",
         "googlemaps_url": "https://www.google.com/maps?q=Doln%C3%AD%20L%C3%A1nov%20228%2C%20Doln%C3%AD%20L%C3%A1nov%20u%20Vrchlab%C3%AD%2C%20Doln%C3%AD%20L%C3%A1nov%20u%20Vrchlab%C3%AD%20/%20Ji%C4%8D%C3%ADn",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 61918671,
@@ -8467,6 +8467,16 @@
         "location": "Jahnova 8, Pardubice",
         "mapycom_url": "https://mapy.com/zakladni?q=Jahnova%208%2C%20Pardubice",
         "googlemaps_url": "https://www.google.com/maps?q=Jahnova%208%2C%20Pardubice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 62713836,
+        "url": "https://czap.cz/Sys/PublicProfile/62713836/5485226",
+        "name": "Novotná, Veronika",
+        "membership": "Řádné členství",
+        "location": "Osadní 12a, Praha 7",
+        "mapycom_url": "https://mapy.com/zakladni?q=Osadn%C3%AD%2012a%2C%20Praha%207",
+        "googlemaps_url": "https://www.google.com/maps?q=Osadn%C3%AD%2012a%2C%20Praha%207",
         "availability": "Přijímám nové klienty"
     },
     {
