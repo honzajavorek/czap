@@ -5757,7 +5757,7 @@
         "location": "Slavíkova 6068/18, Ostrava - Poruba",
         "mapycom_url": "https://mapy.com/zakladni?q=Slav%C3%ADkova%206068/18%2C%20Ostrava%20-%20Poruba",
         "googlemaps_url": "https://www.google.com/maps?q=Slav%C3%ADkova%206068/18%2C%20Ostrava%20-%20Poruba",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 59120010,
@@ -9827,7 +9827,7 @@
         "location": "Bolzanova 1697/3, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Bolzanova%201697/3%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Bolzanova%201697/3%2C%20Praha",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 63548510,
@@ -23398,6 +23398,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=V%20L%C3%A1nech%20273%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
         "googlemaps_url": "https://www.google.com/maps?q=V%20L%C3%A1nech%20273%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
         "availability": "Nepřijímám nové klienty"
+    },
+    {
+        "id": 94324470,
+        "url": "https://czap.cz/Sys/PublicProfile/94324470/5485226",
+        "name": "Doláková, Pavla",
+        "membership": "Řádné členství",
+        "location": "Ortenovo nám. 6, Praha 7",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ortenovo%20n%C3%A1m.%206%2C%20Praha%207",
+        "googlemaps_url": "https://www.google.com/maps?q=Ortenovo%20n%C3%A1m.%206%2C%20Praha%207",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 94357033,
