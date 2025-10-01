@@ -14000,16 +14000,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 68790295,
-        "url": "https://czap.cz/Sys/PublicProfile/68790295/5485226",
-        "name": "Veselá, Ivana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Konviktská 997/13, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=Konviktsk%C3%A1%20997/13%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=Konviktsk%C3%A1%20997/13%2C%20Praha%201",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 68809354,
         "url": "https://czap.cz/Sys/PublicProfile/68809354/5485226",
         "name": "Zemanová, Veronika",
@@ -21374,10 +21364,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/80077119/5485226",
         "name": "Žampachová, Monika",
         "membership": "Řádné členství",
-        "location": "U Měšťanských škol 525, Praha 8 - Kobylisy",
-        "mapycom_url": "https://mapy.com/zakladni?q=U%20M%C4%9B%C5%A1%C5%A5ansk%C3%BDch%20%C5%A1kol%20525%2C%20Praha%208%20-%20Kobylisy",
-        "googlemaps_url": "https://www.google.com/maps?q=U%20M%C4%9B%C5%A1%C5%A5ansk%C3%BDch%20%C5%A1kol%20525%2C%20Praha%208%20-%20Kobylisy",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Slezská 74, Praha 2 - Vinohrady",
+        "mapycom_url": "https://mapy.com/zakladni?q=Slezsk%C3%A1%2074%2C%20Praha%202%20-%20Vinohrady",
+        "googlemaps_url": "https://www.google.com/maps?q=Slezsk%C3%A1%2074%2C%20Praha%202%20-%20Vinohrady",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 80077282,
@@ -23300,6 +23290,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 94179075,
+        "url": "https://czap.cz/Sys/PublicProfile/94179075/5485226",
+        "name": "Pichová, Veronika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Na Poříčí 12, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha%201",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 94182129,
         "url": "https://czap.cz/Sys/PublicProfile/94182129/5485226",
         "name": "Pinkasová, Veronika",
@@ -23360,6 +23360,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 94296026,
+        "url": "https://czap.cz/Sys/PublicProfile/94296026/5485226",
+        "name": "Řezníček Kolcunová, Valéria",
+        "membership": "Řádné členství",
+        "location": "Lednická 118/43, Břeclav",
+        "mapycom_url": "https://mapy.com/zakladni?q=Lednick%C3%A1%20118/43%2C%20B%C5%99eclav",
+        "googlemaps_url": "https://www.google.com/maps?q=Lednick%C3%A1%20118/43%2C%20B%C5%99eclav",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 94304364,
         "url": "https://czap.cz/Sys/PublicProfile/94304364/5485226",
         "name": "Táborská, Pavla",
@@ -23407,6 +23417,16 @@
         "location": "Palackého, Moravská Ostrava a Přívoz, Moravská Ostrava a Přívoz",
         "mapycom_url": "https://mapy.com/zakladni?q=Palack%C3%A9ho%2C%20Moravsk%C3%A1%20Ostrava%20a%20P%C5%99%C3%ADvoz%2C%20Moravsk%C3%A1%20Ostrava%20a%20P%C5%99%C3%ADvoz",
         "googlemaps_url": "https://www.google.com/maps?q=Palack%C3%A9ho%2C%20Moravsk%C3%A1%20Ostrava%20a%20P%C5%99%C3%ADvoz%2C%20Moravsk%C3%A1%20Ostrava%20a%20P%C5%99%C3%ADvoz",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 94471462,
+        "url": "https://czap.cz/Sys/PublicProfile/94471462/5485226",
+        "name": "Krofta, Jan",
+        "membership": "Řádné členství",
+        "location": "Senovážné náměstí 1464/6, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%201464/6%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%201464/6%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
     },
     {
