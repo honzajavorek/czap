@@ -2837,7 +2837,7 @@
         "location": "Na Příkopě 12, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20P%C5%99%C3%ADkop%C4%9B%2012%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20P%C5%99%C3%ADkop%C4%9B%2012%2C%20Praha%201",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885191,
@@ -9437,7 +9437,7 @@
         "location": "Dvorecká 21, Praha 4",
         "mapycom_url": "https://mapy.com/zakladni?q=Dvoreck%C3%A1%2021%2C%20Praha%204",
         "googlemaps_url": "https://www.google.com/maps?q=Dvoreck%C3%A1%2021%2C%20Praha%204",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 63397375,
@@ -10087,7 +10087,7 @@
         "location": "Charkovská 24, Praha 10",
         "mapycom_url": "https://mapy.com/zakladni?q=Charkovsk%C3%A1%2024%2C%20Praha%2010",
         "googlemaps_url": "https://www.google.com/maps?q=Charkovsk%C3%A1%2024%2C%20Praha%2010",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 63655669,
@@ -13950,16 +13950,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 68764535,
-        "url": "https://czap.cz/Sys/PublicProfile/68764535/5485226",
-        "name": "Rott, Lucia",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Podolské nábřeží 9/28, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Podolsk%C3%A9%20n%C3%A1b%C5%99e%C5%BE%C3%AD%209/28%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Podolsk%C3%A9%20n%C3%A1b%C5%99e%C5%BE%C3%AD%209/28%2C%20Praha",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 68764926,
         "url": "https://czap.cz/Sys/PublicProfile/68764926/5485226",
         "name": "Pokorná, Zuzana",
@@ -15124,9 +15114,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/70570486/5485226",
         "name": "Krajčová, Olga",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Kafkova 35, Praha 6",
-        "mapycom_url": "https://mapy.com/zakladni?q=Kafkova%2035%2C%20Praha%206",
-        "googlemaps_url": "https://www.google.com/maps?q=Kafkova%2035%2C%20Praha%206",
+        "location": "Sadová 2, Zlín",
+        "mapycom_url": "https://mapy.com/zakladni?q=Sadov%C3%A1%202%2C%20Zl%C3%ADn",
+        "googlemaps_url": "https://www.google.com/maps?q=Sadov%C3%A1%202%2C%20Zl%C3%ADn",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -17177,7 +17167,7 @@
         "location": "Perlová 14, Plzeň",
         "mapycom_url": "https://mapy.com/zakladni?q=Perlov%C3%A1%2014%2C%20Plze%C5%88",
         "googlemaps_url": "https://www.google.com/maps?q=Perlov%C3%A1%2014%2C%20Plze%C5%88",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 74381235,
@@ -19334,9 +19324,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/77264050/5485226",
         "name": "Vlachová, Petra",
         "membership": "Řádné členství",
-        "location": "nám. sv. Václava 60/12, Stará Boleslav",
-        "mapycom_url": "https://mapy.com/zakladni?q=n%C3%A1m.%20sv.%20V%C3%A1clava%2060/12%2C%20Star%C3%A1%20Boleslav",
-        "googlemaps_url": "https://www.google.com/maps?q=n%C3%A1m.%20sv.%20V%C3%A1clava%2060/12%2C%20Star%C3%A1%20Boleslav",
+        "location": "Boleslavská 31/4, Stará Boleslav",
+        "mapycom_url": "https://mapy.com/zakladni?q=Boleslavsk%C3%A1%2031/4%2C%20Star%C3%A1%20Boleslav",
+        "googlemaps_url": "https://www.google.com/maps?q=Boleslavsk%C3%A1%2031/4%2C%20Star%C3%A1%20Boleslav",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -20744,10 +20734,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/78964529/5485226",
         "name": "Tomášková, Markéta",
         "membership": "Řádné členství",
-        "location": "Frýdlant nad Ostravicí",
-        "mapycom_url": "https://mapy.com/zakladni?q=Fr%C3%BDdlant%20nad%20Ostravic%C3%AD",
-        "googlemaps_url": "https://www.google.com/maps?q=Fr%C3%BDdlant%20nad%20Ostravic%C3%AD",
-        "availability": "Nepřijímám nové klienty"
+        "location": "Harcovská 12, Frýdlant nad Ostravicí",
+        "mapycom_url": "https://mapy.com/zakladni?q=Harcovsk%C3%A1%2012%2C%20Fr%C3%BDdlant%20nad%20Ostravic%C3%AD",
+        "googlemaps_url": "https://www.google.com/maps?q=Harcovsk%C3%A1%2012%2C%20Fr%C3%BDdlant%20nad%20Ostravic%C3%AD",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 78967997,
@@ -22207,7 +22197,7 @@
         "location": "Masarykovo náměstí 1544, Pardubice",
         "mapycom_url": "https://mapy.com/zakladni?q=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%201544%2C%20Pardubice",
         "googlemaps_url": "https://www.google.com/maps?q=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%201544%2C%20Pardubice",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 84886785,
@@ -23410,6 +23400,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 94353113,
+        "url": "https://czap.cz/Sys/PublicProfile/94353113/5485226",
+        "name": "Mézlová, Jekatěrina",
+        "membership": "Řádné členství",
+        "location": "Roháčova 266/38, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Roh%C3%A1%C4%8Dova%20266/38%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Roh%C3%A1%C4%8Dova%20266/38%2C%20Praha%203",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 94357033,
         "url": "https://czap.cz/Sys/PublicProfile/94357033/5485226",
         "name": "Grymová, Markéta",
@@ -23448,5 +23448,25 @@
         "mapycom_url": "https://mapy.com/zakladni?q=T%C5%99.%20Kap.%20Jaro%C5%A1e%201922/3%2C%20Brno%20-%20St%C5%99ed",
         "googlemaps_url": "https://www.google.com/maps?q=T%C5%99.%20Kap.%20Jaro%C5%A1e%201922/3%2C%20Brno%20-%20St%C5%99ed",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 94764640,
+        "url": "https://czap.cz/Sys/PublicProfile/94764640/5485226",
+        "name": "Růžičková, Jana",
+        "membership": "Řádné členství",
+        "location": "Plutova 1343/6, Praha 10 - Uhříněves",
+        "mapycom_url": "https://mapy.com/zakladni?q=Plutova%201343/6%2C%20Praha%2010%20-%20Uh%C5%99%C3%ADn%C4%9Bves",
+        "googlemaps_url": "https://www.google.com/maps?q=Plutova%201343/6%2C%20Praha%2010%20-%20Uh%C5%99%C3%ADn%C4%9Bves",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 94801056,
+        "url": "https://czap.cz/Sys/PublicProfile/94801056/5485226",
+        "name": "Roček Berglowcová, Natálie",
+        "membership": "Řádné členství",
+        "location": "Šumavská 862/30, Praha 2, Vinohrady",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0umavsk%C3%A1%20862/30%2C%20Praha%202%2C%20Vinohrady",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%A0umavsk%C3%A1%20862/30%2C%20Praha%202%2C%20Vinohrady",
+        "availability": "Info o dostupnosti na vyžádání"
     }
 ]
