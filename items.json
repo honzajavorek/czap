@@ -3344,9 +3344,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885247/5485226",
         "name": "Čiberová, Kateřina",
         "membership": "Řádné členství",
-        "location": "Thámova 24, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Th%C3%A1mova%2024%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Th%C3%A1mova%2024%2C%20Praha",
+        "location": "Ženské domovy, Ostrovského, Praha, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDensk%C3%A9%20domovy%2C%20Ostrovsk%C3%A9ho%2C%20Praha%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%BDensk%C3%A9%20domovy%2C%20Ostrovsk%C3%A9ho%2C%20Praha%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -4244,9 +4244,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885352/5485226",
         "name": "Frys, Martin Heřman",
         "membership": "Řádné členství",
-        "location": "Bělohorská 1654/108, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=B%C4%9Blohorsk%C3%A1%201654/108%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=B%C4%9Blohorsk%C3%A1%201654/108%2C%20Praha",
+        "location": "Eliášova 20, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Eli%C3%A1%C5%A1ova%2020%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Eli%C3%A1%C5%A1ova%2020%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -10088,6 +10088,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Vy%C5%A1ehrad%20169%2C%20%C4%8Cesk%C3%BD%20Krumlov",
         "googlemaps_url": "https://www.google.com/maps?q=Vy%C5%A1ehrad%20169%2C%20%C4%8Cesk%C3%BD%20Krumlov",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 63648536,
+        "url": "https://czap.cz/Sys/PublicProfile/63648536/5485226",
+        "name": "Strnadová, Pavlína",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 63650624,
@@ -22054,9 +22064,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/82859802/5485226",
         "name": "Szücsová, Tereza",
         "membership": "Řádné členství",
-        "location": "Nová 1824, Hranice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Nov%C3%A1%201824%2C%20Hranice",
-        "googlemaps_url": "https://www.google.com/maps?q=Nov%C3%A1%201824%2C%20Hranice",
+        "location": "Pekařská 9, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Peka%C5%99sk%C3%A1%209%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Peka%C5%99sk%C3%A1%209%2C%20Olomouc",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -23508,6 +23518,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Mrkosova%202437/35%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Mrkosova%202437/35%2C%20Brno",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 94505648,
+        "url": "https://czap.cz/Sys/PublicProfile/94505648/5485226",
+        "name": "Janečková, Miluše",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Anenské náměstí 2, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Anensk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%202%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Anensk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%202%2C%20Praha%201",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 94555473,
