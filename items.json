@@ -11912,7 +11912,7 @@
     {
         "id": 67238029,
         "url": "https://czap.cz/Sys/PublicProfile/67238029/5485226",
-        "name": "Zejdová, Hana",
+        "name": "Jelínková, Hana",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Psychoterapie Karlín, Březinova 17, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Psychoterapie%20Karl%C3%ADn%2C%20B%C5%99ezinova%2017%2C%20Praha",
@@ -19284,9 +19284,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/77160367/5485226",
         "name": "Holubičková, Lucie",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Křižíkova 345/4, Praha 8 - Florenc",
-        "mapycom_url": "https://mapy.com/zakladni?q=K%C5%99i%C5%BE%C3%ADkova%20345/4%2C%20Praha%208%20-%20Florenc",
-        "googlemaps_url": "https://www.google.com/maps?q=K%C5%99i%C5%BE%C3%ADkova%20345/4%2C%20Praha%208%20-%20Florenc",
+        "location": "Křižíkova 345/4, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=K%C5%99i%C5%BE%C3%ADkova%20345/4%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=K%C5%99i%C5%BE%C3%ADkova%20345/4%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -22357,7 +22357,7 @@
         "location": "Paní Zdislavy 418, Česká Lípa",
         "mapycom_url": "https://mapy.com/zakladni?q=Pan%C3%AD%20Zdislavy%20418%2C%20%C4%8Cesk%C3%A1%20L%C3%ADpa",
         "googlemaps_url": "https://www.google.com/maps?q=Pan%C3%AD%20Zdislavy%20418%2C%20%C4%8Cesk%C3%A1%20L%C3%ADpa",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 85935944,
@@ -22804,9 +22804,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/88720666/5485226",
         "name": "Víchová, Martina",
         "membership": "Řádné členství",
-        "location": "Sladkovského 65, Jičín",
-        "mapycom_url": "https://mapy.com/zakladni?q=Sladkovsk%C3%A9ho%2065%2C%20Ji%C4%8D%C3%ADn",
-        "googlemaps_url": "https://www.google.com/maps?q=Sladkovsk%C3%A9ho%2065%2C%20Ji%C4%8D%C3%ADn",
+        "location": "Denisova 616, Jičín",
+        "mapycom_url": "https://mapy.com/zakladni?q=Denisova%20616%2C%20Ji%C4%8D%C3%ADn",
+        "googlemaps_url": "https://www.google.com/maps?q=Denisova%20616%2C%20Ji%C4%8D%C3%ADn",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -23470,6 +23470,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 94400757,
+        "url": "https://czap.cz/Sys/PublicProfile/94400757/5485226",
+        "name": "Vojtíková, Adéla",
+        "membership": "Řádné členství",
+        "location": "Senovážné nám. 23, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m.%2023%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m.%2023%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 94401265,
         "url": "https://czap.cz/Sys/PublicProfile/94401265/5485226",
         "name": "Elian, Tereza",
@@ -23530,6 +23540,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 94506221,
+        "url": "https://czap.cz/Sys/PublicProfile/94506221/5485226",
+        "name": "Voříšková, Jana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Husova 589/102, Poděbrady",
+        "mapycom_url": "https://mapy.com/zakladni?q=Husova%20589/102%2C%20Pod%C4%9Bbrady",
+        "googlemaps_url": "https://www.google.com/maps?q=Husova%20589/102%2C%20Pod%C4%9Bbrady",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 94555473,
         "url": "https://czap.cz/Sys/PublicProfile/94555473/5485226",
         "name": "Lopaurová, Štěpánka",
@@ -23587,6 +23607,16 @@
         "location": "Šumavská 862/30, Praha 2, Vinohrady",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0umavsk%C3%A1%20862/30%2C%20Praha%202%2C%20Vinohrady",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%A0umavsk%C3%A1%20862/30%2C%20Praha%202%2C%20Vinohrady",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 94801246,
+        "url": "https://czap.cz/Sys/PublicProfile/94801246/5485226",
+        "name": "Walach, Fatema",
+        "membership": "Řádné členství",
+        "location": "Fügnerovo náměstí 3, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=F%C3%BCgnerovo%20n%C3%A1m%C4%9Bst%C3%AD%203%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=F%C3%BCgnerovo%20n%C3%A1m%C4%9Bst%C3%AD%203%2C%20Praha%202",
         "availability": "Info o dostupnosti na vyžádání"
     }
 ]
