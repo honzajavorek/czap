@@ -537,7 +537,7 @@
         "location": "Jezuitská 7/3, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Jezuitsk%C3%A1%207/3%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Jezuitsk%C3%A1%207/3%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 58884936,
@@ -9464,9 +9464,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63414592/5485226",
         "name": "Klimešová, Eva",
         "membership": "Řádné členství",
-        "location": "Nádražní 1122/30, Praha 5",
-        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1dra%C5%BEn%C3%AD%201122/30%2C%20Praha%205",
-        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1dra%C5%BEn%C3%AD%201122/30%2C%20Praha%205",
+        "location": "Nádražní 896/30, Praha 5",
+        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1dra%C5%BEn%C3%AD%20896/30%2C%20Praha%205",
+        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1dra%C5%BEn%C3%AD%20896/30%2C%20Praha%205",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -17217,7 +17217,7 @@
         "location": "Perlová 14, Plzeň",
         "mapycom_url": "https://mapy.com/zakladni?q=Perlov%C3%A1%2014%2C%20Plze%C5%88",
         "googlemaps_url": "https://www.google.com/maps?q=Perlov%C3%A1%2014%2C%20Plze%C5%88",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 74381235,
@@ -18264,10 +18264,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/75972854/5485226",
         "name": "Marešová, Irena",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Kestřanská 140/8, Praha 12 - Cholupice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Kest%C5%99ansk%C3%A1%20140/8%2C%20Praha%2012%20-%20Cholupice",
-        "googlemaps_url": "https://www.google.com/maps?q=Kest%C5%99ansk%C3%A1%20140/8%2C%20Praha%2012%20-%20Cholupice",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Ostrovského 253, Praha 5 - Smíchov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ostrovsk%C3%A9ho%20253%2C%20Praha%205%20-%20Sm%C3%ADchov",
+        "googlemaps_url": "https://www.google.com/maps?q=Ostrovsk%C3%A9ho%20253%2C%20Praha%205%20-%20Sm%C3%ADchov",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 75999392,
