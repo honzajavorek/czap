@@ -15084,10 +15084,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/70460619/5485226",
         "name": "Marková, Jana",
         "membership": "Řádné členství",
-        "location": "ERGOLAB project z.s., Na slupi 140/9, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=ERGOLAB%20project%20z.s.%2C%20Na%20slupi%20140/9%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=ERGOLAB%20project%20z.s.%2C%20Na%20slupi%20140/9%2C%20Praha",
-        "availability": "Nepřijímám nové klienty"
+        "location": "Lehárova 1196/10, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Leh%C3%A1rova%201196/10%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Leh%C3%A1rova%201196/10%2C%20Praha",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 70463284,
@@ -23150,6 +23150,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 92389102,
+        "url": "https://czap.cz/Sys/PublicProfile/92389102/5485226",
+        "name": "Vetchá, Irena",
+        "membership": "Řádné členství",
+        "location": "Korunní, 1370/71, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Korunn%C3%AD%2C%201370/71%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Korunn%C3%AD%2C%201370/71%2C%20Praha%203",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 92467094,
         "url": "https://czap.cz/Sys/PublicProfile/92467094/5485226",
         "name": "Marvánová Vargová, Branislava",
@@ -23488,6 +23498,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Pravdova%20837/II%2C%20Jind%C5%99ich%C5%AFv%20Hradec",
         "googlemaps_url": "https://www.google.com/maps?q=Pravdova%20837/II%2C%20Jind%C5%99ich%C5%AFv%20Hradec",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 94432938,
+        "url": "https://czap.cz/Sys/PublicProfile/94432938/5485226",
+        "name": "Navrátilová, Markéta",
+        "membership": "Řádné členství",
+        "location": "Vodní 1058/15, Těrlicko",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vodn%C3%AD%201058/15%2C%20T%C4%9Brlicko",
+        "googlemaps_url": "https://www.google.com/maps?q=Vodn%C3%AD%201058/15%2C%20T%C4%9Brlicko",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 94471462,
