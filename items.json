@@ -4184,9 +4184,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885346/5485226",
         "name": "Holasová, Jiřina",
         "membership": "Řádné členství",
-        "location": "Riegrova 2063/11, Svitavy",
-        "mapycom_url": "https://mapy.com/zakladni?q=Riegrova%202063/11%2C%20Svitavy",
-        "googlemaps_url": "https://www.google.com/maps?q=Riegrova%202063/11%2C%20Svitavy",
+        "location": "T.G. Masaryka 26, Svitavy",
+        "mapycom_url": "https://mapy.com/zakladni?q=T.G.%20Masaryka%2026%2C%20Svitavy",
+        "googlemaps_url": "https://www.google.com/maps?q=T.G.%20Masaryka%2026%2C%20Svitavy",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -8704,9 +8704,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/62812756/5485226",
         "name": "Jonášová, Petra",
         "membership": "Řádné členství",
-        "location": null,
-        "mapycom_url": null,
-        "googlemaps_url": null,
+        "location": "V J&#225;mě 1, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=V%20J%26%23225%3Bm%C4%9B%201%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=V%20J%26%23225%3Bm%C4%9B%201%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -10107,7 +10107,7 @@
         "location": "Charkovsk&#225; 24, Praha 10",
         "mapycom_url": "https://mapy.com/zakladni?q=Charkovsk%26%23225%3B%2024%2C%20Praha%2010",
         "googlemaps_url": "https://www.google.com/maps?q=Charkovsk%26%23225%3B%2024%2C%20Praha%2010",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 63655669,
@@ -15934,10 +15934,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/71828963/5485226",
         "name": "Schwarz, Gabriela",
         "membership": "Řádné členství",
-        "location": "Charkovsk&#225; 24, Praha 10",
-        "mapycom_url": "https://mapy.com/zakladni?q=Charkovsk%26%23225%3B%2024%2C%20Praha%2010",
-        "googlemaps_url": "https://www.google.com/maps?q=Charkovsk%26%23225%3B%2024%2C%20Praha%2010",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Ostrovsk&#233;ho 253, Praha 5",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ostrovsk%26%23233%3Bho%20253%2C%20Praha%205",
+        "googlemaps_url": "https://www.google.com/maps?q=Ostrovsk%26%23233%3Bho%20253%2C%20Praha%205",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 71866385,
@@ -19727,7 +19727,7 @@
         "location": "V Kruhu 493/2a, Praha 6",
         "mapycom_url": "https://mapy.com/zakladni?q=V%20Kruhu%20493/2a%2C%20Praha%206",
         "googlemaps_url": "https://www.google.com/maps?q=V%20Kruhu%20493/2a%2C%20Praha%206",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 77678884,
@@ -22320,6 +22320,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 85282067,
+        "url": "https://czap.cz/Sys/PublicProfile/85282067/5485226",
+        "name": "Černý, Radek",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "V&#237;ta Nejedl&#233;ho 15, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=V%26%23237%3Bta%20Nejedl%26%23233%3Bho%2015%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=V%26%23237%3Bta%20Nejedl%26%23233%3Bho%2015%2C%20Praha%203",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 85362810,
         "url": "https://czap.cz/Sys/PublicProfile/85362810/5485226",
         "name": "Pop, Adina",
@@ -23014,9 +23024,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/90457682/5485226",
         "name": "Hoffmanová, Denisa",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "V Uličce 17, Holubice",
-        "mapycom_url": "https://mapy.com/zakladni?q=V%20Uli%C4%8Dce%2017%2C%20Holubice",
-        "googlemaps_url": "https://www.google.com/maps?q=V%20Uli%C4%8Dce%2017%2C%20Holubice",
+        "location": "Československ&#233; arm&#225;dy 927/17, Praha 6 - Bubeneč",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C4%8Ceskoslovensk%26%23233%3B%20arm%26%23225%3Bdy%20927/17%2C%20Praha%206%20-%20Bubene%C4%8D",
+        "googlemaps_url": "https://www.google.com/maps?q=%C4%8Ceskoslovensk%26%23233%3B%20arm%26%23225%3Bdy%20927/17%2C%20Praha%206%20-%20Bubene%C4%8D",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -23307,6 +23317,16 @@
         "location": "Legerova 29, Praha 2",
         "mapycom_url": "https://mapy.com/zakladni?q=Legerova%2029%2C%20Praha%202",
         "googlemaps_url": "https://www.google.com/maps?q=Legerova%2029%2C%20Praha%202",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 94047178,
+        "url": "https://czap.cz/Sys/PublicProfile/94047178/5485226",
+        "name": "Kňazíková, Ivana",
+        "membership": "Řádné členství",
+        "location": "Děč&#237;nsk&#225; 552/1, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=D%C4%9B%C4%8D%26%23237%3Bnsk%26%23225%3B%20552/1%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=D%C4%9B%C4%8D%26%23237%3Bnsk%26%23225%3B%20552/1%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
