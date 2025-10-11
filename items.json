@@ -7444,9 +7444,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/61822252/5485226",
         "name": "Nikodemová, Marie",
         "membership": "Řádné členství",
-        "location": "&#218;valsk&#225; 3411/47, Praha 10",
-        "mapycom_url": "https://mapy.com/zakladni?q=%26%23218%3Bvalsk%26%23225%3B%203411/47%2C%20Praha%2010",
-        "googlemaps_url": "https://www.google.com/maps?q=%26%23218%3Bvalsk%26%23225%3B%203411/47%2C%20Praha%2010",
+        "location": "Svatoslavova 241/26, Praha 4 - Nusle",
+        "mapycom_url": "https://mapy.com/zakladni?q=Svatoslavova%20241/26%2C%20Praha%204%20-%20Nusle",
+        "googlemaps_url": "https://www.google.com/maps?q=Svatoslavova%20241/26%2C%20Praha%204%20-%20Nusle",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -12800,16 +12800,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 68023427,
-        "url": "https://czap.cz/Sys/PublicProfile/68023427/5485226",
-        "name": "Kratochvíl, Tomáš",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Kobližn&#225; 47, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Kobli%C5%BEn%26%23225%3B%2047%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Kobli%C5%BEn%26%23225%3B%2047%2C%20Brno",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 68024910,
         "url": "https://czap.cz/Sys/PublicProfile/68024910/5485226",
         "name": "Průchová, Zdeňka",
@@ -14807,16 +14797,6 @@
         "location": "Př&#237;čn&#237; 81, Bystřice nad Pernštejnem",
         "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%26%23237%3B%C4%8Dn%26%23237%3B%2081%2C%20Byst%C5%99ice%20nad%20Pern%C5%A1tejnem",
         "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%26%23237%3B%C4%8Dn%26%23237%3B%2081%2C%20Byst%C5%99ice%20nad%20Pern%C5%A1tejnem",
-        "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 70050677,
-        "url": "https://czap.cz/Sys/PublicProfile/70050677/5485226",
-        "name": "Kučová, Hana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Hasičsk&#225; 52, Ostrava",
-        "mapycom_url": "https://mapy.com/zakladni?q=Hasi%C4%8Dsk%26%23225%3B%2052%2C%20Ostrava",
-        "googlemaps_url": "https://www.google.com/maps?q=Hasi%C4%8Dsk%26%23225%3B%2052%2C%20Ostrava",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -18677,7 +18657,7 @@
         "location": "Alešova 759, Černošice",
         "mapycom_url": "https://mapy.com/zakladni?q=Ale%C5%A1ova%20759%2C%20%C4%8Cerno%C5%A1ice",
         "googlemaps_url": "https://www.google.com/maps?q=Ale%C5%A1ova%20759%2C%20%C4%8Cerno%C5%A1ice",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 76794252,
