@@ -9664,10 +9664,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/63512067/5485226",
         "name": "Hrušková, Zuzana",
         "membership": "Řádné členství",
-        "location": "Žitn&#225; 49, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDitn%26%23225%3B%2049%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=%C5%BDitn%26%23225%3B%2049%2C%20Praha%202",
-        "availability": "Přijímám nové klienty"
+        "location": "Petrska 12, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Petrska%2012%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Petrska%2012%2C%20Praha%201",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 63521569,
@@ -12527,16 +12527,6 @@
         "location": "Turnovsk&#225; 477/6, Praha 8",
         "mapycom_url": "https://mapy.com/zakladni?q=Turnovsk%26%23225%3B%20477/6%2C%20Praha%208",
         "googlemaps_url": "https://www.google.com/maps?q=Turnovsk%26%23225%3B%20477/6%2C%20Praha%208",
-        "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 67857388,
-        "url": "https://czap.cz/Sys/PublicProfile/67857388/5485226",
-        "name": "Želinská, Lucie",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Dvoř&#225;kova 13, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Dvo%C5%99%26%23225%3Bkova%2013%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Dvo%C5%99%26%23225%3Bkova%2013%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -19180,16 +19170,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 77121255,
-        "url": "https://czap.cz/Sys/PublicProfile/77121255/5485226",
-        "name": "Karliková, Lucia",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Považsk&#225; 18, Bratislava",
-        "mapycom_url": "https://mapy.com/zakladni?q=Pova%C5%BEsk%26%23225%3B%2018%2C%20Bratislava",
-        "googlemaps_url": "https://www.google.com/maps?q=Pova%C5%BEsk%26%23225%3B%2018%2C%20Bratislava",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 77121278,
         "url": "https://czap.cz/Sys/PublicProfile/77121278/5485226",
         "name": "Snopková, Zuzana",
@@ -22024,9 +22004,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/82816351/5485226",
         "name": "Škodová, Zuzana",
         "membership": "Řádné členství",
-        "location": "Šmilovsk&#233;ho 10, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0milovsk%26%23233%3Bho%2010%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=%C5%A0milovsk%26%23233%3Bho%2010%2C%20Praha%202",
+        "location": "Ječn&#225; 243/39A, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Je%C4%8Dn%26%23225%3B%20243/39A%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Je%C4%8Dn%26%23225%3B%20243/39A%2C%20Praha%202",
         "availability": "Přijímám nové klienty"
     },
     {
