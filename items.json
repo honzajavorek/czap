@@ -6620,16 +6620,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 60842476,
-        "url": "https://czap.cz/Sys/PublicProfile/60842476/5485226",
-        "name": "Kroupová, Kateřina",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Praha",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 60856555,
         "url": "https://czap.cz/Sys/PublicProfile/60856555/5485226",
         "name": "Tylová, Tereza",
@@ -6987,7 +6977,7 @@
         "location": "Muchova 33, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Muchova%2033%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Muchova%2033%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 61184793,
@@ -19244,9 +19234,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/77175484/5485226",
         "name": "Strnadová, Radka",
         "membership": "Řádné členství",
-        "location": "Bořivojova 1, Olomouc",
-        "mapycom_url": "https://mapy.com/zakladni?q=Bo%C5%99ivojova%201%2C%20Olomouc",
-        "googlemaps_url": "https://www.google.com/maps?q=Bo%C5%99ivojova%201%2C%20Olomouc",
+        "location": "Pekařsk&#225; 9, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Peka%C5%99sk%26%23225%3B%209%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Peka%C5%99sk%26%23225%3B%209%2C%20Olomouc",
         "availability": "Přijímám nové klienty"
     },
     {
