@@ -10000,6 +10000,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 63604875,
+        "url": "https://czap.cz/Sys/PublicProfile/63604875/5485226",
+        "name": "Nagy, Jakub",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "&#218;stavn&#237; 125/125, Praha 8-Bohnice",
+        "mapycom_url": "https://mapy.com/zakladni?q=%26%23218%3Bstavn%26%23237%3B%20125/125%2C%20Praha%208-Bohnice",
+        "googlemaps_url": "https://www.google.com/maps?q=%26%23218%3Bstavn%26%23237%3B%20125/125%2C%20Praha%208-Bohnice",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 63614185,
         "url": "https://czap.cz/Sys/PublicProfile/63614185/5485226",
         "name": "Staňková, Anna",
@@ -12510,6 +12520,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 67857388,
+        "url": "https://czap.cz/Sys/PublicProfile/67857388/5485226",
+        "name": "Želinská, Lucie",
+        "membership": "Řádné členství",
+        "location": "Dvoř&#225;kova 13, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Dvo%C5%99%26%23225%3Bkova%2013%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Dvo%C5%99%26%23225%3Bkova%2013%2C%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 67862015,
         "url": "https://czap.cz/Sys/PublicProfile/67862015/5485226",
         "name": "Grepl Bauerová, Lucia",
@@ -14000,6 +14020,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 68790295,
+        "url": "https://czap.cz/Sys/PublicProfile/68790295/5485226",
+        "name": "Veselá, Ivana",
+        "membership": "Řádné členství",
+        "location": "Konviktsk&#225; 997/13, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Konviktsk%26%23225%3B%20997/13%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Konviktsk%26%23225%3B%20997/13%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 68809354,
         "url": "https://czap.cz/Sys/PublicProfile/68809354/5485226",
         "name": "Zemanová, Veronika",
@@ -14767,6 +14797,16 @@
         "location": "Př&#237;čn&#237; 81, Bystřice nad Pernštejnem",
         "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%26%23237%3B%C4%8Dn%26%23237%3B%2081%2C%20Byst%C5%99ice%20nad%20Pern%C5%A1tejnem",
         "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%26%23237%3B%C4%8Dn%26%23237%3B%2081%2C%20Byst%C5%99ice%20nad%20Pern%C5%A1tejnem",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 70050677,
+        "url": "https://czap.cz/Sys/PublicProfile/70050677/5485226",
+        "name": "Kučová, Hana",
+        "membership": "Řádné členství",
+        "location": "Hasičsk&#225; 52, Ostrava",
+        "mapycom_url": "https://mapy.com/zakladni?q=Hasi%C4%8Dsk%26%23225%3B%2052%2C%20Ostrava",
+        "googlemaps_url": "https://www.google.com/maps?q=Hasi%C4%8Dsk%26%23225%3B%2052%2C%20Ostrava",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -19432,11 +19472,11 @@
     {
         "id": 77449947,
         "url": "https://czap.cz/Sys/PublicProfile/77449947/5485226",
-        "name": "Urban, Vilém",
+        "name": "Urban, Vilem",
         "membership": "Řádné členství",
-        "location": "Milady Hor&#225;kov&#233; 201/119, Praha 6 - Hradčany",
-        "mapycom_url": "https://mapy.com/zakladni?q=Milady%20Hor%26%23225%3Bkov%26%23233%3B%20201/119%2C%20Praha%206%20-%20Hrad%C4%8Dany",
-        "googlemaps_url": "https://www.google.com/maps?q=Milady%20Hor%26%23225%3Bkov%26%23233%3B%20201/119%2C%20Praha%206%20-%20Hrad%C4%8Dany",
+        "location": "Milady Horakove 201/119, Praha 6 - Hradcany",
+        "mapycom_url": "https://mapy.com/zakladni?q=Milady%20Horakove%20201/119%2C%20Praha%206%20-%20Hradcany",
+        "googlemaps_url": "https://www.google.com/maps?q=Milady%20Horakove%20201/119%2C%20Praha%206%20-%20Hradcany",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -20454,9 +20494,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/78650861/5485226",
         "name": "Rut, Filip",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "V&#225;clavsk&#225; 1748/13, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=V%26%23225%3Bclavsk%26%23225%3B%201748/13%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=V%26%23225%3Bclavsk%26%23225%3B%201748/13%2C%20Praha%202",
+        "location": "Svatoslavova 241/26, Praha 4",
+        "mapycom_url": "https://mapy.com/zakladni?q=Svatoslavova%20241/26%2C%20Praha%204",
+        "googlemaps_url": "https://www.google.com/maps?q=Svatoslavova%20241/26%2C%20Praha%204",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -22707,7 +22747,7 @@
         "location": "Akademika Heyrovsk&#233;ho 1178/6, Hradec Králové",
         "mapycom_url": "https://mapy.com/zakladni?q=Akademika%20Heyrovsk%26%23233%3Bho%201178/6%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "googlemaps_url": "https://www.google.com/maps?q=Akademika%20Heyrovsk%26%23233%3Bho%201178/6%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 88189176,
@@ -23207,6 +23247,16 @@
         "location": "Petrsk&#225; 12, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=Petrsk%26%23225%3B%2012%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Petrsk%26%23225%3B%2012%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 93715206,
+        "url": "https://czap.cz/Sys/PublicProfile/93715206/5485226",
+        "name": "Gobena, Martina Nina",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Př&#237;čn&#225; 1892/4, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%26%23237%3B%C4%8Dn%26%23225%3B%201892/4%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%26%23237%3B%C4%8Dn%26%23225%3B%201892/4%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
