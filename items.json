@@ -6620,6 +6620,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 60842476,
+        "url": "https://czap.cz/Sys/PublicProfile/60842476/5485226",
+        "name": "Kroupová, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Praha",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 60856555,
         "url": "https://czap.cz/Sys/PublicProfile/60856555/5485226",
         "name": "Tylová, Tereza",
@@ -15380,16 +15390,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 70889730,
-        "url": "https://czap.cz/Sys/PublicProfile/70889730/5485226",
-        "name": "Boháčová, Kamila",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "N&#225;měst&#237; Svobody 1, Frýdek-Místek",
-        "mapycom_url": "https://mapy.com/zakladni?q=N%26%23225%3Bm%C4%9Bst%26%23237%3B%20Svobody%201%2C%20Fr%C3%BDdek-M%C3%ADstek",
-        "googlemaps_url": "https://www.google.com/maps?q=N%26%23225%3Bm%C4%9Bst%26%23237%3B%20Svobody%201%2C%20Fr%C3%BDdek-M%C3%ADstek",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 70890304,
         "url": "https://czap.cz/Sys/PublicProfile/70890304/5485226",
         "name": "Navrátilová, Eva",
@@ -23648,5 +23648,15 @@
         "mapycom_url": "https://mapy.com/zakladni?q=F%26%23252%3Bgnerovo%20n%26%23225%3Bm%C4%9Bst%26%23237%3B%203%2C%20Praha%202",
         "googlemaps_url": "https://www.google.com/maps?q=F%26%23252%3Bgnerovo%20n%26%23225%3Bm%C4%9Bst%26%23237%3B%203%2C%20Praha%202",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 95257665,
+        "url": "https://czap.cz/Sys/PublicProfile/95257665/5485226",
+        "name": "Komorová, Anna",
+        "membership": "Řádné členství",
+        "location": "Ctiradova 1, Praha 4",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ctiradova%201%2C%20Praha%204",
+        "googlemaps_url": "https://www.google.com/maps?q=Ctiradova%201%2C%20Praha%204",
+        "availability": "Přijímám nové klienty"
     }
 ]
