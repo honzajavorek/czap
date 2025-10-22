@@ -13242,7 +13242,7 @@
     {
         "id": 68289226,
         "url": "https://czap.cz/Sys/PublicProfile/68289226/5485226",
-        "name": "Belicová, Marcela",
+        "name": "Belicova, Marcela",
         "membership": "Řádné členství",
         "location": "Flori&#225;na Nov&#225;ka 5267/3, Prostějov",
         "mapycom_url": "https://mapy.com/zakladni?q=Flori%26%23225%3Bna%20Nov%26%23225%3Bka%205267/3%2C%20Prost%C4%9Bjov",
@@ -15598,6 +15598,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Kounicova%2010%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Kounicova%2010%2C%20Brno",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 71098452,
+        "url": "https://czap.cz/Sys/PublicProfile/71098452/5485226",
+        "name": "Velebová, Marie",
+        "membership": "Řádné členství",
+        "location": "Kopečn&#225; 20, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kope%C4%8Dn%26%23225%3B%2020%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Kope%C4%8Dn%26%23225%3B%2020%2C%20Brno",
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 71160926,
@@ -18587,7 +18597,7 @@
         "location": "Mrkosova 25, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Mrkosova%2025%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Mrkosova%2025%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 76773851,
@@ -23702,12 +23712,12 @@
     {
         "id": 94947481,
         "url": "https://czap.cz/Sys/PublicProfile/94947481/5485226",
-        "name": "Jandová, Martina",
+        "name": "Jandová, Martina Ania",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Revolučn&#237; 8, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=Revolu%C4%8Dn%26%23237%3B%208%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Revolu%C4%8Dn%26%23237%3B%208%2C%20Praha%201",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 95065579,
@@ -23727,6 +23737,16 @@
         "location": "Svatoslavova 3, Praha 4",
         "mapycom_url": "https://mapy.com/zakladni?q=Svatoslavova%203%2C%20Praha%204",
         "googlemaps_url": "https://www.google.com/maps?q=Svatoslavova%203%2C%20Praha%204",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95113094,
+        "url": "https://czap.cz/Sys/PublicProfile/95113094/5485226",
+        "name": "Jeřábková, Alexandra",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Na Poř&#237;č&#237; 12, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Po%C5%99%26%23237%3B%C4%8D%26%23237%3B%2012%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Po%C5%99%26%23237%3B%C4%8D%26%23237%3B%2012%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
     },
     {
