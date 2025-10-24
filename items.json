@@ -3697,7 +3697,7 @@
         "location": "Hrdličkova 2207/3, Praha 4, Chodov",
         "mapycom_url": "https://mapy.com/zakladni?q=Hrdli%C4%8Dkova%202207/3%2C%20Praha%204%2C%20Chodov",
         "googlemaps_url": "https://www.google.com/maps?q=Hrdli%C4%8Dkova%202207/3%2C%20Praha%204%2C%20Chodov",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885289,
@@ -15430,6 +15430,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 70889730,
+        "url": "https://czap.cz/Sys/PublicProfile/70889730/5485226",
+        "name": "Boháčová, Kamila",
+        "membership": "Řádné členství",
+        "location": "N&#225;měst&#237; Svobody 1, Frýdek-Místek",
+        "mapycom_url": "https://mapy.com/zakladni?q=N%26%23225%3Bm%C4%9Bst%26%23237%3B%20Svobody%201%2C%20Fr%C3%BDdek-M%C3%ADstek",
+        "googlemaps_url": "https://www.google.com/maps?q=N%26%23225%3Bm%C4%9Bst%26%23237%3B%20Svobody%201%2C%20Fr%C3%BDdek-M%C3%ADstek",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 70890304,
         "url": "https://czap.cz/Sys/PublicProfile/70890304/5485226",
         "name": "Navrátilová, Eva",
@@ -16954,9 +16964,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/73672681/5485226",
         "name": "Šimánková, Klára",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Pernerova 293, Praha 8",
-        "mapycom_url": "https://mapy.com/zakladni?q=Pernerova%20293%2C%20Praha%208",
-        "googlemaps_url": "https://www.google.com/maps?q=Pernerova%20293%2C%20Praha%208",
+        "location": "Slunn&#225; 27, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Slunn%26%23225%3B%2027%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Slunn%26%23225%3B%2027%2C%20Praha%206",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -22804,9 +22814,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/88468781/5485226",
         "name": "Kalusová, Markéta",
         "membership": "Řádné členství",
-        "location": "T.G.Masaryka T.G. Masaryka&#160;1117, Frýdek-Místek 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=T.G.Masaryka%20T.G.%20Masaryka%26%23160%3B1117%2C%20Fr%C3%BDdek-M%C3%ADstek%201",
-        "googlemaps_url": "https://www.google.com/maps?q=T.G.Masaryka%20T.G.%20Masaryka%26%23160%3B1117%2C%20Fr%C3%BDdek-M%C3%ADstek%201",
+        "location": "Tržn&#237; 23, Frýdek-Místek 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Tr%C5%BEn%26%23237%3B%2023%2C%20Fr%C3%BDdek-M%C3%ADstek%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Tr%C5%BEn%26%23237%3B%2023%2C%20Fr%C3%BDdek-M%C3%ADstek%201",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -23264,9 +23274,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/93617190/5485226",
         "name": "Hádková, Dita",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Brno",
+        "location": "Brno - střed",
+        "mapycom_url": "https://mapy.com/zakladni?q=Brno%20-%20st%C5%99ed",
+        "googlemaps_url": "https://www.google.com/maps?q=Brno%20-%20st%C5%99ed",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -23844,9 +23854,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/95236260/5485226",
         "name": "Pozlerová, Martina",
         "membership": "Řádné členství",
-        "location": "Dvoř&#225;kova 44/14, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Dvo%C5%99%26%23225%3Bkova%2044/14%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Dvo%C5%99%26%23225%3Bkova%2044/14%2C%20Brno",
+        "location": "Dvořakova 44/14, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Dvo%C5%99akova%2044/14%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Dvo%C5%99akova%2044/14%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
