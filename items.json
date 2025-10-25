@@ -8297,7 +8297,7 @@
         "location": "Th&#225;mova 133/24, Praha 8",
         "mapycom_url": "https://mapy.com/zakladni?q=Th%26%23225%3Bmova%20133/24%2C%20Praha%208",
         "googlemaps_url": "https://www.google.com/maps?q=Th%26%23225%3Bmova%20133/24%2C%20Praha%208",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 62521361,
@@ -11294,10 +11294,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/65604228/5485226",
         "name": "Šmeralová, Renata",
         "membership": "Řádné členství",
-        "location": "ZŠ Heyrovsk&#233;ho 460/33, Olomouc",
-        "mapycom_url": "https://mapy.com/zakladni?q=Z%C5%A0%20Heyrovsk%26%23233%3Bho%20460/33%2C%20Olomouc",
-        "googlemaps_url": "https://www.google.com/maps?q=Z%C5%A0%20Heyrovsk%26%23233%3Bho%20460/33%2C%20Olomouc",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Palachovo n&#225;měst&#237; 1, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Palachovo%20n%26%23225%3Bm%C4%9Bst%26%23237%3B%201%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Palachovo%20n%26%23225%3Bm%C4%9Bst%26%23237%3B%201%2C%20Olomouc",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 65751238,
@@ -13768,16 +13768,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Olomouc",
         "googlemaps_url": "https://www.google.com/maps?q=Olomouc",
         "availability": "Nepřijímám nové klienty"
-    },
-    {
-        "id": 68585558,
-        "url": "https://czap.cz/Sys/PublicProfile/68585558/5485226",
-        "name": "Sikora, Ema",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Hellichova 9, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=Hellichova%209%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=Hellichova%209%2C%20Praha%201",
-        "availability": "Přijímám nové klienty"
     },
     {
         "id": 68589210,
@@ -17327,6 +17317,16 @@
         "location": "Martinkova 7, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Martinkova%207%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Martinkova%207%2C%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 74590599,
+        "url": "https://czap.cz/Sys/PublicProfile/74590599/5485226",
+        "name": "Hrabě, Pavel",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
