@@ -5207,7 +5207,7 @@
         "location": "Slovansk&#225; alej 28, Plzeň",
         "mapycom_url": "https://mapy.com/zakladni?q=Slovansk%26%23225%3B%20alej%2028%2C%20Plze%C5%88",
         "googlemaps_url": "https://www.google.com/maps?q=Slovansk%26%23225%3B%20alej%2028%2C%20Plze%C5%88",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 58885462,
@@ -8152,11 +8152,11 @@
     {
         "id": 62377021,
         "url": "https://czap.cz/Sys/PublicProfile/62377021/5485226",
-        "name": "Kučerová, Eliška",
+        "name": "Švecová, Eliška",
         "membership": "Řádné členství",
-        "location": "Plevova 2, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Plevova%202%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Plevova%202%2C%20Brno",
+        "location": "Žabovřesky, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDabov%C5%99esky%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%BDabov%C5%99esky%2C%20Brno",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -10114,10 +10114,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/63648536/5485226",
         "name": "Strnadová, Pavlína",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": null,
-        "mapycom_url": null,
-        "googlemaps_url": null,
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Růžov&#225; 950/15, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=R%C5%AF%C5%BEov%26%23225%3B%20950/15%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=R%C5%AF%C5%BEov%26%23225%3B%20950/15%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 63650624,
@@ -14432,11 +14432,11 @@
     {
         "id": 69443533,
         "url": "https://czap.cz/Sys/PublicProfile/69443533/5485226",
-        "name": "Vozáryová, Kateřina",
+        "name": "Jelenová, Kateřina",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Kafkova 35, Praha 6 - Dejvice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Kafkova%2035%2C%20Praha%206%20-%20Dejvice",
-        "googlemaps_url": "https://www.google.com/maps?q=Kafkova%2035%2C%20Praha%206%20-%20Dejvice",
+        "location": "Senov&#225;žn&#233; n&#225;měst&#237; 978/23, Praha 1 - Nové Město",
+        "mapycom_url": "https://mapy.com/zakladni?q=Senov%26%23225%3B%C5%BEn%26%23233%3B%20n%26%23225%3Bm%C4%9Bst%26%23237%3B%20978/23%2C%20Praha%201%20-%20Nov%C3%A9%20M%C4%9Bsto",
+        "googlemaps_url": "https://www.google.com/maps?q=Senov%26%23225%3B%C5%BEn%26%23233%3B%20n%26%23225%3Bm%C4%9Bst%26%23237%3B%20978/23%2C%20Praha%201%20-%20Nov%C3%A9%20M%C4%9Bsto",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -14758,6 +14758,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Saratovsk%26%23225%3B%20270/11%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Saratovsk%26%23225%3B%20270/11%2C%20Praha",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 70003473,
+        "url": "https://czap.cz/Sys/PublicProfile/70003473/5485226",
+        "name": "Kubica, Joanna",
+        "membership": "Řádné členství",
+        "location": "Hrabinsk&#225; 50d, Český Těšín",
+        "mapycom_url": "https://mapy.com/zakladni?q=Hrabinsk%26%23225%3B%2050d%2C%20%C4%8Cesk%C3%BD%20T%C4%9B%C5%A1%C3%ADn",
+        "googlemaps_url": "https://www.google.com/maps?q=Hrabinsk%26%23225%3B%2050d%2C%20%C4%8Cesk%C3%BD%20T%C4%9B%C5%A1%C3%ADn",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 70005426,
@@ -19857,7 +19867,7 @@
         "location": "Na Sadech 18, České Budějovice",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Sadech%2018%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Sadech%2018%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 77750370,
