@@ -4944,10 +4944,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885432/5485226",
         "name": "Stehlíková, Kateřina",
         "membership": "Řádné členství",
-        "location": null,
-        "mapycom_url": null,
-        "googlemaps_url": null,
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Truhl&#225;řsk&#225; 3, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Truhl%26%23225%3B%C5%99sk%26%23225%3B%203%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Truhl%26%23225%3B%C5%99sk%26%23225%3B%203%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885433,
@@ -15797,6 +15797,16 @@
         "location": "V&#237;deňsk&#225; 16, Olomouc",
         "mapycom_url": "https://mapy.com/zakladni?q=V%26%23237%3Bde%C5%88sk%26%23225%3B%2016%2C%20Olomouc",
         "googlemaps_url": "https://www.google.com/maps?q=V%26%23237%3Bde%C5%88sk%26%23225%3B%2016%2C%20Olomouc",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 71390312,
+        "url": "https://czap.cz/Sys/PublicProfile/71390312/5485226",
+        "name": "Dizon, Jose",
+        "membership": "Řádné členství",
+        "location": "Tyršova 172, Nymburk",
+        "mapycom_url": "https://mapy.com/zakladni?q=Tyr%C5%A1ova%20172%2C%20Nymburk",
+        "googlemaps_url": "https://www.google.com/maps?q=Tyr%C5%A1ova%20172%2C%20Nymburk",
         "availability": "Přijímám nové klienty"
     },
     {
