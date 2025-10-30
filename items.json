@@ -10114,9 +10114,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63648536/5485226",
         "name": "Strnadová, Pavlína",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Růžov&#225; 950/15, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=R%C5%AF%C5%BEov%26%23225%3B%20950/15%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=R%C5%AF%C5%BEov%26%23225%3B%20950/15%2C%20Praha%201",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
         "availability": "Přijímám nové klienty"
     },
     {
@@ -16768,6 +16768,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Th%26%23225%3Bmova%2024%2C%20Praha%208",
         "googlemaps_url": "https://www.google.com/maps?q=Th%26%23225%3Bmova%2024%2C%20Praha%208",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 73080372,
+        "url": "https://czap.cz/Sys/PublicProfile/73080372/5485226",
+        "name": "Svobodová, Martina",
+        "membership": "Řádné členství",
+        "location": "Petrov 503, Petrov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Petrov%20503%2C%20Petrov",
+        "googlemaps_url": "https://www.google.com/maps?q=Petrov%20503%2C%20Petrov",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 73145499,
