@@ -7582,7 +7582,7 @@
     {
         "id": 61979143,
         "url": "https://czap.cz/Sys/PublicProfile/61979143/5485226",
-        "name": "Vaňková, Lenka",
+        "name": "Vaňkova, Lenka",
         "membership": "Řádné členství",
         "location": "Jir&#225;skovo n&#225;měst&#237; 159/10, Ostrava",
         "mapycom_url": "https://mapy.com/zakladni?q=Jir%26%23225%3Bskovo%20n%26%23225%3Bm%C4%9Bst%26%23237%3B%20159/10%2C%20Ostrava",
@@ -10784,9 +10784,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/64441490/5485226",
         "name": "Tománková, Barbora",
         "membership": "Řádné členství",
-        "location": "ZŠ , Jana V&#253;ravy219, České Meziříčí",
-        "mapycom_url": "https://mapy.com/zakladni?q=Z%C5%A0%20%2C%20Jana%20V%26%23253%3Bravy219%2C%20%C4%8Cesk%C3%A9%20Mezi%C5%99%C3%AD%C4%8D%C3%AD",
-        "googlemaps_url": "https://www.google.com/maps?q=Z%C5%A0%20%2C%20Jana%20V%26%23253%3Bravy219%2C%20%C4%8Cesk%C3%A9%20Mezi%C5%99%C3%AD%C4%8D%C3%AD",
+        "location": "GOč&#225;rova, HRadec Králové",
+        "mapycom_url": "https://mapy.com/zakladni?q=GO%C4%8D%26%23225%3Brova%2C%20HRadec%20Kr%C3%A1lov%C3%A9",
+        "googlemaps_url": "https://www.google.com/maps?q=GO%C4%8D%26%23225%3Brova%2C%20HRadec%20Kr%C3%A1lov%C3%A9",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -17478,16 +17478,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Ji%C4%8D%26%23237%3Bnsk%26%23225%3B%20226/17%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Ji%C4%8D%26%23237%3Bnsk%26%23225%3B%20226/17%2C%20Praha",
         "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 74743609,
-        "url": "https://czap.cz/Sys/PublicProfile/74743609/5485226",
-        "name": "Jahn, Michal",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Ibsenova 128/12, Olomouc",
-        "mapycom_url": "https://mapy.com/zakladni?q=Ibsenova%20128/12%2C%20Olomouc",
-        "googlemaps_url": "https://www.google.com/maps?q=Ibsenova%20128/12%2C%20Olomouc",
-        "availability": "Přijímám nové klienty"
     },
     {
         "id": 74745359,
