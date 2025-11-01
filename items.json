@@ -12494,9 +12494,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/67821934/5485226",
         "name": "Tomková, Klára",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Kafkova 35, Praha 6",
-        "mapycom_url": "https://mapy.com/zakladni?q=Kafkova%2035%2C%20Praha%206",
-        "googlemaps_url": "https://www.google.com/maps?q=Kafkova%2035%2C%20Praha%206",
+        "location": "Na Dlouh&#233;m l&#225;nu 5, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Dlouh%26%23233%3Bm%20l%26%23225%3Bnu%205%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Dlouh%26%23233%3Bm%20l%26%23225%3Bnu%205%2C%20Praha%206",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -13527,16 +13527,6 @@
         "location": "V&#237;ta Nejedl&#233;ho 15, Praha 3",
         "mapycom_url": "https://mapy.com/zakladni?q=V%26%23237%3Bta%20Nejedl%26%23233%3Bho%2015%2C%20Praha%203",
         "googlemaps_url": "https://www.google.com/maps?q=V%26%23237%3Bta%20Nejedl%26%23233%3Bho%2015%2C%20Praha%203",
-        "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 68470641,
-        "url": "https://czap.cz/Sys/PublicProfile/68470641/5485226",
-        "name": "Taisumova, Anastasia",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Rumunska, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Rumunska%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Rumunska%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -23898,5 +23888,15 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Ctiradova%201%2C%20Praha%204",
         "googlemaps_url": "https://www.google.com/maps?q=Ctiradova%201%2C%20Praha%204",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95426651,
+        "url": "https://czap.cz/Sys/PublicProfile/95426651/5485226",
+        "name": "Johnová, Margareta",
+        "membership": "Řádné členství",
+        "location": "Slezsk&#225; 81, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Slezsk%26%23225%3B%2081%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Slezsk%26%23225%3B%2081%2C%20Praha%203",
+        "availability": "Info o dostupnosti na vyžádání"
     }
 ]
