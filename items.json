@@ -6950,16 +6950,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 61043462,
-        "url": "https://czap.cz/Sys/PublicProfile/61043462/5485226",
-        "name": "Vlčková, Kristýna",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Příkop 2a, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%202a%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%202a%2C%20Brno",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 61060181,
         "url": "https://czap.cz/Sys/PublicProfile/61060181/5485226",
         "name": "Šlejmarová, Šárka",
@@ -7870,16 +7860,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 62250866,
-        "url": "https://czap.cz/Sys/PublicProfile/62250866/5485226",
-        "name": "Francová, Kateřina",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Konviktská 12, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=Konviktsk%C3%A1%2012%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=Konviktsk%C3%A1%2012%2C%20Praha%201",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 62254442,
         "url": "https://czap.cz/Sys/PublicProfile/62254442/5485226",
         "name": "Porubová, Radka",
@@ -7977,7 +7957,7 @@
         "location": "Na Hradbách 18, Ostrava",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Hradb%C3%A1ch%2018%2C%20Ostrava",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Hradb%C3%A1ch%2018%2C%20Ostrava",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 62307998,
@@ -21180,6 +21160,16 @@
         "availability": "Nepřijímám nové klienty"
     },
     {
+        "id": 79647495,
+        "url": "https://czap.cz/Sys/PublicProfile/79647495/5485226",
+        "name": "Vašatová, Veronika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Chudčická 1057/29, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Chud%C4%8Dick%C3%A1%201057/29%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Chud%C4%8Dick%C3%A1%201057/29%2C%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 79660183,
         "url": "https://czap.cz/Sys/PublicProfile/79660183/5485226",
         "name": "Chmelíková, Pavlína",
@@ -22857,7 +22847,7 @@
         "location": "Akademika Heyrovského 1178/6, Hradec Králové",
         "mapycom_url": "https://mapy.com/zakladni?q=Akademika%20Heyrovsk%C3%A9ho%201178/6%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "googlemaps_url": "https://www.google.com/maps?q=Akademika%20Heyrovsk%C3%A9ho%201178/6%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 88189176,
@@ -23277,6 +23267,16 @@
         "location": "Špičák 125, Český Krumlov",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0pi%C4%8D%C3%A1k%20125%2C%20%C4%8Cesk%C3%BD%20Krumlov",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%A0pi%C4%8D%C3%A1k%20125%2C%20%C4%8Cesk%C3%BD%20Krumlov",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 92802339,
+        "url": "https://czap.cz/Sys/PublicProfile/92802339/5485226",
+        "name": "Vašková, Jitka",
+        "membership": "Řádné členství",
+        "location": "Charkovská 135/24, Praha 10",
+        "mapycom_url": "https://mapy.com/zakladni?q=Charkovsk%C3%A1%20135/24%2C%20Praha%2010",
+        "googlemaps_url": "https://www.google.com/maps?q=Charkovsk%C3%A1%20135/24%2C%20Praha%2010",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -24042,7 +24042,7 @@
     {
         "id": 95431175,
         "url": "https://czap.cz/Sys/PublicProfile/95431175/5485226",
-        "name": "Rambouskova, Lenka",
+        "name": "Rambousková, Lenka",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Nam. 28 rijna 57, Tišnov",
         "mapycom_url": "https://mapy.com/zakladni?q=Nam.%2028%20rijna%2057%2C%20Ti%C5%A1nov",
