@@ -1747,7 +1747,7 @@
         "location": "Vrážská 1418, Praha Radotín",
         "mapycom_url": "https://mapy.com/zakladni?q=Vr%C3%A1%C5%BEsk%C3%A1%201418%2C%20Praha%20Radot%C3%ADn",
         "googlemaps_url": "https://www.google.com/maps?q=Vr%C3%A1%C5%BEsk%C3%A1%201418%2C%20Praha%20Radot%C3%ADn",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885073,
@@ -2208,16 +2208,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=K%20Nemocnici%202814%2C%20272%2001%20Kladno%2C%20Kladno",
         "googlemaps_url": "https://www.google.com/maps?q=K%20Nemocnici%202814%2C%20272%2001%20Kladno%2C%20Kladno",
         "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 58885122,
-        "url": "https://czap.cz/Sys/PublicProfile/58885122/5485226",
-        "name": "Slaninová, Simona",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Horni náměstí 8, Opava",
-        "mapycom_url": "https://mapy.com/zakladni?q=Horni%20n%C3%A1m%C4%9Bst%C3%AD%208%2C%20Opava",
-        "googlemaps_url": "https://www.google.com/maps?q=Horni%20n%C3%A1m%C4%9Bst%C3%AD%208%2C%20Opava",
-        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885123,
@@ -23950,6 +23940,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 95288401,
+        "url": "https://czap.cz/Sys/PublicProfile/95288401/5485226",
+        "name": "Pekláková, Daniela",
+        "membership": "Řádné členství",
+        "location": "Nad Královskou oborou 33, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nad%20Kr%C3%A1lovskou%20oborou%2033%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Nad%20Kr%C3%A1lovskou%20oborou%2033%2C%20Praha",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 95333511,
         "url": "https://czap.cz/Sys/PublicProfile/95333511/5485226",
         "name": "Masařová, Anna",
@@ -24000,6 +24000,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 95397735,
+        "url": "https://czap.cz/Sys/PublicProfile/95397735/5485226",
+        "name": "Jírová, Markéta",
+        "membership": "Řádné členství",
+        "location": "Palackého 449/64, Nymburk",
+        "mapycom_url": "https://mapy.com/zakladni?q=Palack%C3%A9ho%20449/64%2C%20Nymburk",
+        "googlemaps_url": "https://www.google.com/maps?q=Palack%C3%A9ho%20449/64%2C%20Nymburk",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 95402559,
         "url": "https://czap.cz/Sys/PublicProfile/95402559/5485226",
         "name": "Navrátilová, Martina",
@@ -24017,6 +24027,16 @@
         "location": "nám Republiky 55, Pardubice",
         "mapycom_url": "https://mapy.com/zakladni?q=n%C3%A1m%20Republiky%2055%2C%20Pardubice",
         "googlemaps_url": "https://www.google.com/maps?q=n%C3%A1m%20Republiky%2055%2C%20Pardubice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95405086,
+        "url": "https://czap.cz/Sys/PublicProfile/95405086/5485226",
+        "name": "Janáková, Michaela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Brno",
         "availability": "Přijímám nové klienty"
     },
     {
