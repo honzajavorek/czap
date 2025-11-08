@@ -310,16 +310,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 58884911,
-        "url": "https://czap.cz/Sys/PublicProfile/58884911/5485226",
-        "name": "Nepustil, Pavel",
-        "membership": "Řádné členství",
-        "location": "Štefánikova 63a, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0tef%C3%A1nikova%2063a%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=%C5%A0tef%C3%A1nikova%2063a%2C%20Brno",
-        "availability": "Nepřijímám nové klienty"
-    },
-    {
         "id": 58884912,
         "url": "https://czap.cz/Sys/PublicProfile/58884912/5485226",
         "name": "Protivanská, Alžběta",
@@ -10984,9 +10974,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/64667004/5485226",
         "name": "Zatloukalová, Jana",
         "membership": "Řádné členství",
-        "location": "Bořivojova 1, Olomouc",
-        "mapycom_url": "https://mapy.com/zakladni?q=Bo%C5%99ivojova%201%2C%20Olomouc",
-        "googlemaps_url": "https://www.google.com/maps?q=Bo%C5%99ivojova%201%2C%20Olomouc",
+        "location": "Pekařská 9, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Peka%C5%99sk%C3%A1%209%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Peka%C5%99sk%C3%A1%209%2C%20Olomouc",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -15437,7 +15427,7 @@
         "location": "Náměstí Svobody 1, Frýdek-Místek",
         "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1m%C4%9Bst%C3%AD%20Svobody%201%2C%20Fr%C3%BDdek-M%C3%ADstek",
         "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1m%C4%9Bst%C3%AD%20Svobody%201%2C%20Fr%C3%BDdek-M%C3%ADstek",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 70890304,
@@ -23990,6 +23980,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 95371604,
+        "url": "https://czap.cz/Sys/PublicProfile/95371604/5485226",
+        "name": "Giunta, Veronika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Charkovska 24, Praha 10",
+        "mapycom_url": "https://mapy.com/zakladni?q=Charkovska%2024%2C%20Praha%2010",
+        "googlemaps_url": "https://www.google.com/maps?q=Charkovska%2024%2C%20Praha%2010",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 95374403,
         "url": "https://czap.cz/Sys/PublicProfile/95374403/5485226",
         "name": "Jiříčková, Anna",
@@ -24002,7 +24002,7 @@
     {
         "id": 95397735,
         "url": "https://czap.cz/Sys/PublicProfile/95397735/5485226",
-        "name": "Jírová, Markéta",
+        "name": "Jírová Exnerová, Markéta",
         "membership": "Řádné členství",
         "location": "Palackého 449/64, Nymburk",
         "mapycom_url": "https://mapy.com/zakladni?q=Palack%C3%A9ho%20449/64%2C%20Nymburk",
@@ -24038,6 +24038,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Brno",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95424032,
+        "url": "https://czap.cz/Sys/PublicProfile/95424032/5485226",
+        "name": "Zítková, Tatiana",
+        "membership": "Řádné členství",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 95426651,
