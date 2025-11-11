@@ -11654,9 +11654,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/66981733/5485226",
         "name": "Kalniková, Lenka",
         "membership": "Řádné členství",
-        "location": "Jurkovičova 1547, Karviná Nové Město",
-        "mapycom_url": "https://mapy.com/zakladni?q=Jurkovi%C4%8Dova%201547%2C%20Karvin%C3%A1%20Nov%C3%A9%20M%C4%9Bsto",
-        "googlemaps_url": "https://www.google.com/maps?q=Jurkovi%C4%8Dova%201547%2C%20Karvin%C3%A1%20Nov%C3%A9%20M%C4%9Bsto",
+        "location": "Poštovní, Karviná Fryštát",
+        "mapycom_url": "https://mapy.com/zakladni?q=Po%C5%A1tovn%C3%AD%2C%20Karvin%C3%A1%20Fry%C5%A1t%C3%A1t",
+        "googlemaps_url": "https://www.google.com/maps?q=Po%C5%A1tovn%C3%AD%2C%20Karvin%C3%A1%20Fry%C5%A1t%C3%A1t",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -23887,6 +23887,16 @@
         "location": "Bruselská 14, Praha 2",
         "mapycom_url": "https://mapy.com/zakladni?q=Bruselsk%C3%A1%2014%2C%20Praha%202",
         "googlemaps_url": "https://www.google.com/maps?q=Bruselsk%C3%A1%2014%2C%20Praha%202",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 95184978,
+        "url": "https://czap.cz/Sys/PublicProfile/95184978/5485226",
+        "name": "Sokoliová, Michaela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Panská 391/12/1, Brno-střed-Brno-město",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pansk%C3%A1%20391/12/1%2C%20Brno-st%C5%99ed-Brno-m%C4%9Bsto",
+        "googlemaps_url": "https://www.google.com/maps?q=Pansk%C3%A1%20391/12/1%2C%20Brno-st%C5%99ed-Brno-m%C4%9Bsto",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
