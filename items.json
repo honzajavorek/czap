@@ -7857,7 +7857,7 @@
         "location": "Nad Štolou 18, Praha 7 - Holešovice",
         "mapycom_url": "https://mapy.com/zakladni?q=Nad%20%C5%A0tolou%2018%2C%20Praha%207%20-%20Hole%C5%A1ovice",
         "googlemaps_url": "https://www.google.com/maps?q=Nad%20%C5%A0tolou%2018%2C%20Praha%207%20-%20Hole%C5%A1ovice",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 62290181,
@@ -8464,10 +8464,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/62701448/5485226",
         "name": "Kubíčková, Pavla",
         "membership": "Řádné členství",
-        "location": "Slezska 74, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Slezska%2074%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Slezska%2074%2C%20Praha",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Mánesova 62, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=M%C3%A1nesova%2062%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=M%C3%A1nesova%2062%2C%20Praha",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 62704630,
@@ -10487,7 +10487,7 @@
         "location": "Komenského 609/6, Odry",
         "mapycom_url": "https://mapy.com/zakladni?q=Komensk%C3%A9ho%20609/6%2C%20Odry",
         "googlemaps_url": "https://www.google.com/maps?q=Komensk%C3%A9ho%20609/6%2C%20Odry",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 63982067,
@@ -14754,9 +14754,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/69993757/5485226",
         "name": "Zusková, Marie",
         "membership": "Řádné členství",
-        "location": "Saratovská 270/11, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Saratovsk%C3%A1%20270/11%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Saratovsk%C3%A1%20270/11%2C%20Praha",
+        "location": "Bechyňova 7, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Bechy%C5%88ova%207%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Bechy%C5%88ova%207%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -18214,9 +18214,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/75749209/5485226",
         "name": "Šohájková, Jolana",
         "membership": "Řádné členství",
-        "location": "28.pluku 458/7, Praha 10",
-        "mapycom_url": "https://mapy.com/zakladni?q=28.pluku%20458/7%2C%20Praha%2010",
-        "googlemaps_url": "https://www.google.com/maps?q=28.pluku%20458/7%2C%20Praha%2010",
+        "location": "Panská 163/22, České Budějovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pansk%C3%A1%20163/22%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Pansk%C3%A1%20163/22%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -24087,6 +24087,16 @@
         "location": "Nam. 28 rijna 57, Tišnov",
         "mapycom_url": "https://mapy.com/zakladni?q=Nam.%2028%20rijna%2057%2C%20Ti%C5%A1nov",
         "googlemaps_url": "https://www.google.com/maps?q=Nam.%2028%20rijna%2057%2C%20Ti%C5%A1nov",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95517742,
+        "url": "https://czap.cz/Sys/PublicProfile/95517742/5485226",
+        "name": "Nenadl, Roman",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Hlavní 88, Frýdlant nad Ostravicí",
+        "mapycom_url": "https://mapy.com/zakladni?q=Hlavn%C3%AD%2088%2C%20Fr%C3%BDdlant%20nad%20Ostravic%C3%AD",
+        "googlemaps_url": "https://www.google.com/maps?q=Hlavn%C3%AD%2088%2C%20Fr%C3%BDdlant%20nad%20Ostravic%C3%AD",
         "availability": "Přijímám nové klienty"
     }
 ]
