@@ -7800,16 +7800,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 62202047,
-        "url": "https://czap.cz/Sys/PublicProfile/62202047/5485226",
-        "name": "Klimeš, Jan",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Pod Mohylou 602, Mnichovice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Pod%20Mohylou%20602%2C%20Mnichovice",
-        "googlemaps_url": "https://www.google.com/maps?q=Pod%20Mohylou%20602%2C%20Mnichovice",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 62202064,
         "url": "https://czap.cz/Sys/PublicProfile/62202064/5485226",
         "name": "Pöslová, Blanka",
@@ -10104,9 +10094,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63648536/5485226",
         "name": "Strnadová, Pavlína",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Růžová 950/15, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=R%C5%AF%C5%BEov%C3%A1%20950/15%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=R%C5%AF%C5%BEov%C3%A1%20950/15%2C%20Praha%201",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
         "availability": "Přijímám nové klienty"
     },
     {
@@ -14507,7 +14497,7 @@
         "location": "Příkop 2a, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%202a%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%202a%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 69552926,
