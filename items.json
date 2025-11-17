@@ -7830,6 +7830,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 62250866,
+        "url": "https://czap.cz/Sys/PublicProfile/62250866/5485226",
+        "name": "Francová, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Slezská 2292/127, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Slezsk%C3%A1%202292/127%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Slezsk%C3%A1%202292/127%2C%20Praha%203",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 62254442,
         "url": "https://czap.cz/Sys/PublicProfile/62254442/5485226",
         "name": "Porubová, Radka",
@@ -24087,6 +24097,16 @@
         "location": "Hlavní 88, Frýdlant nad Ostravicí",
         "mapycom_url": "https://mapy.com/zakladni?q=Hlavn%C3%AD%2088%2C%20Fr%C3%BDdlant%20nad%20Ostravic%C3%AD",
         "googlemaps_url": "https://www.google.com/maps?q=Hlavn%C3%AD%2088%2C%20Fr%C3%BDdlant%20nad%20Ostravic%C3%AD",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95527126,
+        "url": "https://czap.cz/Sys/PublicProfile/95527126/5485226",
+        "name": "Svačina, Pavel",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Lucemburská 1578/3, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Lucembursk%C3%A1%201578/3%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Lucembursk%C3%A1%201578/3%2C%20Praha%203",
         "availability": "Přijímám nové klienty"
     }
 ]
