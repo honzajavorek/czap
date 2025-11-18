@@ -5684,9 +5684,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/59116953/5485226",
         "name": "Haluzíková, Lenka",
         "membership": "Řádné členství",
-        "location": null,
-        "mapycom_url": null,
-        "googlemaps_url": null,
+        "location": "28.října 1495, Frýdek-Místek",
+        "mapycom_url": "https://mapy.com/zakladni?q=28.%C5%99%C3%ADjna%201495%2C%20Fr%C3%BDdek-M%C3%ADstek",
+        "googlemaps_url": "https://www.google.com/maps?q=28.%C5%99%C3%ADjna%201495%2C%20Fr%C3%BDdek-M%C3%ADstek",
         "availability": "Nepřijímám nové klienty"
     },
     {
@@ -7598,16 +7598,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=V%C3%A1clavsk%C3%A1%2020%2C%20Praha%202",
         "googlemaps_url": "https://www.google.com/maps?q=V%C3%A1clavsk%C3%A1%2020%2C%20Praha%202",
         "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 62036597,
-        "url": "https://czap.cz/Sys/PublicProfile/62036597/5485226",
-        "name": "Rust, Lucie",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Boženy Němcové 9, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=Bo%C5%BEeny%20N%C4%9Bmcov%C3%A9%209%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=Bo%C5%BEeny%20N%C4%9Bmcov%C3%A9%209%2C%20Praha%202",
-        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 62078327,
@@ -17344,10 +17334,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/74590599/5485226",
         "name": "Hrabě, Pavel",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": null,
-        "mapycom_url": null,
-        "googlemaps_url": null,
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Žižkova třída 309/12, České Budějovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDi%C5%BEkova%20t%C5%99%C3%ADda%20309/12%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%BDi%C5%BEkova%20t%C5%99%C3%ADda%20309/12%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 74592831,
