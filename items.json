@@ -7790,6 +7790,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 62202047,
+        "url": "https://czap.cz/Sys/PublicProfile/62202047/5485226",
+        "name": "Klimeš, Jan",
+        "membership": "Řádné členství",
+        "location": "Pod Mohylou 602, Mnichovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pod%20Mohylou%20602%2C%20Mnichovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Pod%20Mohylou%20602%2C%20Mnichovice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 62202064,
         "url": "https://czap.cz/Sys/PublicProfile/62202064/5485226",
         "name": "Pöslová, Blanka",
@@ -17392,7 +17402,7 @@
     {
         "id": 74655227,
         "url": "https://czap.cz/Sys/PublicProfile/74655227/5485226",
-        "name": "Schönová, Pavla",
+        "name": "Moricová, Pavla",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Řehořova 908/4, Praha 3 - Žižkov",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%98eho%C5%99ova%20908/4%2C%20Praha%203%20-%20%C5%BDi%C5%BEkov",
@@ -22334,10 +22344,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/84986016/5485226",
         "name": "Melikhova, Tetiana",
         "membership": "Řádné členství",
-        "location": "Nám. Winstona Churchilla 2, Praha 3",
-        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1m.%20Winstona%20Churchilla%202%2C%20Praha%203",
-        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1m.%20Winstona%20Churchilla%202%2C%20Praha%203",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Víta Nejedlého 15, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=V%C3%ADta%20Nejedl%C3%A9ho%2015%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=V%C3%ADta%20Nejedl%C3%A9ho%2015%2C%20Praha%203",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 85061567,
@@ -23684,9 +23694,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/94642926/5485226",
         "name": "Geppert, Svatopluk Jakob",
         "membership": "Řádné členství",
-        "location": "Vlastislavova 4, Tábor",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vlastislavova%204%2C%20T%C3%A1bor",
-        "googlemaps_url": "https://www.google.com/maps?q=Vlastislavova%204%2C%20T%C3%A1bor",
+        "location": "Vlastislavova 4, Praha 4 - Nusle",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vlastislavova%204%2C%20Praha%204%20-%20Nusle",
+        "googlemaps_url": "https://www.google.com/maps?q=Vlastislavova%204%2C%20Praha%204%20-%20Nusle",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -24080,6 +24090,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 95446138,
+        "url": "https://czap.cz/Sys/PublicProfile/95446138/5485226",
+        "name": "Dohnalová, Hana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "28. října 613, Jindřichův Hradec",
+        "mapycom_url": "https://mapy.com/zakladni?q=28.%20%C5%99%C3%ADjna%20613%2C%20Jind%C5%99ich%C5%AFv%20Hradec",
+        "googlemaps_url": "https://www.google.com/maps?q=28.%20%C5%99%C3%ADjna%20613%2C%20Jind%C5%99ich%C5%AFv%20Hradec",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 95517742,
         "url": "https://czap.cz/Sys/PublicProfile/95517742/5485226",
         "name": "Nenadl, Roman",
@@ -24097,6 +24117,36 @@
         "location": "Lucemburská 1578/3, Praha 3",
         "mapycom_url": "https://mapy.com/zakladni?q=Lucembursk%C3%A1%201578/3%2C%20Praha%203",
         "googlemaps_url": "https://www.google.com/maps?q=Lucembursk%C3%A1%201578/3%2C%20Praha%203",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95575783,
+        "url": "https://czap.cz/Sys/PublicProfile/95575783/5485226",
+        "name": "Hollmannová, Monika",
+        "membership": "Řádné členství",
+        "location": "Patočkova 2472/81a, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pato%C4%8Dkova%202472/81a%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Pato%C4%8Dkova%202472/81a%2C%20Praha%206",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 95587242,
+        "url": "https://czap.cz/Sys/PublicProfile/95587242/5485226",
+        "name": "Karták, Romana",
+        "membership": "Řádné členství",
+        "location": "Vlkonice 97, Vimperk",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vlkonice%2097%2C%20Vimperk",
+        "googlemaps_url": "https://www.google.com/maps?q=Vlkonice%2097%2C%20Vimperk",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95647823,
+        "url": "https://czap.cz/Sys/PublicProfile/95647823/5485226",
+        "name": "Krejčí, Daniel",
+        "membership": "Řádné členství",
+        "location": "Tylovo nábřeží 315/4, 500 02 Hradec Králové, Hradec Králové",
+        "mapycom_url": "https://mapy.com/zakladni?q=Tylovo%20n%C3%A1b%C5%99e%C5%BE%C3%AD%20315/4%2C%20500%2002%20Hradec%20Kr%C3%A1lov%C3%A9%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "googlemaps_url": "https://www.google.com/maps?q=Tylovo%20n%C3%A1b%C5%99e%C5%BE%C3%AD%20315/4%2C%20500%2002%20Hradec%20Kr%C3%A1lov%C3%A9%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "availability": "Přijímám nové klienty"
     }
 ]
