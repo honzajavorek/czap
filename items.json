@@ -19647,7 +19647,7 @@
         "location": "Jungmannova 319/7, Liberec",
         "mapycom_url": "https://mapy.com/zakladni?q=Jungmannova%20319/7%2C%20Liberec",
         "googlemaps_url": "https://www.google.com/maps?q=Jungmannova%20319/7%2C%20Liberec",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 77604336,
@@ -23964,9 +23964,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/95352885/5485226",
         "name": "Vlachová, Ivana",
         "membership": "Řádné členství",
-        "location": "Centrum psychologie s.r.o., Dolní Násepní 130/18, Novosedlice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Centrum%20psychologie%20s.r.o.%2C%20Doln%C3%AD%20N%C3%A1sepn%C3%AD%20130/18%2C%20Novosedlice",
-        "googlemaps_url": "https://www.google.com/maps?q=Centrum%20psychologie%20s.r.o.%2C%20Doln%C3%AD%20N%C3%A1sepn%C3%AD%20130/18%2C%20Novosedlice",
+        "location": "Svatoplukova 1707/17, Teplice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Svatoplukova%201707/17%2C%20Teplice",
+        "googlemaps_url": "https://www.google.com/maps?q=Svatoplukova%201707/17%2C%20Teplice",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -24100,6 +24100,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 95494449,
+        "url": "https://czap.cz/Sys/PublicProfile/95494449/5485226",
+        "name": "Prostřední, Lukáš",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Pařížská 538/19, Ústí nad Labem",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pa%C5%99%C3%AD%C5%BEsk%C3%A1%20538/19%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
+        "googlemaps_url": "https://www.google.com/maps?q=Pa%C5%99%C3%AD%C5%BEsk%C3%A1%20538/19%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 95517742,
         "url": "https://czap.cz/Sys/PublicProfile/95517742/5485226",
         "name": "Nenadl, Roman",
@@ -24140,6 +24150,26 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 95604555,
+        "url": "https://czap.cz/Sys/PublicProfile/95604555/5485226",
+        "name": "Šorfová, Michaela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Karla Tomáše 1819/15, Revoluční 1202/20",
+        "mapycom_url": "https://mapy.com/zakladni?q=Karla%20Tom%C3%A1%C5%A1e%201819/15%2C%20Revolu%C4%8Dn%C3%AD%201202/20",
+        "googlemaps_url": "https://www.google.com/maps?q=Karla%20Tom%C3%A1%C5%A1e%201819/15%2C%20Revolu%C4%8Dn%C3%AD%201202/20",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95617180,
+        "url": "https://czap.cz/Sys/PublicProfile/95617180/5485226",
+        "name": "Ochotnická, Iveta",
+        "membership": "Řádné členství",
+        "location": "Petrohrad 1, Petrohrad",
+        "mapycom_url": "https://mapy.com/zakladni?q=Petrohrad%201%2C%20Petrohrad",
+        "googlemaps_url": "https://www.google.com/maps?q=Petrohrad%201%2C%20Petrohrad",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 95647823,
         "url": "https://czap.cz/Sys/PublicProfile/95647823/5485226",
         "name": "Krejčí, Daniel",
@@ -24148,5 +24178,15 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Tylovo%20n%C3%A1b%C5%99e%C5%BE%C3%AD%20315/4%2C%20500%2002%20Hradec%20Kr%C3%A1lov%C3%A9%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "googlemaps_url": "https://www.google.com/maps?q=Tylovo%20n%C3%A1b%C5%99e%C5%BE%C3%AD%20315/4%2C%20500%2002%20Hradec%20Kr%C3%A1lov%C3%A9%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95647878,
+        "url": "https://czap.cz/Sys/PublicProfile/95647878/5485226",
+        "name": "Willantová, Petra",
+        "membership": "Řádné členství",
+        "location": "Česká 26/41, České Budějovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C4%8Cesk%C3%A1%2026/41%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "googlemaps_url": "https://www.google.com/maps?q=%C4%8Cesk%C3%A1%2026/41%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "availability": "Info o dostupnosti na vyžádání"
     }
 ]
