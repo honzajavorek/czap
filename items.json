@@ -2200,6 +2200,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 58885122,
+        "url": "https://czap.cz/Sys/PublicProfile/58885122/5485226",
+        "name": "Slaninová, Simona",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Horni náměstí 8, Opava",
+        "mapycom_url": "https://mapy.com/zakladni?q=Horni%20n%C3%A1m%C4%9Bst%C3%AD%208%2C%20Opava",
+        "googlemaps_url": "https://www.google.com/maps?q=Horni%20n%C3%A1m%C4%9Bst%C3%AD%208%2C%20Opava",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 58885123,
         "url": "https://czap.cz/Sys/PublicProfile/58885123/5485226",
         "name": "Čech, Marie",
@@ -6928,6 +6938,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Rodina%20v%20centru%2C%20K%C5%99i%C5%BE%C3%ADkova%20980%2C%20Nov%C3%BD%20Bor%2C%20Nov%C3%BD%20Bor",
         "googlemaps_url": "https://www.google.com/maps?q=Rodina%20v%20centru%2C%20K%C5%99i%C5%BE%C3%ADkova%20980%2C%20Nov%C3%BD%20Bor%2C%20Nov%C3%BD%20Bor",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 61043462,
+        "url": "https://czap.cz/Sys/PublicProfile/61043462/5485226",
+        "name": "Vlčková, Kristýna",
+        "membership": "Řádné členství",
+        "location": "Čechyňská 23, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C4%8Cechy%C5%88sk%C3%A1%2023%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=%C4%8Cechy%C5%88sk%C3%A1%2023%2C%20Brno",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 61060181,
@@ -19264,9 +19284,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/77126580/5485226",
         "name": "Marcalíková, Aneta",
         "membership": "Řádné členství",
-        "location": "Pivovarská 4/10, Ostrava",
-        "mapycom_url": "https://mapy.com/zakladni?q=Pivovarsk%C3%A1%204/10%2C%20Ostrava",
-        "googlemaps_url": "https://www.google.com/maps?q=Pivovarsk%C3%A1%204/10%2C%20Ostrava",
+        "location": "Čs. armády 184, Bohumín",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C4%8Cs.%20arm%C3%A1dy%20184%2C%20Bohum%C3%ADn",
+        "googlemaps_url": "https://www.google.com/maps?q=%C4%8Cs.%20arm%C3%A1dy%20184%2C%20Bohum%C3%ADn",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -23964,9 +23984,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/95352885/5485226",
         "name": "Vlachová, Ivana",
         "membership": "Řádné členství",
-        "location": "Svatoplukova 1707/17, Teplice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Svatoplukova%201707/17%2C%20Teplice",
-        "googlemaps_url": "https://www.google.com/maps?q=Svatoplukova%201707/17%2C%20Teplice",
+        "location": "Dolní Násepní 130/18, Novosedlice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Doln%C3%AD%20N%C3%A1sepn%C3%AD%20130/18%2C%20Novosedlice",
+        "googlemaps_url": "https://www.google.com/maps?q=Doln%C3%AD%20N%C3%A1sepn%C3%AD%20130/18%2C%20Novosedlice",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -24008,6 +24028,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Zelince%201742%2C%20Lipn%C3%ADk%20nad%20Be%C4%8Dvou",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Zelince%201742%2C%20Lipn%C3%ADk%20nad%20Be%C4%8Dvou",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95397355,
+        "url": "https://czap.cz/Sys/PublicProfile/95397355/5485226",
+        "name": "Fišáková, Anna",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Petrská 12, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Petrsk%C3%A1%2012%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Petrsk%C3%A1%2012%2C%20Praha",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 95397735,
@@ -24058,6 +24088,16 @@
         "mapycom_url": null,
         "googlemaps_url": null,
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 95425106,
+        "url": "https://czap.cz/Sys/PublicProfile/95425106/5485226",
+        "name": "Ondřejková, Petra",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Ethos, Malostranské náměstí 14, Praha 1, 110 00, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ethos%2C%20Malostransk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2014%2C%20Praha%201%2C%20110%2000%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Ethos%2C%20Malostransk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2014%2C%20Praha%201%2C%20110%2000%2C%20Praha",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 95426651,
