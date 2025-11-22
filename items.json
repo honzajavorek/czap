@@ -557,7 +557,7 @@
         "location": "Thámova 133/24, Praha 8",
         "mapycom_url": "https://mapy.com/zakladni?q=Th%C3%A1mova%20133/24%2C%20Praha%208",
         "googlemaps_url": "https://www.google.com/maps?q=Th%C3%A1mova%20133/24%2C%20Praha%208",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 58884939,
@@ -10224,9 +10224,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63685379/5485226",
         "name": "Tuttas, Adéla",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Na Poříčí 12, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha%201",
+        "location": "Palác YMCA, Na Poříčí 12, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pal%C3%A1c%20YMCA%2C%20Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Pal%C3%A1c%20YMCA%2C%20Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -13798,6 +13798,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Olomouc",
         "googlemaps_url": "https://www.google.com/maps?q=Olomouc",
         "availability": "Nepřijímám nové klienty"
+    },
+    {
+        "id": 68585558,
+        "url": "https://czap.cz/Sys/PublicProfile/68585558/5485226",
+        "name": "Sikora, Ema",
+        "membership": "Řádné členství",
+        "location": "Jungmannova 31, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jungmannova%2031%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Jungmannova%2031%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 68589210,
@@ -21227,7 +21237,7 @@
         "location": "Hrdinů 122/11, Liberec 12",
         "mapycom_url": "https://mapy.com/zakladni?q=Hrdin%C5%AF%20122/11%2C%20Liberec%2012",
         "googlemaps_url": "https://www.google.com/maps?q=Hrdin%C5%AF%20122/11%2C%20Liberec%2012",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 79802996,
