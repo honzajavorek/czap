@@ -6497,7 +6497,7 @@
         "location": "Janovského 41, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Janovsk%C3%A9ho%2041%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Janovsk%C3%A9ho%2041%2C%20Praha",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 60502070,
@@ -8034,9 +8034,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/62344497/5485226",
         "name": "Boháčová Polášková, Kristýna",
         "membership": "Řádné členství",
-        "location": "Vyšehradská 43 (čtvrtek), Lublaňská 5/57 (úterý a středa), Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%20%28%C4%8Dtvrtek%29%2C%20Lubla%C5%88sk%C3%A1%205/57%20%28%C3%BAter%C3%BD%20a%20st%C5%99eda%29%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=Vy%C5%A1ehradsk%C3%A1%2043%20%28%C4%8Dtvrtek%29%2C%20Lubla%C5%88sk%C3%A1%205/57%20%28%C3%BAter%C3%BD%20a%20st%C5%99eda%29%2C%20Praha%202",
+        "location": "Vyšehradská 43, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha%202",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -8097,7 +8097,7 @@
         "location": "Uzavřená 1, Praha 8 - Kobylisy",
         "mapycom_url": "https://mapy.com/zakladni?q=Uzav%C5%99en%C3%A1%201%2C%20Praha%208%20-%20Kobylisy",
         "googlemaps_url": "https://www.google.com/maps?q=Uzav%C5%99en%C3%A1%201%2C%20Praha%208%20-%20Kobylisy",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 62373557,
@@ -12974,9 +12974,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68120323/5485226",
         "name": "Šauer, Ondřej",
         "membership": "Řádné členství",
-        "location": "Petřínská 2, Plzeň",
-        "mapycom_url": "https://mapy.com/zakladni?q=Pet%C5%99%C3%ADnsk%C3%A1%202%2C%20Plze%C5%88",
-        "googlemaps_url": "https://www.google.com/maps?q=Pet%C5%99%C3%ADnsk%C3%A1%202%2C%20Plze%C5%88",
+        "location": "Spojovací 12, Plzeň",
+        "mapycom_url": "https://mapy.com/zakladni?q=Spojovac%C3%AD%2012%2C%20Plze%C5%88",
+        "googlemaps_url": "https://www.google.com/maps?q=Spojovac%C3%AD%2012%2C%20Plze%C5%88",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -14934,9 +14934,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/70172956/5485226",
         "name": "Havlánová, Jitka",
         "membership": "Řádné členství",
-        "location": "Nádražní 20, Plzeň",
-        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1dra%C5%BEn%C3%AD%2020%2C%20Plze%C5%88",
-        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1dra%C5%BEn%C3%AD%2020%2C%20Plze%C5%88",
+        "location": "EUC klinika, Denisovo Nábřeží 1000/4, Plzeň",
+        "mapycom_url": "https://mapy.com/zakladni?q=EUC%20klinika%2C%20Denisovo%20N%C3%A1b%C5%99e%C5%BE%C3%AD%201000/4%2C%20Plze%C5%88",
+        "googlemaps_url": "https://www.google.com/maps?q=EUC%20klinika%2C%20Denisovo%20N%C3%A1b%C5%99e%C5%BE%C3%AD%201000/4%2C%20Plze%C5%88",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -15857,6 +15857,16 @@
         "location": "K Újezdu 278, Praha 4 - Šeberov",
         "mapycom_url": "https://mapy.com/zakladni?q=K%20%C3%9Ajezdu%20278%2C%20Praha%204%20-%20%C5%A0eberov",
         "googlemaps_url": "https://www.google.com/maps?q=K%20%C3%9Ajezdu%20278%2C%20Praha%204%20-%20%C5%A0eberov",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 71480368,
+        "url": "https://czap.cz/Sys/PublicProfile/71480368/5485226",
+        "name": "Kytka, Monika",
+        "membership": "Řádné členství",
+        "location": "Budečská 3, Vinohrady - Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Bude%C4%8Dsk%C3%A1%203%2C%20Vinohrady%20-%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Bude%C4%8Dsk%C3%A1%203%2C%20Vinohrady%20-%20Praha%202",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -21390,6 +21400,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 79969705,
+        "url": "https://czap.cz/Sys/PublicProfile/79969705/5485226",
+        "name": "Krajíčková, Markéta",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Poliklinika Vital, s.r.o., Lánecká 970, Světlá nad Sázavou",
+        "mapycom_url": "https://mapy.com/zakladni?q=Poliklinika%20Vital%2C%20s.r.o.%2C%20L%C3%A1neck%C3%A1%20970%2C%20Sv%C4%9Btl%C3%A1%20nad%20S%C3%A1zavou",
+        "googlemaps_url": "https://www.google.com/maps?q=Poliklinika%20Vital%2C%20s.r.o.%2C%20L%C3%A1neck%C3%A1%20970%2C%20Sv%C4%9Btl%C3%A1%20nad%20S%C3%A1zavou",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 79970763,
         "url": "https://czap.cz/Sys/PublicProfile/79970763/5485226",
         "name": "Faldyna, Zdeněk",
@@ -22734,9 +22754,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/87371884/5485226",
         "name": "Trubačová, Renáta",
         "membership": "Řádné členství",
-        "location": "Sladovnická 21, Louny",
-        "mapycom_url": "https://mapy.com/zakladni?q=Sladovnick%C3%A1%2021%2C%20Louny",
-        "googlemaps_url": "https://www.google.com/maps?q=Sladovnick%C3%A1%2021%2C%20Louny",
+        "location": "Mírové náměstí 126, Louny",
+        "mapycom_url": "https://mapy.com/zakladni?q=M%C3%ADrov%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20126%2C%20Louny",
+        "googlemaps_url": "https://www.google.com/maps?q=M%C3%ADrov%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20126%2C%20Louny",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -22758,6 +22778,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Ostrava%2C%20Na%20hradb%C3%A1ch%2018%2C%20Ostrava",
         "googlemaps_url": "https://www.google.com/maps?q=Ostrava%2C%20Na%20hradb%C3%A1ch%2018%2C%20Ostrava",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 87443314,
+        "url": "https://czap.cz/Sys/PublicProfile/87443314/5485226",
+        "name": "Herinková, Markéta",
+        "membership": "Řádné členství",
+        "location": "Poliklinika Modřany, Soukalova 3355, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Poliklinika%20Mod%C5%99any%2C%20Soukalova%203355%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Poliklinika%20Mod%C5%99any%2C%20Soukalova%203355%2C%20Praha",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 87459002,
@@ -24198,6 +24228,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Petrohrad%201%2C%20Petrohrad",
         "googlemaps_url": "https://www.google.com/maps?q=Petrohrad%201%2C%20Petrohrad",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95638952,
+        "url": "https://czap.cz/Sys/PublicProfile/95638952/5485226",
+        "name": "Veselá, Eliška",
+        "membership": "Řádné členství",
+        "location": "Národní obrany 31, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1rodn%C3%AD%20obrany%2031%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1rodn%C3%AD%20obrany%2031%2C%20Praha%206",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 95647823,
