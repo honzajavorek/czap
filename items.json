@@ -8120,16 +8120,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 62376973,
-        "url": "https://czap.cz/Sys/PublicProfile/62376973/5485226",
-        "name": "Čepeláková, Veronika",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Klášterská 78, Jindřichův Hradec",
-        "mapycom_url": "https://mapy.com/zakladni?q=Kl%C3%A1%C5%A1tersk%C3%A1%2078%2C%20Jind%C5%99ich%C5%AFv%20Hradec",
-        "googlemaps_url": "https://www.google.com/maps?q=Kl%C3%A1%C5%A1tersk%C3%A1%2078%2C%20Jind%C5%99ich%C5%AFv%20Hradec",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 62377019,
         "url": "https://czap.cz/Sys/PublicProfile/62377019/5485226",
         "name": "Wernerová, Barbora",
@@ -12850,16 +12840,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 68028093,
-        "url": "https://czap.cz/Sys/PublicProfile/68028093/5485226",
-        "name": "Fulop, Tomáš",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Rúbanisko III 2785/5, Lučenec, Slovenská republika",
-        "mapycom_url": "https://mapy.com/zakladni?q=R%C3%BAbanisko%20III%202785/5%2C%20Lu%C4%8Denec%2C%20Slovensk%C3%A1%20republika",
-        "googlemaps_url": "https://www.google.com/maps?q=R%C3%BAbanisko%20III%202785/5%2C%20Lu%C4%8Denec%2C%20Slovensk%C3%A1%20republika",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 68031784,
         "url": "https://czap.cz/Sys/PublicProfile/68031784/5485226",
         "name": "Patzelt, Daniel",
@@ -14188,6 +14168,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Asalto%20o.p.s%2C%20Bro%C5%BE%C3%ADkova%20451/5%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "googlemaps_url": "https://www.google.com/maps?q=Asalto%20o.p.s%2C%20Bro%C5%BE%C3%ADkova%20451/5%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "availability": "Nepřijímám nové klienty"
+    },
+    {
+        "id": 68951060,
+        "url": "https://czap.cz/Sys/PublicProfile/68951060/5485226",
+        "name": "Nešetřil, Ondřej",
+        "membership": "Řádné členství",
+        "location": "Vinohradská 95, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vinohradsk%C3%A1%2095%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Vinohradsk%C3%A1%2095%2C%20Praha%202",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 68960761,
@@ -22938,16 +22928,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1rodn%C3%AD%2011%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1rodn%C3%AD%2011%2C%20Praha%201",
         "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 88852800,
-        "url": "https://czap.cz/Sys/PublicProfile/88852800/5485226",
-        "name": "Novotná, Jana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Žitná 11, Jihlava",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDitn%C3%A1%2011%2C%20Jihlava",
-        "googlemaps_url": "https://www.google.com/maps?q=%C5%BDitn%C3%A1%2011%2C%20Jihlava",
-        "availability": "Přijímám nové klienty"
     },
     {
         "id": 88881924,
