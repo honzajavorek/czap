@@ -7582,7 +7582,7 @@
     {
         "id": 61979143,
         "url": "https://czap.cz/Sys/PublicProfile/61979143/5485226",
-        "name": "Vaňkova, Lenka",
+        "name": "Vaňková, Lenka",
         "membership": "Řádné členství",
         "location": "Jiráskovo náměstí 159/10, Ostrava",
         "mapycom_url": "https://mapy.com/zakladni?q=Jir%C3%A1skovo%20n%C3%A1m%C4%9Bst%C3%AD%20159/10%2C%20Ostrava",
@@ -7598,6 +7598,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=V%C3%A1clavsk%C3%A1%2020%2C%20Praha%202",
         "googlemaps_url": "https://www.google.com/maps?q=V%C3%A1clavsk%C3%A1%2020%2C%20Praha%202",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 62036597,
+        "url": "https://czap.cz/Sys/PublicProfile/62036597/5485226",
+        "name": "Rust, Lucie",
+        "membership": "Řádné členství",
+        "location": "Boženy Němcové 9, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Bo%C5%BEeny%20N%C4%9Bmcov%C3%A9%209%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Bo%C5%BEeny%20N%C4%9Bmcov%C3%A9%209%2C%20Praha%202",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 62078327,
@@ -9624,9 +9634,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63479030/5485226",
         "name": "Surovková, Katrin",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Sokolská třída 1615/50, Ostrava - Moravská Ostrava",
-        "mapycom_url": "https://mapy.com/zakladni?q=Sokolsk%C3%A1%20t%C5%99%C3%ADda%201615/50%2C%20Ostrava%20-%20Moravsk%C3%A1%20Ostrava",
-        "googlemaps_url": "https://www.google.com/maps?q=Sokolsk%C3%A1%20t%C5%99%C3%ADda%201615/50%2C%20Ostrava%20-%20Moravsk%C3%A1%20Ostrava",
+        "location": "Starobělská 1133/5, Ostrava - jih - Zábřeh",
+        "mapycom_url": "https://mapy.com/zakladni?q=Starob%C4%9Blsk%C3%A1%201133/5%2C%20Ostrava%20-%20jih%20-%20Z%C3%A1b%C5%99eh",
+        "googlemaps_url": "https://www.google.com/maps?q=Starob%C4%9Blsk%C3%A1%201133/5%2C%20Ostrava%20-%20jih%20-%20Z%C3%A1b%C5%99eh",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -10327,16 +10337,6 @@
         "location": "Jaselská 32, Praha 6",
         "mapycom_url": "https://mapy.com/zakladni?q=Jaselsk%C3%A1%2032%2C%20Praha%206",
         "googlemaps_url": "https://www.google.com/maps?q=Jaselsk%C3%A1%2032%2C%20Praha%206",
-        "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 63843964,
-        "url": "https://czap.cz/Sys/PublicProfile/63843964/5485226",
-        "name": "Baloun, Ingrid",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Wilsonova 222/25, Soběslav",
-        "mapycom_url": "https://mapy.com/zakladni?q=Wilsonova%20222/25%2C%20Sob%C4%9Bslav",
-        "googlemaps_url": "https://www.google.com/maps?q=Wilsonova%20222/25%2C%20Sob%C4%9Bslav",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -12840,6 +12840,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 68028093,
+        "url": "https://czap.cz/Sys/PublicProfile/68028093/5485226",
+        "name": "Fulop, Tomáš",
+        "membership": "Řádné členství",
+        "location": "Rúbanisko III 2785/5, Lučenec, Slovenská republika",
+        "mapycom_url": "https://mapy.com/zakladni?q=R%C3%BAbanisko%20III%202785/5%2C%20Lu%C4%8Denec%2C%20Slovensk%C3%A1%20republika",
+        "googlemaps_url": "https://www.google.com/maps?q=R%C3%BAbanisko%20III%202785/5%2C%20Lu%C4%8Denec%2C%20Slovensk%C3%A1%20republika",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 68031784,
         "url": "https://czap.cz/Sys/PublicProfile/68031784/5485226",
         "name": "Patzelt, Daniel",
@@ -13958,6 +13968,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1dra%C5%BEn%C3%AD%20238/7%2C%20Vy%C5%A1kov",
         "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1dra%C5%BEn%C3%AD%20238/7%2C%20Vy%C5%A1kov",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 68730265,
+        "url": "https://czap.cz/Sys/PublicProfile/68730265/5485226",
+        "name": "Poustková, Dana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Balbínova 547/9, Ústí nad Labem",
+        "mapycom_url": "https://mapy.com/zakladni?q=Balb%C3%ADnova%20547/9%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
+        "googlemaps_url": "https://www.google.com/maps?q=Balb%C3%ADnova%20547/9%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 68738239,
@@ -22930,6 +22950,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 88852800,
+        "url": "https://czap.cz/Sys/PublicProfile/88852800/5485226",
+        "name": "Novotná, Jana",
+        "membership": "Řádné členství",
+        "location": "Žitná 11, Jihlava",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDitn%C3%A1%2011%2C%20Jihlava",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%BDitn%C3%A1%2011%2C%20Jihlava",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 88881924,
         "url": "https://czap.cz/Sys/PublicProfile/88881924/5485226",
         "name": "Jindrová, Hana",
@@ -23227,7 +23257,7 @@
         "location": "Na Truhlářce 24, Praha 8",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Truhl%C3%A1%C5%99ce%2024%2C%20Praha%208",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Truhl%C3%A1%C5%99ce%2024%2C%20Praha%208",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 92369435,
@@ -24237,6 +24267,26 @@
         "location": "Česká 26/41, České Budějovice",
         "mapycom_url": "https://mapy.com/zakladni?q=%C4%8Cesk%C3%A1%2026/41%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
         "googlemaps_url": "https://www.google.com/maps?q=%C4%8Cesk%C3%A1%2026/41%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 95708939,
+        "url": "https://czap.cz/Sys/PublicProfile/95708939/5485226",
+        "name": "Semeráková, Eva",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Jeseniova 1164/47, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jeseniova%201164/47%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Jeseniova%201164/47%2C%20Praha%203",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95747000,
+        "url": "https://czap.cz/Sys/PublicProfile/95747000/5485226",
+        "name": "Brázdilová, Olga",
+        "membership": "Řádné členství",
+        "location": "Drobného 1580, Nové Město na Moravě",
+        "mapycom_url": "https://mapy.com/zakladni?q=Drobn%C3%A9ho%201580%2C%20Nov%C3%A9%20M%C4%9Bsto%20na%20Morav%C4%9B",
+        "googlemaps_url": "https://www.google.com/maps?q=Drobn%C3%A9ho%201580%2C%20Nov%C3%A9%20M%C4%9Bsto%20na%20Morav%C4%9B",
         "availability": "Info o dostupnosti na vyžádání"
     }
 ]
