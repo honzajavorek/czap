@@ -7870,6 +7870,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 62254776,
+        "url": "https://czap.cz/Sys/PublicProfile/62254776/5485226",
+        "name": "Fayadová, Adéla",
+        "membership": "Řádné členství",
+        "location": "Vinohradská 2516/28, 120 00 Praha 2, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vinohradsk%C3%A1%202516/28%2C%20120%2000%20Praha%202%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Vinohradsk%C3%A1%202516/28%2C%20120%2000%20Praha%202%2C%20Praha%202",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 62288116,
         "url": "https://czap.cz/Sys/PublicProfile/62288116/5485226",
         "name": "Soukup, Jan",
@@ -10367,6 +10377,16 @@
         "location": "Jaselská 32, Praha 6",
         "mapycom_url": "https://mapy.com/zakladni?q=Jaselsk%C3%A1%2032%2C%20Praha%206",
         "googlemaps_url": "https://www.google.com/maps?q=Jaselsk%C3%A1%2032%2C%20Praha%206",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 63843964,
+        "url": "https://czap.cz/Sys/PublicProfile/63843964/5485226",
+        "name": "Baloun, Ingrid",
+        "membership": "Řádné členství",
+        "location": "Wilsonova 222/25, Soběslav",
+        "mapycom_url": "https://mapy.com/zakladni?q=Wilsonova%20222/25%2C%20Sob%C4%9Bslav",
+        "googlemaps_url": "https://www.google.com/maps?q=Wilsonova%20222/25%2C%20Sob%C4%9Bslav",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -24344,9 +24364,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/95656138/5485226",
         "name": "Klátilová, Helena",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Psychologická ambulance Rychnov nad Kněžnou, Jiráskova 506, Rychnov nad Kněžnou",
-        "mapycom_url": "https://mapy.com/zakladni?q=Psychologick%C3%A1%20ambulance%20Rychnov%20nad%20Kn%C4%9B%C5%BEnou%2C%20Jir%C3%A1skova%20506%2C%20Rychnov%20nad%20Kn%C4%9B%C5%BEnou",
-        "googlemaps_url": "https://www.google.com/maps?q=Psychologick%C3%A1%20ambulance%20Rychnov%20nad%20Kn%C4%9B%C5%BEnou%2C%20Jir%C3%A1skova%20506%2C%20Rychnov%20nad%20Kn%C4%9B%C5%BEnou",
+        "location": "Psychologická ambulance Rychnov nad Kněžnou, Jiráskova 506, Rychnov nad Kněžnou, Kostelec nad Orlicí",
+        "mapycom_url": "https://mapy.com/zakladni?q=Psychologick%C3%A1%20ambulance%20Rychnov%20nad%20Kn%C4%9B%C5%BEnou%2C%20Jir%C3%A1skova%20506%2C%20Rychnov%20nad%20Kn%C4%9B%C5%BEnou%2C%20Kostelec%20nad%20Orlic%C3%AD",
+        "googlemaps_url": "https://www.google.com/maps?q=Psychologick%C3%A1%20ambulance%20Rychnov%20nad%20Kn%C4%9B%C5%BEnou%2C%20Jir%C3%A1skova%20506%2C%20Rychnov%20nad%20Kn%C4%9B%C5%BEnou%2C%20Kostelec%20nad%20Orlic%C3%AD",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -24398,6 +24418,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Vlastislavova%20152/4%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Vlastislavova%20152/4%2C%20Praha",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95746884,
+        "url": "https://czap.cz/Sys/PublicProfile/95746884/5485226",
+        "name": "Eret, Jan",
+        "membership": "Řádné členství",
+        "location": "Klatovská třída 1204/125, Plzeň",
+        "mapycom_url": "https://mapy.com/zakladni?q=Klatovsk%C3%A1%20t%C5%99%C3%ADda%201204/125%2C%20Plze%C5%88",
+        "googlemaps_url": "https://www.google.com/maps?q=Klatovsk%C3%A1%20t%C5%99%C3%ADda%201204/125%2C%20Plze%C5%88",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 95747000,
