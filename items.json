@@ -10600,16 +10600,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 64141416,
-        "url": "https://czap.cz/Sys/PublicProfile/64141416/5485226",
-        "name": "Košeleva, Světlana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "V Pátém 293, Praha 9 Klánovice",
-        "mapycom_url": "https://mapy.com/zakladni?q=V%20P%C3%A1t%C3%A9m%20293%2C%20Praha%209%20Kl%C3%A1novice",
-        "googlemaps_url": "https://www.google.com/maps?q=V%20P%C3%A1t%C3%A9m%20293%2C%20Praha%209%20Kl%C3%A1novice",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 64158948,
         "url": "https://czap.cz/Sys/PublicProfile/64158948/5485226",
         "name": "Mikošková, Iveta",
@@ -11817,16 +11807,6 @@
         "location": "Vodní 121, Uherské Hradiště",
         "mapycom_url": "https://mapy.com/zakladni?q=Vodn%C3%AD%20121%2C%20Uhersk%C3%A9%20Hradi%C5%A1t%C4%9B",
         "googlemaps_url": "https://www.google.com/maps?q=Vodn%C3%AD%20121%2C%20Uhersk%C3%A9%20Hradi%C5%A1t%C4%9B",
-        "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 67183265,
-        "url": "https://czap.cz/Sys/PublicProfile/67183265/5485226",
-        "name": "Dvořáková, Klára",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Senovážné náměstí 23, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -17090,16 +17070,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 73706438,
-        "url": "https://czap.cz/Sys/PublicProfile/73706438/5485226",
-        "name": "Faifrová, Radka",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Palackého 12, Plzeň",
-        "mapycom_url": "https://mapy.com/zakladni?q=Palack%C3%A9ho%2012%2C%20Plze%C5%88",
-        "googlemaps_url": "https://www.google.com/maps?q=Palack%C3%A9ho%2012%2C%20Plze%C5%88",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 73720110,
         "url": "https://czap.cz/Sys/PublicProfile/73720110/5485226",
         "name": "Falta, René",
@@ -21380,16 +21350,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 79909202,
-        "url": "https://czap.cz/Sys/PublicProfile/79909202/5485226",
-        "name": "Timková, Tereza",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Příkop 27/2a, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 79912903,
         "url": "https://czap.cz/Sys/PublicProfile/79912903/5485226",
         "name": "Mačák, Dušan",
@@ -22894,9 +22854,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/88077590/5485226",
         "name": "Chaloupecká, Katarina",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Revoluční 1082/8, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=Revolu%C4%8Dn%C3%AD%201082/8%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=Revolu%C4%8Dn%C3%AD%201082/8%2C%20Praha%201",
+        "location": "Vyšehradská 6, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vy%C5%A1ehradsk%C3%A1%206%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Vy%C5%A1ehradsk%C3%A1%206%2C%20Praha%202",
         "availability": "Přijímám nové klienty"
     },
     {
