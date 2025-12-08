@@ -7330,16 +7330,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 61772711,
-        "url": "https://czap.cz/Sys/PublicProfile/61772711/5485226",
-        "name": "Horák, Matěj",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "ČSA 287, Hradec Králové",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C4%8CSA%20287%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
-        "googlemaps_url": "https://www.google.com/maps?q=%C4%8CSA%20287%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 61784444,
         "url": "https://czap.cz/Sys/PublicProfile/61784444/5485226",
         "name": "Krejčí, Matěj",
@@ -15270,16 +15260,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 70591133,
-        "url": "https://czap.cz/Sys/PublicProfile/70591133/5485226",
-        "name": "Marečková Kloudová, Zuzana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Jiráskova 32, Jihlava",
-        "mapycom_url": "https://mapy.com/zakladni?q=Jir%C3%A1skova%2032%2C%20Jihlava",
-        "googlemaps_url": "https://www.google.com/maps?q=Jir%C3%A1skova%2032%2C%20Jihlava",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 70595489,
         "url": "https://czap.cz/Sys/PublicProfile/70595489/5485226",
         "name": "Rudinská, Lucie",
@@ -15347,6 +15327,16 @@
         "location": "Táborská 325/57, Praha 4",
         "mapycom_url": "https://mapy.com/zakladni?q=T%C3%A1borsk%C3%A1%20325/57%2C%20Praha%204",
         "googlemaps_url": "https://www.google.com/maps?q=T%C3%A1borsk%C3%A1%20325/57%2C%20Praha%204",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 70648146,
+        "url": "https://czap.cz/Sys/PublicProfile/70648146/5485226",
+        "name": "Mižigar, Josef",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Jana Masaryka 48, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jana%20Masaryka%2048%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Jana%20Masaryka%2048%2C%20Praha",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -16720,16 +16710,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 72781170,
-        "url": "https://czap.cz/Sys/PublicProfile/72781170/5485226",
-        "name": "Ludvíková, Klára",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Sokolská 35,, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=Sokolsk%C3%A1%2035%2C%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=Sokolsk%C3%A1%2035%2C%2C%20Praha%202",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 72812339,
         "url": "https://czap.cz/Sys/PublicProfile/72812339/5485226",
         "name": "Šimková, Magdaléna",
@@ -17277,16 +17257,6 @@
         "location": "Bořivojova 17, Praha 3 Vinohrady",
         "mapycom_url": "https://mapy.com/zakladni?q=Bo%C5%99ivojova%2017%2C%20Praha%203%20Vinohrady",
         "googlemaps_url": "https://www.google.com/maps?q=Bo%C5%99ivojova%2017%2C%20Praha%203%20Vinohrady",
-        "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 74240031,
-        "url": "https://czap.cz/Sys/PublicProfile/74240031/5485226",
-        "name": "Hořejšová, Petra",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Česká 193/24, České Budějovice",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C4%8Cesk%C3%A1%20193/24%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
-        "googlemaps_url": "https://www.google.com/maps?q=%C4%8Cesk%C3%A1%20193/24%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
         "availability": "Přijímám nové klienty"
     },
     {
