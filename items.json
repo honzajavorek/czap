@@ -3264,9 +3264,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885241/5485226",
         "name": "Mazurovová, Olga",
         "membership": "Řádné členství",
-        "location": "Bieblova 19, Praha 5",
-        "mapycom_url": "https://mapy.com/zakladni?q=Bieblova%2019%2C%20Praha%205",
-        "googlemaps_url": "https://www.google.com/maps?q=Bieblova%2019%2C%20Praha%205",
+        "location": "Revoluční 13, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Revolu%C4%8Dn%C3%AD%2013%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Revolu%C4%8Dn%C3%AD%2013%2C%20Praha%201",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -19190,16 +19190,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 77117736,
-        "url": "https://czap.cz/Sys/PublicProfile/77117736/5485226",
-        "name": "Kašparová, Veronika",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Šlikova 20, Praha 6",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0likova%2020%2C%20Praha%206",
-        "googlemaps_url": "https://www.google.com/maps?q=%C5%A0likova%2020%2C%20Praha%206",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 77121255,
         "url": "https://czap.cz/Sys/PublicProfile/77121255/5485226",
         "name": "Karliková, Lucia",
@@ -19457,16 +19447,6 @@
         "location": "Eliášova 293/10, Praha 6 - Dejvice",
         "mapycom_url": "https://mapy.com/zakladni?q=Eli%C3%A1%C5%A1ova%20293/10%2C%20Praha%206%20-%20Dejvice",
         "googlemaps_url": "https://www.google.com/maps?q=Eli%C3%A1%C5%A1ova%20293/10%2C%20Praha%206%20-%20Dejvice",
-        "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 77421258,
-        "url": "https://czap.cz/Sys/PublicProfile/77421258/5485226",
-        "name": "Procházková, Valérie",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Tomkova 2099, Tábor",
-        "mapycom_url": "https://mapy.com/zakladni?q=Tomkova%202099%2C%20T%C3%A1bor",
-        "googlemaps_url": "https://www.google.com/maps?q=Tomkova%202099%2C%20T%C3%A1bor",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -23000,16 +22980,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 90325225,
-        "url": "https://czap.cz/Sys/PublicProfile/90325225/5485226",
-        "name": "Cvrkalová, Eliška",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": null,
-        "mapycom_url": null,
-        "googlemaps_url": null,
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 90339245,
         "url": "https://czap.cz/Sys/PublicProfile/90339245/5485226",
         "name": "Čermáková, Alena",
@@ -24094,9 +24064,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/95587242/5485226",
         "name": "Karták, Romana",
         "membership": "Řádné členství",
-        "location": "Vlkonice 97, Vimperk",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vlkonice%2097%2C%20Vimperk",
-        "googlemaps_url": "https://www.google.com/maps?q=Vlkonice%2097%2C%20Vimperk",
+        "location": "Vlkonice 97, Vacov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vlkonice%2097%2C%20Vacov",
+        "googlemaps_url": "https://www.google.com/maps?q=Vlkonice%2097%2C%20Vacov",
         "availability": "Přijímám nové klienty"
     },
     {
