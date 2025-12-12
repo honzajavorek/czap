@@ -47,7 +47,7 @@ jobs:
 
       - name: Restore cache
         id: diskcache-restore
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v5
         with:
           path: |
             .cache
@@ -59,7 +59,7 @@ jobs:
 
       - name: Save cache
         id: diskcache-save
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v5
         with:
           path: |
             .cache
