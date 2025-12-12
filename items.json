@@ -627,7 +627,7 @@
         "location": "Radlická 99, Praha 5",
         "mapycom_url": "https://mapy.com/zakladni?q=Radlick%C3%A1%2099%2C%20Praha%205",
         "googlemaps_url": "https://www.google.com/maps?q=Radlick%C3%A1%2099%2C%20Praha%205",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58884947,
@@ -10560,6 +10560,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 64141416,
+        "url": "https://czap.cz/Sys/PublicProfile/64141416/5485226",
+        "name": "Košeleva, Světlana",
+        "membership": "Řádné členství",
+        "location": "V Pátém 293, Praha 9 Klánovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=V%20P%C3%A1t%C3%A9m%20293%2C%20Praha%209%20Kl%C3%A1novice",
+        "googlemaps_url": "https://www.google.com/maps?q=V%20P%C3%A1t%C3%A9m%20293%2C%20Praha%209%20Kl%C3%A1novice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 64158948,
         "url": "https://czap.cz/Sys/PublicProfile/64158948/5485226",
         "name": "Mikošková, Iveta",
@@ -13400,16 +13410,6 @@
         "availability": "Nepřijímám nové klienty"
     },
     {
-        "id": 68425128,
-        "url": "https://czap.cz/Sys/PublicProfile/68425128/5485226",
-        "name": "Mlázovská, Barbora",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Vinohradská 2516/28, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vinohradsk%C3%A1%202516/28%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=Vinohradsk%C3%A1%202516/28%2C%20Praha%202",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 68434368,
         "url": "https://czap.cz/Sys/PublicProfile/68434368/5485226",
         "name": "Zápecová, Michaela",
@@ -15734,9 +15734,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/71324820/5485226",
         "name": "Hodycová, Tereza",
         "membership": "Řádné členství",
-        "location": "Turnovského 497/2, Praha 10",
-        "mapycom_url": "https://mapy.com/zakladni?q=Turnovsk%C3%A9ho%20497/2%2C%20Praha%2010",
-        "googlemaps_url": "https://www.google.com/maps?q=Turnovsk%C3%A9ho%20497/2%2C%20Praha%2010",
+        "location": "Tolstého 10, Praha 10",
+        "mapycom_url": "https://mapy.com/zakladni?q=Tolst%C3%A9ho%2010%2C%20Praha%2010",
+        "googlemaps_url": "https://www.google.com/maps?q=Tolst%C3%A9ho%2010%2C%20Praha%2010",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -16508,16 +16508,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%AD%C4%8Dn%C3%A1%2040%2C%20Muka%C5%99ov",
         "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%AD%C4%8Dn%C3%A1%2040%2C%20Muka%C5%99ov",
         "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 72519152,
-        "url": "https://czap.cz/Sys/PublicProfile/72519152/5485226",
-        "name": "Pojmanová, Tereza",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Hoděšovická 592, Praha - Vinoř",
-        "mapycom_url": "https://mapy.com/zakladni?q=Hod%C4%9B%C5%A1ovick%C3%A1%20592%2C%20Praha%20-%20Vino%C5%99",
-        "googlemaps_url": "https://www.google.com/maps?q=Hod%C4%9B%C5%A1ovick%C3%A1%20592%2C%20Praha%20-%20Vino%C5%99",
-        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 72519158,
@@ -17758,16 +17748,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Pelh%C5%99imov",
         "googlemaps_url": "https://www.google.com/maps?q=Pelh%C5%99imov",
         "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 75192221,
-        "url": "https://czap.cz/Sys/PublicProfile/75192221/5485226",
-        "name": "Adamírová, Blanka",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Železná  830/12a, Liberec",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDelezn%C3%A1%20%20830/12a%2C%20Liberec",
-        "googlemaps_url": "https://www.google.com/maps?q=%C5%BDelezn%C3%A1%20%20830/12a%2C%20Liberec",
-        "availability": "Přijímám nové klienty"
     },
     {
         "id": 75203440,
