@@ -9500,16 +9500,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 63415715,
-        "url": "https://czap.cz/Sys/PublicProfile/63415715/5485226",
-        "name": "Beck Matuštík, Martin",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Bruselská 266/14, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=Bruselsk%C3%A1%20266/14%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=Bruselsk%C3%A1%20266/14%2C%20Praha%202",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 63418510,
         "url": "https://czap.cz/Sys/PublicProfile/63418510/5485226",
         "name": "Braborcová, Lucie",
@@ -11200,16 +11190,6 @@
         "availability": "Nepřijímám nové klienty"
     },
     {
-        "id": 65275076,
-        "url": "https://czap.cz/Sys/PublicProfile/65275076/5485226",
-        "name": "Havelková, Alžběta",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Zlatnická 7, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=Zlatnick%C3%A1%207%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=Zlatnick%C3%A1%207%2C%20Praha%201",
-        "availability": "Nepřijímám nové klienty"
-    },
-    {
         "id": 65286677,
         "url": "https://czap.cz/Sys/PublicProfile/65286677/5485226",
         "name": "Fialová, Petra",
@@ -11677,6 +11657,16 @@
         "location": "Vysoké učení Technické, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Vysok%C3%A9%20u%C4%8Den%C3%AD%20Technick%C3%A9%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Vysok%C3%A9%20u%C4%8Den%C3%AD%20Technick%C3%A9%2C%20Brno",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 67022095,
+        "url": "https://czap.cz/Sys/PublicProfile/67022095/5485226",
+        "name": "Louženský, Jaromír",
+        "membership": "Řádné členství",
+        "location": "Londýnská 182/67, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Lond%C3%BDnsk%C3%A1%20182/67%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Lond%C3%BDnsk%C3%A1%20182/67%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -14580,16 +14570,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 69651001,
-        "url": "https://czap.cz/Sys/PublicProfile/69651001/5485226",
-        "name": "Pacanová, Eva",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Revoluční 8, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Revolu%C4%8Dn%C3%AD%208%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Revolu%C4%8Dn%C3%AD%208%2C%20Praha",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 69662302,
         "url": "https://czap.cz/Sys/PublicProfile/69662302/5485226",
         "name": "Jonáková, Jana",
@@ -15698,6 +15678,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=S%C3%A1mova%20714%2C%20Ostrava",
         "googlemaps_url": "https://www.google.com/maps?q=S%C3%A1mova%20714%2C%20Ostrava",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 71241129,
+        "url": "https://czap.cz/Sys/PublicProfile/71241129/5485226",
+        "name": "Fedošová, Jana",
+        "membership": "Řádné členství",
+        "location": "Kodaňská 25, Praha 10",
+        "mapycom_url": "https://mapy.com/zakladni?q=Koda%C5%88sk%C3%A1%2025%2C%20Praha%2010",
+        "googlemaps_url": "https://www.google.com/maps?q=Koda%C5%88sk%C3%A1%2025%2C%20Praha%2010",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 71259428,
@@ -17230,6 +17220,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 74240031,
+        "url": "https://czap.cz/Sys/PublicProfile/74240031/5485226",
+        "name": "Hořejšová, Petra",
+        "membership": "Řádné členství",
+        "location": "Česká 193/24, České Budějovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C4%8Cesk%C3%A1%20193/24%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "googlemaps_url": "https://www.google.com/maps?q=%C4%8Cesk%C3%A1%20193/24%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 74279345,
         "url": "https://czap.cz/Sys/PublicProfile/74279345/5485226",
         "name": "Bušina, Martin",
@@ -18397,16 +18397,6 @@
         "location": "Žitná 51, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDitn%C3%A1%2051%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%BDitn%C3%A1%2051%2C%20Praha%201",
-        "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 76243700,
-        "url": "https://czap.cz/Sys/PublicProfile/76243700/5485226",
-        "name": "Pechová, Dagmar",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Radlická 2487/99, Praha 5, Smíchov",
-        "mapycom_url": "https://mapy.com/zakladni?q=Radlick%C3%A1%202487/99%2C%20Praha%205%2C%20Sm%C3%ADchov",
-        "googlemaps_url": "https://www.google.com/maps?q=Radlick%C3%A1%202487/99%2C%20Praha%205%2C%20Sm%C3%ADchov",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -24288,5 +24278,15 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Radlick%C3%A1%2048%2C%20Praha%205",
         "googlemaps_url": "https://www.google.com/maps?q=Radlick%C3%A1%2048%2C%20Praha%205",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 95815233,
+        "url": "https://czap.cz/Sys/PublicProfile/95815233/5485226",
+        "name": "Součková, Zuzana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "J.Vrchlického 1071, Čáslav",
+        "mapycom_url": "https://mapy.com/zakladni?q=J.Vrchlick%C3%A9ho%201071%2C%20%C4%8C%C3%A1slav",
+        "googlemaps_url": "https://www.google.com/maps?q=J.Vrchlick%C3%A9ho%201071%2C%20%C4%8C%C3%A1slav",
+        "availability": "Přijímám nové klienty"
     }
 ]
