@@ -2652,7 +2652,7 @@
     {
         "id": 58885172,
         "url": "https://czap.cz/Sys/PublicProfile/58885172/5485226",
-        "name": "Cernikova, Kristyna Anna",
+        "name": "Černíková, Kristýna Anna",
         "membership": "Řádné členství",
         "location": "Olomouc",
         "mapycom_url": "https://mapy.com/zakladni?q=Olomouc",
@@ -9390,6 +9390,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 63415715,
+        "url": "https://czap.cz/Sys/PublicProfile/63415715/5485226",
+        "name": "Beck Matuštík, Martin",
+        "membership": "Řádné členství",
+        "location": "Bruselská 266/14, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Bruselsk%C3%A1%20266/14%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Bruselsk%C3%A1%20266/14%2C%20Praha%202",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 63418510,
         "url": "https://czap.cz/Sys/PublicProfile/63418510/5485226",
         "name": "Braborcová, Lucie",
@@ -9577,6 +9587,16 @@
         "location": "Hranická 272, Valašské Meziříčí",
         "mapycom_url": "https://mapy.com/zakladni?q=Hranick%C3%A1%20272%2C%20Vala%C5%A1sk%C3%A9%20Mezi%C5%99%C3%AD%C4%8D%C3%AD",
         "googlemaps_url": "https://www.google.com/maps?q=Hranick%C3%A1%20272%2C%20Vala%C5%A1sk%C3%A9%20Mezi%C5%99%C3%AD%C4%8D%C3%AD",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 63542247,
+        "url": "https://czap.cz/Sys/PublicProfile/63542247/5485226",
+        "name": "Jehličková, Lenka",
+        "membership": "Řádné členství",
+        "location": "Husova 21/13, Liberec",
+        "mapycom_url": "https://mapy.com/zakladni?q=Husova%2021/13%2C%20Liberec",
+        "googlemaps_url": "https://www.google.com/maps?q=Husova%2021/13%2C%20Liberec",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -12400,6 +12420,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 67879637,
+        "url": "https://czap.cz/Sys/PublicProfile/67879637/5485226",
+        "name": "Včeláková, Andrea",
+        "membership": "Řádné členství",
+        "location": "Umělecká 5, Praha 7",
+        "mapycom_url": "https://mapy.com/zakladni?q=Um%C4%9Bleck%C3%A1%205%2C%20Praha%207",
+        "googlemaps_url": "https://www.google.com/maps?q=Um%C4%9Bleck%C3%A1%205%2C%20Praha%207",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 67882324,
         "url": "https://czap.cz/Sys/PublicProfile/67882324/5485226",
         "name": "Kubíčková, Lucie",
@@ -13238,6 +13268,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Hermel%C3%ADnsk%C3%A1%206%2C%20Praha%206%20-%20Dejvice",
         "googlemaps_url": "https://www.google.com/maps?q=Hermel%C3%ADnsk%C3%A1%206%2C%20Praha%206%20-%20Dejvice",
         "availability": "Nepřijímám nové klienty"
+    },
+    {
+        "id": 68425128,
+        "url": "https://czap.cz/Sys/PublicProfile/68425128/5485226",
+        "name": "Mlázovská, Barbora",
+        "membership": "Řádné členství",
+        "location": "Vinohradská 2516/28, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vinohradsk%C3%A1%202516/28%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Vinohradsk%C3%A1%202516/28%2C%20Praha%202",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 68434368,
@@ -15724,10 +15764,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/71622661/5485226",
         "name": "Ženata, Marek",
         "membership": "Řádné členství",
-        "location": "Divadelní 6, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Divadeln%C3%AD%206%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Divadeln%C3%AD%206%2C%20Brno",
-        "availability": "Nepřijímám nové klienty"
+        "location": "Příkop 27/2a, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 71657405,
@@ -18187,6 +18227,16 @@
         "location": "Žitná 51, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDitn%C3%A1%2051%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%BDitn%C3%A1%2051%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 76243700,
+        "url": "https://czap.cz/Sys/PublicProfile/76243700/5485226",
+        "name": "Pechová, Dagmar",
+        "membership": "Řádné členství",
+        "location": "Radlická 2487/99, Praha 5, Smíchov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Radlick%C3%A1%202487/99%2C%20Praha%205%2C%20Sm%C3%ADchov",
+        "googlemaps_url": "https://www.google.com/maps?q=Radlick%C3%A1%202487/99%2C%20Praha%205%2C%20Sm%C3%ADchov",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -22690,16 +22740,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 89825888,
-        "url": "https://czap.cz/Sys/PublicProfile/89825888/5485226",
-        "name": "Smutková, Lucie",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Svatojánská 673, Hradec Králové, Hradec Králové",
-        "mapycom_url": "https://mapy.com/zakladni?q=Svatoj%C3%A1nsk%C3%A1%20673%2C%20Hradec%20Kr%C3%A1lov%C3%A9%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
-        "googlemaps_url": "https://www.google.com/maps?q=Svatoj%C3%A1nsk%C3%A1%20673%2C%20Hradec%20Kr%C3%A1lov%C3%A9%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 89848829,
         "url": "https://czap.cz/Sys/PublicProfile/89848829/5485226",
         "name": "Třešňáková, Petra",
@@ -22768,6 +22808,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=V%20J%C3%A1m%C4%9B%201%2C%20Praha%201%2C%20110%2000%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=V%20J%C3%A1m%C4%9B%201%2C%20Praha%201%2C%20110%2000%2C%20Praha%201",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 90325225,
+        "url": "https://czap.cz/Sys/PublicProfile/90325225/5485226",
+        "name": "Cvrkalová, Eliška",
+        "membership": "Řádné členství",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 90339245,
