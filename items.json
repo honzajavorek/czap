@@ -5947,7 +5947,7 @@
         "location": "Pod Stupni 10/7, Praha 10",
         "mapycom_url": "https://mapy.com/zakladni?q=Pod%20Stupni%2010/7%2C%20Praha%2010",
         "googlemaps_url": "https://www.google.com/maps?q=Pod%20Stupni%2010/7%2C%20Praha%2010",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 59508558,
@@ -24417,6 +24417,16 @@
         "location": "Petrská 12, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=Petrsk%C3%A1%2012%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Petrsk%C3%A1%2012%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95875636,
+        "url": "https://czap.cz/Sys/PublicProfile/95875636/5485226",
+        "name": "Dvořáková, Aneta",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Veverkova 1343/1, Hradec Králové",
+        "mapycom_url": "https://mapy.com/zakladni?q=Veverkova%201343/1%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "googlemaps_url": "https://www.google.com/maps?q=Veverkova%201343/1%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "availability": "Přijímám nové klienty"
     },
     {
