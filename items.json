@@ -7474,10 +7474,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/61929283/5485226",
         "name": "Tešnarová, Lenka",
         "membership": "Řádné členství",
-        "location": "Na Výšinách 451/9, Liberec 5",
-        "mapycom_url": "https://mapy.com/zakladni?q=Na%20V%C3%BD%C5%A1in%C3%A1ch%20451/9%2C%20Liberec%205",
-        "googlemaps_url": "https://www.google.com/maps?q=Na%20V%C3%BD%C5%A1in%C3%A1ch%20451/9%2C%20Liberec%205",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Gorkého 658/15, Liberec I. - Staré Město",
+        "mapycom_url": "https://mapy.com/zakladni?q=Gork%C3%A9ho%20658/15%2C%20Liberec%20I.%20-%20Star%C3%A9%20M%C4%9Bsto",
+        "googlemaps_url": "https://www.google.com/maps?q=Gork%C3%A9ho%20658/15%2C%20Liberec%20I.%20-%20Star%C3%A9%20M%C4%9Bsto",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 61936469,
@@ -17057,7 +17057,7 @@
         "location": "Náměstí Jiřího z Lobkovic 2246/8, Praha 3 - Vinohrady",
         "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1m%C4%9Bst%C3%AD%20Ji%C5%99%C3%ADho%20z%20Lobkovic%202246/8%2C%20Praha%203%20-%20Vinohrady",
         "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1m%C4%9Bst%C3%AD%20Ji%C5%99%C3%ADho%20z%20Lobkovic%202246/8%2C%20Praha%203%20-%20Vinohrady",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 74118938,
@@ -17347,6 +17347,16 @@
         "location": "Jičínská 226/17, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Ji%C4%8D%C3%ADnsk%C3%A1%20226/17%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Ji%C4%8D%C3%ADnsk%C3%A1%20226/17%2C%20Praha",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 74743609,
+        "url": "https://czap.cz/Sys/PublicProfile/74743609/5485226",
+        "name": "Jahn, Michal",
+        "membership": "Řádné členství",
+        "location": "Ibsenova 128/12, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ibsenova%20128/12%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Ibsenova%20128/12%2C%20Olomouc",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -18278,6 +18288,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Va%C5%A1%C3%AD%C4%8Dkova%203081%2C%20Kladno",
         "googlemaps_url": "https://www.google.com/maps?q=Va%C5%A1%C3%AD%C4%8Dkova%203081%2C%20Kladno",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 76183075,
+        "url": "https://czap.cz/Sys/PublicProfile/76183075/5485226",
+        "name": "Paclíková, Kateřina",
+        "membership": "Řádné členství",
+        "location": "nám. Osvobození 255/28, Zábřeh",
+        "mapycom_url": "https://mapy.com/zakladni?q=n%C3%A1m.%20Osvobozen%C3%AD%20255/28%2C%20Z%C3%A1b%C5%99eh",
+        "googlemaps_url": "https://www.google.com/maps?q=n%C3%A1m.%20Osvobozen%C3%AD%20255/28%2C%20Z%C3%A1b%C5%99eh",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 76189138,
@@ -21490,6 +21510,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 80752551,
+        "url": "https://czap.cz/Sys/PublicProfile/80752551/5485226",
+        "name": "Hromadová, Jitka",
+        "membership": "Řádné členství",
+        "location": "Radlická 99, Praha 5",
+        "mapycom_url": "https://mapy.com/zakladni?q=Radlick%C3%A1%2099%2C%20Praha%205",
+        "googlemaps_url": "https://www.google.com/maps?q=Radlick%C3%A1%2099%2C%20Praha%205",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 80803189,
         "url": "https://czap.cz/Sys/PublicProfile/80803189/5485226",
         "name": "Ratislavová, Kateřina",
@@ -23800,16 +23830,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 95288401,
-        "url": "https://czap.cz/Sys/PublicProfile/95288401/5485226",
-        "name": "Pekláková, Daniela",
-        "membership": "Řádné členství",
-        "location": "Nad Královskou oborou 33, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Nad%20Kr%C3%A1lovskou%20oborou%2033%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Nad%20Kr%C3%A1lovskou%20oborou%2033%2C%20Praha",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 95333511,
         "url": "https://czap.cz/Sys/PublicProfile/95333511/5485226",
         "name": "Masařová, Anna",
@@ -24140,6 +24160,16 @@
         "availability": "Nepřijímám nové klienty"
     },
     {
+        "id": 95686685,
+        "url": "https://czap.cz/Sys/PublicProfile/95686685/5485226",
+        "name": "Bosáková, Markéta",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Na Paloučku 323, Hlásná Třebaň",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Palou%C4%8Dku%20323%2C%20Hl%C3%A1sn%C3%A1%20T%C5%99eba%C5%88",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Palou%C4%8Dku%20323%2C%20Hl%C3%A1sn%C3%A1%20T%C5%99eba%C5%88",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 95708939,
         "url": "https://czap.cz/Sys/PublicProfile/95708939/5485226",
         "name": "Semeráková, Eva",
@@ -24250,6 +24280,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 95780435,
+        "url": "https://czap.cz/Sys/PublicProfile/95780435/5485226",
+        "name": "kreuter, jan",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Medinska 571, Praha 9",
+        "mapycom_url": "https://mapy.com/zakladni?q=Medinska%20571%2C%20Praha%209",
+        "googlemaps_url": "https://www.google.com/maps?q=Medinska%20571%2C%20Praha%209",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 95784375,
         "url": "https://czap.cz/Sys/PublicProfile/95784375/5485226",
         "name": "Špinar, Vojtěch",
@@ -24350,6 +24390,16 @@
         "availability": "Nepřijímám nové klienty"
     },
     {
+        "id": 95829558,
+        "url": "https://czap.cz/Sys/PublicProfile/95829558/5485226",
+        "name": "Mandátová, Eliška",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Bratrská 2, Přerov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Bratrsk%C3%A1%202%2C%20P%C5%99erov",
+        "googlemaps_url": "https://www.google.com/maps?q=Bratrsk%C3%A1%202%2C%20P%C5%99erov",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 95829732,
         "url": "https://czap.cz/Sys/PublicProfile/95829732/5485226",
         "name": "Navrátilová, Kateřina",
@@ -24410,6 +24460,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 95871444,
+        "url": "https://czap.cz/Sys/PublicProfile/95871444/5485226",
+        "name": "Vejsadová, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Za Prachárnou 4270/5, 4270/5, Jihlava",
+        "mapycom_url": "https://mapy.com/zakladni?q=Za%20Prach%C3%A1rnou%204270/5%2C%204270/5%2C%20Jihlava",
+        "googlemaps_url": "https://www.google.com/maps?q=Za%20Prach%C3%A1rnou%204270/5%2C%204270/5%2C%20Jihlava",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 95872372,
         "url": "https://czap.cz/Sys/PublicProfile/95872372/5485226",
         "name": "Samson, Michal",
@@ -24438,5 +24498,15 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Jeseniova%201151/55%2C%20Praha%203",
         "googlemaps_url": "https://www.google.com/maps?q=Jeseniova%201151/55%2C%20Praha%203",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95892157,
+        "url": "https://czap.cz/Sys/PublicProfile/95892157/5485226",
+        "name": "Jůn, Hynek",
+        "membership": "Řádné členství",
+        "location": "Na Zátorách 8, Praha 7",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Z%C3%A1tor%C3%A1ch%208%2C%20Praha%207",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Z%C3%A1tor%C3%A1ch%208%2C%20Praha%207",
+        "availability": "Nepřijímám nové klienty"
     }
 ]
