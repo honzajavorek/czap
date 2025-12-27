@@ -8460,6 +8460,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 62746198,
+        "url": "https://czap.cz/Sys/PublicProfile/62746198/5485226",
+        "name": "Mach, Jiří",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Umělecká 1005/5, Praha 7 - Hlešovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Um%C4%9Bleck%C3%A1%201005/5%2C%20Praha%207%20-%20Hle%C5%A1ovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Um%C4%9Bleck%C3%A1%201005/5%2C%20Praha%207%20-%20Hle%C5%A1ovice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 62749619,
         "url": "https://czap.cz/Sys/PublicProfile/62749619/5485226",
         "name": "Vlasáková, Erika",
@@ -21008,6 +21018,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Topolov%C3%A1%20748%2C%20Klecany",
         "googlemaps_url": "https://www.google.com/maps?q=Topolov%C3%A1%20748%2C%20Klecany",
         "availability": "Nepřijímám nové klienty"
+    },
+    {
+        "id": 79481924,
+        "url": "https://czap.cz/Sys/PublicProfile/79481924/5485226",
+        "name": "Naimanová, Eva",
+        "membership": "Řádné členství",
+        "location": "Nomia,třída Edvarda Beneše 575, Hradec Králové",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nomia%2Ct%C5%99%C3%ADda%20Edvarda%20Bene%C5%A1e%20575%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "googlemaps_url": "https://www.google.com/maps?q=Nomia%2Ct%C5%99%C3%ADda%20Edvarda%20Bene%C5%A1e%20575%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 79647495,
