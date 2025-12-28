@@ -24510,6 +24510,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 95891565,
+        "url": "https://czap.cz/Sys/PublicProfile/95891565/5485226",
+        "name": "Vodičková, Jana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Blovice 210, Blovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Blovice%20210%2C%20Blovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Blovice%20210%2C%20Blovice",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 95892157,
         "url": "https://czap.cz/Sys/PublicProfile/95892157/5485226",
         "name": "Jůn, Hynek",
@@ -24518,5 +24528,25 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Z%C3%A1tor%C3%A1ch%208%2C%20Praha%207",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Z%C3%A1tor%C3%A1ch%208%2C%20Praha%207",
         "availability": "Nepřijímám nové klienty"
+    },
+    {
+        "id": 95914865,
+        "url": "https://czap.cz/Sys/PublicProfile/95914865/5485226",
+        "name": "Ševčík, Pavel",
+        "membership": "Řádné členství",
+        "location": "Na Míčánce 32, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20M%C3%AD%C4%8D%C3%A1nce%2032%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20M%C3%AD%C4%8D%C3%A1nce%2032%2C%20Praha%206",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 95937223,
+        "url": "https://czap.cz/Sys/PublicProfile/95937223/5485226",
+        "name": "Smejkalová, Kristýna",
+        "membership": "Řádné členství",
+        "location": "Železniční 4, Olomouc - Chválkovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDelezni%C4%8Dn%C3%AD%204%2C%20Olomouc%20-%20Chv%C3%A1lkovice",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%BDelezni%C4%8Dn%C3%AD%204%2C%20Olomouc%20-%20Chv%C3%A1lkovice",
+        "availability": "Přijímám nové klienty"
     }
 ]
