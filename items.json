@@ -8080,16 +8080,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 62377036,
-        "url": "https://czap.cz/Sys/PublicProfile/62377036/5485226",
-        "name": "Šolcová, Bohdana Pěva",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Boženy Němcové 2530, Varnsdorf",
-        "mapycom_url": "https://mapy.com/zakladni?q=Bo%C5%BEeny%20N%C4%9Bmcov%C3%A9%202530%2C%20Varnsdorf",
-        "googlemaps_url": "https://www.google.com/maps?q=Bo%C5%BEeny%20N%C4%9Bmcov%C3%A9%202530%2C%20Varnsdorf",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 62377079,
         "url": "https://czap.cz/Sys/PublicProfile/62377079/5485226",
         "name": "Sova, Jakub",
@@ -24538,6 +24528,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20M%C3%AD%C4%8D%C3%A1nce%2032%2C%20Praha%206",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20M%C3%AD%C4%8D%C3%A1nce%2032%2C%20Praha%206",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 95935374,
+        "url": "https://czap.cz/Sys/PublicProfile/95935374/5485226",
+        "name": "Bílková, Andrea",
+        "membership": "Řádné členství",
+        "location": "Spojovací 423, Řitka",
+        "mapycom_url": "https://mapy.com/zakladni?q=Spojovac%C3%AD%20423%2C%20%C5%98itka",
+        "googlemaps_url": "https://www.google.com/maps?q=Spojovac%C3%AD%20423%2C%20%C5%98itka",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 95937223,
