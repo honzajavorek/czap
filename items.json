@@ -2224,9 +2224,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885126/5485226",
         "name": "Chaloupková, Jaroslava",
         "membership": "Řádné členství",
-        "location": "Dělnická 12, Praha 7",
-        "mapycom_url": "https://mapy.com/zakladni?q=D%C4%9Blnick%C3%A1%2012%2C%20Praha%207",
-        "googlemaps_url": "https://www.google.com/maps?q=D%C4%9Blnick%C3%A1%2012%2C%20Praha%207",
+        "location": "Hybernská 7, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Hybernsk%C3%A1%207%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Hybernsk%C3%A1%207%2C%20Praha%201",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -7544,9 +7544,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/62109161/5485226",
         "name": "Majtán, Tomáš",
         "membership": "Řádné členství",
-        "location": "Na Výtoni 2, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=Na%20V%C3%BDtoni%202%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=Na%20V%C3%BDtoni%202%2C%20Praha%202",
+        "location": "Na Výtoni, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20V%C3%BDtoni%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20V%C3%BDtoni%2C%20Praha%202",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -7554,10 +7554,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/62109257/5485226",
         "name": "Machová, Štěpánka",
         "membership": "Řádné členství",
-        "location": "alej Svobody 80, Plzeň",
-        "mapycom_url": "https://mapy.com/zakladni?q=alej%20Svobody%2080%2C%20Plze%C5%88",
-        "googlemaps_url": "https://www.google.com/maps?q=alej%20Svobody%2080%2C%20Plze%C5%88",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Medinská 800/38, Praha-Klánovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Medinsk%C3%A1%20800/38%2C%20Praha-Kl%C3%A1novice",
+        "googlemaps_url": "https://www.google.com/maps?q=Medinsk%C3%A1%20800/38%2C%20Praha-Kl%C3%A1novice",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 62109268,
@@ -8964,9 +8964,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63183608/5485226",
         "name": "Příman, Rudolf",
         "membership": "Řádné členství",
-        "location": "Palackého 147, Dobřichovice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Palack%C3%A9ho%20147%2C%20Dob%C5%99ichovice",
-        "googlemaps_url": "https://www.google.com/maps?q=Palack%C3%A9ho%20147%2C%20Dob%C5%99ichovice",
+        "location": "Nad nádražím 604, Všenory",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nad%20n%C3%A1dra%C5%BE%C3%ADm%20604%2C%20V%C5%A1enory",
+        "googlemaps_url": "https://www.google.com/maps?q=Nad%20n%C3%A1dra%C5%BE%C3%ADm%20604%2C%20V%C5%A1enory",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -9214,9 +9214,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63354133/5485226",
         "name": "Zradičková Šafránková, Karla",
         "membership": "Řádné členství",
-        "location": "Komenského 835, Nymburk",
-        "mapycom_url": "https://mapy.com/zakladni?q=Komensk%C3%A9ho%20835%2C%20Nymburk",
-        "googlemaps_url": "https://www.google.com/maps?q=Komensk%C3%A9ho%20835%2C%20Nymburk",
+        "location": "Palackého třída 1821/51, Nymburk",
+        "mapycom_url": "https://mapy.com/zakladni?q=Palack%C3%A9ho%20t%C5%99%C3%ADda%201821/51%2C%20Nymburk",
+        "googlemaps_url": "https://www.google.com/maps?q=Palack%C3%A9ho%20t%C5%99%C3%ADda%201821/51%2C%20Nymburk",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -13388,6 +13388,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Barvi%C4%8Dova%20833/53%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Barvi%C4%8Dova%20833/53%2C%20Brno",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 68475719,
+        "url": "https://czap.cz/Sys/PublicProfile/68475719/5485226",
+        "name": "Pikhartová, Alena",
+        "membership": "Řádné členství",
+        "location": "Jemčinská 83, Jindřichův Hradec",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jem%C4%8Dinsk%C3%A1%2083%2C%20Jind%C5%99ich%C5%AFv%20Hradec",
+        "googlemaps_url": "https://www.google.com/maps?q=Jem%C4%8Dinsk%C3%A1%2083%2C%20Jind%C5%99ich%C5%AFv%20Hradec",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 68479220,
@@ -19564,10 +19574,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/77599860/5485226",
         "name": "Záhorová, Kristýna",
         "membership": "Řádné členství",
-        "location": "Jungmannova 319/7, Liberec",
-        "mapycom_url": "https://mapy.com/zakladni?q=Jungmannova%20319/7%2C%20Liberec",
-        "googlemaps_url": "https://www.google.com/maps?q=Jungmannova%20319/7%2C%20Liberec",
-        "availability": "Nepřijímám nové klienty"
+        "location": "Gorkého 658/15, Liberec 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Gork%C3%A9ho%20658/15%2C%20Liberec%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Gork%C3%A9ho%20658/15%2C%20Liberec%201",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 77604336,
@@ -24108,6 +24118,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Pato%C4%8Dkova%202472/81a%2C%20Praha%206",
         "googlemaps_url": "https://www.google.com/maps?q=Pato%C4%8Dkova%202472/81a%2C%20Praha%206",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 95579191,
+        "url": "https://czap.cz/Sys/PublicProfile/95579191/5485226",
+        "name": "Brooks, Justin",
+        "membership": "Řádné členství",
+        "location": "Dvořákova 174, Lanškroun",
+        "mapycom_url": "https://mapy.com/zakladni?q=Dvo%C5%99%C3%A1kova%20174%2C%20Lan%C5%A1kroun",
+        "googlemaps_url": "https://www.google.com/maps?q=Dvo%C5%99%C3%A1kova%20174%2C%20Lan%C5%A1kroun",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 95587242,
