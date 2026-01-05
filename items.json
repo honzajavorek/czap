@@ -3060,6 +3060,16 @@
         "availability": "Nepřijímám nové klienty"
     },
     {
+        "id": 58885221,
+        "url": "https://czap.cz/Sys/PublicProfile/58885221/5485226",
+        "name": "Bartušková, Adéla",
+        "membership": "Řádné členství",
+        "location": "Masarykovo náměstí 1544, Pardubice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%201544%2C%20Pardubice",
+        "googlemaps_url": "https://www.google.com/maps?q=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%201544%2C%20Pardubice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 58885222,
         "url": "https://czap.cz/Sys/PublicProfile/58885222/5485226",
         "name": "Váchová, Hana",
@@ -3634,9 +3644,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885285/5485226",
         "name": "Magula, Martin",
         "membership": "Řádné členství",
-        "location": "Sládkova 7, Praha 7",
-        "mapycom_url": "https://mapy.com/zakladni?q=Sl%C3%A1dkova%207%2C%20Praha%207",
-        "googlemaps_url": "https://www.google.com/maps?q=Sl%C3%A1dkova%207%2C%20Praha%207",
+        "location": "Staropramenná 29, Praha 5",
+        "mapycom_url": "https://mapy.com/zakladni?q=Staropramenn%C3%A1%2029%2C%20Praha%205",
+        "googlemaps_url": "https://www.google.com/maps?q=Staropramenn%C3%A1%2029%2C%20Praha%205",
         "availability": "Nepřijímám nové klienty"
     },
     {
@@ -4544,9 +4554,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885393/5485226",
         "name": "Zoubková, Muchiba",
         "membership": "Řádné členství",
-        "location": "Na poříčí 1041/12, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Na%20po%C5%99%C3%AD%C4%8D%C3%AD%201041/12%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Na%20po%C5%99%C3%AD%C4%8D%C3%AD%201041/12%2C%20Praha",
+        "location": "Na poříčí 1041/12, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20po%C5%99%C3%AD%C4%8D%C3%AD%201041/12%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20po%C5%99%C3%AD%C4%8D%C3%AD%201041/12%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -5714,9 +5724,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/59120077/5485226",
         "name": "Chlupová, Markéta",
         "membership": "Řádné členství",
-        "location": "Opletalova 25, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=Opletalova%2025%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=Opletalova%2025%2C%20Praha%201",
+        "location": "Štěpánská 25 (Francouzský institut), Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0t%C4%9Bp%C3%A1nsk%C3%A1%2025%20%28Francouzsk%C3%BD%20institut%29%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%A0t%C4%9Bp%C3%A1nsk%C3%A1%2025%20%28Francouzsk%C3%BD%20institut%29%2C%20Praha%201",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -10530,6 +10540,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 64192384,
+        "url": "https://czap.cz/Sys/PublicProfile/64192384/5485226",
+        "name": "Juricová, Martina",
+        "membership": "Řádné členství",
+        "location": "Dešná 86, Dešná u Slušovic",
+        "mapycom_url": "https://mapy.com/zakladni?q=De%C5%A1n%C3%A1%2086%2C%20De%C5%A1n%C3%A1%20u%20Slu%C5%A1ovic",
+        "googlemaps_url": "https://www.google.com/maps?q=De%C5%A1n%C3%A1%2086%2C%20De%C5%A1n%C3%A1%20u%20Slu%C5%A1ovic",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 64192625,
         "url": "https://czap.cz/Sys/PublicProfile/64192625/5485226",
         "name": "Mironova, Tatjana",
@@ -12067,7 +12087,7 @@
         "location": "Smetanova 1284, Tábor",
         "mapycom_url": "https://mapy.com/zakladni?q=Smetanova%201284%2C%20T%C3%A1bor",
         "googlemaps_url": "https://www.google.com/maps?q=Smetanova%201284%2C%20T%C3%A1bor",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 67591324,
@@ -13904,10 +13924,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/68764926/5485226",
         "name": "Pokorná, Zuzana",
         "membership": "Řádné členství",
-        "location": "Antala Staška 64, Praha 4",
-        "mapycom_url": "https://mapy.com/zakladni?q=Antala%20Sta%C5%A1ka%2064%2C%20Praha%204",
-        "googlemaps_url": "https://www.google.com/maps?q=Antala%20Sta%C5%A1ka%2064%2C%20Praha%204",
-        "availability": "Přijímám nové klienty"
+        "location": "Nádražní 359, Hrádek nad Nisou",
+        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1dra%C5%BEn%C3%AD%20359%2C%20Hr%C3%A1dek%20nad%20Nisou",
+        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1dra%C5%BEn%C3%AD%20359%2C%20Hr%C3%A1dek%20nad%20Nisou",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 68768770,
@@ -14204,10 +14224,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/69158438/5485226",
         "name": "Táborská, Martina",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Stratovská 107, Praha-Satalice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Stratovsk%C3%A1%20107%2C%20Praha-Satalice",
-        "googlemaps_url": "https://www.google.com/maps?q=Stratovsk%C3%A1%20107%2C%20Praha-Satalice",
-        "availability": "Nepřijímám nové klienty"
+        "location": "Bělehradská 10/79, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=B%C4%9Blehradsk%C3%A1%2010/79%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=B%C4%9Blehradsk%C3%A1%2010/79%2C%20Praha%202",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 69158497,
@@ -14884,9 +14904,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/70291452/5485226",
         "name": "Schorschová, Kateřina",
         "membership": "Řádné členství",
-        "location": "Horní nám. 1200/15, Jablonec nad Nisou",
-        "mapycom_url": "https://mapy.com/zakladni?q=Horn%C3%AD%20n%C3%A1m.%201200/15%2C%20Jablonec%20nad%20Nisou",
-        "googlemaps_url": "https://www.google.com/maps?q=Horn%C3%AD%20n%C3%A1m.%201200/15%2C%20Jablonec%20nad%20Nisou",
+        "location": "Podhorská 28, Jablonec nad Nisou",
+        "mapycom_url": "https://mapy.com/zakladni?q=Podhorsk%C3%A1%2028%2C%20Jablonec%20nad%20Nisou",
+        "googlemaps_url": "https://www.google.com/maps?q=Podhorsk%C3%A1%2028%2C%20Jablonec%20nad%20Nisou",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -17864,9 +17884,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/75449887/5485226",
         "name": "Stuchlíková, Iva",
         "membership": "Řádné členství",
-        "location": "U Tří Lvů 8, České Budějovice",
-        "mapycom_url": "https://mapy.com/zakladni?q=U%20T%C5%99%C3%AD%20Lv%C5%AF%208%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
-        "googlemaps_url": "https://www.google.com/maps?q=U%20T%C5%99%C3%AD%20Lv%C5%AF%208%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "location": "Česká 24, České Budějovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C4%8Cesk%C3%A1%2024%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "googlemaps_url": "https://www.google.com/maps?q=%C4%8Cesk%C3%A1%2024%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -24678,5 +24698,15 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Divadeln%C3%AD%206%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Divadeln%C3%AD%206%2C%20Brno",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95964729,
+        "url": "https://czap.cz/Sys/PublicProfile/95964729/5485226",
+        "name": "Blažková, Lucie",
+        "membership": "Řádné členství",
+        "location": "Horova 36/29, Hradec Králové",
+        "mapycom_url": "https://mapy.com/zakladni?q=Horova%2036/29%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "googlemaps_url": "https://www.google.com/maps?q=Horova%2036/29%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "availability": "Info o dostupnosti na vyžádání"
     }
 ]
