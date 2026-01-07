@@ -4060,16 +4060,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 58885338,
-        "url": "https://czap.cz/Sys/PublicProfile/58885338/5485226",
-        "name": "Bláhová, Zuzana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Na Sadech 29, České Budějovice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Sadech%2029%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
-        "googlemaps_url": "https://www.google.com/maps?q=Na%20Sadech%2029%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 58885339,
         "url": "https://czap.cz/Sys/PublicProfile/58885339/5485226",
         "name": "Vítek, Pavel",
@@ -6257,7 +6247,7 @@
         "location": "Národní 28, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1rodn%C3%AD%2028%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1rodn%C3%AD%2028%2C%20Praha",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 60374127,
@@ -8030,16 +8020,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 62373557,
-        "url": "https://czap.cz/Sys/PublicProfile/62373557/5485226",
-        "name": "Flemrová, Petra",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Riegrova 14 (1.adresa), Brandýs nad Labem - Stará Boleslav",
-        "mapycom_url": "https://mapy.com/zakladni?q=Riegrova%2014%20%281.adresa%29%2C%20Brand%C3%BDs%20nad%20Labem%20-%20Star%C3%A1%20Boleslav",
-        "googlemaps_url": "https://www.google.com/maps?q=Riegrova%2014%20%281.adresa%29%2C%20Brand%C3%BDs%20nad%20Labem%20-%20Star%C3%A1%20Boleslav",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 62373991,
         "url": "https://czap.cz/Sys/PublicProfile/62373991/5485226",
         "name": "Rolexová, Soňa",
@@ -9108,16 +9088,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Ocel%C3%A1%C5%99sk%C3%A1%2035/1354%2C%20Praha%209",
         "googlemaps_url": "https://www.google.com/maps?q=Ocel%C3%A1%C5%99sk%C3%A1%2035/1354%2C%20Praha%209",
         "availability": "Nepřijímám nové klienty"
-    },
-    {
-        "id": 63307261,
-        "url": "https://czap.cz/Sys/PublicProfile/63307261/5485226",
-        "name": "Adamove, Jarmila",
-        "membership": "Řádné členství",
-        "location": "Palác Ymca, Na Poříčí 1041/12, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=Pal%C3%A1c%20Ymca%2C%20Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%201041/12%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=Pal%C3%A1c%20Ymca%2C%20Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%201041/12%2C%20Praha%201",
-        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 63317670,
@@ -13950,16 +13920,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 68788187,
-        "url": "https://czap.cz/Sys/PublicProfile/68788187/5485226",
-        "name": "Mach, Zuzana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Havlíčkova34a, Jihlava",
-        "mapycom_url": "https://mapy.com/zakladni?q=Havl%C3%AD%C4%8Dkova34a%2C%20Jihlava",
-        "googlemaps_url": "https://www.google.com/maps?q=Havl%C3%AD%C4%8Dkova34a%2C%20Jihlava",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 68790295,
         "url": "https://czap.cz/Sys/PublicProfile/68790295/5485226",
         "name": "Veselá, Ivana",
@@ -16398,16 +16358,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Wellnerova%203C%2C%20Olomouc",
         "googlemaps_url": "https://www.google.com/maps?q=Wellnerova%203C%2C%20Olomouc",
         "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 72437724,
-        "url": "https://czap.cz/Sys/PublicProfile/72437724/5485226",
-        "name": "Pauknerová, Tereza",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Rosovice 250, Rosovice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Rosovice%20250%2C%20Rosovice",
-        "googlemaps_url": "https://www.google.com/maps?q=Rosovice%20250%2C%20Rosovice",
-        "availability": "Přijímám nové klienty"
     },
     {
         "id": 72437793,
@@ -23882,7 +23832,7 @@
     {
         "id": 95224416,
         "url": "https://czap.cz/Sys/PublicProfile/95224416/5485226",
-        "name": "Václavková, Renáta",
+        "name": "Tara Václavková, Renáta",
         "membership": "Řádné členství",
         "location": "Hasičská 551/52, Ostrava-Hrabůvka",
         "mapycom_url": "https://mapy.com/zakladni?q=Hasi%C4%8Dsk%C3%A1%20551/52%2C%20Ostrava-Hrab%C5%AFvka",
@@ -24480,6 +24430,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 95818864,
+        "url": "https://czap.cz/Sys/PublicProfile/95818864/5485226",
+        "name": "Horká, Jitka",
+        "membership": "Řádné členství",
+        "location": "Vlastislavova 152/4, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vlastislavova%20152/4%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Vlastislavova%20152/4%2C%20Praha",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 95826516,
         "url": "https://czap.cz/Sys/PublicProfile/95826516/5485226",
         "name": "Bořkovec, Daniel",
@@ -24667,7 +24627,7 @@
         "location": "Řipská 15, Praha 3",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%98ipsk%C3%A1%2015%2C%20Praha%203",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%98ipsk%C3%A1%2015%2C%20Praha%203",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 95948115,
