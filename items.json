@@ -1447,7 +1447,7 @@
         "location": "Štefánikova 85/16, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0tef%C3%A1nikova%2085/16%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%A0tef%C3%A1nikova%2085/16%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 58885042,
@@ -5354,10 +5354,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885489/5485226",
         "name": "Šňupárková, Pavla",
         "membership": "Řádné členství",
-        "location": "Vítězná 2606/6, Moravská Ostrava",
-        "mapycom_url": "https://mapy.com/zakladni?q=V%C3%ADt%C4%9Bzn%C3%A1%202606/6%2C%20Moravsk%C3%A1%20Ostrava",
-        "googlemaps_url": "https://www.google.com/maps?q=V%C3%ADt%C4%9Bzn%C3%A1%202606/6%2C%20Moravsk%C3%A1%20Ostrava",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Palackého 203, Rožnov pod Radhoštěm",
+        "mapycom_url": "https://mapy.com/zakladni?q=Palack%C3%A9ho%20203%2C%20Ro%C5%BEnov%20pod%20Radho%C5%A1t%C4%9Bm",
+        "googlemaps_url": "https://www.google.com/maps?q=Palack%C3%A9ho%20203%2C%20Ro%C5%BEnov%20pod%20Radho%C5%A1t%C4%9Bm",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885490,
@@ -7007,7 +7007,7 @@
         "location": "Ostrovní 30, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Ostrovn%C3%AD%2030%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Ostrovn%C3%AD%2030%2C%20Praha",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 61406034,
@@ -8284,9 +8284,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/62661843/5485226",
         "name": "Zapletalová, Pavlína",
         "membership": "Řádné členství",
-        "location": "Sýpka 25, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=S%C3%BDpka%2025%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=S%C3%BDpka%2025%2C%20Brno",
+        "location": "Dvořákova 13, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Dvo%C5%99%C3%A1kova%2013%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Dvo%C5%99%C3%A1kova%2013%2C%20Brno",
         "availability": "Nepřijímám nové klienty"
     },
     {
@@ -10280,6 +10280,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 63901626,
+        "url": "https://czap.cz/Sys/PublicProfile/63901626/5485226",
+        "name": "Šidlová, Simona",
+        "membership": "Řádné členství",
+        "location": "Masarykova 506/37602 00 Brno-střed, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Masarykova%20506/37602%2000%20Brno-st%C5%99ed%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Masarykova%20506/37602%2000%20Brno-st%C5%99ed%2C%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 63903364,
         "url": "https://czap.cz/Sys/PublicProfile/63903364/5485226",
         "name": "Knězů, Vojtěch",
@@ -10907,6 +10917,16 @@
         "location": "Březnice 485, Zlín",
         "mapycom_url": "https://mapy.com/zakladni?q=B%C5%99eznice%20485%2C%20Zl%C3%ADn",
         "googlemaps_url": "https://www.google.com/maps?q=B%C5%99eznice%20485%2C%20Zl%C3%ADn",
+        "availability": "Nepřijímám nové klienty"
+    },
+    {
+        "id": 64841371,
+        "url": "https://czap.cz/Sys/PublicProfile/64841371/5485226",
+        "name": "Palatová, Barbora",
+        "membership": "Řádné členství",
+        "location": "Starobrněnská 341/18, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Starobrn%C4%9Bnsk%C3%A1%20341/18%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Starobrn%C4%9Bnsk%C3%A1%20341/18%2C%20Brno",
         "availability": "Nepřijímám nové klienty"
     },
     {
@@ -24398,6 +24418,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Legerova%201820/39%2C%20Praha%202",
         "googlemaps_url": "https://www.google.com/maps?q=Legerova%201820/39%2C%20Praha%202",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95811517,
+        "url": "https://czap.cz/Sys/PublicProfile/95811517/5485226",
+        "name": "Kotvová, Michaela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Čsl. armády 1050/22, Děčín",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C4%8Csl.%20arm%C3%A1dy%201050/22%2C%20D%C4%9B%C4%8D%C3%ADn",
+        "googlemaps_url": "https://www.google.com/maps?q=%C4%8Csl.%20arm%C3%A1dy%201050/22%2C%20D%C4%9B%C4%8D%C3%ADn",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 95812288,
