@@ -12764,9 +12764,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68057356/5485226",
         "name": "Trechová, Petra",
         "membership": "Řádné členství",
-        "location": "Lúčky 396, Uherský Brod",
-        "mapycom_url": "https://mapy.com/zakladni?q=L%C3%BA%C4%8Dky%20396%2C%20Uhersk%C3%BD%20Brod",
-        "googlemaps_url": "https://www.google.com/maps?q=L%C3%BA%C4%8Dky%20396%2C%20Uhersk%C3%BD%20Brod",
+        "location": "Přemysla Otakara II. 2476, Uherský Brod",
+        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99emysla%20Otakara%20II.%202476%2C%20Uhersk%C3%BD%20Brod",
+        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99emysla%20Otakara%20II.%202476%2C%20Uhersk%C3%BD%20Brod",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -19900,16 +19900,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 77864111,
-        "url": "https://czap.cz/Sys/PublicProfile/77864111/5485226",
-        "name": "Kožušníková, Ivana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Výstavní 2224/8, Ostrava - Mariánské hory",
-        "mapycom_url": "https://mapy.com/zakladni?q=V%C3%BDstavn%C3%AD%202224/8%2C%20Ostrava%20-%20Mari%C3%A1nsk%C3%A9%20hory",
-        "googlemaps_url": "https://www.google.com/maps?q=V%C3%BDstavn%C3%AD%202224/8%2C%20Ostrava%20-%20Mari%C3%A1nsk%C3%A9%20hory",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 77867449,
         "url": "https://czap.cz/Sys/PublicProfile/77867449/5485226",
         "name": "Zavadil, Miroslav",
@@ -22594,10 +22584,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/87172200/5485226",
         "name": "Svojítková, Lucie",
         "membership": "Řádné členství",
-        "location": "Jeseniova 47, Praha 3",
-        "mapycom_url": "https://mapy.com/zakladni?q=Jeseniova%2047%2C%20Praha%203",
-        "googlemaps_url": "https://www.google.com/maps?q=Jeseniova%2047%2C%20Praha%203",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Plaská 7, Praha 5",
+        "mapycom_url": "https://mapy.com/zakladni?q=Plask%C3%A1%207%2C%20Praha%205",
+        "googlemaps_url": "https://www.google.com/maps?q=Plask%C3%A1%207%2C%20Praha%205",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 87172316,
@@ -23300,16 +23290,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 93750199,
-        "url": "https://czap.cz/Sys/PublicProfile/93750199/5485226",
-        "name": "Kušnieriková, Michaela",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Javorová 21, Veľký Biel",
-        "mapycom_url": "https://mapy.com/zakladni?q=Javorov%C3%A1%2021%2C%20Ve%C4%BEk%C3%BD%20Biel",
-        "googlemaps_url": "https://www.google.com/maps?q=Javorov%C3%A1%2021%2C%20Ve%C4%BEk%C3%BD%20Biel",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 93754490,
         "url": "https://czap.cz/Sys/PublicProfile/93754490/5485226",
         "name": "Nagyová, Lucia",
@@ -23468,6 +23448,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Monada%20s.r.o.%2C%20Praha%208",
         "googlemaps_url": "https://www.google.com/maps?q=Monada%20s.r.o.%2C%20Praha%208",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 94216621,
+        "url": "https://czap.cz/Sys/PublicProfile/94216621/5485226",
+        "name": "Hloušková, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Bránská 210/18, Moravská Třebová, Moravská Třebová",
+        "mapycom_url": "https://mapy.com/zakladni?q=Br%C3%A1nsk%C3%A1%20210/18%2C%20Moravsk%C3%A1%20T%C5%99ebov%C3%A1%2C%20Moravsk%C3%A1%20T%C5%99ebov%C3%A1",
+        "googlemaps_url": "https://www.google.com/maps?q=Br%C3%A1nsk%C3%A1%20210/18%2C%20Moravsk%C3%A1%20T%C5%99ebov%C3%A1%2C%20Moravsk%C3%A1%20T%C5%99ebov%C3%A1",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 94233543,
@@ -24647,6 +24637,16 @@
         "location": "Železniční 4, Olomouc - Chválkovice",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDelezni%C4%8Dn%C3%AD%204%2C%20Olomouc%20-%20Chv%C3%A1lkovice",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%BDelezni%C4%8Dn%C3%AD%204%2C%20Olomouc%20-%20Chv%C3%A1lkovice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95940620,
+        "url": "https://czap.cz/Sys/PublicProfile/95940620/5485226",
+        "name": "Breus, Alexandra",
+        "membership": "Řádné členství",
+        "location": "Jordana Jovkova 3256/11, Modrany",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jordana%20Jovkova%203256/11%2C%20Modrany",
+        "googlemaps_url": "https://www.google.com/maps?q=Jordana%20Jovkova%203256/11%2C%20Modrany",
         "availability": "Přijímám nové klienty"
     },
     {
