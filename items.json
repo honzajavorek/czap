@@ -1910,6 +1910,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 58885093,
+        "url": "https://czap.cz/Sys/PublicProfile/58885093/5485226",
+        "name": "Šamánková, Lenka",
+        "membership": "Řádné členství",
+        "location": "Jezuitská 7/3, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jezuitsk%C3%A1%207/3%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Jezuitsk%C3%A1%207/3%2C%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 58885094,
         "url": "https://czap.cz/Sys/PublicProfile/58885094/5485226",
         "name": "Vodňanská, Jitka",
@@ -23720,6 +23730,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 94856078,
+        "url": "https://czap.cz/Sys/PublicProfile/94856078/5485226",
+        "name": "Duba, Pavel",
+        "membership": "Řádné členství",
+        "location": "Národní 28, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1rodn%C3%AD%2028%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1rodn%C3%AD%2028%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 94894429,
         "url": "https://czap.cz/Sys/PublicProfile/94894429/5485226",
         "name": "Zvingerová, Nina",
@@ -24637,6 +24657,16 @@
         "location": "Železniční 4, Olomouc - Chválkovice",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDelezni%C4%8Dn%C3%AD%204%2C%20Olomouc%20-%20Chv%C3%A1lkovice",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%BDelezni%C4%8Dn%C3%AD%204%2C%20Olomouc%20-%20Chv%C3%A1lkovice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95939679,
+        "url": "https://czap.cz/Sys/PublicProfile/95939679/5485226",
+        "name": "Pacáková, Michaela",
+        "membership": "Řádné členství",
+        "location": "I. P. Pavlova, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=I.%20P.%20Pavlova%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=I.%20P.%20Pavlova%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
