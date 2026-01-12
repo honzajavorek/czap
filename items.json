@@ -16034,9 +16034,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/72003273/5485226",
         "name": "Klinderová Píchová, Jana",
         "membership": "Řádné členství",
-        "location": "Srbská 2, Praha 6",
-        "mapycom_url": "https://mapy.com/zakladni?q=Srbsk%C3%A1%202%2C%20Praha%206",
-        "googlemaps_url": "https://www.google.com/maps?q=Srbsk%C3%A1%202%2C%20Praha%206",
+        "location": "Eliášova 20, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Eli%C3%A1%C5%A1ova%2020%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Eli%C3%A1%C5%A1ova%2020%2C%20Praha%206",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -16388,6 +16388,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Wellnerova%203C%2C%20Olomouc",
         "googlemaps_url": "https://www.google.com/maps?q=Wellnerova%203C%2C%20Olomouc",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 72437724,
+        "url": "https://czap.cz/Sys/PublicProfile/72437724/5485226",
+        "name": "Pauknerová, Tereza",
+        "membership": "Řádné členství",
+        "location": "Rosovice 250, Rosovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Rosovice%20250%2C%20Rosovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Rosovice%20250%2C%20Rosovice",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 72437793,
@@ -24578,6 +24588,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Petrsk%C3%A1%2012%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Petrsk%C3%A1%2012%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 95872763,
+        "url": "https://czap.cz/Sys/PublicProfile/95872763/5485226",
+        "name": "Schmidt, Pavlína",
+        "membership": "Řádné členství",
+        "location": "Ostrovní 30, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ostrovn%C3%AD%2030%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Ostrovn%C3%AD%2030%2C%20Praha%201",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 95875636,
