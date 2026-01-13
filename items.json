@@ -17,7 +17,7 @@
         "location": "Francouzská 34, Praha 2",
         "mapycom_url": "https://mapy.com/zakladni?q=Francouzsk%C3%A1%2034%2C%20Praha%202",
         "googlemaps_url": "https://www.google.com/maps?q=Francouzsk%C3%A1%2034%2C%20Praha%202",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 58884879,
@@ -5647,7 +5647,7 @@
         "location": "U Křižovatky 608, Kolín",
         "mapycom_url": "https://mapy.com/zakladni?q=U%20K%C5%99i%C5%BEovatky%20608%2C%20Kol%C3%ADn",
         "googlemaps_url": "https://www.google.com/maps?q=U%20K%C5%99i%C5%BEovatky%20608%2C%20Kol%C3%ADn",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 59119960,
@@ -8624,9 +8624,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/62826264/5485226",
         "name": "Kozoňová, Jiřina",
         "membership": "Řádné členství",
-        "location": "Minská 102, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Minsk%C3%A1%20102%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Minsk%C3%A1%20102%2C%20Brno",
+        "location": "Tábordká 198, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=T%C3%A1bordk%C3%A1%20198%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=T%C3%A1bordk%C3%A1%20198%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -11087,7 +11087,7 @@
         "location": "Svatopluka Čecha 53, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Svatopluka%20%C4%8Cecha%2053%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Svatopluka%20%C4%8Cecha%2053%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 65259745,
@@ -11217,7 +11217,7 @@
         "location": "Sokolovska 82, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Sokolovska%2082%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Sokolovska%2082%2C%20Praha",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 65870942,
@@ -12044,10 +12044,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/67503348/5485226",
         "name": "Soukupová, Markéta",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Pod Košutkou 2276/27, Plzeň",
-        "mapycom_url": "https://mapy.com/zakladni?q=Pod%20Ko%C5%A1utkou%202276/27%2C%20Plze%C5%88",
-        "googlemaps_url": "https://www.google.com/maps?q=Pod%20Ko%C5%A1utkou%202276/27%2C%20Plze%C5%88",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Lochotínská 18, Plzeň",
+        "mapycom_url": "https://mapy.com/zakladni?q=Lochot%C3%ADnsk%C3%A1%2018%2C%20Plze%C5%88",
+        "googlemaps_url": "https://www.google.com/maps?q=Lochot%C3%ADnsk%C3%A1%2018%2C%20Plze%C5%88",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 67511270,
@@ -13612,7 +13612,7 @@
     {
         "id": 68570443,
         "url": "https://czap.cz/Sys/PublicProfile/68570443/5485226",
-        "name": "Vejmělková, Markéta",
+        "name": "Trost (roz. Vejmělková), Markéta",
         "membership": "Řádné členství",
         "location": "Příkop 27/2a, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
@@ -16367,7 +16367,7 @@
         "location": "Běchovická 24, Praha 10",
         "mapycom_url": "https://mapy.com/zakladni?q=B%C4%9Bchovick%C3%A1%2024%2C%20Praha%2010",
         "googlemaps_url": "https://www.google.com/maps?q=B%C4%9Bchovick%C3%A1%2024%2C%20Praha%2010",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 72355335,
@@ -23034,9 +23034,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/90339245/5485226",
         "name": "Čermáková, Alena",
         "membership": "Řádné členství",
-        "location": "Předín 286, Předín",
-        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99ed%C3%ADn%20286%2C%20P%C5%99ed%C3%ADn",
-        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99ed%C3%ADn%20286%2C%20P%C5%99ed%C3%ADn",
+        "location": "Horní Újezd 3, Horní Újezd (Třebíč)",
+        "mapycom_url": "https://mapy.com/zakladni?q=Horn%C3%AD%20%C3%9Ajezd%203%2C%20Horn%C3%AD%20%C3%9Ajezd%20%28T%C5%99eb%C3%AD%C4%8D%29",
+        "googlemaps_url": "https://www.google.com/maps?q=Horn%C3%AD%20%C3%9Ajezd%203%2C%20Horn%C3%AD%20%C3%9Ajezd%20%28T%C5%99eb%C3%AD%C4%8D%29",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -23734,9 +23734,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/94843030/5485226",
         "name": "Šubová, Kateřina",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Gorkého 44, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Gork%C3%A9ho%2044%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Gork%C3%A9ho%2044%2C%20Brno",
+        "location": "Příkop 27/2a, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
