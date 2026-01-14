@@ -1904,9 +1904,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885092/5485226",
         "name": "Frintová, Martina",
         "membership": "Řádné členství",
-        "location": "Na Poříčí 12, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha",
+        "location": "Senovážné náměstí 23, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -4597,7 +4597,7 @@
         "location": "8. pěšího pluku 85 - POLIKLINIKA MÍSTEK, FRÝDEK-MÍSTEK",
         "mapycom_url": "https://mapy.com/zakladni?q=8.%20p%C4%9B%C5%A1%C3%ADho%20pluku%2085%20-%20POLIKLINIKA%20M%C3%8DSTEK%2C%20FR%C3%9DDEK-M%C3%8DSTEK",
         "googlemaps_url": "https://www.google.com/maps?q=8.%20p%C4%9B%C5%A1%C3%ADho%20pluku%2085%20-%20POLIKLINIKA%20M%C3%8DSTEK%2C%20FR%C3%9DDEK-M%C3%8DSTEK",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885398,
@@ -5712,12 +5712,12 @@
     {
         "id": 59120072,
         "url": "https://czap.cz/Sys/PublicProfile/59120072/5485226",
-        "name": "Drahorádová (roz.Reichová), Anna",
+        "name": "Drahorádová, Anna",
         "membership": "Řádné členství",
-        "location": null,
-        "mapycom_url": null,
-        "googlemaps_url": null,
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Korunní 61, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Korunn%C3%AD%2061%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Korunn%C3%AD%2061%2C%20Praha%203",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 59120077,
@@ -5764,9 +5764,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/59277986/5485226",
         "name": "Dvořáková, Monika",
         "membership": "Řádné členství",
-        "location": "Anny Letenské 8, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=Anny%20Letensk%C3%A9%208%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=Anny%20Letensk%C3%A9%208%2C%20Praha%202",
+        "location": "Skálova 84, Turnov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Sk%C3%A1lova%2084%2C%20Turnov",
+        "googlemaps_url": "https://www.google.com/maps?q=Sk%C3%A1lova%2084%2C%20Turnov",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -6668,6 +6668,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Kosteln%C3%AD%2074%2C%20%C5%BDamberk",
         "googlemaps_url": "https://www.google.com/maps?q=Kosteln%C3%AD%2074%2C%20%C5%BDamberk",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 61043402,
+        "url": "https://czap.cz/Sys/PublicProfile/61043402/5485226",
+        "name": "Benatzká, Rachel",
+        "membership": "Řádné členství",
+        "location": "Nádražní 17, Český Těšín",
+        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1dra%C5%BEn%C3%AD%2017%2C%20%C4%8Cesk%C3%BD%20T%C4%9B%C5%A1%C3%ADn",
+        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1dra%C5%BEn%C3%AD%2017%2C%20%C4%8Cesk%C3%BD%20T%C4%9B%C5%A1%C3%ADn",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 61043403,
@@ -11117,7 +11127,7 @@
         "location": "Josefská 612/15 (5. patro), Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Josefsk%C3%A1%20612/15%20%285.%20patro%29%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Josefsk%C3%A1%20612/15%20%285.%20patro%29%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 65308169,
@@ -17820,6 +17830,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 75319683,
+        "url": "https://czap.cz/Sys/PublicProfile/75319683/5485226",
+        "name": "Škurla, Martin",
+        "membership": "Řádné členství",
+        "location": "Revoluční 8 - vlastná kancelária, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Revolu%C4%8Dn%C3%AD%208%20-%20vlastn%C3%A1%20kancel%C3%A1ria%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Revolu%C4%8Dn%C3%AD%208%20-%20vlastn%C3%A1%20kancel%C3%A1ria%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 75391551,
         "url": "https://czap.cz/Sys/PublicProfile/75391551/5485226",
         "name": "Gerber, Monika",
@@ -18324,9 +18344,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/76143887/5485226",
         "name": "Brýdlová, Magdaléna",
         "membership": "Řádné členství",
-        "location": "Lanškrounská 5, Svitavy",
-        "mapycom_url": "https://mapy.com/zakladni?q=Lan%C5%A1krounsk%C3%A1%205%2C%20Svitavy",
-        "googlemaps_url": "https://www.google.com/maps?q=Lan%C5%A1krounsk%C3%A1%205%2C%20Svitavy",
+        "location": "Lanškrounská  5, Svitavy",
+        "mapycom_url": "https://mapy.com/zakladni?q=Lan%C5%A1krounsk%C3%A1%20%205%2C%20Svitavy",
+        "googlemaps_url": "https://www.google.com/maps?q=Lan%C5%A1krounsk%C3%A1%20%205%2C%20Svitavy",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -24144,9 +24164,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/95587242/5485226",
         "name": "Karták, Romana",
         "membership": "Řádné členství",
-        "location": "Vlkonice 97, Vacov",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vlkonice%2097%2C%20Vacov",
-        "googlemaps_url": "https://www.google.com/maps?q=Vlkonice%2097%2C%20Vacov",
+        "location": "1. máje 200, Vimperk",
+        "mapycom_url": "https://mapy.com/zakladni?q=1.%20m%C3%A1je%20200%2C%20Vimperk",
+        "googlemaps_url": "https://www.google.com/maps?q=1.%20m%C3%A1je%20200%2C%20Vimperk",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -24747,6 +24767,36 @@
         "location": "Horova 36/29, Hradec Králové",
         "mapycom_url": "https://mapy.com/zakladni?q=Horova%2036/29%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "googlemaps_url": "https://www.google.com/maps?q=Horova%2036/29%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 96040918,
+        "url": "https://czap.cz/Sys/PublicProfile/96040918/5485226",
+        "name": "Macháčková, Lenka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Okružní 2324, Pelhřimov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Okru%C5%BEn%C3%AD%202324%2C%20Pelh%C5%99imov",
+        "googlemaps_url": "https://www.google.com/maps?q=Okru%C5%BEn%C3%AD%202324%2C%20Pelh%C5%99imov",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96045293,
+        "url": "https://czap.cz/Sys/PublicProfile/96045293/5485226",
+        "name": "Rydvanová, Lucie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Na Dlouhém lánu 21/5, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Dlouh%C3%A9m%20l%C3%A1nu%2021/5%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Dlouh%C3%A9m%20l%C3%A1nu%2021/5%2C%20Praha%206",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96069743,
+        "url": "https://czap.cz/Sys/PublicProfile/96069743/5485226",
+        "name": "Krejčová, Lenka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Na Valích 511, Louny",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Val%C3%ADch%20511%2C%20Louny",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Val%C3%ADch%20511%2C%20Louny",
         "availability": "Info o dostupnosti na vyžádání"
     }
 ]
