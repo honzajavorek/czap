@@ -5277,7 +5277,7 @@
         "location": "Misto je zvoleno dohodou, Písek",
         "mapycom_url": "https://mapy.com/zakladni?q=Misto%20je%20zvoleno%20dohodou%2C%20P%C3%ADsek",
         "googlemaps_url": "https://www.google.com/maps?q=Misto%20je%20zvoleno%20dohodou%2C%20P%C3%ADsek",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885481,
@@ -5987,7 +5987,7 @@
         "location": "Vítkova 243/13, Praha 8 - Karlín",
         "mapycom_url": "https://mapy.com/zakladni?q=V%C3%ADtkova%20243/13%2C%20Praha%208%20-%20Karl%C3%ADn",
         "googlemaps_url": "https://www.google.com/maps?q=V%C3%ADtkova%20243/13%2C%20Praha%208%20-%20Karl%C3%ADn",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 59621323,
@@ -9904,9 +9904,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63602584/5485226",
         "name": "Trpáková, Petra",
         "membership": "Řádné členství",
-        "location": "Plachého 44, Plzeň",
-        "mapycom_url": "https://mapy.com/zakladni?q=Plach%C3%A9ho%2044%2C%20Plze%C5%88",
-        "googlemaps_url": "https://www.google.com/maps?q=Plach%C3%A9ho%2044%2C%20Plze%C5%88",
+        "location": "Sedláčkova 11, Plzeň",
+        "mapycom_url": "https://mapy.com/zakladni?q=Sedl%C3%A1%C4%8Dkova%2011%2C%20Plze%C5%88",
+        "googlemaps_url": "https://www.google.com/maps?q=Sedl%C3%A1%C4%8Dkova%2011%2C%20Plze%C5%88",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -11538,16 +11538,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=U%20Santo%C5%A1ky%201007/1%2C%20Praha%205",
         "googlemaps_url": "https://www.google.com/maps?q=U%20Santo%C5%A1ky%201007/1%2C%20Praha%205",
         "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 66991472,
-        "url": "https://czap.cz/Sys/PublicProfile/66991472/5485226",
-        "name": "Porubský, Peter",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Vršovické náměstí 8, Praha 10",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vr%C5%A1ovick%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%208%2C%20Praha%2010",
-        "googlemaps_url": "https://www.google.com/maps?q=Vr%C5%A1ovick%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%208%2C%20Praha%2010",
-        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 66996224,
@@ -19624,9 +19614,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/77607805/5485226",
         "name": "Novotná, Kateřina",
         "membership": "Řádné členství",
-        "location": "Na Dobešce 358/2, Praha 4",
-        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Dobe%C5%A1ce%20358/2%2C%20Praha%204",
-        "googlemaps_url": "https://www.google.com/maps?q=Na%20Dobe%C5%A1ce%20358/2%2C%20Praha%204",
+        "location": "Na Dobešce 358/2, Praha 4 Braník/ Praha 2 Vinohrady",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Dobe%C5%A1ce%20358/2%2C%20Praha%204%20Bran%C3%ADk/%20Praha%202%20Vinohrady",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Dobe%C5%A1ce%20358/2%2C%20Praha%204%20Bran%C3%ADk/%20Praha%202%20Vinohrady",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -19938,6 +19928,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Pacovsk%C3%A1%204%2C%20Praha%204",
         "googlemaps_url": "https://www.google.com/maps?q=Pacovsk%C3%A1%204%2C%20Praha%204",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 77864111,
+        "url": "https://czap.cz/Sys/PublicProfile/77864111/5485226",
+        "name": "Kožušníková, Ivana",
+        "membership": "Řádné členství",
+        "location": "Výstavní 2224/8, Ostrava - Mariánské hory",
+        "mapycom_url": "https://mapy.com/zakladni?q=V%C3%BDstavn%C3%AD%202224/8%2C%20Ostrava%20-%20Mari%C3%A1nsk%C3%A9%20hory",
+        "googlemaps_url": "https://www.google.com/maps?q=V%C3%BDstavn%C3%AD%202224/8%2C%20Ostrava%20-%20Mari%C3%A1nsk%C3%A9%20hory",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 77867449,
@@ -23330,6 +23330,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 93750199,
+        "url": "https://czap.cz/Sys/PublicProfile/93750199/5485226",
+        "name": "Kušnieriková, Michaela",
+        "membership": "Řádné členství",
+        "location": "Panenská 30, Bratislava",
+        "mapycom_url": "https://mapy.com/zakladni?q=Panensk%C3%A1%2030%2C%20Bratislava",
+        "googlemaps_url": "https://www.google.com/maps?q=Panensk%C3%A1%2030%2C%20Bratislava",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 93754490,
         "url": "https://czap.cz/Sys/PublicProfile/93754490/5485226",
         "name": "Nagyová, Lucia",
@@ -24360,6 +24370,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 95752684,
+        "url": "https://czap.cz/Sys/PublicProfile/95752684/5485226",
+        "name": "Wawroszová, Kamila",
+        "membership": "Řádné členství",
+        "location": "Suchdolské náměstí 1249/8, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Suchdolsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%201249/8%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Suchdolsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%201249/8%2C%20Praha%206",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 95757040,
         "url": "https://czap.cz/Sys/PublicProfile/95757040/5485226",
         "name": "Mansfeldová, Jitka",
@@ -24767,6 +24787,16 @@
         "location": "Horova 36/29, Hradec Králové",
         "mapycom_url": "https://mapy.com/zakladni?q=Horova%2036/29%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "googlemaps_url": "https://www.google.com/maps?q=Horova%2036/29%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 95979326,
+        "url": "https://czap.cz/Sys/PublicProfile/95979326/5485226",
+        "name": "Kotek, Martin",
+        "membership": "Řádné členství",
+        "location": "Řipská 767/15, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%98ipsk%C3%A1%20767/15%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%98ipsk%C3%A1%20767/15%2C%20Praha",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
