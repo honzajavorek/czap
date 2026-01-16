@@ -11540,6 +11540,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 66991472,
+        "url": "https://czap.cz/Sys/PublicProfile/66991472/5485226",
+        "name": "Porubský, Peter",
+        "membership": "Řádné členství",
+        "location": "Vršovické náměstí 8, Praha 10",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vr%C5%A1ovick%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%208%2C%20Praha%2010",
+        "googlemaps_url": "https://www.google.com/maps?q=Vr%C5%A1ovick%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%208%2C%20Praha%2010",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 66996224,
         "url": "https://czap.cz/Sys/PublicProfile/66996224/5485226",
         "name": "Jungbauerová, Aneta",
@@ -18350,16 +18360,6 @@
         "availability": "Nepřijímám nové klienty"
     },
     {
-        "id": 76166714,
-        "url": "https://czap.cz/Sys/PublicProfile/76166714/5485226",
-        "name": "Benešová, Ivana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Vašíčkova 3081, Kladno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Va%C5%A1%C3%AD%C4%8Dkova%203081%2C%20Kladno",
-        "googlemaps_url": "https://www.google.com/maps?q=Va%C5%A1%C3%AD%C4%8Dkova%203081%2C%20Kladno",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 76183075,
         "url": "https://czap.cz/Sys/PublicProfile/76183075/5485226",
         "name": "Paclíková, Kateřina",
@@ -19644,9 +19644,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/77624643/5485226",
         "name": "Dvořáková, Klára",
         "membership": "Řádné členství",
-        "location": "Poliklinika U Tří Lvů, U Tří Lvů 294, České Budějovice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Poliklinika%20U%20T%C5%99%C3%AD%20Lv%C5%AF%2C%20U%20T%C5%99%C3%AD%20Lv%C5%AF%20294%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
-        "googlemaps_url": "https://www.google.com/maps?q=Poliklinika%20U%20T%C5%99%C3%AD%20Lv%C5%AF%2C%20U%20T%C5%99%C3%AD%20Lv%C5%AF%20294%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "location": "U Tří Lvů 8 (vedle restaurace Alchymista), České Budějovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=U%20T%C5%99%C3%AD%20Lv%C5%AF%208%20%28vedle%20restaurace%20Alchymista%29%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "googlemaps_url": "https://www.google.com/maps?q=U%20T%C5%99%C3%AD%20Lv%C5%AF%208%20%28vedle%20restaurace%20Alchymista%29%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -24797,6 +24797,16 @@
         "location": "Řipská 767/15, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%98ipsk%C3%A1%20767/15%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%98ipsk%C3%A1%20767/15%2C%20Praha",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 96021835,
+        "url": "https://czap.cz/Sys/PublicProfile/96021835/5485226",
+        "name": "Benetová, Sabina",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Svitavy",
+        "mapycom_url": "https://mapy.com/zakladni?q=Svitavy",
+        "googlemaps_url": "https://www.google.com/maps?q=Svitavy",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
