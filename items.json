@@ -8040,6 +8040,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 62373557,
+        "url": "https://czap.cz/Sys/PublicProfile/62373557/5485226",
+        "name": "Flemrová, Petra",
+        "membership": "Řádné členství",
+        "location": "Riegrova 14 (1.adresa), Brandýs nad Labem - Stará Boleslav",
+        "mapycom_url": "https://mapy.com/zakladni?q=Riegrova%2014%20%281.adresa%29%2C%20Brand%C3%BDs%20nad%20Labem%20-%20Star%C3%A1%20Boleslav",
+        "googlemaps_url": "https://www.google.com/maps?q=Riegrova%2014%20%281.adresa%29%2C%20Brand%C3%BDs%20nad%20Labem%20-%20Star%C3%A1%20Boleslav",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 62373991,
         "url": "https://czap.cz/Sys/PublicProfile/62373991/5485226",
         "name": "Rolexová, Soňa",
@@ -18420,6 +18430,16 @@
         "availability": "Nepřijímám nové klienty"
     },
     {
+        "id": 76166714,
+        "url": "https://czap.cz/Sys/PublicProfile/76166714/5485226",
+        "name": "Benešová, Ivana",
+        "membership": "Řádné členství",
+        "location": "Vašíčkova 3081, Kladno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Va%C5%A1%C3%AD%C4%8Dkova%203081%2C%20Kladno",
+        "googlemaps_url": "https://www.google.com/maps?q=Va%C5%A1%C3%AD%C4%8Dkova%203081%2C%20Kladno",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 76183075,
         "url": "https://czap.cz/Sys/PublicProfile/76183075/5485226",
         "name": "Paclíková, Kateřina",
@@ -20423,7 +20443,7 @@
         "id": 78377047,
         "url": "https://czap.cz/Sys/PublicProfile/78377047/5485226",
         "name": "Štěpánková, Veronika",
-        "membership": "Kandidátní členství - ve výcviku",
+        "membership": "Řádné členství",
         "location": "Psychiatrická nemocnice Rozkošská 2322, Havlíčkův Brod",
         "mapycom_url": "https://mapy.com/zakladni?q=Psychiatrick%C3%A1%20nemocnice%20Rozko%C5%A1sk%C3%A1%202322%2C%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod",
         "googlemaps_url": "https://www.google.com/maps?q=Psychiatrick%C3%A1%20nemocnice%20Rozko%C5%A1sk%C3%A1%202322%2C%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod",
@@ -24930,6 +24950,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 95995017,
+        "url": "https://czap.cz/Sys/PublicProfile/95995017/5485226",
+        "name": "Hořejšová, Zuzana",
+        "membership": "Řádné členství",
+        "location": "Slunečná 1, České Budějovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Slune%C4%8Dn%C3%A1%201%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Slune%C4%8Dn%C3%A1%201%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 96016526,
         "url": "https://czap.cz/Sys/PublicProfile/96016526/5485226",
         "name": "Krutilová, Michaela",
@@ -25048,5 +25078,15 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Pal%C3%A1c%20ADRIA%20Jungmannova%2036/31%2C%20Praha%201%2C%20Vstup%20A%2C%204.%20patro",
         "googlemaps_url": "https://www.google.com/maps?q=Pal%C3%A1c%20ADRIA%20Jungmannova%2036/31%2C%20Praha%201%2C%20Vstup%20A%2C%204.%20patro",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96109294,
+        "url": "https://czap.cz/Sys/PublicProfile/96109294/5485226",
+        "name": "Pokorná, Daniela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "K Mohyle 456/5, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=K%20Mohyle%20456/5%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=K%20Mohyle%20456/5%2C%20Praha%206",
+        "availability": "Info o dostupnosti na vyžádání"
     }
 ]
