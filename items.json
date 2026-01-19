@@ -927,7 +927,7 @@
         "location": "Viktora Huga 4, Praha 5 - Smíchov",
         "mapycom_url": "https://mapy.com/zakladni?q=Viktora%20Huga%204%2C%20Praha%205%20-%20Sm%C3%ADchov",
         "googlemaps_url": "https://www.google.com/maps?q=Viktora%20Huga%204%2C%20Praha%205%20-%20Sm%C3%ADchov",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 58884984,
@@ -2917,6 +2917,16 @@
         "location": "Na Poříčí, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 58885203,
+        "url": "https://czap.cz/Sys/PublicProfile/58885203/5485226",
+        "name": "Babej, Sára",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Nad Manovkou 63, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nad%20Manovkou%2063%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Nad%20Manovkou%2063%2C%20Praha%206",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -25030,6 +25040,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 96065319,
+        "url": "https://czap.cz/Sys/PublicProfile/96065319/5485226",
+        "name": "Steigerwaldová, Zuzana",
+        "membership": "Řádné členství",
+        "location": "Hráského 2231/25, Praha 4 Chodov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Hr%C3%A1sk%C3%A9ho%202231/25%2C%20Praha%204%20Chodov",
+        "googlemaps_url": "https://www.google.com/maps?q=Hr%C3%A1sk%C3%A9ho%202231/25%2C%20Praha%204%20Chodov",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 96069743,
         "url": "https://czap.cz/Sys/PublicProfile/96069743/5485226",
         "name": "Krejčová, Lenka",
@@ -25048,6 +25068,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Erbenova%202978%2C%20T%C3%A1bor",
         "googlemaps_url": "https://www.google.com/maps?q=Erbenova%202978%2C%20T%C3%A1bor",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96078005,
+        "url": "https://czap.cz/Sys/PublicProfile/96078005/5485226",
+        "name": "Spěváčková, Linda",
+        "membership": "Řádné členství",
+        "location": "Klášterní 2676/17a, Plzeň",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kl%C3%A1%C5%A1tern%C3%AD%202676/17a%2C%20Plze%C5%88",
+        "googlemaps_url": "https://www.google.com/maps?q=Kl%C3%A1%C5%A1tern%C3%AD%202676/17a%2C%20Plze%C5%88",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 96078790,
@@ -25078,6 +25108,26 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Pal%C3%A1c%20ADRIA%20Jungmannova%2036/31%2C%20Praha%201%2C%20Vstup%20A%2C%204.%20patro",
         "googlemaps_url": "https://www.google.com/maps?q=Pal%C3%A1c%20ADRIA%20Jungmannova%2036/31%2C%20Praha%201%2C%20Vstup%20A%2C%204.%20patro",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96097408,
+        "url": "https://czap.cz/Sys/PublicProfile/96097408/5485226",
+        "name": "Buchtíková, Anna",
+        "membership": "Řádné členství",
+        "location": "Masarykovo náměstí 15, Bystřice nad Pernštejnem",
+        "mapycom_url": "https://mapy.com/zakladni?q=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%2015%2C%20Byst%C5%99ice%20nad%20Pern%C5%A1tejnem",
+        "googlemaps_url": "https://www.google.com/maps?q=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%2015%2C%20Byst%C5%99ice%20nad%20Pern%C5%A1tejnem",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96100774,
+        "url": "https://czap.cz/Sys/PublicProfile/96100774/5485226",
+        "name": "Zemanová, Terezie",
+        "membership": "Řádné členství",
+        "location": "nábřeží 1. máje 2518, Písek",
+        "mapycom_url": "https://mapy.com/zakladni?q=n%C3%A1b%C5%99e%C5%BE%C3%AD%201.%20m%C3%A1je%202518%2C%20P%C3%ADsek",
+        "googlemaps_url": "https://www.google.com/maps?q=n%C3%A1b%C5%99e%C5%BE%C3%AD%201.%20m%C3%A1je%202518%2C%20P%C3%ADsek",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 96109294,
