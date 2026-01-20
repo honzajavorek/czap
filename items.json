@@ -3064,10 +3064,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885219/5485226",
         "name": "Kostková, Naďa",
         "membership": "Řádné členství",
-        "location": "Jeseniova 47, Praha 3",
-        "mapycom_url": "https://mapy.com/zakladni?q=Jeseniova%2047%2C%20Praha%203",
-        "googlemaps_url": "https://www.google.com/maps?q=Jeseniova%2047%2C%20Praha%203",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Plaská 7, Praha 5",
+        "mapycom_url": "https://mapy.com/zakladni?q=Plask%C3%A1%207%2C%20Praha%205",
+        "googlemaps_url": "https://www.google.com/maps?q=Plask%C3%A1%207%2C%20Praha%205",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885220,
@@ -13677,7 +13677,7 @@
         "location": "Příkop 27/2a, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 68573344,
@@ -18442,7 +18442,7 @@
     {
         "id": 76166714,
         "url": "https://czap.cz/Sys/PublicProfile/76166714/5485226",
-        "name": "Benešová, Ivana",
+        "name": "Benešová Partlová, Ivana",
         "membership": "Řádné členství",
         "location": "Vašíčkova 3081, Kladno",
         "mapycom_url": "https://mapy.com/zakladni?q=Va%C5%A1%C3%AD%C4%8Dkova%203081%2C%20Kladno",
@@ -21740,6 +21740,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 80897801,
+        "url": "https://czap.cz/Sys/PublicProfile/80897801/5485226",
+        "name": "Krasulová, Andrea",
+        "membership": "Řádné členství",
+        "location": "Koperníkova 41, Plzeň",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kopern%C3%ADkova%2041%2C%20Plze%C5%88",
+        "googlemaps_url": "https://www.google.com/maps?q=Kopern%C3%ADkova%2041%2C%20Plze%C5%88",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 80897865,
         "url": "https://czap.cz/Sys/PublicProfile/80897865/5485226",
         "name": "Tlapáková, Blanka",
@@ -24337,7 +24347,7 @@
         "location": "Česká 26/41, České Budějovice",
         "mapycom_url": "https://mapy.com/zakladni?q=%C4%8Cesk%C3%A1%2026/41%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
         "googlemaps_url": "https://www.google.com/maps?q=%C4%8Cesk%C3%A1%2026/41%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 95655803,
@@ -24898,6 +24908,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Horova%2036/29%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "googlemaps_url": "https://www.google.com/maps?q=Horova%2036/29%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 95973994,
+        "url": "https://czap.cz/Sys/PublicProfile/95973994/5485226",
+        "name": "Pavelková, Eva",
+        "membership": "Řádné členství",
+        "location": "Jugoslávská ulice, Ostrava",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jugosl%C3%A1vsk%C3%A1%20ulice%2C%20Ostrava",
+        "googlemaps_url": "https://www.google.com/maps?q=Jugosl%C3%A1vsk%C3%A1%20ulice%2C%20Ostrava",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 95976640,
