@@ -354,9 +354,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58884916/5485226",
         "name": "Nohýnková, Anna",
         "membership": "Řádné členství",
-        "location": "Hlavní 83, Brno-Komín",
-        "mapycom_url": "https://mapy.com/zakladni?q=Hlavn%C3%AD%2083%2C%20Brno-Kom%C3%ADn",
-        "googlemaps_url": "https://www.google.com/maps?q=Hlavn%C3%AD%2083%2C%20Brno-Kom%C3%ADn",
+        "location": "Kounicova 10, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kounicova%2010%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Kounicova%2010%2C%20Brno",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -2354,9 +2354,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885140/5485226",
         "name": "Řiháčková, Simona",
         "membership": "Řádné členství",
-        "location": "tř. Kpt. Jaroše 25, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=t%C5%99.%20Kpt.%20Jaro%C5%A1e%2025%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=t%C5%99.%20Kpt.%20Jaro%C5%A1e%2025%2C%20Brno",
+        "location": "Hlinky 118, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Hlinky%20118%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Hlinky%20118%2C%20Brno",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -10000,16 +10000,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 63645270,
-        "url": "https://czap.cz/Sys/PublicProfile/63645270/5485226",
-        "name": "Radlička Kořínková, Jana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Příkop 27/2a, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 63646472,
         "url": "https://czap.cz/Sys/PublicProfile/63646472/5485226",
         "name": "Štroblová, Magdalena",
@@ -10997,7 +10987,7 @@
         "location": "Starobrněnská 341/18, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Starobrn%C4%9Bnsk%C3%A1%20341/18%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Starobrn%C4%9Bnsk%C3%A1%20341/18%2C%20Brno",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 64848398,
@@ -23150,6 +23140,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 90280767,
+        "url": "https://czap.cz/Sys/PublicProfile/90280767/5485226",
+        "name": "Čížková, Petra",
+        "membership": "Řádné členství",
+        "location": "V Jámě 1317/8, Praha, Nové Město",
+        "mapycom_url": "https://mapy.com/zakladni?q=V%20J%C3%A1m%C4%9B%201317/8%2C%20Praha%2C%20Nov%C3%A9%20M%C4%9Bsto",
+        "googlemaps_url": "https://www.google.com/maps?q=V%20J%C3%A1m%C4%9B%201317/8%2C%20Praha%2C%20Nov%C3%A9%20M%C4%9Bsto",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 90325225,
         "url": "https://czap.cz/Sys/PublicProfile/90325225/5485226",
         "name": "Cvrkalová, Eliška",
@@ -24348,6 +24348,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=%C4%8Cesk%C3%A1%2026/41%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
         "googlemaps_url": "https://www.google.com/maps?q=%C4%8Cesk%C3%A1%2026/41%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
         "availability": "Nepřijímám nové klienty"
+    },
+    {
+        "id": 95648028,
+        "url": "https://czap.cz/Sys/PublicProfile/95648028/5485226",
+        "name": "Jacková, Barbora",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Březová, Březová u Uherského Brodu",
+        "mapycom_url": "https://mapy.com/zakladni?q=B%C5%99ezov%C3%A1%2C%20B%C5%99ezov%C3%A1%20u%20Uhersk%C3%A9ho%20Brodu",
+        "googlemaps_url": "https://www.google.com/maps?q=B%C5%99ezov%C3%A1%2C%20B%C5%99ezov%C3%A1%20u%20Uhersk%C3%A9ho%20Brodu",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 95655803,
