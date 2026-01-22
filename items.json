@@ -1814,9 +1814,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885082/5485226",
         "name": "Tomšů, Lena",
         "membership": "Řádné členství",
-        "location": "Praha - adresa bude vždy upřesněna před konáním terapie, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Praha%20-%20adresa%20bude%20v%C5%BEdy%20up%C5%99esn%C4%9Bna%20p%C5%99ed%20kon%C3%A1n%C3%ADm%20terapie%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Praha%20-%20adresa%20bude%20v%C5%BEdy%20up%C5%99esn%C4%9Bna%20p%C5%99ed%20kon%C3%A1n%C3%ADm%20terapie%2C%20Praha",
+        "location": "Ječná 39a, 120 00 Praha 2, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Je%C4%8Dn%C3%A1%2039a%2C%20120%2000%20Praha%202%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Je%C4%8Dn%C3%A1%2039a%2C%20120%2000%20Praha%202%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -6650,6 +6650,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 61043394,
+        "url": "https://czap.cz/Sys/PublicProfile/61043394/5485226",
+        "name": "Pospíšilová, Jana",
+        "membership": "Řádné členství",
+        "location": "Veselá 199/5, Brno - střed",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vesel%C3%A1%20199/5%2C%20Brno%20-%20st%C5%99ed",
+        "googlemaps_url": "https://www.google.com/maps?q=Vesel%C3%A1%20199/5%2C%20Brno%20-%20st%C5%99ed",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 61043395,
         "url": "https://czap.cz/Sys/PublicProfile/61043395/5485226",
         "name": "Obluková, Hana",
@@ -7648,6 +7658,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%98ipsk%C3%A1%201113/7%2C%20Praha%2010",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%98ipsk%C3%A1%201113/7%2C%20Praha%2010",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 62158463,
+        "url": "https://czap.cz/Sys/PublicProfile/62158463/5485226",
+        "name": "Kamenová, Sabina",
+        "membership": "Řádné členství",
+        "location": "Nad Koupadlem 1768, Úvaly",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nad%20Koupadlem%201768%2C%20%C3%9Avaly",
+        "googlemaps_url": "https://www.google.com/maps?q=Nad%20Koupadlem%201768%2C%20%C3%9Avaly",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 62168365,
@@ -9368,6 +9388,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDi%C5%BEkova%20146%2C%20Kol%C3%ADn%20III.",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%BDi%C5%BEkova%20146%2C%20Kol%C3%ADn%20III.",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 63401994,
+        "url": "https://czap.cz/Sys/PublicProfile/63401994/5485226",
+        "name": "Chmelíková, Michaela",
+        "membership": "Řádné členství",
+        "location": "Mírové náměstí 103/27, Ústí nad Labem",
+        "mapycom_url": "https://mapy.com/zakladni?q=M%C3%ADrov%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20103/27%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
+        "googlemaps_url": "https://www.google.com/maps?q=M%C3%ADrov%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20103/27%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 63414592,
@@ -12270,6 +12300,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 67707039,
+        "url": "https://czap.cz/Sys/PublicProfile/67707039/5485226",
+        "name": "Veselá, Petra",
+        "membership": "Řádné členství",
+        "location": "KTC z. s. Soukenická 15, Praha 1, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=KTC%20z.%20s.%20Soukenick%C3%A1%2015%2C%20Praha%201%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=KTC%20z.%20s.%20Soukenick%C3%A1%2015%2C%20Praha%201%2C%20Praha",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 67722622,
         "url": "https://czap.cz/Sys/PublicProfile/67722622/5485226",
         "name": "Tesárková, Tea",
@@ -12964,10 +13004,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/68190689/5485226",
         "name": "Ukropová, Lucia",
         "membership": "Řádné členství",
-        "location": "Hilleho 4, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Hilleho%204%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Hilleho%204%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "location": "Durďákova 49, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Dur%C4%8F%C3%A1kova%2049%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Dur%C4%8F%C3%A1kova%2049%2C%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 68190736,
@@ -14714,9 +14754,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/69943889/5485226",
         "name": "Komárková, Jana",
         "membership": "Řádné členství",
-        "location": "Podolí 122, Podolí u Brna",
-        "mapycom_url": "https://mapy.com/zakladni?q=Podol%C3%AD%20122%2C%20Podol%C3%AD%20u%20Brna",
-        "googlemaps_url": "https://www.google.com/maps?q=Podol%C3%AD%20122%2C%20Podol%C3%AD%20u%20Brna",
+        "location": "Karla Čapka 13, Šlapanice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Karla%20%C4%8Capka%2013%2C%20%C5%A0lapanice",
+        "googlemaps_url": "https://www.google.com/maps?q=Karla%20%C4%8Capka%2013%2C%20%C5%A0lapanice",
         "availability": "Nepřijímám nové klienty"
     },
     {
@@ -17404,10 +17444,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/74637071/5485226",
         "name": "Moravcová, Monika",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Plynárenská 282, Teplice- Prosetice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Plyn%C3%A1rensk%C3%A1%20282%2C%20Teplice-%20Prosetice",
-        "googlemaps_url": "https://www.google.com/maps?q=Plyn%C3%A1rensk%C3%A1%20282%2C%20Teplice-%20Prosetice",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "U Divadla 25, Teplice",
+        "mapycom_url": "https://mapy.com/zakladni?q=U%20Divadla%2025%2C%20Teplice",
+        "googlemaps_url": "https://www.google.com/maps?q=U%20Divadla%2025%2C%20Teplice",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 74646427,
@@ -25140,6 +25180,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 96097240,
+        "url": "https://czap.cz/Sys/PublicProfile/96097240/5485226",
+        "name": "Trčková, Renáta",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Sokolovská 87/95, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Sokolovsk%C3%A1%2087/95%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Sokolovsk%C3%A1%2087/95%2C%20Praha",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 96097408,
         "url": "https://czap.cz/Sys/PublicProfile/96097408/5485226",
         "name": "Buchtíková, Anna",
@@ -25158,6 +25208,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=n%C3%A1b%C5%99e%C5%BE%C3%AD%201.%20m%C3%A1je%202518%2C%20P%C3%ADsek",
         "googlemaps_url": "https://www.google.com/maps?q=n%C3%A1b%C5%99e%C5%BE%C3%AD%201.%20m%C3%A1je%202518%2C%20P%C3%ADsek",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 96106501,
+        "url": "https://czap.cz/Sys/PublicProfile/96106501/5485226",
+        "name": "Daňková, Klára",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Plavnická, Kamenný újezd",
+        "mapycom_url": "https://mapy.com/zakladni?q=Plavnick%C3%A1%2C%20Kamenn%C3%BD%20%C3%BAjezd",
+        "googlemaps_url": "https://www.google.com/maps?q=Plavnick%C3%A1%2C%20Kamenn%C3%BD%20%C3%BAjezd",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 96109294,
