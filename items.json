@@ -6657,7 +6657,7 @@
         "location": "Veselá 199/5, Brno - střed",
         "mapycom_url": "https://mapy.com/zakladni?q=Vesel%C3%A1%20199/5%2C%20Brno%20-%20st%C5%99ed",
         "googlemaps_url": "https://www.google.com/maps?q=Vesel%C3%A1%20199/5%2C%20Brno%20-%20st%C5%99ed",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 61043395,
@@ -7852,7 +7852,7 @@
     {
         "id": 62291611,
         "url": "https://czap.cz/Sys/PublicProfile/62291611/5485226",
-        "name": "Nentvichová, Renáta",
+        "name": "Nentvichová Novotná, Renáta",
         "membership": "Řádné členství",
         "location": "Vyšehradská 49/320, Praha 2",
         "mapycom_url": "https://mapy.com/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2049/320%2C%20Praha%202",
@@ -18474,9 +18474,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/76166714/5485226",
         "name": "Benešová Partlová, Ivana",
         "membership": "Řádné členství",
-        "location": "Vašíčkova 3081, Kladno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Va%C5%A1%C3%AD%C4%8Dkova%203081%2C%20Kladno",
-        "googlemaps_url": "https://www.google.com/maps?q=Va%C5%A1%C3%AD%C4%8Dkova%203081%2C%20Kladno",
+        "location": "Vašíčkova 3081, Kladno, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Va%C5%A1%C3%AD%C4%8Dkova%203081%2C%20Kladno%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Va%C5%A1%C3%AD%C4%8Dkova%203081%2C%20Kladno%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -19332,7 +19332,7 @@
     {
         "id": 77121278,
         "url": "https://czap.cz/Sys/PublicProfile/77121278/5485226",
-        "name": "Snopková, Zuzana",
+        "name": "Fišrová, Zuzana",
         "membership": "Řádné členství",
         "location": "17. listopadu 45, Olomouc",
         "mapycom_url": "https://mapy.com/zakladni?q=17.%20listopadu%2045%2C%20Olomouc",
@@ -25020,6 +25020,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 95994750,
+        "url": "https://czap.cz/Sys/PublicProfile/95994750/5485226",
+        "name": "Slavíčková, Eva",
+        "membership": "Řádné členství",
+        "location": "28.října 1060, Řevnice",
+        "mapycom_url": "https://mapy.com/zakladni?q=28.%C5%99%C3%ADjna%201060%2C%20%C5%98evnice",
+        "googlemaps_url": "https://www.google.com/maps?q=28.%C5%99%C3%ADjna%201060%2C%20%C5%98evnice",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 95994949,
         "url": "https://czap.cz/Sys/PublicProfile/95994949/5485226",
         "name": "Parmová, Daniela",
@@ -25137,6 +25147,16 @@
         "location": "Erbenova 2978, Tábor",
         "mapycom_url": "https://mapy.com/zakladni?q=Erbenova%202978%2C%20T%C3%A1bor",
         "googlemaps_url": "https://www.google.com/maps?q=Erbenova%202978%2C%20T%C3%A1bor",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96076969,
+        "url": "https://czap.cz/Sys/PublicProfile/96076969/5485226",
+        "name": "Venturová, Irena",
+        "membership": "Řádné členství",
+        "location": "Nad Kazankou 424/1, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nad%20Kazankou%20424/1%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Nad%20Kazankou%20424/1%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
