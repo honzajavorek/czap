@@ -167,7 +167,7 @@
         "location": "Rumunská 1, Praha 2",
         "mapycom_url": "https://mapy.com/zakladni?q=Rumunsk%C3%A1%201%2C%20Praha%202",
         "googlemaps_url": "https://www.google.com/maps?q=Rumunsk%C3%A1%201%2C%20Praha%202",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58884895,
@@ -674,9 +674,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58884953/5485226",
         "name": "Pelikán, Pavel",
         "membership": "Řádné členství",
-        "location": "Na Petynce 151/90, Praha 6 - Střešovice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Petynce%20151/90%2C%20Praha%206%20-%20St%C5%99e%C5%A1ovice",
-        "googlemaps_url": "https://www.google.com/maps?q=Na%20Petynce%20151/90%2C%20Praha%206%20-%20St%C5%99e%C5%A1ovice",
+        "location": "Pod Andělkou 1, Praha 6 - Střešovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pod%20And%C4%9Blkou%201%2C%20Praha%206%20-%20St%C5%99e%C5%A1ovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Pod%20And%C4%9Blkou%201%2C%20Praha%206%20-%20St%C5%99e%C5%A1ovice",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -10037,6 +10037,16 @@
         "location": "Turnovská 6, Praha 8",
         "mapycom_url": "https://mapy.com/zakladni?q=Turnovsk%C3%A1%206%2C%20Praha%208",
         "googlemaps_url": "https://www.google.com/maps?q=Turnovsk%C3%A1%206%2C%20Praha%208",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 63645270,
+        "url": "https://czap.cz/Sys/PublicProfile/63645270/5485226",
+        "name": "Radlička Kořínková, Jana",
+        "membership": "Řádné členství",
+        "location": "Příkop 27/2a, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
