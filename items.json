@@ -4854,9 +4854,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885428/5485226",
         "name": "Šulcová, Petra",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Chomutov",
-        "mapycom_url": "https://mapy.com/zakladni?q=Chomutov",
-        "googlemaps_url": "https://www.google.com/maps?q=Chomutov",
+        "location": "Školni 5336, Chomutov",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0kolni%205336%2C%20Chomutov",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%A0kolni%205336%2C%20Chomutov",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -8147,16 +8147,6 @@
         "location": "V Kopečku 163, Hradec Králové",
         "mapycom_url": "https://mapy.com/zakladni?q=V%20Kope%C4%8Dku%20163%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "googlemaps_url": "https://www.google.com/maps?q=V%20Kope%C4%8Dku%20163%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 62382078,
-        "url": "https://czap.cz/Sys/PublicProfile/62382078/5485226",
-        "name": "Bejr Pavlíčková, Hana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Sdílené pracovny - nemám stálou adresu své praxe, Beroun",
-        "mapycom_url": "https://mapy.com/zakladni?q=Sd%C3%ADlen%C3%A9%20pracovny%20-%20nem%C3%A1m%20st%C3%A1lou%20adresu%20sv%C3%A9%20praxe%2C%20Beroun",
-        "googlemaps_url": "https://www.google.com/maps?q=Sd%C3%ADlen%C3%A9%20pracovny%20-%20nem%C3%A1m%20st%C3%A1lou%20adresu%20sv%C3%A9%20praxe%2C%20Beroun",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
