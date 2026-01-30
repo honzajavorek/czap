@@ -8150,6 +8150,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 62382078,
+        "url": "https://czap.cz/Sys/PublicProfile/62382078/5485226",
+        "name": "Bejr Pavlíčková, Hana",
+        "membership": "Řádné členství",
+        "location": "Sdílené pracovny - nemám stálou adresu své praxe, Beroun",
+        "mapycom_url": "https://mapy.com/zakladni?q=Sd%C3%ADlen%C3%A9%20pracovny%20-%20nem%C3%A1m%20st%C3%A1lou%20adresu%20sv%C3%A9%20praxe%2C%20Beroun",
+        "googlemaps_url": "https://www.google.com/maps?q=Sd%C3%ADlen%C3%A9%20pracovny%20-%20nem%C3%A1m%20st%C3%A1lou%20adresu%20sv%C3%A9%20praxe%2C%20Beroun",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 62396019,
         "url": "https://czap.cz/Sys/PublicProfile/62396019/5485226",
         "name": "Sedláčková, Simona",
@@ -11054,9 +11064,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/64923914/5485226",
         "name": "Tomanová Drnková, Veronika",
         "membership": "Řádné členství",
-        "location": "Charlese de Gaulla 3, Praha 6",
-        "mapycom_url": "https://mapy.com/zakladni?q=Charlese%20de%20Gaulla%203%2C%20Praha%206",
-        "googlemaps_url": "https://www.google.com/maps?q=Charlese%20de%20Gaulla%203%2C%20Praha%206",
+        "location": "Na Bojišti 20, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Boji%C5%A1ti%2020%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Boji%C5%A1ti%2020%2C%20Praha%202",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -13054,9 +13064,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68214913/5485226",
         "name": "Abrahamová, Tereza",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Žitná 1575/49, Praha 1 Nové město",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDitn%C3%A1%201575/49%2C%20Praha%201%20Nov%C3%A9%20m%C4%9Bsto",
-        "googlemaps_url": "https://www.google.com/maps?q=%C5%BDitn%C3%A1%201575/49%2C%20Praha%201%20Nov%C3%A9%20m%C4%9Bsto",
+        "location": "1. Máje 535/50, Liberec 7 - Jeřáb",
+        "mapycom_url": "https://mapy.com/zakladni?q=1.%20M%C3%A1je%20535/50%2C%20Liberec%207%20-%20Je%C5%99%C3%A1b",
+        "googlemaps_url": "https://www.google.com/maps?q=1.%20M%C3%A1je%20535/50%2C%20Liberec%207%20-%20Je%C5%99%C3%A1b",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -19680,16 +19690,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 77511029,
-        "url": "https://czap.cz/Sys/PublicProfile/77511029/5485226",
-        "name": "Fujanová, Ivana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Jankovcova 2442/49, Teplice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Jankovcova%202442/49%2C%20Teplice",
-        "googlemaps_url": "https://www.google.com/maps?q=Jankovcova%202442/49%2C%20Teplice",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 77531458,
         "url": "https://czap.cz/Sys/PublicProfile/77531458/5485226",
         "name": "Šritrová, Irena",
@@ -21497,6 +21497,16 @@
         "location": "Vrážská 1562/24a, Praha - Radotín",
         "mapycom_url": "https://mapy.com/zakladni?q=Vr%C3%A1%C5%BEsk%C3%A1%201562/24a%2C%20Praha%20-%20Radot%C3%ADn",
         "googlemaps_url": "https://www.google.com/maps?q=Vr%C3%A1%C5%BEsk%C3%A1%201562/24a%2C%20Praha%20-%20Radot%C3%ADn",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 79973403,
+        "url": "https://czap.cz/Sys/PublicProfile/79973403/5485226",
+        "name": "Novotná (roz. Hofmanová), Jana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Stará 30/3, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Star%C3%A1%2030/3%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Star%C3%A1%2030/3%2C%20Brno",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -25244,9 +25254,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/96106501/5485226",
         "name": "Daňková, Klára",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Plavnická, Kamenný újezd",
-        "mapycom_url": "https://mapy.com/zakladni?q=Plavnick%C3%A1%2C%20Kamenn%C3%BD%20%C3%BAjezd",
-        "googlemaps_url": "https://www.google.com/maps?q=Plavnick%C3%A1%2C%20Kamenn%C3%BD%20%C3%BAjezd",
+        "location": "Kuncova 1580, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kuncova%201580%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Kuncova%201580%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
