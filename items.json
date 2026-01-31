@@ -894,9 +894,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58884980/5485226",
         "name": "Kohoutková, Lenka",
         "membership": "Řádné členství",
-        "location": "Opletalova 25, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=Opletalova%2025%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=Opletalova%2025%2C%20Praha%201",
+        "location": "Ondříčkova 16, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ond%C5%99%C3%AD%C4%8Dkova%2016%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Ond%C5%99%C3%AD%C4%8Dkova%2016%2C%20Praha%203",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -5197,7 +5197,7 @@
         "location": "Václavská 20, Praha 2",
         "mapycom_url": "https://mapy.com/zakladni?q=V%C3%A1clavsk%C3%A1%2020%2C%20Praha%202",
         "googlemaps_url": "https://www.google.com/maps?q=V%C3%A1clavsk%C3%A1%2020%2C%20Praha%202",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885471,
@@ -16367,6 +16367,16 @@
         "location": "Líšeňská 2657, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=L%C3%AD%C5%A1e%C5%88sk%C3%A1%202657%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=L%C3%AD%C5%A1e%C5%88sk%C3%A1%202657%2C%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 72184603,
+        "url": "https://czap.cz/Sys/PublicProfile/72184603/5485226",
+        "name": "Vavrousová, Kristýna",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
