@@ -19024,9 +19024,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/76948028/5485226",
         "name": "Orlíková, Hana",
         "membership": "Řádné členství",
-        "location": "Antala Staška 80, Praha 4",
-        "mapycom_url": "https://mapy.com/zakladni?q=Antala%20Sta%C5%A1ka%2080%2C%20Praha%204",
-        "googlemaps_url": "https://www.google.com/maps?q=Antala%20Sta%C5%A1ka%2080%2C%20Praha%204",
+        "location": "Paříkova 94, Praha 9",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pa%C5%99%C3%ADkova%2094%2C%20Praha%209",
+        "googlemaps_url": "https://www.google.com/maps?q=Pa%C5%99%C3%ADkova%2094%2C%20Praha%209",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -19924,9 +19924,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/77736735/5485226",
         "name": "Hamar, Eleonóra",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Hlinky 144, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Hlinky%20144%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Hlinky%20144%2C%20Brno",
+        "location": "Údolní 33, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C3%9Adoln%C3%AD%2033%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=%C3%9Adoln%C3%AD%2033%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -25287,6 +25287,26 @@
         "location": "K Mohyle 456/5, Praha 6",
         "mapycom_url": "https://mapy.com/zakladni?q=K%20Mohyle%20456/5%2C%20Praha%206",
         "googlemaps_url": "https://www.google.com/maps?q=K%20Mohyle%20456/5%2C%20Praha%206",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 96123068,
+        "url": "https://czap.cz/Sys/PublicProfile/96123068/5485226",
+        "name": "Kvinta Gregorová, Michaela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Mučednická 945/3, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Mu%C4%8Dednick%C3%A1%20945/3%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Mu%C4%8Dednick%C3%A1%20945/3%2C%20Brno",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96221591,
+        "url": "https://czap.cz/Sys/PublicProfile/96221591/5485226",
+        "name": "Horká, Lucie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Trávníky 31, Brno-sever",
+        "mapycom_url": "https://mapy.com/zakladni?q=Tr%C3%A1vn%C3%ADky%2031%2C%20Brno-sever",
+        "googlemaps_url": "https://www.google.com/maps?q=Tr%C3%A1vn%C3%ADky%2031%2C%20Brno-sever",
         "availability": "Info o dostupnosti na vyžádání"
     }
 ]
