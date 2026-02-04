@@ -42,7 +42,7 @@ class CZAPSpider(scrapy.Spider):
                     input=json_structure,
                     capture_output=True,
                     text=True,
-                    timeout=60  # 60 second timeout
+                    timeout=60  # seconds
                 )
                 
                 if result.returncode != 0:
