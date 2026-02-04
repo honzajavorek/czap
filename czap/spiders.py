@@ -1,6 +1,5 @@
 import json
 import subprocess
-import os
 from pathlib import Path
 from typing import cast
 import html
