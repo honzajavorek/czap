@@ -51,21 +51,21 @@ jobs:
         run: rm items.json
 
       - name: Restore Scrapy cache
-        id: scrapy-cache-restore
         uses: actions/cache/restore@v5
         with:
           path: .scrapy
-          key: scrapy-cache
+          key: scrapy-cache-${{ github.run_id }}
+          restore-keys: |
+            scrapy-cache-
 
       - name: Scrape
         run: poetry run scrapy crawl czap
 
       - name: Save Scrapy cache
-        id: scrapy-cache-save
         uses: actions/cache/save@v5
         with:
           path: .scrapy
-          key: ${{ steps.scrapy-cache-restore.outputs.cache-primary-key }}
+          key: scrapy-cache-${{ github.run_id }}
 
       - name: Check that data got exported
         run: "[ -s items.json ] || exit 1"
