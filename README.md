@@ -23,9 +23,9 @@ If you want to build on top of the data and you're missing something, let me kno
 However, because I won't have time to add the fields, you better edit the code and add them yourself.
 
 The scraper first downloads all registry with a single request.
-The data is encoded not as a JSON, but as a non-standard JavaScript mess.
-I figured out the library `demjson3` can parse it, but it takes long minutes (e.g. 30 min) to get the result.
-I added cache so that the parse result stays around at least for a day.
+The data is encoded not as a JSON, but as a non-standard JavaScript object literal.
+To parse it efficiently, the scraper uses Node.js to safely evaluate the JavaScript and convert it to JSON.
+The parsed result is cached so it stays around for at least a day.
 
 That data contains some info about members.
 It is structured, but it's in a very cryptic structure which needs to be reverse-engineered.
