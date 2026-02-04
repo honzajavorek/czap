@@ -1,14 +1,11 @@
-import itertools
-import sys
-import threading
 import json
-import time
+import subprocess
+import os
 from typing import cast
 import html
 from urllib.parse import quote
 
 import scrapy
-import demjson3
 from diskcache import Cache
 
 
@@ -33,17 +30,27 @@ class CZAPSpider(scrapy.Spider):
         with Cache(cache_dir) as cache:
             try:
                 data = cast(dict, cache["data"])
-                self.logger.info("Loaded demjson3 data from cache")
+                self.logger.info("Loaded parsed data from cache")
             except KeyError:
                 self.logger.info(
-                    f"Parsing {len(json_structure)} characters by demjson3, this can take several minutes"
+                    f"Parsing {len(json_structure)} characters using Node.js"
                 )
-                holder = dict(done=False)
-                t = threading.Thread(target=animate, args=(holder,))
-                t.start()
-                data = cast(dict, demjson3.decode(json_structure))  # super super slow
+                # Use Node.js to parse the JavaScript object literal
+                script_path = os.path.join(os.path.dirname(__file__), 'parse_js.js')
+                result = subprocess.run(
+                    ['node', script_path],
+                    input=json_structure,
+                    capture_output=True,
+                    text=True,
+                    timeout=60  # 60 second timeout
+                )
+                
+                if result.returncode != 0:
+                    raise RuntimeError(f"Failed to parse JavaScript: {result.stderr}")
+                
+                data = cast(dict, json.loads(result.stdout))
                 cache.set("data", data, expire=cache_expire)
-                holder["done"] = True
+                self.logger.info("Successfully parsed JavaScript object")
 
         members, ids = data["members"]
         self.logger.info(f"Processing {len(members)} members")
@@ -102,13 +109,3 @@ def is_empty_location(value):
     ]:
         return True
     return False
-
-
-def animate(holder):
-    for c in itertools.cycle(["|", "/", "-", "\\"]):
-        if holder["done"]:
-            break
-        sys.stdout.write("\rParsing " + c)
-        sys.stdout.flush()
-        time.sleep(0.1)
-    sys.stdout.write("\rDone!     ")
