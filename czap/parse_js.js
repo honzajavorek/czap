@@ -10,12 +10,14 @@
 const vm = require('vm');
 const readline = require('readline');
 
+// Configuration
+const VM_TIMEOUT_MS = 10000;  // 10 second timeout for VM execution
+
 // Read all input from stdin
 let input = '';
 
 const rl = readline.createInterface({
   input: process.stdin,
-  output: process.stdout,
   terminal: false
 });
 
@@ -35,7 +37,7 @@ rl.on('close', () => {
     
     // Execute the code in the sandboxed context with a timeout
     const result = vm.runInContext(code, context, {
-      timeout: 10000, // 10 second timeout
+      timeout: VM_TIMEOUT_MS,
       displayErrors: true
     });
     

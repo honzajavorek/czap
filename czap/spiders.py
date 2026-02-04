@@ -1,6 +1,7 @@
 import json
 import subprocess
 import os
+from pathlib import Path
 from typing import cast
 import html
 from urllib.parse import quote
@@ -36,9 +37,9 @@ class CZAPSpider(scrapy.Spider):
                     f"Parsing {len(json_structure)} characters using Node.js"
                 )
                 # Use Node.js to parse the JavaScript object literal
-                script_path = os.path.join(os.path.dirname(__file__), 'parse_js.js')
+                script_path = Path(__file__).parent / 'parse_js.js'
                 result = subprocess.run(
-                    ['node', script_path],
+                    ['node', str(script_path)],
                     input=json_structure,
                     capture_output=True,
                     text=True,
