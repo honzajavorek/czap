@@ -29,8 +29,4 @@ FEEDS = {
     },
 }
 
-DISKCACHE_DIR = ".cache"
-
-DISKCACHE_EXPIRATION_SECS = 60 * 60 * 24  # 1 day (in seconds)
-
 CLOSESPIDER_ERRORCOUNT = 1

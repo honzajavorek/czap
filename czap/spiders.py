@@ -6,7 +6,6 @@ import html
 from urllib.parse import quote
 
 import scrapy
-from diskcache import Cache
 
 
 class CZAPSpider(scrapy.Spider):
@@ -24,33 +23,24 @@ class CZAPSpider(scrapy.Spider):
         text = response.text[9:]  # remove "while(1);" from the beginning
         json_structure = json.loads(text)["JsonStructure"]
 
-        cache_dir = self.settings["DISKCACHE_DIR"]
-        cache_expire = self.settings["DISKCACHE_EXPIRATION_SECS"]
-
-        with Cache(cache_dir) as cache:
-            try:
-                data = cast(dict, cache["data"])
-                self.logger.info("Loaded parsed data from cache")
-            except KeyError:
-                self.logger.info(
-                    f"Parsing {len(json_structure)} characters using Node.js"
-                )
-                # Use Node.js to parse the JavaScript object literal
-                script_path = Path(__file__).parent / 'parse_js.js'
-                result = subprocess.run(
-                    ['node', str(script_path)],
-                    input=json_structure,
-                    capture_output=True,
-                    text=True,
-                    timeout=60  # seconds
-                )
-                
-                if result.returncode != 0:
-                    raise RuntimeError(f"Failed to parse JavaScript: {result.stderr}")
-                
-                data = cast(dict, json.loads(result.stdout))
-                cache.set("data", data, expire=cache_expire)
-                self.logger.info("Successfully parsed JavaScript object")
+        self.logger.info(
+            f"Parsing {len(json_structure)} characters using Node.js"
+        )
+        # Use Node.js to parse the JavaScript object literal
+        script_path = Path(__file__).parent / 'parse_js.js'
+        result = subprocess.run(
+            ['node', str(script_path)],
+            input=json_structure,
+            capture_output=True,
+            text=True,
+            timeout=60  # seconds
+        )
+        
+        if result.returncode != 0:
+            raise RuntimeError(f"Failed to parse JavaScript: {result.stderr}")
+        
+        data = cast(dict, json.loads(result.stdout))
+        self.logger.info("Successfully parsed JavaScript object")
 
         members, ids = data["members"]
         self.logger.info(f"Processing {len(members)} members")

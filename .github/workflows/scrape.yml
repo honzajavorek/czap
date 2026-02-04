@@ -50,26 +50,8 @@ jobs:
       - name: Clear data file
         run: rm items.json
 
-      - name: Restore cache
-        id: diskcache-restore
-        uses: actions/cache/restore@v5
-        with:
-          path: |
-            .cache
-            .scrapy
-          key: diskcache
-
       - name: Scrape
         run: poetry run scrapy crawl czap
-
-      - name: Save cache
-        id: diskcache-save
-        uses: actions/cache/save@v5
-        with:
-          path: |
-            .cache
-            .scrapy
-          key: ${{ steps.diskcache-restore.outputs.cache-primary-key }}
 
       - name: Check that data got exported
         run: "[ -s items.json ] || exit 1"

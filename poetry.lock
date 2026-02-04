@@ -325,18 +325,6 @@ files = [
 ]
 
 [[package]]
-name = "diskcache"
-version = "5.6.3"
-description = "Disk Cache -- Disk and file backed persistent cache."
-optional = false
-python-versions = ">=3"
-groups = ["main"]
-files = [
-    {file = "diskcache-5.6.3-py3-none-any.whl", hash = "sha256:5e31b2d5fbad117cc363ebaf6b689474db18a1f6438bc82358b024abd4c2ca19"},
-    {file = "diskcache-5.6.3.tar.gz", hash = "sha256:2c3a3fa2743d8535d832ec61c2054a1641f41775aa7c556758a109941e33e4fc"},
-]
-
-[[package]]
 name = "filelock"
 version = "3.18.0"
 description = "A platform independent file lock."
@@ -1018,4 +1006,4 @@ testing = ["coverage[toml]", "zope.event", "zope.testing"]
 [metadata]
 lock-version = "2.1"
 python-versions = "~3.12"
-content-hash = "59a4b0b7b660bca35fbcc0b26cde5df26fd148f985cde645b599e3b5637e32d6"
+content-hash = "18b246054f551ff88b54d767ee032aa9b5aaa99da0935b33e4d7b14de54bf36f"
