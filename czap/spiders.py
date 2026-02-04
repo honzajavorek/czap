@@ -24,9 +24,8 @@ class CZAPSpider(scrapy.Spider):
         json_structure = json.loads(text)["JsonStructure"]
 
         self.logger.info(
-            f"Parsing {len(json_structure)} characters using Node.js"
+            f"Parsing {len(json_structure)} characters of JavaScript object literal using Node.js"
         )
-        # Use Node.js to parse the JavaScript object literal
         script_path = Path(__file__).parent / 'parse_js.js'
         result = subprocess.run(
             ['node', str(script_path)],
