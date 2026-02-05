@@ -1,15 +1,11 @@
-import itertools
-import sys
-import threading
 import json
-import time
+import subprocess
+from pathlib import Path
 from typing import cast
 import html
 from urllib.parse import quote
 
 import scrapy
-import demjson3
-from diskcache import Cache
 
 
 class CZAPSpider(scrapy.Spider):
@@ -27,23 +23,23 @@ class CZAPSpider(scrapy.Spider):
         text = response.text[9:]  # remove "while(1);" from the beginning
         json_structure = json.loads(text)["JsonStructure"]
 
-        cache_dir = self.settings["DISKCACHE_DIR"]
-        cache_expire = self.settings["DISKCACHE_EXPIRATION_SECS"]
-
-        with Cache(cache_dir) as cache:
-            try:
-                data = cast(dict, cache["data"])
-                self.logger.info("Loaded demjson3 data from cache")
-            except KeyError:
-                self.logger.info(
-                    f"Parsing {len(json_structure)} characters by demjson3, this can take several minutes"
-                )
-                holder = dict(done=False)
-                t = threading.Thread(target=animate, args=(holder,))
-                t.start()
-                data = cast(dict, demjson3.decode(json_structure))  # super super slow
-                cache.set("data", data, expire=cache_expire)
-                holder["done"] = True
+        self.logger.info(
+            f"Parsing {len(json_structure)} characters of JavaScript object literal using Node.js"
+        )
+        script_path = Path(__file__).parent / 'parse_js.js'
+        result = subprocess.run(
+            ['node', str(script_path)],
+            input=json_structure,
+            capture_output=True,
+            text=True,
+            timeout=60  # seconds
+        )
+        
+        if result.returncode != 0:
+            raise RuntimeError(f"Failed to parse JavaScript: {result.stderr}")
+        
+        data = cast(dict, json.loads(result.stdout))
+        self.logger.info("Successfully parsed JavaScript object")
 
         members, ids = data["members"]
         self.logger.info(f"Processing {len(members)} members")
@@ -102,13 +98,3 @@ def is_empty_location(value):
     ]:
         return True
     return False
-
-
-def animate(holder):
-    for c in itertools.cycle(["|", "/", "-", "\\"]):
-        if holder["done"]:
-            break
-        sys.stdout.write("\rParsing " + c)
-        sys.stdout.flush()
-        time.sleep(0.1)
-    sys.stdout.write("\rDone!     ")

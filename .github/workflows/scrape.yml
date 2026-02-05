@@ -28,6 +28,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
       - name: Install Poetry
         run: pipx install poetry
 
@@ -45,26 +50,22 @@ jobs:
       - name: Clear data file
         run: rm items.json
 
-      - name: Restore cache
-        id: diskcache-restore
+      - name: Restore Scrapy cache
         uses: actions/cache/restore@v5
         with:
-          path: |
-            .cache
-            .scrapy
-          key: diskcache
+          path: .scrapy
+          key: scrapy-cache-${{ github.run_id }}
+          restore-keys: |
+            scrapy-cache-
 
       - name: Scrape
         run: poetry run scrapy crawl czap
 
-      - name: Save cache
-        id: diskcache-save
+      - name: Save Scrapy cache
         uses: actions/cache/save@v5
         with:
-          path: |
-            .cache
-            .scrapy
-          key: ${{ steps.diskcache-restore.outputs.cache-primary-key }}
+          path: .scrapy
+          key: scrapy-cache-${{ github.run_id }}
 
       - name: Check that data got exported
         run: "[ -s items.json ] || exit 1"
