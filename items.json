@@ -11747,7 +11747,7 @@
         "location": "Římská 2135/45, Vinohrady, Praha 2",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%98%C3%ADmsk%C3%A1%202135/45%2C%20Vinohrady%2C%20Praha%202",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%98%C3%ADmsk%C3%A1%202135/45%2C%20Vinohrady%2C%20Praha%202",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 67104884,
@@ -14674,9 +14674,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/69666028/5485226",
         "name": "Tesar, Nicole",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Jindřicha Plachty 3311/18, Praha 5",
-        "mapycom_url": "https://mapy.com/zakladni?q=Jind%C5%99icha%20Plachty%203311/18%2C%20Praha%205",
-        "googlemaps_url": "https://www.google.com/maps?q=Jind%C5%99icha%20Plachty%203311/18%2C%20Praha%205",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
         "availability": "Přijímám nové klienty"
     },
     {
@@ -25340,6 +25340,26 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 96123538,
+        "url": "https://czap.cz/Sys/PublicProfile/96123538/5485226",
+        "name": "Hanuš, David",
+        "membership": "Řádné členství",
+        "location": "Thámova 24, Praha 8",
+        "mapycom_url": "https://mapy.com/zakladni?q=Th%C3%A1mova%2024%2C%20Praha%208",
+        "googlemaps_url": "https://www.google.com/maps?q=Th%C3%A1mova%2024%2C%20Praha%208",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96133293,
+        "url": "https://czap.cz/Sys/PublicProfile/96133293/5485226",
+        "name": "Pařízková, Olga",
+        "membership": "Řádné členství",
+        "location": "Masarykův domov, Smetanova 1284/32, Tábor",
+        "mapycom_url": "https://mapy.com/zakladni?q=Masaryk%C5%AFv%20domov%2C%20Smetanova%201284/32%2C%20T%C3%A1bor",
+        "googlemaps_url": "https://www.google.com/maps?q=Masaryk%C5%AFv%20domov%2C%20Smetanova%201284/32%2C%20T%C3%A1bor",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 96153838,
         "url": "https://czap.cz/Sys/PublicProfile/96153838/5485226",
         "name": "Kůřilová, Radka",
@@ -25400,6 +25420,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 96211212,
+        "url": "https://czap.cz/Sys/PublicProfile/96211212/5485226",
+        "name": "Dvořáková, Lucie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Metelkova 1852, Kuřim",
+        "mapycom_url": "https://mapy.com/zakladni?q=Metelkova%201852%2C%20Ku%C5%99im",
+        "googlemaps_url": "https://www.google.com/maps?q=Metelkova%201852%2C%20Ku%C5%99im",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 96211606,
         "url": "https://czap.cz/Sys/PublicProfile/96211606/5485226",
         "name": "Štarhová, Tereza",
@@ -25430,6 +25460,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 96242495,
+        "url": "https://czap.cz/Sys/PublicProfile/96242495/5485226",
+        "name": "Hejnová, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Soukalova 3355/3, Praha 4 Modřany",
+        "mapycom_url": "https://mapy.com/zakladni?q=Soukalova%203355/3%2C%20Praha%204%20Mod%C5%99any",
+        "googlemaps_url": "https://www.google.com/maps?q=Soukalova%203355/3%2C%20Praha%204%20Mod%C5%99any",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 96246135,
         "url": "https://czap.cz/Sys/PublicProfile/96246135/5485226",
         "name": "Sedláčková, Markéta",
@@ -25437,6 +25477,16 @@
         "location": "Klatovská třída 125, Plzeň",
         "mapycom_url": "https://mapy.com/zakladni?q=Klatovsk%C3%A1%20t%C5%99%C3%ADda%20125%2C%20Plze%C5%88",
         "googlemaps_url": "https://www.google.com/maps?q=Klatovsk%C3%A1%20t%C5%99%C3%ADda%20125%2C%20Plze%C5%88",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96247910,
+        "url": "https://czap.cz/Sys/PublicProfile/96247910/5485226",
+        "name": "Vodičková, Mária",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Panská 391/1, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pansk%C3%A1%20391/1%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Pansk%C3%A1%20391/1%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
