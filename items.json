@@ -7820,6 +7820,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 62254730,
+        "url": "https://czap.cz/Sys/PublicProfile/62254730/5485226",
+        "name": "Urakbayeva, Sara",
+        "membership": "Řádné členství",
+        "location": "V Jámě 1, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=V%20J%C3%A1m%C4%9B%201%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=V%20J%C3%A1m%C4%9B%201%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 62254776,
         "url": "https://czap.cz/Sys/PublicProfile/62254776/5485226",
         "name": "Fayadová, Mgr. Bc. Adéla",
@@ -9677,6 +9687,16 @@
         "location": "Lipenská 869/17, České Budějovice",
         "mapycom_url": "https://mapy.com/zakladni?q=Lipensk%C3%A1%20869/17%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
         "googlemaps_url": "https://www.google.com/maps?q=Lipensk%C3%A1%20869/17%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 63542497,
+        "url": "https://czap.cz/Sys/PublicProfile/63542497/5485226",
+        "name": "Gruszczyk, Katarina",
+        "membership": "Řádné členství",
+        "location": "Nemocnice Agel Ostrava -Vítkovice, Zalužanského 1192/15, Ostrava",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nemocnice%20Agel%20Ostrava%20-V%C3%ADtkovice%2C%20Zalu%C5%BEansk%C3%A9ho%201192/15%2C%20Ostrava",
+        "googlemaps_url": "https://www.google.com/maps?q=Nemocnice%20Agel%20Ostrava%20-V%C3%ADtkovice%2C%20Zalu%C5%BEansk%C3%A9ho%201192/15%2C%20Ostrava",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -18394,9 +18414,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/75868598/5485226",
         "name": "Petříček, Milan",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Nádražní 397, Havlíčkův Brod",
-        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1dra%C5%BEn%C3%AD%20397%2C%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod",
-        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1dra%C5%BEn%C3%AD%20397%2C%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod",
+        "location": "Nádražní 397, Havlíčkův Brod, Jihlava",
+        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1dra%C5%BEn%C3%AD%20397%2C%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod%2C%20Jihlava",
+        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1dra%C5%BEn%C3%AD%20397%2C%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod%2C%20Jihlava",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -25320,6 +25340,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 96119146,
+        "url": "https://czap.cz/Sys/PublicProfile/96119146/5485226",
+        "name": "Malíková, Jana",
+        "membership": "Řádné členství",
+        "location": "Ocelářská 35, Praha 9",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ocel%C3%A1%C5%99sk%C3%A1%2035%2C%20Praha%209",
+        "googlemaps_url": "https://www.google.com/maps?q=Ocel%C3%A1%C5%99sk%C3%A1%2035%2C%20Praha%209",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 96123068,
         "url": "https://czap.cz/Sys/PublicProfile/96123068/5485226",
         "name": "Kvinta Gregorová, Michaela",
@@ -25507,6 +25537,16 @@
         "location": "Santražiny 753, Zlín",
         "mapycom_url": "https://mapy.com/zakladni?q=Santra%C5%BEiny%20753%2C%20Zl%C3%ADn",
         "googlemaps_url": "https://www.google.com/maps?q=Santra%C5%BEiny%20753%2C%20Zl%C3%ADn",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96260214,
+        "url": "https://czap.cz/Sys/PublicProfile/96260214/5485226",
+        "name": "Malíková, Barbora",
+        "membership": "Řádné členství",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
         "availability": "Přijímám nové klienty"
     },
     {
