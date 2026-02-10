@@ -12477,7 +12477,7 @@
         "location": "U Kartounky 38, Česká Lípa",
         "mapycom_url": "https://mapy.com/zakladni?q=U%20Kartounky%2038%2C%20%C4%8Cesk%C3%A1%20L%C3%ADpa",
         "googlemaps_url": "https://www.google.com/maps?q=U%20Kartounky%2038%2C%20%C4%8Cesk%C3%A1%20L%C3%ADpa",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 67811872,
@@ -15727,7 +15727,7 @@
         "location": "Kopečná 20, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Kope%C4%8Dn%C3%A1%2020%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Kope%C4%8Dn%C3%A1%2020%2C%20Brno",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 71160926,
@@ -15744,9 +15744,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/71164777/5485226",
         "name": "Žežula, Štěpán",
         "membership": "Řádné členství",
-        "location": "Eliášova 20, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=Eli%C3%A1%C5%A1ova%2020%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=Eli%C3%A1%C5%A1ova%2020%2C%20Praha%202",
+        "location": "Eliášova 20, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Eli%C3%A1%C5%A1ova%2020%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Eli%C3%A1%C5%A1ova%2020%2C%20Praha%206",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -19474,9 +19474,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/77160367/5485226",
         "name": "Holubičková, Lucie",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Křižíkova 345/4, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=K%C5%99i%C5%BE%C3%ADkova%20345/4%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=K%C5%99i%C5%BE%C3%ADkova%20345/4%2C%20Praha",
+        "location": "Křižíkova 345/4, Litvínov",
+        "mapycom_url": "https://mapy.com/zakladni?q=K%C5%99i%C5%BE%C3%ADkova%20345/4%2C%20Litv%C3%ADnov",
+        "googlemaps_url": "https://www.google.com/maps?q=K%C5%99i%C5%BE%C3%ADkova%20345/4%2C%20Litv%C3%ADnov",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -25170,6 +25170,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 96027817,
+        "url": "https://czap.cz/Sys/PublicProfile/96027817/5485226",
+        "name": "Sedláčková, Veronika",
+        "membership": "Řádné členství",
+        "location": "Eliášova 20, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Eli%C3%A1%C5%A1ova%2020%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Eli%C3%A1%C5%A1ova%2020%2C%20Praha%206",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 96033557,
         "url": "https://czap.cz/Sys/PublicProfile/96033557/5485226",
         "name": "Koubská, Olga",
@@ -25420,6 +25430,16 @@
         "availability": "Nepřijímám nové klienty"
     },
     {
+        "id": 96174431,
+        "url": "https://czap.cz/Sys/PublicProfile/96174431/5485226",
+        "name": "Novotná, Ivana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Na Míčánce 32, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20M%C3%AD%C4%8D%C3%A1nce%2032%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20M%C3%AD%C4%8D%C3%A1nce%2032%2C%20Praha%206",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 96184301,
         "url": "https://czap.cz/Sys/PublicProfile/96184301/5485226",
         "name": "Charvátová, Veronika",
@@ -25498,6 +25518,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Soukalova%203355/3%2C%20Praha%204%20Mod%C5%99any",
         "googlemaps_url": "https://www.google.com/maps?q=Soukalova%203355/3%2C%20Praha%204%20Mod%C5%99any",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96245847,
+        "url": "https://czap.cz/Sys/PublicProfile/96245847/5485226",
+        "name": "Zach, Peter",
+        "membership": "Řádné členství",
+        "location": "Kopečná 19, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kope%C4%8Dn%C3%A1%2019%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Kope%C4%8Dn%C3%A1%2019%2C%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 96246135,
