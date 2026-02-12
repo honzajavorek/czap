@@ -2214,10 +2214,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885124/5485226",
         "name": "Macháčková, Milada",
         "membership": "Řádné členství",
-        "location": null,
-        "mapycom_url": null,
-        "googlemaps_url": null,
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Jaroměř",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jarom%C4%9B%C5%99",
+        "googlemaps_url": "https://www.google.com/maps?q=Jarom%C4%9B%C5%99",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885125,
@@ -19047,7 +19047,7 @@
         "location": "Žižkova třída 309/12, České Budějovice",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDi%C5%BEkova%20t%C5%99%C3%ADda%20309/12%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%BDi%C5%BEkova%20t%C5%99%C3%ADda%20309/12%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 76948028,
@@ -22910,16 +22910,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 87351547,
-        "url": "https://czap.cz/Sys/PublicProfile/87351547/5485226",
-        "name": "Kubátová, Martina",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Pujmanové 3030, Havlíčkův Brod",
-        "mapycom_url": "https://mapy.com/zakladni?q=Pujmanov%C3%A9%203030%2C%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod",
-        "googlemaps_url": "https://www.google.com/maps?q=Pujmanov%C3%A9%203030%2C%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 87371884,
         "url": "https://czap.cz/Sys/PublicProfile/87371884/5485226",
         "name": "Trubačová, Renáta",
@@ -25448,6 +25438,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Opavsk%C3%A1%20289%2C%20Velk%C3%A9%20Heraltice",
         "googlemaps_url": "https://www.google.com/maps?q=Opavsk%C3%A1%20289%2C%20Velk%C3%A9%20Heraltice",
         "availability": "Nepřijímám nové klienty"
+    },
+    {
+        "id": 96197352,
+        "url": "https://czap.cz/Sys/PublicProfile/96197352/5485226",
+        "name": "Kovář, Jaroslav",
+        "membership": "Řádné členství",
+        "location": "Kapucínská 122/16, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kapuc%C3%ADnsk%C3%A1%20122/16%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Kapuc%C3%ADnsk%C3%A1%20122/16%2C%20Olomouc",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 96206198,
