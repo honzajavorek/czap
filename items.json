@@ -357,7 +357,7 @@
         "location": "Kounicova 10, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Kounicova%2010%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Kounicova%2010%2C%20Brno",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58884917,
@@ -15807,7 +15807,7 @@
         "location": "Kodaňská 25, Praha 10",
         "mapycom_url": "https://mapy.com/zakladni?q=Koda%C5%88sk%C3%A1%2025%2C%20Praha%2010",
         "googlemaps_url": "https://www.google.com/maps?q=Koda%C5%88sk%C3%A1%2025%2C%20Praha%2010",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 71259428,
@@ -17844,9 +17844,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/75054077/5485226",
         "name": "Cheverda, Tetiana",
         "membership": "Řádné členství",
-        "location": "Anhelovova 7, Praha 12",
-        "mapycom_url": "https://mapy.com/zakladni?q=Anhelovova%207%2C%20Praha%2012",
-        "googlemaps_url": "https://www.google.com/maps?q=Anhelovova%207%2C%20Praha%2012",
+        "location": "Anhelovova 7, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Anhelovova%207%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Anhelovova%207%2C%20Praha%203",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -25380,6 +25380,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 96124686,
+        "url": "https://czap.cz/Sys/PublicProfile/96124686/5485226",
+        "name": "Vlčková, Tereza",
+        "membership": "Řádné členství",
+        "location": "Matzenauerova 2222/4, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Matzenauerova%202222/4%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Matzenauerova%202222/4%2C%20Brno",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 96133293,
         "url": "https://czap.cz/Sys/PublicProfile/96133293/5485226",
         "name": "Pařízková, Olga",
@@ -25387,6 +25397,16 @@
         "location": "Masarykův domov, Smetanova 1284/32, Tábor",
         "mapycom_url": "https://mapy.com/zakladni?q=Masaryk%C5%AFv%20domov%2C%20Smetanova%201284/32%2C%20T%C3%A1bor",
         "googlemaps_url": "https://www.google.com/maps?q=Masaryk%C5%AFv%20domov%2C%20Smetanova%201284/32%2C%20T%C3%A1bor",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 96137643,
+        "url": "https://czap.cz/Sys/PublicProfile/96137643/5485226",
+        "name": "Blažková, Miluše",
+        "membership": "Řádné členství",
+        "location": "Dolní náměstí 1356, Vsetín",
+        "mapycom_url": "https://mapy.com/zakladni?q=Doln%C3%AD%20n%C3%A1m%C4%9Bst%C3%AD%201356%2C%20Vset%C3%ADn",
+        "googlemaps_url": "https://www.google.com/maps?q=Doln%C3%AD%20n%C3%A1m%C4%9Bst%C3%AD%201356%2C%20Vset%C3%ADn",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
