@@ -25390,6 +25390,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 96127638,
+        "url": "https://czap.cz/Sys/PublicProfile/96127638/5485226",
+        "name": "Straková, Eva",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Na Vyhlídce 582, Dobřichovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Vyhl%C3%ADdce%20582%2C%20Dob%C5%99ichovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Vyhl%C3%ADdce%20582%2C%20Dob%C5%99ichovice",
+        "availability": "Nepřijímám nové klienty"
+    },
+    {
         "id": 96133293,
         "url": "https://czap.cz/Sys/PublicProfile/96133293/5485226",
         "name": "Pařízková, Olga",
@@ -25447,6 +25457,16 @@
         "location": "Na Míčánce 32, Praha 6",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20M%C3%AD%C4%8D%C3%A1nce%2032%2C%20Praha%206",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20M%C3%AD%C4%8D%C3%A1nce%2032%2C%20Praha%206",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 96183610,
+        "url": "https://czap.cz/Sys/PublicProfile/96183610/5485226",
+        "name": "Gruntová Wurmová, Nela",
+        "membership": "Řádné členství",
+        "location": "Husova 13, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Husova%2013%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Husova%2013%2C%20Brno",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
