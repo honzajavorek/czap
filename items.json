@@ -14117,7 +14117,7 @@
         "location": "Srázná 19, Jihlava",
         "mapycom_url": "https://mapy.com/zakladni?q=Sr%C3%A1zn%C3%A1%2019%2C%20Jihlava",
         "googlemaps_url": "https://www.google.com/maps?q=Sr%C3%A1zn%C3%A1%2019%2C%20Jihlava",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 68790295,
@@ -16697,7 +16697,7 @@
         "location": "Zahradnická 6, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Zahradnick%C3%A1%206%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Zahradnick%C3%A1%206%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 72554180,
@@ -19787,7 +19787,7 @@
         "location": "Gorkého 658/15, Liberec 1",
         "mapycom_url": "https://mapy.com/zakladni?q=Gork%C3%A9ho%20658/15%2C%20Liberec%201",
         "googlemaps_url": "https://www.google.com/maps?q=Gork%C3%A9ho%20658/15%2C%20Liberec%201",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 77604336,
@@ -20557,7 +20557,7 @@
         "location": "Psychiatrická nemocnice Rozkošská 2322, Havlíčkův Brod",
         "mapycom_url": "https://mapy.com/zakladni?q=Psychiatrick%C3%A1%20nemocnice%20Rozko%C5%A1sk%C3%A1%202322%2C%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod",
         "googlemaps_url": "https://www.google.com/maps?q=Psychiatrick%C3%A1%20nemocnice%20Rozko%C5%A1sk%C3%A1%202322%2C%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 78389271,
@@ -23150,6 +23150,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 89665308,
+        "url": "https://czap.cz/Sys/PublicProfile/89665308/5485226",
+        "name": "Uhříček, Jan",
+        "membership": "Řádné členství",
+        "location": "Kvítková 248, Zlín",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kv%C3%ADtkov%C3%A1%20248%2C%20Zl%C3%ADn",
+        "googlemaps_url": "https://www.google.com/maps?q=Kv%C3%ADtkov%C3%A1%20248%2C%20Zl%C3%ADn",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 89697227,
         "url": "https://czap.cz/Sys/PublicProfile/89697227/5485226",
         "name": "Králová, Eva",
@@ -25530,6 +25540,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 96211726,
+        "url": "https://czap.cz/Sys/PublicProfile/96211726/5485226",
+        "name": "Madleňáková, Gabriela",
+        "membership": "Řádné členství",
+        "location": "Mrkosova 35, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Mrkosova%2035%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Mrkosova%2035%2C%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 96212965,
         "url": "https://czap.cz/Sys/PublicProfile/96212965/5485226",
         "name": "Hanáková, Justina",
@@ -25627,6 +25647,26 @@
         "location": "Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Praha",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96332963,
+        "url": "https://czap.cz/Sys/PublicProfile/96332963/5485226",
+        "name": "Homolová, Kristýna",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Most",
+        "mapycom_url": "https://mapy.com/zakladni?q=Most",
+        "googlemaps_url": "https://www.google.com/maps?q=Most",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 96335405,
+        "url": "https://czap.cz/Sys/PublicProfile/96335405/5485226",
+        "name": "Bambúch, Filip",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Ružová 13, Banská Bystrica",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ru%C5%BEov%C3%A1%2013%2C%20Bansk%C3%A1%20Bystrica",
+        "googlemaps_url": "https://www.google.com/maps?q=Ru%C5%BEov%C3%A1%2013%2C%20Bansk%C3%A1%20Bystrica",
         "availability": "Přijímám nové klienty"
     }
 ]
