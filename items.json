@@ -16424,10 +16424,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/72184603/5485226",
         "name": "Vavrousová, Kristýna",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": null,
-        "mapycom_url": null,
-        "googlemaps_url": null,
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Havířov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Hav%C3%AD%C5%99ov",
+        "googlemaps_url": "https://www.google.com/maps?q=Hav%C3%AD%C5%99ov",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 72191167,
@@ -17984,9 +17984,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/75231453/5485226",
         "name": "Valová, Veronika",
         "membership": "Řádné členství",
-        "location": "Náměšť nad Oslavou",
-        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1m%C4%9B%C5%A1%C5%A5%20nad%20Oslavou",
-        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1m%C4%9B%C5%A1%C5%A5%20nad%20Oslavou",
+        "location": "Poliklinika Náměšť nad Oslavou (Husova 898)",
+        "mapycom_url": "https://mapy.com/zakladni?q=Poliklinika%20N%C3%A1m%C4%9B%C5%A1%C5%A5%20nad%20Oslavou%20%28Husova%20898%29",
+        "googlemaps_url": "https://www.google.com/maps?q=Poliklinika%20N%C3%A1m%C4%9B%C5%A1%C5%A5%20nad%20Oslavou%20%28Husova%20898%29",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -21042,11 +21042,11 @@
     {
         "id": 79021397,
         "url": "https://czap.cz/Sys/PublicProfile/79021397/5485226",
-        "name": "Mavropulo, Julia Maura",
+        "name": "Mavropulo, Maura",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Peškova 694/4, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Pe%C5%A1kova%20694/4%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Pe%C5%A1kova%20694/4%2C%20Praha",
+        "location": "Peškova 694/4, Praha 5",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pe%C5%A1kova%20694/4%2C%20Praha%205",
+        "googlemaps_url": "https://www.google.com/maps?q=Pe%C5%A1kova%20694/4%2C%20Praha%205",
         "availability": "Přijímám nové klienty"
     },
     {
