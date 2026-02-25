@@ -4850,16 +4850,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 58885428,
-        "url": "https://czap.cz/Sys/PublicProfile/58885428/5485226",
-        "name": "Šulcová, Petra",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Školni 5336, Chomutov",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0kolni%205336%2C%20Chomutov",
-        "googlemaps_url": "https://www.google.com/maps?q=%C5%A0kolni%205336%2C%20Chomutov",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 58885429,
         "url": "https://czap.cz/Sys/PublicProfile/58885429/5485226",
         "name": "Benešová, Zdeňka",
@@ -7154,9 +7144,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/61642630/5485226",
         "name": "Sarisová, Kristina",
         "membership": "Řádné členství",
-        "location": "Puškinovo náměstí 6, Praha 6",
-        "mapycom_url": "https://mapy.com/zakladni?q=Pu%C5%A1kinovo%20n%C3%A1m%C4%9Bst%C3%AD%206%2C%20Praha%206",
-        "googlemaps_url": "https://www.google.com/maps?q=Pu%C5%A1kinovo%20n%C3%A1m%C4%9Bst%C3%AD%206%2C%20Praha%206",
+        "location": "Vodičkova 41, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vodi%C4%8Dkova%2041%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Vodi%C4%8Dkova%2041%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -11267,7 +11257,7 @@
         "location": "Josefská 612/15 (5. patro), Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Josefsk%C3%A1%20612/15%20%285.%20patro%29%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Josefsk%C3%A1%20612/15%20%285.%20patro%29%2C%20Brno",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 65308169,
@@ -14254,9 +14244,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68944927/5485226",
         "name": "Hanousková, Veronika",
         "membership": "Řádné členství",
-        "location": "Asalto o.p.s, Brožíkova 451/5, Hradec Králové",
-        "mapycom_url": "https://mapy.com/zakladni?q=Asalto%20o.p.s%2C%20Bro%C5%BE%C3%ADkova%20451/5%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
-        "googlemaps_url": "https://www.google.com/maps?q=Asalto%20o.p.s%2C%20Bro%C5%BE%C3%ADkova%20451/5%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "location": "Asalto o.p.s., Hradec Králové",
+        "mapycom_url": "https://mapy.com/zakladni?q=Asalto%20o.p.s.%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "googlemaps_url": "https://www.google.com/maps?q=Asalto%20o.p.s.%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "availability": "Nepřijímám nové klienty"
     },
     {
@@ -14597,7 +14587,7 @@
         "location": "Příkop 2a, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%202a%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%202a%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 69552926,
@@ -22940,6 +22930,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 87351547,
+        "url": "https://czap.cz/Sys/PublicProfile/87351547/5485226",
+        "name": "Kubátová, Martina",
+        "membership": "Řádné členství",
+        "location": "Pujmanové 3030, Havlíčkův Brod",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pujmanov%C3%A9%203030%2C%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod",
+        "googlemaps_url": "https://www.google.com/maps?q=Pujmanov%C3%A9%203030%2C%20Havl%C3%AD%C4%8Dk%C5%AFv%20Brod",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 87371884,
         "url": "https://czap.cz/Sys/PublicProfile/87371884/5485226",
         "name": "Trubačová, Renáta",
@@ -25760,6 +25760,26 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 96319200,
+        "url": "https://czap.cz/Sys/PublicProfile/96319200/5485226",
+        "name": "Mitrega, Lucie",
+        "membership": "Řádné členství",
+        "location": "Vilová 8, Praha 10",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vilov%C3%A1%208%2C%20Praha%2010",
+        "googlemaps_url": "https://www.google.com/maps?q=Vilov%C3%A1%208%2C%20Praha%2010",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96319538,
+        "url": "https://czap.cz/Sys/PublicProfile/96319538/5485226",
+        "name": "Šmídová, Daniela",
+        "membership": "Řádné členství",
+        "location": "Panská 2, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pansk%C3%A1%202%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Pansk%C3%A1%202%2C%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 96331953,
         "url": "https://czap.cz/Sys/PublicProfile/96331953/5485226",
         "name": "Kačurová, Eva",
@@ -25778,6 +25798,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Most",
         "googlemaps_url": "https://www.google.com/maps?q=Most",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 96335212,
+        "url": "https://czap.cz/Sys/PublicProfile/96335212/5485226",
+        "name": "Žuchová, Svetlana",
+        "membership": "Řádné členství",
+        "location": "Přemyslovská 32, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99emyslovsk%C3%A1%2032%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99emyslovsk%C3%A1%2032%2C%20Praha",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 96335405,
@@ -25808,6 +25838,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Zeyerova%2018%2C%20Liberec%20-%20Star%C3%A9%20M%C4%9Bsto",
         "googlemaps_url": "https://www.google.com/maps?q=Zeyerova%2018%2C%20Liberec%20-%20Star%C3%A9%20M%C4%9Bsto",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96359792,
+        "url": "https://czap.cz/Sys/PublicProfile/96359792/5485226",
+        "name": "Lukášová, Iveta",
+        "membership": "Řádné členství",
+        "location": "Opatovická 8, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Opatovick%C3%A1%208%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Opatovick%C3%A1%208%2C%20Praha%201",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 96388091,
