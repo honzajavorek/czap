@@ -13214,10 +13214,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/68288407/5485226",
         "name": "Artiukhova, Svitlana",
         "membership": "Řádné členství",
-        "location": "Psychologická ordinace Podit s.r.o., Lovosická 440/40, Poliklinika Prosek, Praha 9",
-        "mapycom_url": "https://mapy.com/zakladni?q=Psychologick%C3%A1%20ordinace%20Podit%20s.r.o.%2C%20Lovosick%C3%A1%20440/40%2C%20Poliklinika%20Prosek%2C%20Praha%209",
-        "googlemaps_url": "https://www.google.com/maps?q=Psychologick%C3%A1%20ordinace%20Podit%20s.r.o.%2C%20Lovosick%C3%A1%20440/40%2C%20Poliklinika%20Prosek%2C%20Praha%209",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Zapova 6, Praha 5",
+        "mapycom_url": "https://mapy.com/zakladni?q=Zapova%206%2C%20Praha%205",
+        "googlemaps_url": "https://www.google.com/maps?q=Zapova%206%2C%20Praha%205",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 68288419,
@@ -14224,9 +14224,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68940389/5485226",
         "name": "Gottlieb, Juliána",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "ještě nemám vlastní pracovnu, adresu organizace, kde nyní pracuju, nechci zadávat, ještě nemám vlastní pracovnu",
-        "mapycom_url": "https://mapy.com/zakladni?q=je%C5%A1t%C4%9B%20nem%C3%A1m%20vlastn%C3%AD%20pracovnu%2C%20adresu%20organizace%2C%20kde%20nyn%C3%AD%20pracuju%2C%20nechci%20zad%C3%A1vat%2C%20je%C5%A1t%C4%9B%20nem%C3%A1m%20vlastn%C3%AD%20pracovnu",
-        "googlemaps_url": "https://www.google.com/maps?q=je%C5%A1t%C4%9B%20nem%C3%A1m%20vlastn%C3%AD%20pracovnu%2C%20adresu%20organizace%2C%20kde%20nyn%C3%AD%20pracuju%2C%20nechci%20zad%C3%A1vat%2C%20je%C5%A1t%C4%9B%20nem%C3%A1m%20vlastn%C3%AD%20pracovnu",
+        "location": "Nymburk",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nymburk",
+        "googlemaps_url": "https://www.google.com/maps?q=Nymburk",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -19474,9 +19474,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/77160367/5485226",
         "name": "Holubičková, Lucie",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Dukelská 252, Litvínov",
-        "mapycom_url": "https://mapy.com/zakladni?q=Dukelsk%C3%A1%20252%2C%20Litv%C3%ADnov",
-        "googlemaps_url": "https://www.google.com/maps?q=Dukelsk%C3%A1%20252%2C%20Litv%C3%ADnov",
+        "location": "Vrchlického 735/4, Teplice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vrchlick%C3%A9ho%20735/4%2C%20Teplice",
+        "googlemaps_url": "https://www.google.com/maps?q=Vrchlick%C3%A9ho%20735/4%2C%20Teplice",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -24487,7 +24487,7 @@
         "location": "Tylovo nábřeží 315/4, 500 02 Hradec Králové, Hradec Králové",
         "mapycom_url": "https://mapy.com/zakladni?q=Tylovo%20n%C3%A1b%C5%99e%C5%BE%C3%AD%20315/4%2C%20500%2002%20Hradec%20Kr%C3%A1lov%C3%A9%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "googlemaps_url": "https://www.google.com/maps?q=Tylovo%20n%C3%A1b%C5%99e%C5%BE%C3%AD%20315/4%2C%20500%2002%20Hradec%20Kr%C3%A1lov%C3%A9%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 95647878,
@@ -25780,6 +25780,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 96330693,
+        "url": "https://czap.cz/Sys/PublicProfile/96330693/5485226",
+        "name": "Blechová, Petra",
+        "membership": "Řádné členství",
+        "location": "Mírová 796, Dubňany",
+        "mapycom_url": "https://mapy.com/zakladni?q=M%C3%ADrov%C3%A1%20796%2C%20Dub%C5%88any",
+        "googlemaps_url": "https://www.google.com/maps?q=M%C3%ADrov%C3%A1%20796%2C%20Dub%C5%88any",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 96331953,
         "url": "https://czap.cz/Sys/PublicProfile/96331953/5485226",
         "name": "Kačurová, Eva",
@@ -25908,5 +25918,15 @@
         "mapycom_url": "https://mapy.com/zakladni?q=St%C5%99eleck%C3%A1%2045/2%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "googlemaps_url": "https://www.google.com/maps?q=St%C5%99eleck%C3%A1%2045/2%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 96441289,
+        "url": "https://czap.cz/Sys/PublicProfile/96441289/5485226",
+        "name": "Šouba, Petr",
+        "membership": "Řádné členství",
+        "location": "Hajnice 2,, Hajnice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Hajnice%202%2C%2C%20Hajnice",
+        "googlemaps_url": "https://www.google.com/maps?q=Hajnice%202%2C%2C%20Hajnice",
+        "availability": "Přijímám nové klienty"
     }
 ]
