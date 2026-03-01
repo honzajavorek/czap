@@ -8717,7 +8717,7 @@
         "location": "Školní 68/28, Havířov - Šumbark",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0koln%C3%AD%2068/28%2C%20Hav%C3%AD%C5%99ov%20-%20%C5%A0umbark",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%A0koln%C3%AD%2068/28%2C%20Hav%C3%AD%C5%99ov%20-%20%C5%A0umbark",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 62832066,
@@ -15437,7 +15437,7 @@
         "location": "Příkop 2a, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%202a%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%202a%2C%20Brno",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 70766968,
@@ -18620,16 +18620,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 76753505,
-        "url": "https://czap.cz/Sys/PublicProfile/76753505/5485226",
-        "name": "Dobiášová, Marta",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Olšanská 3, Praha 3",
-        "mapycom_url": "https://mapy.com/zakladni?q=Ol%C5%A1ansk%C3%A1%203%2C%20Praha%203",
-        "googlemaps_url": "https://www.google.com/maps?q=Ol%C5%A1ansk%C3%A1%203%2C%20Praha%203",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 76753843,
         "url": "https://czap.cz/Sys/PublicProfile/76753843/5485226",
         "name": "Kmetonyová, Daniela",
@@ -19824,9 +19814,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/77621018/5485226",
         "name": "Kolářová, Dana",
         "membership": "Řádné členství",
-        "location": "U Radnice 454, Odolena Voda",
-        "mapycom_url": "https://mapy.com/zakladni?q=U%20Radnice%20454%2C%20Odolena%20Voda",
-        "googlemaps_url": "https://www.google.com/maps?q=U%20Radnice%20454%2C%20Odolena%20Voda",
+        "location": "Křižíkova 308/19, Praha 8 - Karlín",
+        "mapycom_url": "https://mapy.com/zakladni?q=K%C5%99i%C5%BE%C3%ADkova%20308/19%2C%20Praha%208%20-%20Karl%C3%ADn",
+        "googlemaps_url": "https://www.google.com/maps?q=K%C5%99i%C5%BE%C3%ADkova%20308/19%2C%20Praha%208%20-%20Karl%C3%ADn",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -21034,9 +21024,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/79021397/5485226",
         "name": "Mavropulo, Maura",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Peškova 694/4, Praha 5",
-        "mapycom_url": "https://mapy.com/zakladni?q=Pe%C5%A1kova%20694/4%2C%20Praha%205",
-        "googlemaps_url": "https://www.google.com/maps?q=Pe%C5%A1kova%20694/4%2C%20Praha%205",
+        "location": "Praha 5",
+        "mapycom_url": "https://mapy.com/zakladni?q=Praha%205",
+        "googlemaps_url": "https://www.google.com/maps?q=Praha%205",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -22107,7 +22097,7 @@
         "location": "Minská 13, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Minsk%C3%A1%2013%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Minsk%C3%A1%2013%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 82147360,
@@ -25914,9 +25904,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/96430255/5485226",
         "name": "Pospíšilová, Pavla",
         "membership": "Řádné členství",
-        "location": "Střelecká 45/2, Hradec Králové",
-        "mapycom_url": "https://mapy.com/zakladni?q=St%C5%99eleck%C3%A1%2045/2%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
-        "googlemaps_url": "https://www.google.com/maps?q=St%C5%99eleck%C3%A1%2045/2%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "location": "Hradec Králové",
+        "mapycom_url": "https://mapy.com/zakladni?q=Hradec%20Kr%C3%A1lov%C3%A9",
+        "googlemaps_url": "https://www.google.com/maps?q=Hradec%20Kr%C3%A1lov%C3%A9",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
