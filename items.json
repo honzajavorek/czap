@@ -16964,9 +16964,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/73334276/5485226",
         "name": "Fořtová, Iveta",
         "membership": "Řádné členství",
-        "location": "Vyšehradská 43, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Vy%C5%A1ehradsk%C3%A1%2043%2C%20Praha",
+        "location": "Jilská 22 Praha- Staré Město, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jilsk%C3%A1%2022%20Praha-%20Star%C3%A9%20M%C4%9Bsto%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Jilsk%C3%A1%2022%20Praha-%20Star%C3%A9%20M%C4%9Bsto%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -21180,16 +21180,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 79354732,
-        "url": "https://czap.cz/Sys/PublicProfile/79354732/5485226",
-        "name": "Gondeková, Renáta",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Rašilovova 1014, Praha - Zbraslav",
-        "mapycom_url": "https://mapy.com/zakladni?q=Ra%C5%A1ilovova%201014%2C%20Praha%20-%20Zbraslav",
-        "googlemaps_url": "https://www.google.com/maps?q=Ra%C5%A1ilovova%201014%2C%20Praha%20-%20Zbraslav",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 79356830,
         "url": "https://czap.cz/Sys/PublicProfile/79356830/5485226",
         "name": "Šuhájková, Anežka",
@@ -23747,6 +23737,16 @@
         "location": "Monada s.r.o., Praha 8",
         "mapycom_url": "https://mapy.com/zakladni?q=Monada%20s.r.o.%2C%20Praha%208",
         "googlemaps_url": "https://www.google.com/maps?q=Monada%20s.r.o.%2C%20Praha%208",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 94206184,
+        "url": "https://czap.cz/Sys/PublicProfile/94206184/5485226",
+        "name": "Sedláčková, Lenka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Dukelská 456/13, Jeseník",
+        "mapycom_url": "https://mapy.com/zakladni?q=Dukelsk%C3%A1%20456/13%2C%20Jesen%C3%ADk",
+        "googlemaps_url": "https://www.google.com/maps?q=Dukelsk%C3%A1%20456/13%2C%20Jesen%C3%ADk",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
