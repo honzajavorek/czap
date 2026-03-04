@@ -4784,10 +4784,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885419/5485226",
         "name": "Plýhalová, Aneta",
         "membership": "Řádné členství",
-        "location": null,
-        "mapycom_url": null,
-        "googlemaps_url": null,
-        "availability": ""
+        "location": "Ctiradova 1, Praha 4- Nusle",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ctiradova%201%2C%20Praha%204-%20Nusle",
+        "googlemaps_url": "https://www.google.com/maps?q=Ctiradova%201%2C%20Praha%204-%20Nusle",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885420,
@@ -4897,7 +4897,7 @@
         "location": "Na Průhoně 3412, Mělník",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Pr%C5%AFhon%C4%9B%203412%2C%20M%C4%9Bln%C3%ADk",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Pr%C5%AFhon%C4%9B%203412%2C%20M%C4%9Bln%C3%ADk",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 58885436,
@@ -9912,7 +9912,7 @@
     {
         "id": 63572620,
         "url": "https://czap.cz/Sys/PublicProfile/63572620/5485226",
-        "name": "Novák, Martin",
+        "name": "Čema Novák, Martin",
         "membership": "Kandidátní členství - ve výcviku",
         "location": "Durďákova 49, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Dur%C4%8F%C3%A1kova%2049%2C%20Brno",
@@ -16160,16 +16160,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 71955771,
-        "url": "https://czap.cz/Sys/PublicProfile/71955771/5485226",
-        "name": "Pavlíček, Milan",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Palác YMCA, Na Poříčí 1041, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=Pal%C3%A1c%20YMCA%2C%20Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%201041%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=Pal%C3%A1c%20YMCA%2C%20Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%201041%2C%20Praha%201",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 71983697,
         "url": "https://czap.cz/Sys/PublicProfile/71983697/5485226",
         "name": "Žert, Vojtěch",
@@ -16614,9 +16604,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/72442849/5485226",
         "name": "Králová, Josefína",
         "membership": "Řádné členství",
-        "location": "Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Brno",
+        "location": "Brno, Hlinky 118, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Brno%2C%20Hlinky%20118%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Brno%2C%20Hlinky%20118%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -16808,16 +16798,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Desn%C3%A1%2016%2C%20Desn%C3%A1",
         "googlemaps_url": "https://www.google.com/maps?q=Desn%C3%A1%2016%2C%20Desn%C3%A1",
         "availability": "Nepřijímám nové klienty"
-    },
-    {
-        "id": 72830840,
-        "url": "https://czap.cz/Sys/PublicProfile/72830840/5485226",
-        "name": "Ježová, Ivana",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Hradební 271/35, České Budějovice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Hradebn%C3%AD%20271/35%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
-        "googlemaps_url": "https://www.google.com/maps?q=Hradebn%C3%AD%20271/35%2C%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
-        "availability": "Přijímám nové klienty"
     },
     {
         "id": 72862783,
@@ -18447,7 +18427,7 @@
         "location": "U Výstaviště 8, Přerov",
         "mapycom_url": "https://mapy.com/zakladni?q=U%20V%C3%BDstavi%C5%A1t%C4%9B%208%2C%20P%C5%99erov",
         "googlemaps_url": "https://www.google.com/maps?q=U%20V%C3%BDstavi%C5%A1t%C4%9B%208%2C%20P%C5%99erov",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 75972854,
@@ -18617,6 +18597,16 @@
         "location": "Na Jízdárně 18/2895, Ostrava",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20J%C3%ADzd%C3%A1rn%C4%9B%2018/2895%2C%20Ostrava",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20J%C3%ADzd%C3%A1rn%C4%9B%2018/2895%2C%20Ostrava",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 76753505,
+        "url": "https://czap.cz/Sys/PublicProfile/76753505/5485226",
+        "name": "Dobiášová, Marta",
+        "membership": "Řádné členství",
+        "location": "Olšanská 3, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ol%C5%A1ansk%C3%A1%203%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Ol%C5%A1ansk%C3%A1%203%2C%20Praha%203",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -20508,6 +20498,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=M%C3%A1nesova%208%2C%20Praha%202",
         "googlemaps_url": "https://www.google.com/maps?q=M%C3%A1nesova%208%2C%20Praha%202",
         "availability": "Nepřijímám nové klienty"
+    },
+    {
+        "id": 78281266,
+        "url": "https://czap.cz/Sys/PublicProfile/78281266/5485226",
+        "name": "Paleček, Vladimír",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Nemocnice Ostrov - Penta Hospitals,   U Nemocnice 1161, 363 01 Ostrov nad Ohří, Charita Ostrov - Lidická 1036, 363 01 Ostrov nad Ohří",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nemocnice%20Ostrov%20-%20Penta%20Hospitals%2C%20%20%20U%20Nemocnice%201161%2C%20363%2001%20Ostrov%20nad%20Oh%C5%99%C3%AD%2C%20Charita%20Ostrov%20-%20Lidick%C3%A1%201036%2C%20363%2001%20Ostrov%20nad%20Oh%C5%99%C3%AD",
+        "googlemaps_url": "https://www.google.com/maps?q=Nemocnice%20Ostrov%20-%20Penta%20Hospitals%2C%20%20%20U%20Nemocnice%201161%2C%20363%2001%20Ostrov%20nad%20Oh%C5%99%C3%AD%2C%20Charita%20Ostrov%20-%20Lidick%C3%A1%201036%2C%20363%2001%20Ostrov%20nad%20Oh%C5%99%C3%AD",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 78326727,
@@ -22877,6 +22877,16 @@
         "location": "Olomouc",
         "mapycom_url": "https://mapy.com/zakladni?q=Olomouc",
         "googlemaps_url": "https://www.google.com/maps?q=Olomouc",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 87278745,
+        "url": "https://czap.cz/Sys/PublicProfile/87278745/5485226",
+        "name": "Roušal, Jan",
+        "membership": "Řádné členství",
+        "location": "Jungmannova 736/14, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jungmannova%20736/14%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Jungmannova%20736/14%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
