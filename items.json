@@ -7840,16 +7840,6 @@
         "availability": "Nepřijímám nové klienty"
     },
     {
-        "id": 62290181,
-        "url": "https://czap.cz/Sys/PublicProfile/62290181/5485226",
-        "name": "Waldová, Dominika",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Praha",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 62291611,
         "url": "https://czap.cz/Sys/PublicProfile/62291611/5485226",
         "name": "Nentvichová Novotná, Renáta",
@@ -19902,7 +19892,7 @@
     {
         "id": 77678884,
         "url": "https://czap.cz/Sys/PublicProfile/77678884/5485226",
-        "name": "Fialová, Denisa",
+        "name": "Filipovičová, Denisa",
         "membership": "Řádné členství",
         "location": "Josefská 15, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Josefsk%C3%A1%2015%2C%20Brno",
@@ -20688,6 +20678,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Hradeck%C3%A1%206%2C%20Tel%C4%8D",
         "googlemaps_url": "https://www.google.com/maps?q=Hradeck%C3%A1%206%2C%20Tel%C4%8D",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 78650107,
+        "url": "https://czap.cz/Sys/PublicProfile/78650107/5485226",
+        "name": "Mrkosová, Petra",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Francouzská 75/4, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Francouzsk%C3%A1%2075/4%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Francouzsk%C3%A1%2075/4%2C%20Praha%202",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 78650861,
@@ -25828,6 +25828,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99emyslovsk%C3%A1%2032%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=P%C5%99emyslovsk%C3%A1%2032%2C%20Praha",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96335251,
+        "url": "https://czap.cz/Sys/PublicProfile/96335251/5485226",
+        "name": "Zikánová, Drahomíra",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Růžová 15, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=R%C5%AF%C5%BEov%C3%A1%2015%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=R%C5%AF%C5%BEov%C3%A1%2015%2C%20Praha",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 96335405,
