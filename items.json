@@ -21190,6 +21190,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 79354732,
+        "url": "https://czap.cz/Sys/PublicProfile/79354732/5485226",
+        "name": "Gondeková, Renáta",
+        "membership": "Řádné členství",
+        "location": "Rašilovova 1014, Praha - Zbraslav",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ra%C5%A1ilovova%201014%2C%20Praha%20-%20Zbraslav",
+        "googlemaps_url": "https://www.google.com/maps?q=Ra%C5%A1ilovova%201014%2C%20Praha%20-%20Zbraslav",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 79356830,
         "url": "https://czap.cz/Sys/PublicProfile/79356830/5485226",
         "name": "Šuhájková, Anežka",
@@ -23927,7 +23937,7 @@
         "location": "Mrkosova 2437/35, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Mrkosova%202437/35%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Mrkosova%202437/35%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 94505648,
