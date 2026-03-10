@@ -11580,16 +11580,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 66759728,
-        "url": "https://czap.cz/Sys/PublicProfile/66759728/5485226",
-        "name": "Řežábková, Marika",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Vodičkova 41, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vodi%C4%8Dkova%2041%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=Vodi%C4%8Dkova%2041%2C%20Praha%201",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 66770137,
         "url": "https://czap.cz/Sys/PublicProfile/66770137/5485226",
         "name": "Hladíková, Julie",
@@ -18534,9 +18524,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/76166714/5485226",
         "name": "Benešová Partlová, Ivana",
         "membership": "Řádné členství",
-        "location": "Vašíčkova 3081, Kladno, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Va%C5%A1%C3%AD%C4%8Dkova%203081%2C%20Kladno%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Va%C5%A1%C3%AD%C4%8Dkova%203081%2C%20Kladno%2C%20Praha",
+        "location": "Wuchterlova 523/5, Kladno, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Wuchterlova%20523/5%2C%20Kladno%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Wuchterlova%20523/5%2C%20Kladno%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
