@@ -7724,9 +7724,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/62194709/5485226",
         "name": "Hermannová, Štěpánka",
         "membership": "Řádné členství",
-        "location": "UHK POINT, Univerzita Hradec Králové, Rokitanského 62, Hradec Králové III",
-        "mapycom_url": "https://mapy.com/zakladni?q=UHK%20POINT%2C%20Univerzita%20Hradec%20Kr%C3%A1lov%C3%A9%2C%20Rokitansk%C3%A9ho%2062%2C%20Hradec%20Kr%C3%A1lov%C3%A9%20III",
-        "googlemaps_url": "https://www.google.com/maps?q=UHK%20POINT%2C%20Univerzita%20Hradec%20Kr%C3%A1lov%C3%A9%2C%20Rokitansk%C3%A9ho%2062%2C%20Hradec%20Kr%C3%A1lov%C3%A9%20III",
+        "location": "Jungmannova 1103, Jičín",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jungmannova%201103%2C%20Ji%C4%8D%C3%ADn",
+        "googlemaps_url": "https://www.google.com/maps?q=Jungmannova%201103%2C%20Ji%C4%8D%C3%ADn",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -7828,6 +7828,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Nad%20%C5%A0tolou%2018%2C%20Praha%207%20-%20Hole%C5%A1ovice",
         "googlemaps_url": "https://www.google.com/maps?q=Nad%20%C5%A0tolou%2018%2C%20Praha%207%20-%20Hole%C5%A1ovice",
         "availability": "Nepřijímám nové klienty"
+    },
+    {
+        "id": 62290181,
+        "url": "https://czap.cz/Sys/PublicProfile/62290181/5485226",
+        "name": "Waldová, Dominika",
+        "membership": "Řádné členství",
+        "location": "Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Praha",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 62291611,
@@ -23930,6 +23940,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 94432880,
+        "url": "https://czap.cz/Sys/PublicProfile/94432880/5485226",
+        "name": "Čížková, Klára",
+        "membership": "Řádné členství",
+        "location": "Nezamyslova 1712/13a, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nezamyslova%201712/13a%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Nezamyslova%201712/13a%2C%20Praha%202",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 94432938,
         "url": "https://czap.cz/Sys/PublicProfile/94432938/5485226",
         "name": "Navrátilová, Markéta",
@@ -25317,7 +25337,7 @@
         "location": "Na Valích 511, Louny",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Val%C3%ADch%20511%2C%20Louny",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Val%C3%ADch%20511%2C%20Louny",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 96076835,
@@ -26078,5 +26098,15 @@
         "mapycom_url": "https://mapy.com/zakladni?q=n%C3%A1m%C4%9Bst%C3%AD%20Komensk%C3%A9ho%2C%20417%2C%20Dob%C5%99%C3%AD%C5%A1%201",
         "googlemaps_url": "https://www.google.com/maps?q=n%C3%A1m%C4%9Bst%C3%AD%20Komensk%C3%A9ho%2C%20417%2C%20Dob%C5%99%C3%AD%C5%A1%201",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 96627726,
+        "url": "https://czap.cz/Sys/PublicProfile/96627726/5485226",
+        "name": "Mášová, Vendula",
+        "membership": "Řádné členství",
+        "location": "Praha 2, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Praha%202%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Praha%202%2C%20Praha",
+        "availability": "Přijímám nové klienty"
     }
 ]
