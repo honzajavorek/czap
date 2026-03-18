@@ -12760,16 +12760,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 67952389,
-        "url": "https://czap.cz/Sys/PublicProfile/67952389/5485226",
-        "name": "Hábová, Kateřina",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Nádražní 82, Ruda",
-        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1dra%C5%BEn%C3%AD%2082%2C%20Ruda",
-        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1dra%C5%BEn%C3%AD%2082%2C%20Ruda",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 67954775,
         "url": "https://czap.cz/Sys/PublicProfile/67954775/5485226",
         "name": "Klouda, Martin",
@@ -13674,9 +13664,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/68536093/5485226",
         "name": "Sechkar, Tatiana",
         "membership": "Řádné členství",
-        "location": "Thámova 133/24, Praha 8-Karlín",
-        "mapycom_url": "https://mapy.com/zakladni?q=Th%C3%A1mova%20133/24%2C%20Praha%208-Karl%C3%ADn",
-        "googlemaps_url": "https://www.google.com/maps?q=Th%C3%A1mova%20133/24%2C%20Praha%208-Karl%C3%ADn",
+        "location": "Chelčického 49/50, Písek-Písek 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Chel%C4%8Dick%C3%A9ho%2049/50%2C%20P%C3%ADsek-P%C3%ADsek%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Chel%C4%8Dick%C3%A9ho%2049/50%2C%20P%C3%ADsek-P%C3%ADsek%201",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -17360,16 +17350,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 74190449,
-        "url": "https://czap.cz/Sys/PublicProfile/74190449/5485226",
-        "name": "Anderssonová, Tereza",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Cesta domů, z.ú., Heleny Kočvářové 1, Praha 4",
-        "mapycom_url": "https://mapy.com/zakladni?q=Cesta%20dom%C5%AF%2C%20z.%C3%BA.%2C%20Heleny%20Ko%C4%8Dv%C3%A1%C5%99ov%C3%A9%201%2C%20Praha%204",
-        "googlemaps_url": "https://www.google.com/maps?q=Cesta%20dom%C5%AF%2C%20z.%C3%BA.%2C%20Heleny%20Ko%C4%8Dv%C3%A1%C5%99ov%C3%A9%201%2C%20Praha%204",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 74196663,
         "url": "https://czap.cz/Sys/PublicProfile/74196663/5485226",
         "name": "Langpaul, Martin",
@@ -20938,6 +20918,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Dlouh%C3%A1%20705/16%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Dlouh%C3%A1%20705/16%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 78894848,
+        "url": "https://czap.cz/Sys/PublicProfile/78894848/5485226",
+        "name": "Kolesnyk, Oksana",
+        "membership": "Řádné členství",
+        "location": "Dominikanska 284/9, Plzen",
+        "mapycom_url": "https://mapy.com/zakladni?q=Dominikanska%20284/9%2C%20Plzen",
+        "googlemaps_url": "https://www.google.com/maps?q=Dominikanska%20284/9%2C%20Plzen",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 78896071,
@@ -25657,7 +25647,7 @@
         "location": "Mrkosova 35, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Mrkosova%2035%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Mrkosova%2035%2C%20Brno",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 96212965,
@@ -26050,6 +26040,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 96503508,
+        "url": "https://czap.cz/Sys/PublicProfile/96503508/5485226",
+        "name": "Janošíková, Julie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Panská 12, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pansk%C3%A1%2012%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Pansk%C3%A1%2012%2C%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 96521633,
         "url": "https://czap.cz/Sys/PublicProfile/96521633/5485226",
         "name": "Valečková, Diana",
@@ -26078,6 +26078,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Konopi%C5%A1t%C4%9B%202%2C%20Bene%C5%A1ov",
         "googlemaps_url": "https://www.google.com/maps?q=Konopi%C5%A1t%C4%9B%202%2C%20Bene%C5%A1ov",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96564542,
+        "url": "https://czap.cz/Sys/PublicProfile/96564542/5485226",
+        "name": "Korda Jedzokova, Katarzyna",
+        "membership": "Řádné členství",
+        "location": "Klokočí 49, Turnov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kloko%C4%8D%C3%AD%2049%2C%20Turnov",
+        "googlemaps_url": "https://www.google.com/maps?q=Kloko%C4%8D%C3%AD%2049%2C%20Turnov",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 96573075,
