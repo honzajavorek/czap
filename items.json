@@ -17947,7 +17947,7 @@
         "location": "Bubenská 19, Praha 7",
         "mapycom_url": "https://mapy.com/zakladni?q=Bubensk%C3%A1%2019%2C%20Praha%207",
         "googlemaps_url": "https://www.google.com/maps?q=Bubensk%C3%A1%2019%2C%20Praha%207",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 75163258,
@@ -21850,6 +21850,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 80506262,
+        "url": "https://czap.cz/Sys/PublicProfile/80506262/5485226",
+        "name": "Kuldová, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Dvořákova 13, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Dvo%C5%99%C3%A1kova%2013%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Dvo%C5%99%C3%A1kova%2013%2C%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 80660592,
         "url": "https://czap.cz/Sys/PublicProfile/80660592/5485226",
         "name": "Kameník, Jiří",
@@ -23070,16 +23080,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 87459002,
-        "url": "https://czap.cz/Sys/PublicProfile/87459002/5485226",
-        "name": "Říhová, Marta",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Tuchořice 126, 43801, Tuchořice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Tucho%C5%99ice%20126%2C%2043801%2C%20Tucho%C5%99ice",
-        "googlemaps_url": "https://www.google.com/maps?q=Tucho%C5%99ice%20126%2C%2043801%2C%20Tucho%C5%99ice",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 87459122,
         "url": "https://czap.cz/Sys/PublicProfile/87459122/5485226",
         "name": "Kružíková, Bohdana",
@@ -23197,7 +23197,7 @@
         "location": "Denisova 616, Jičín",
         "mapycom_url": "https://mapy.com/zakladni?q=Denisova%20616%2C%20Ji%C4%8D%C3%ADn",
         "googlemaps_url": "https://www.google.com/maps?q=Denisova%20616%2C%20Ji%C4%8D%C3%ADn",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 88720896,
