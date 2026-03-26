@@ -5892,7 +5892,7 @@
     {
         "id": 59360815,
         "url": "https://czap.cz/Sys/PublicProfile/59360815/5485226",
-        "name": "Dvorská, Kateřina",
+        "name": "Šeráková, Kateřina",
         "membership": "Řádné členství",
         "location": "Mírové náměstí 157/30, Litoměřice",
         "mapycom_url": "https://mapy.com/zakladni?q=M%C3%ADrov%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20157/30%2C%20Litom%C4%9B%C5%99ice",
@@ -16420,6 +16420,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 72076742,
+        "url": "https://czap.cz/Sys/PublicProfile/72076742/5485226",
+        "name": "Kubínová, Lucie",
+        "membership": "Řádné členství",
+        "location": "17.listopadu 861, Jičín",
+        "mapycom_url": "https://mapy.com/zakladni?q=17.listopadu%20861%2C%20Ji%C4%8D%C3%ADn",
+        "googlemaps_url": "https://www.google.com/maps?q=17.listopadu%20861%2C%20Ji%C4%8D%C3%ADn",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 72082279,
         "url": "https://czap.cz/Sys/PublicProfile/72082279/5485226",
         "name": "Hoppová, Jarmila",
@@ -17427,6 +17437,16 @@
         "location": "Nádražní 316, Židlochovice",
         "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1dra%C5%BEn%C3%AD%20316%2C%20%C5%BDidlochovice",
         "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1dra%C5%BEn%C3%AD%20316%2C%20%C5%BDidlochovice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 74190449,
+        "url": "https://czap.cz/Sys/PublicProfile/74190449/5485226",
+        "name": "Anderssonová, Tereza",
+        "membership": "Řádné členství",
+        "location": "Cesta domů, z.ú., Heleny Kočvářové 1, Praha 4",
+        "mapycom_url": "https://mapy.com/zakladni?q=Cesta%20dom%C5%AF%2C%20z.%C3%BA.%2C%20Heleny%20Ko%C4%8Dv%C3%A1%C5%99ov%C3%A9%201%2C%20Praha%204",
+        "googlemaps_url": "https://www.google.com/maps?q=Cesta%20dom%C5%AF%2C%20z.%C3%BA.%2C%20Heleny%20Ko%C4%8Dv%C3%A1%C5%99ov%C3%A9%201%2C%20Praha%204",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -20224,9 +20244,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/77877818/5485226",
         "name": "Skálová, Iveta",
         "membership": "Řádné členství",
-        "location": "Říčany, MNICHOVICE",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C5%98%C3%AD%C4%8Dany%2C%20MNICHOVICE",
-        "googlemaps_url": "https://www.google.com/maps?q=%C5%98%C3%AD%C4%8Dany%2C%20MNICHOVICE",
+        "location": "Říčany",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%98%C3%AD%C4%8Dany",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%98%C3%AD%C4%8Dany",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -23594,9 +23614,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/92368238/5485226",
         "name": "Sedlářová, Kateřina",
         "membership": "Řádné členství",
-        "location": "Na Truhlářce 24, Praha 8",
-        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Truhl%C3%A1%C5%99ce%2024%2C%20Praha%208",
-        "googlemaps_url": "https://www.google.com/maps?q=Na%20Truhl%C3%A1%C5%99ce%2024%2C%20Praha%208",
+        "location": "Na Truhlářce 24, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Truhl%C3%A1%C5%99ce%2024%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Truhl%C3%A1%C5%99ce%2024%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -23947,7 +23967,7 @@
         "location": "Zahradní 46, Kolín",
         "mapycom_url": "https://mapy.com/zakladni?q=Zahradn%C3%AD%2046%2C%20Kol%C3%ADn",
         "googlemaps_url": "https://www.google.com/maps?q=Zahradn%C3%AD%2046%2C%20Kol%C3%ADn",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 94296026,
@@ -26247,6 +26267,16 @@
         "location": "Praha 2, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Praha%202%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Praha%202%2C%20Praha",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96683513,
+        "url": "https://czap.cz/Sys/PublicProfile/96683513/5485226",
+        "name": "Socha, Jan",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Tovačovského 92/2, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Tova%C4%8Dovsk%C3%A9ho%2092/2%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Tova%C4%8Dovsk%C3%A9ho%2092/2%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
