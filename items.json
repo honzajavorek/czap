@@ -8697,7 +8697,7 @@
         "location": "Kartouzska 4, Praha 5 - Anděl",
         "mapycom_url": "https://mapy.com/zakladni?q=Kartouzska%204%2C%20Praha%205%20-%20And%C4%9Bl",
         "googlemaps_url": "https://www.google.com/maps?q=Kartouzska%204%2C%20Praha%205%20-%20And%C4%9Bl",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 62811997,
@@ -13644,10 +13644,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/68475719/5485226",
         "name": "Pikhartová, Alena",
         "membership": "Řádné členství",
-        "location": "Jemčinská 83, Jindřichův Hradec",
-        "mapycom_url": "https://mapy.com/zakladni?q=Jem%C4%8Dinsk%C3%A1%2083%2C%20Jind%C5%99ich%C5%AFv%20Hradec",
-        "googlemaps_url": "https://www.google.com/maps?q=Jem%C4%8Dinsk%C3%A1%2083%2C%20Jind%C5%99ich%C5%AFv%20Hradec",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Jarošovská 1117, Jindřichův Hradec",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jaro%C5%A1ovsk%C3%A1%201117%2C%20Jind%C5%99ich%C5%AFv%20Hradec",
+        "googlemaps_url": "https://www.google.com/maps?q=Jaro%C5%A1ovsk%C3%A1%201117%2C%20Jind%C5%99ich%C5%AFv%20Hradec",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 68479220,
@@ -26338,6 +26338,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Ostrov%C4%9B%20207%2C%20Chrudim",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Ostrov%C4%9B%20207%2C%20Chrudim",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 96823919,
+        "url": "https://czap.cz/Sys/PublicProfile/96823919/5485226",
+        "name": "Dekanová, Alica",
+        "membership": "Řádné členství",
+        "location": "Ul. Štefana Moyzesa 11, Trnava",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ul.%20%C5%A0tefana%20Moyzesa%2011%2C%20Trnava",
+        "googlemaps_url": "https://www.google.com/maps?q=Ul.%20%C5%A0tefana%20Moyzesa%2011%2C%20Trnava",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 96825912,
