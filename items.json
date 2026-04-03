@@ -6217,7 +6217,7 @@
         "location": "Nerudova 200, Hradec Králové",
         "mapycom_url": "https://mapy.com/zakladni?q=Nerudova%20200%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "googlemaps_url": "https://www.google.com/maps?q=Nerudova%20200%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 60367794,
@@ -20080,16 +20080,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 77744308,
-        "url": "https://czap.cz/Sys/PublicProfile/77744308/5485226",
-        "name": "Wilde, Kateřina",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Husova 1731, Frýdlant nad Ostravicí",
-        "mapycom_url": "https://mapy.com/zakladni?q=Husova%201731%2C%20Fr%C3%BDdlant%20nad%20Ostravic%C3%AD",
-        "googlemaps_url": "https://www.google.com/maps?q=Husova%201731%2C%20Fr%C3%BDdlant%20nad%20Ostravic%C3%AD",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 77745084,
         "url": "https://czap.cz/Sys/PublicProfile/77745084/5485226",
         "name": "Kohoutová, Zuzana",
@@ -22287,7 +22277,7 @@
         "location": "Minská 13, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Minsk%C3%A1%2013%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Minsk%C3%A1%2013%2C%20Brno",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 82147360,
@@ -26450,6 +26440,26 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 96898635,
+        "url": "https://czap.cz/Sys/PublicProfile/96898635/5485226",
+        "name": "Holasová, Jitka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Ortenovo náměstí 9, Praha 7",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ortenovo%20n%C3%A1m%C4%9Bst%C3%AD%209%2C%20Praha%207",
+        "googlemaps_url": "https://www.google.com/maps?q=Ortenovo%20n%C3%A1m%C4%9Bst%C3%AD%209%2C%20Praha%207",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 96925539,
+        "url": "https://czap.cz/Sys/PublicProfile/96925539/5485226",
+        "name": "Taye, Petra",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Holečkova 130/31, Praha 5",
+        "mapycom_url": "https://mapy.com/zakladni?q=Hole%C4%8Dkova%20130/31%2C%20Praha%205",
+        "googlemaps_url": "https://www.google.com/maps?q=Hole%C4%8Dkova%20130/31%2C%20Praha%205",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 96926066,
         "url": "https://czap.cz/Sys/PublicProfile/96926066/5485226",
         "name": "Kalvach, Zdeněk",
@@ -26458,5 +26468,25 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Petra%20Fastra%201%2C%20%C5%98%C3%AD%C4%8Dany",
         "googlemaps_url": "https://www.google.com/maps?q=Petra%20Fastra%201%2C%20%C5%98%C3%AD%C4%8Dany",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96941603,
+        "url": "https://czap.cz/Sys/PublicProfile/96941603/5485226",
+        "name": "Kárníková, Klára",
+        "membership": "Řádné členství",
+        "location": "Stromořadí 252, Dobřany",
+        "mapycom_url": "https://mapy.com/zakladni?q=Stromo%C5%99ad%C3%AD%20252%2C%20Dob%C5%99any",
+        "googlemaps_url": "https://www.google.com/maps?q=Stromo%C5%99ad%C3%AD%20252%2C%20Dob%C5%99any",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96980747,
+        "url": "https://czap.cz/Sys/PublicProfile/96980747/5485226",
+        "name": "Brejcha, Matouš",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Holečkova 31, Praha 5 - Smíchov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Hole%C4%8Dkova%2031%2C%20Praha%205%20-%20Sm%C3%ADchov",
+        "googlemaps_url": "https://www.google.com/maps?q=Hole%C4%8Dkova%2031%2C%20Praha%205%20-%20Sm%C3%ADchov",
+        "availability": "Info o dostupnosti na vyžádání"
     }
 ]
