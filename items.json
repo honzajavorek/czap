@@ -26470,6 +26470,26 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 96928122,
+        "url": "https://czap.cz/Sys/PublicProfile/96928122/5485226",
+        "name": "Schneiderová, Denisa",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "5.května 163, Louny",
+        "mapycom_url": "https://mapy.com/zakladni?q=5.kv%C4%9Btna%20163%2C%20Louny",
+        "googlemaps_url": "https://www.google.com/maps?q=5.kv%C4%9Btna%20163%2C%20Louny",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 96928714,
+        "url": "https://czap.cz/Sys/PublicProfile/96928714/5485226",
+        "name": "Zárubová, Barbora",
+        "membership": "Řádné členství",
+        "location": "Pardubice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pardubice",
+        "googlemaps_url": "https://www.google.com/maps?q=Pardubice",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 96941603,
         "url": "https://czap.cz/Sys/PublicProfile/96941603/5485226",
         "name": "Kárníková, Klára",
@@ -26480,6 +26500,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 96959303,
+        "url": "https://czap.cz/Sys/PublicProfile/96959303/5485226",
+        "name": "Plašilová, Petra",
+        "membership": "Řádné členství",
+        "location": "Weissova 1985, Praha 9",
+        "mapycom_url": "https://mapy.com/zakladni?q=Weissova%201985%2C%20Praha%209",
+        "googlemaps_url": "https://www.google.com/maps?q=Weissova%201985%2C%20Praha%209",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 96980747,
         "url": "https://czap.cz/Sys/PublicProfile/96980747/5485226",
         "name": "Brejcha, Matouš",
@@ -26487,6 +26517,16 @@
         "location": "Holečkova 31, Praha 5 - Smíchov",
         "mapycom_url": "https://mapy.com/zakladni?q=Hole%C4%8Dkova%2031%2C%20Praha%205%20-%20Sm%C3%ADchov",
         "googlemaps_url": "https://www.google.com/maps?q=Hole%C4%8Dkova%2031%2C%20Praha%205%20-%20Sm%C3%ADchov",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 97115876,
+        "url": "https://czap.cz/Sys/PublicProfile/97115876/5485226",
+        "name": "Klumpnerová, Lenka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Ponávka 185/2, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pon%C3%A1vka%20185/2%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Pon%C3%A1vka%20185/2%2C%20Brno",
         "availability": "Info o dostupnosti na vyžádání"
     }
 ]
