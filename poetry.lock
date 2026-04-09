@@ -772,14 +772,14 @@ requests = ">=1.0.0"
 
 [[package]]
 name = "scrapy"
-version = "2.14.2"
+version = "2.15.0"
 description = "A high-level Web Crawling and Web Scraping framework"
 optional = false
 python-versions = ">=3.10"
 groups = ["main"]
 files = [
-    {file = "scrapy-2.14.2-py3-none-any.whl", hash = "sha256:dc6ddf6e1601fc6c50191d2e4d4a65497e37c4b848f542f21c9278a55f86af42"},
-    {file = "scrapy-2.14.2.tar.gz", hash = "sha256:23bf5d37503ad16973bd09604b9c36249bd4bbc282c48ddedbf58105d4639337"},
+    {file = "scrapy-2.15.0-py3-none-any.whl", hash = "sha256:7d7a421fb75711c096cf8ad8b3d5090a4fc403e04abe4d38f86d612666fe07ac"},
+    {file = "scrapy-2.15.0.tar.gz", hash = "sha256:8072b42da2b54ccafaf188298c8da851197e83f6d4a19db324777ee2e204b70c"},
 ]
 
 [package.dependencies]
@@ -1006,4 +1006,4 @@ testing = ["coverage[toml]", "zope.event", "zope.testing"]
 [metadata]
 lock-version = "2.1"
 python-versions = "~3.12"
-content-hash = "bd5d7b0a70e970423fbfdb62d3ace38233a987df2ba9c5bad1420bc0cb1922c1"
+content-hash = "5c0a040edf0bb899e52863b2558889dcd46b3a33dfd22ce8522bb905be58a8bd"
