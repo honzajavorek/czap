@@ -25798,5 +25798,25 @@
         "mapycom_url": "https://mapy.com/zakladni?q=M%C3%A1chova%207%2C%20Praha%202",
         "googlemaps_url": "https://www.google.com/maps?q=M%C3%A1chova%207%2C%20Praha%202",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 97193324,
+        "url": "https://czap.cz/Sys/PublicProfile/97193324/5485226",
+        "name": "Šujáková, Barbora",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Zboží 61, Dvůr Králové nad Labem",
+        "mapycom_url": "https://mapy.com/zakladni?q=Zbo%C5%BE%C3%AD%2061%2C%20Dv%C5%AFr%20Kr%C3%A1lov%C3%A9%20nad%20Labem",
+        "googlemaps_url": "https://www.google.com/maps?q=Zbo%C5%BE%C3%AD%2061%2C%20Dv%C5%AFr%20Kr%C3%A1lov%C3%A9%20nad%20Labem",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 97203969,
+        "url": "https://czap.cz/Sys/PublicProfile/97203969/5485226",
+        "name": "Hansliková, Barbora",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Olomoucká 2520/74, Opava",
+        "mapycom_url": "https://mapy.com/zakladni?q=Olomouck%C3%A1%202520/74%2C%20Opava",
+        "googlemaps_url": "https://www.google.com/maps?q=Olomouck%C3%A1%202520/74%2C%20Opava",
+        "availability": "Info o dostupnosti na vyžádání"
     }
 ]
