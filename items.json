@@ -9924,9 +9924,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63647996/5485226",
         "name": "Kolarová, Soňa",
         "membership": "Řádné členství",
-        "location": "Vyšehrad 169, Český Krumlov",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vy%C5%A1ehrad%20169%2C%20%C4%8Cesk%C3%BD%20Krumlov",
-        "googlemaps_url": "https://www.google.com/maps?q=Vy%C5%A1ehrad%20169%2C%20%C4%8Cesk%C3%BD%20Krumlov",
+        "location": "Vyšehrad 169 / Zátkovo nábřeží, Český Krumlov / České Budějovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vy%C5%A1ehrad%20169%20/%20Z%C3%A1tkovo%20n%C3%A1b%C5%99e%C5%BE%C3%AD%2C%20%C4%8Cesk%C3%BD%20Krumlov%20/%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
+        "googlemaps_url": "https://www.google.com/maps?q=Vy%C5%A1ehrad%20169%20/%20Z%C3%A1tkovo%20n%C3%A1b%C5%99e%C5%BE%C3%AD%2C%20%C4%8Cesk%C3%BD%20Krumlov%20/%20%C4%8Cesk%C3%A9%20Bud%C4%9Bjovice",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -17140,6 +17140,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 74740276,
+        "url": "https://czap.cz/Sys/PublicProfile/74740276/5485226",
+        "name": "Růžičková, Jana",
+        "membership": "Řádné členství",
+        "location": "Ostrovského 353/3, Praha 5",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ostrovsk%C3%A9ho%20353/3%2C%20Praha%205",
+        "googlemaps_url": "https://www.google.com/maps?q=Ostrovsk%C3%A9ho%20353/3%2C%20Praha%205",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 74741099,
         "url": "https://czap.cz/Sys/PublicProfile/74741099/5485226",
         "name": "Tobiašová, Karolína",
@@ -19500,16 +19510,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 77762298,
-        "url": "https://czap.cz/Sys/PublicProfile/77762298/5485226",
-        "name": "Jeníčková Musilová, Lenka",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Nekvasilova 625/2, Praha 8",
-        "mapycom_url": "https://mapy.com/zakladni?q=Nekvasilova%20625/2%2C%20Praha%208",
-        "googlemaps_url": "https://www.google.com/maps?q=Nekvasilova%20625/2%2C%20Praha%208",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 77762310,
         "url": "https://czap.cz/Sys/PublicProfile/77762310/5485226",
         "name": "Schindler, Jana",
@@ -21210,6 +21210,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 80506262,
+        "url": "https://czap.cz/Sys/PublicProfile/80506262/5485226",
+        "name": "Kuldová, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Dvořákova 13, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Dvo%C5%99%C3%A1kova%2013%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Dvo%C5%99%C3%A1kova%2013%2C%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 80660592,
         "url": "https://czap.cz/Sys/PublicProfile/80660592/5485226",
         "name": "Kameník, Jiří",
@@ -22507,7 +22517,7 @@
         "location": "Akademika Heyrovského 1178/6, Hradec Králové",
         "mapycom_url": "https://mapy.com/zakladni?q=Akademika%20Heyrovsk%C3%A9ho%201178/6%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
         "googlemaps_url": "https://www.google.com/maps?q=Akademika%20Heyrovsk%C3%A9ho%201178/6%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 88189176,
@@ -24818,16 +24828,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Kuncova%201580%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Kuncova%201580%2C%20Praha",
         "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 96109294,
-        "url": "https://czap.cz/Sys/PublicProfile/96109294/5485226",
-        "name": "Pokorná, Daniela",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "K Mohyle 456/5, Praha 6",
-        "mapycom_url": "https://mapy.com/zakladni?q=K%20Mohyle%20456/5%2C%20Praha%206",
-        "googlemaps_url": "https://www.google.com/maps?q=K%20Mohyle%20456/5%2C%20Praha%206",
-        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 96118786,
