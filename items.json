@@ -7184,9 +7184,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/61784781/5485226",
         "name": "Benda, Jan",
         "membership": "Řádné členství",
-        "location": "Prokopa Diviše 9, Ústí nad Labem",
-        "mapycom_url": "https://mapy.com/zakladni?q=Prokopa%20Divi%C5%A1e%209%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
-        "googlemaps_url": "https://www.google.com/maps?q=Prokopa%20Divi%C5%A1e%209%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
+        "location": "Hradiště 97/4, Ústí nad Labem",
+        "mapycom_url": "https://mapy.com/zakladni?q=Hradi%C5%A1t%C4%9B%2097/4%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
+        "googlemaps_url": "https://www.google.com/maps?q=Hradi%C5%A1t%C4%9B%2097/4%2C%20%C3%9Ast%C3%AD%20nad%20Labem",
         "availability": "Nepřijímám nové klienty"
     },
     {
@@ -24210,16 +24210,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 95804846,
-        "url": "https://czap.cz/Sys/PublicProfile/95804846/5485226",
-        "name": "Konečný, Lukáš",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Týnska 21, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=T%C3%BDnska%2021%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=T%C3%BDnska%2021%2C%20Praha%201",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 95807373,
         "url": "https://czap.cz/Sys/PublicProfile/95807373/5485226",
         "name": "Rameš, Jiří",
@@ -25694,9 +25684,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/96866050/5485226",
         "name": "Brychtová, Jeanette",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Technická 2995/21, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Technick%C3%A1%202995/21%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Technick%C3%A1%202995/21%2C%20Brno",
+        "location": "Technická 21, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Technick%C3%A1%2021%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Technick%C3%A1%2021%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
