@@ -1120,6 +1120,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 58885003,
+        "url": "https://czap.cz/Sys/PublicProfile/58885003/5485226",
+        "name": "Rolederová, Iva",
+        "membership": "Řádné členství",
+        "location": "Slezská 74, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Slezsk%C3%A1%2074%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Slezsk%C3%A1%2074%2C%20Praha",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 58885004,
         "url": "https://czap.cz/Sys/PublicProfile/58885004/5485226",
         "name": "Galbavý, Martin",
@@ -6240,6 +6250,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 60465891,
+        "url": "https://czap.cz/Sys/PublicProfile/60465891/5485226",
+        "name": "Marklová, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Nad Údolím 48, Praha Hodkovičky",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nad%20%C3%9Adol%C3%ADm%2048%2C%20Praha%20Hodkovi%C4%8Dky",
+        "googlemaps_url": "https://www.google.com/maps?q=Nad%20%C3%9Adol%C3%ADm%2048%2C%20Praha%20Hodkovi%C4%8Dky",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 60479758,
         "url": "https://czap.cz/Sys/PublicProfile/60479758/5485226",
         "name": "Kryštofová, Anna",
@@ -6587,7 +6607,7 @@
         "location": "Janáčkova 2, Hustopeče",
         "mapycom_url": "https://mapy.com/zakladni?q=Jan%C3%A1%C4%8Dkova%202%2C%20Hustope%C4%8De",
         "googlemaps_url": "https://www.google.com/maps?q=Jan%C3%A1%C4%8Dkova%202%2C%20Hustope%C4%8De",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 61043404,
@@ -8618,6 +8638,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20M%C3%AD%C4%8Dance%2032%2C%20Na%20Vrcholu%202595/25%2C%20Praha%206%2C%20Praha%203",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20M%C3%AD%C4%8Dance%2032%2C%20Na%20Vrcholu%202595/25%2C%20Praha%206%2C%20Praha%203",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 62852382,
+        "url": "https://czap.cz/Sys/PublicProfile/62852382/5485226",
+        "name": "Rudnická, Růžena",
+        "membership": "Řádné členství",
+        "location": "Nad Spádem 9, Praha 4",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nad%20Sp%C3%A1dem%209%2C%20Praha%204",
+        "googlemaps_url": "https://www.google.com/maps?q=Nad%20Sp%C3%A1dem%209%2C%20Praha%204",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 62853038,
@@ -16680,6 +16710,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 73645084,
+        "url": "https://czap.cz/Sys/PublicProfile/73645084/5485226",
+        "name": "Hillebrandová, Monika",
+        "membership": "Řádné členství",
+        "location": "Bulharská 61, Trutnov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Bulharsk%C3%A1%2061%2C%20Trutnov",
+        "googlemaps_url": "https://www.google.com/maps?q=Bulharsk%C3%A1%2061%2C%20Trutnov",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 73655605,
         "url": "https://czap.cz/Sys/PublicProfile/73655605/5485226",
         "name": "Vozka, Pavel",
@@ -18448,6 +18488,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Strossmayerovo%20n%C3%A1m%C4%9Bst%C3%AD%201%2C%20Praha%207",
         "googlemaps_url": "https://www.google.com/maps?q=Strossmayerovo%20n%C3%A1m%C4%9Bst%C3%AD%201%2C%20Praha%207",
         "availability": "Nepřijímám nové klienty"
+    },
+    {
+        "id": 76899758,
+        "url": "https://czap.cz/Sys/PublicProfile/76899758/5485226",
+        "name": "Horák, Vladimír",
+        "membership": "Řádné členství",
+        "location": "Praha 9",
+        "mapycom_url": "https://mapy.com/zakladni?q=Praha%209",
+        "googlemaps_url": "https://www.google.com/maps?q=Praha%209",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 76915317,
@@ -21594,9 +21644,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/82147360/5485226",
         "name": "Kutinová, Lucie",
         "membership": "Řádné členství",
-        "location": "Slezská 2033/11, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=Slezsk%C3%A1%202033/11%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=Slezsk%C3%A1%202033/11%2C%20Praha%202",
+        "location": "Slezská 2033/11, Praha 4",
+        "mapycom_url": "https://mapy.com/zakladni?q=Slezsk%C3%A1%202033/11%2C%20Praha%204",
+        "googlemaps_url": "https://www.google.com/maps?q=Slezsk%C3%A1%202033/11%2C%20Praha%204",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -23430,6 +23480,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 94506221,
+        "url": "https://czap.cz/Sys/PublicProfile/94506221/5485226",
+        "name": "Voříšková, Jana",
+        "membership": "Řádné členství",
+        "location": "Husova 589/102, Poděbrady",
+        "mapycom_url": "https://mapy.com/zakladni?q=Husova%20589/102%2C%20Pod%C4%9Bbrady",
+        "googlemaps_url": "https://www.google.com/maps?q=Husova%20589/102%2C%20Pod%C4%9Bbrady",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 94555473,
         "url": "https://czap.cz/Sys/PublicProfile/94555473/5485226",
         "name": "Lopaurová, Štěpánka",
@@ -24218,6 +24278,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Chv%C3%A1lkovick%C3%A1%20151/82%2C%20Olomouc",
         "googlemaps_url": "https://www.google.com/maps?q=Chv%C3%A1lkovick%C3%A1%20151/82%2C%20Olomouc",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 95804846,
+        "url": "https://czap.cz/Sys/PublicProfile/95804846/5485226",
+        "name": "Konečný, Lukáš",
+        "membership": "Řádné členství",
+        "location": "Týnska 21, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=T%C3%BDnska%2021%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=T%C3%BDnska%2021%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 95807373,
