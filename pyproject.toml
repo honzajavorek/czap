@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "~3.12"
-scrapy = "2.15.0"
+scrapy = "2.15.1"
 
 [build-system]
 requires = ["poetry-core"]
