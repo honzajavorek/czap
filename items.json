@@ -1720,6 +1720,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 58885074,
+        "url": "https://czap.cz/Sys/PublicProfile/58885074/5485226",
+        "name": "Škvareková, Slávka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Francouzská 75/4, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Francouzsk%C3%A1%2075/4%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Francouzsk%C3%A1%2075/4%2C%20Praha%202",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 58885075,
         "url": "https://czap.cz/Sys/PublicProfile/58885075/5485226",
         "name": "Zouharová, Jana",
@@ -3778,6 +3788,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkopy%20530%2C%20Kostelec%20nad%20Orlic%C3%AD",
         "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkopy%20530%2C%20Kostelec%20nad%20Orlic%C3%AD",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 58885307,
+        "url": "https://czap.cz/Sys/PublicProfile/58885307/5485226",
+        "name": "Hyblerová, Zuzana",
+        "membership": "Řádné členství",
+        "location": "Jablonského 2, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jablonsk%C3%A9ho%202%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Jablonsk%C3%A9ho%202%2C%20Praha",
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 58885308,
@@ -26040,6 +26060,36 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 97211500,
+        "url": "https://czap.cz/Sys/PublicProfile/97211500/5485226",
+        "name": "Cvičková, Helena",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Zámecké náměstí 47, Frýdek - Místek",
+        "mapycom_url": "https://mapy.com/zakladni?q=Z%C3%A1meck%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2047%2C%20Fr%C3%BDdek%20-%20M%C3%ADstek",
+        "googlemaps_url": "https://www.google.com/maps?q=Z%C3%A1meck%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2047%2C%20Fr%C3%BDdek%20-%20M%C3%ADstek",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 97240135,
+        "url": "https://czap.cz/Sys/PublicProfile/97240135/5485226",
+        "name": "Břoušková, Barbora",
+        "membership": "Řádné členství",
+        "location": "Kollárova 261, Mladá Boleslav",
+        "mapycom_url": "https://mapy.com/zakladni?q=Koll%C3%A1rova%20261%2C%20Mlad%C3%A1%20Boleslav",
+        "googlemaps_url": "https://www.google.com/maps?q=Koll%C3%A1rova%20261%2C%20Mlad%C3%A1%20Boleslav",
+        "availability": "Nepřijímám nové klienty"
+    },
+    {
+        "id": 97240213,
+        "url": "https://czap.cz/Sys/PublicProfile/97240213/5485226",
+        "name": "Chrásková, Jana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Bochovská 561/13, Praha 5",
+        "mapycom_url": "https://mapy.com/zakladni?q=Bochovsk%C3%A1%20561/13%2C%20Praha%205",
+        "googlemaps_url": "https://www.google.com/maps?q=Bochovsk%C3%A1%20561/13%2C%20Praha%205",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 97240945,
         "url": "https://czap.cz/Sys/PublicProfile/97240945/5485226",
         "name": "Růžička, Petr",
@@ -26090,6 +26140,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 97276015,
+        "url": "https://czap.cz/Sys/PublicProfile/97276015/5485226",
+        "name": "Kleiner Kuberová, Kristýna",
+        "membership": "Řádné členství",
+        "location": "Řipská 15, Vinohrady, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%98ipsk%C3%A1%2015%2C%20Vinohrady%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%98ipsk%C3%A1%2015%2C%20Vinohrady%2C%20Praha%203",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 97282377,
         "url": "https://czap.cz/Sys/PublicProfile/97282377/5485226",
         "name": "Engelmann, Lukáš",
@@ -26128,6 +26188,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 97311247,
+        "url": "https://czap.cz/Sys/PublicProfile/97311247/5485226",
+        "name": "Tillerová, Markéta",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "V Zátiší 547, Čelákovice",
+        "mapycom_url": "https://mapy.com/zakladni?q=V%20Z%C3%A1ti%C5%A1%C3%AD%20547%2C%20%C4%8Cel%C3%A1kovice",
+        "googlemaps_url": "https://www.google.com/maps?q=V%20Z%C3%A1ti%C5%A1%C3%AD%20547%2C%20%C4%8Cel%C3%A1kovice",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 97328641,
