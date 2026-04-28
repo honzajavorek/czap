@@ -2940,6 +2940,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 58885208,
+        "url": "https://czap.cz/Sys/PublicProfile/58885208/5485226",
+        "name": "Lukány, Ján",
+        "membership": "Řádné členství",
+        "location": "Jindřišská 941/24, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jind%C5%99i%C5%A1sk%C3%A1%20941/24%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Jind%C5%99i%C5%A1sk%C3%A1%20941/24%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 58885209,
         "url": "https://czap.cz/Sys/PublicProfile/58885209/5485226",
         "name": "Pečená, Marie",
@@ -5613,7 +5623,7 @@
         "id": 59120010,
         "url": "https://czap.cz/Sys/PublicProfile/59120010/5485226",
         "name": "Kozáková, Eva",
-        "membership": "Kandidátní členství - ve výcviku",
+        "membership": "Řádné členství",
         "location": "Kamenická 677/6, Praha 7",
         "mapycom_url": "https://mapy.com/zakladni?q=Kamenick%C3%A1%20677/6%2C%20Praha%207",
         "googlemaps_url": "https://www.google.com/maps?q=Kamenick%C3%A1%20677/6%2C%20Praha%207",
@@ -13994,10 +14004,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/68951060/5485226",
         "name": "Nešetřil, Ondřej",
         "membership": "Řádné členství",
-        "location": "Vinohradská 95, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vinohradsk%C3%A1%2095%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=Vinohradsk%C3%A1%2095%2C%20Praha%202",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Haškova 13, Praha 7",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ha%C5%A1kova%2013%2C%20Praha%207",
+        "googlemaps_url": "https://www.google.com/maps?q=Ha%C5%A1kova%2013%2C%20Praha%207",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 68960761,
@@ -14444,9 +14454,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/69676865/5485226",
         "name": "Hermanová, Jiřina",
         "membership": "Řádné členství",
-        "location": "Národní 11, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1rodn%C3%AD%2011%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1rodn%C3%AD%2011%2C%20Praha%201",
+        "location": "Národní 40, Palác Adria, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1rodn%C3%AD%2040%2C%20Pal%C3%A1c%20Adria%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1rodn%C3%AD%2040%2C%20Pal%C3%A1c%20Adria%2C%20Praha%201",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
