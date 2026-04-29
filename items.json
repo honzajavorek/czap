@@ -13474,10 +13474,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/68552785/5485226",
         "name": "Bala, Liana",
         "membership": "Řádné členství",
-        "location": "Charkovská 24, Praha 10 - Vršovice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Charkovsk%C3%A1%2024%2C%20Praha%2010%20-%20Vr%C5%A1ovice",
-        "googlemaps_url": "https://www.google.com/maps?q=Charkovsk%C3%A1%2024%2C%20Praha%2010%20-%20Vr%C5%A1ovice",
-        "availability": "Přijímám nové klienty"
+        "location": "Nad Nuslemi 8, Praha 4",
+        "mapycom_url": "https://mapy.com/zakladni?q=Nad%20Nuslemi%208%2C%20Praha%204",
+        "googlemaps_url": "https://www.google.com/maps?q=Nad%20Nuslemi%208%2C%20Praha%204",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 68556064,
@@ -19737,7 +19737,7 @@
         "location": "Riegrovo náměstí 33/6, Poděbrady",
         "mapycom_url": "https://mapy.com/zakladni?q=Riegrovo%20n%C3%A1m%C4%9Bst%C3%AD%2033/6%2C%20Pod%C4%9Bbrady",
         "googlemaps_url": "https://www.google.com/maps?q=Riegrovo%20n%C3%A1m%C4%9Bst%C3%AD%2033/6%2C%20Pod%C4%9Bbrady",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 77912975,
@@ -19808,6 +19808,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=17.%20listopadu%2025%2C%20Boskovice",
         "googlemaps_url": "https://www.google.com/maps?q=17.%20listopadu%2025%2C%20Boskovice",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 78048323,
+        "url": "https://czap.cz/Sys/PublicProfile/78048323/5485226",
+        "name": "Šestáková, Olga",
+        "membership": "Řádné členství",
+        "location": "Máchova 18, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=M%C3%A1chova%2018%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=M%C3%A1chova%2018%2C%20Praha%202",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 78061830,
@@ -20287,7 +20297,7 @@
         "location": "Velenická 147/23, Praha 11",
         "mapycom_url": "https://mapy.com/zakladni?q=Velenick%C3%A1%20147/23%2C%20Praha%2011",
         "googlemaps_url": "https://www.google.com/maps?q=Velenick%C3%A1%20147/23%2C%20Praha%2011",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 78658257,
@@ -25760,6 +25770,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 96833286,
+        "url": "https://czap.cz/Sys/PublicProfile/96833286/5485226",
+        "name": "Vachutková, Jana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Československé armády 17, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C4%8Ceskoslovensk%C3%A9%20arm%C3%A1dy%2017%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=%C4%8Ceskoslovensk%C3%A9%20arm%C3%A1dy%2017%2C%20Praha",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 96836480,
         "url": "https://czap.cz/Sys/PublicProfile/96836480/5485226",
         "name": "Paulusová, Lucie",
@@ -26237,6 +26257,56 @@
         "location": "Opavská 776/87, Ostrava",
         "mapycom_url": "https://mapy.com/zakladni?q=Opavsk%C3%A1%20776/87%2C%20Ostrava",
         "googlemaps_url": "https://www.google.com/maps?q=Opavsk%C3%A1%20776/87%2C%20Ostrava",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 97399063,
+        "url": "https://czap.cz/Sys/PublicProfile/97399063/5485226",
+        "name": "Feřteková, Anna-Marie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Karmelitská 379/18, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Karmelitsk%C3%A1%20379/18%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Karmelitsk%C3%A1%20379/18%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 97400112,
+        "url": "https://czap.cz/Sys/PublicProfile/97400112/5485226",
+        "name": "Lorencová, Jana",
+        "membership": "Řádné členství",
+        "location": "Masarykovo náměstí 1102/37, Jihlava",
+        "mapycom_url": "https://mapy.com/zakladni?q=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%201102/37%2C%20Jihlava",
+        "googlemaps_url": "https://www.google.com/maps?q=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%201102/37%2C%20Jihlava",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 97400747,
+        "url": "https://czap.cz/Sys/PublicProfile/97400747/5485226",
+        "name": "Stanoeva, Jiřina",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Anenská 10 Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Anensk%C3%A1%2010%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Anensk%C3%A1%2010%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 97402857,
+        "url": "https://czap.cz/Sys/PublicProfile/97402857/5485226",
+        "name": "Seinerová, Lenka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "náměstí Československých legií 500, Pardubice",
+        "mapycom_url": "https://mapy.com/zakladni?q=n%C3%A1m%C4%9Bst%C3%AD%20%C4%8Ceskoslovensk%C3%BDch%20legi%C3%AD%20500%2C%20Pardubice",
+        "googlemaps_url": "https://www.google.com/maps?q=n%C3%A1m%C4%9Bst%C3%AD%20%C4%8Ceskoslovensk%C3%BDch%20legi%C3%AD%20500%2C%20Pardubice",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 97403205,
+        "url": "https://czap.cz/Sys/PublicProfile/97403205/5485226",
+        "name": "Slováková, Lucia",
+        "membership": "Řádné členství",
+        "location": "Na Bojišti 302/12, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Boji%C5%A1ti%20302/12%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Boji%C5%A1ti%20302/12%2C%20Olomouc",
         "availability": "Přijímám nové klienty"
     }
 ]
