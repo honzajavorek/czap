@@ -7657,7 +7657,7 @@
         "location": "Francouzská 4, Praha 2",
         "mapycom_url": "https://mapy.com/zakladni?q=Francouzsk%C3%A1%204%2C%20Praha%202",
         "googlemaps_url": "https://www.google.com/maps?q=Francouzsk%C3%A1%204%2C%20Praha%202",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 62191958,
@@ -19080,16 +19080,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 77253459,
-        "url": "https://czap.cz/Sys/PublicProfile/77253459/5485226",
-        "name": "Kaplanová, Iveta",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Zámecké náměstí 47, Frýdek-Místek",
-        "mapycom_url": "https://mapy.com/zakladni?q=Z%C3%A1meck%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2047%2C%20Fr%C3%BDdek-M%C3%ADstek",
-        "googlemaps_url": "https://www.google.com/maps?q=Z%C3%A1meck%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2047%2C%20Fr%C3%BDdek-M%C3%ADstek",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 77253468,
         "url": "https://czap.cz/Sys/PublicProfile/77253468/5485226",
         "name": "Schejbalová, Pavlína",
@@ -25400,6 +25390,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 96323135,
+        "url": "https://czap.cz/Sys/PublicProfile/96323135/5485226",
+        "name": "Klanica, Vladimír",
+        "membership": "Řádné členství",
+        "location": "Komenského nám. 435/6, Kroměříž",
+        "mapycom_url": "https://mapy.com/zakladni?q=Komensk%C3%A9ho%20n%C3%A1m.%20435/6%2C%20Krom%C4%9B%C5%99%C3%AD%C5%BE",
+        "googlemaps_url": "https://www.google.com/maps?q=Komensk%C3%A9ho%20n%C3%A1m.%20435/6%2C%20Krom%C4%9B%C5%99%C3%AD%C5%BE",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 96330693,
         "url": "https://czap.cz/Sys/PublicProfile/96330693/5485226",
         "name": "Blechová, Petra",
@@ -26257,6 +26257,16 @@
         "location": "Opavská 776/87, Ostrava",
         "mapycom_url": "https://mapy.com/zakladni?q=Opavsk%C3%A1%20776/87%2C%20Ostrava",
         "googlemaps_url": "https://www.google.com/maps?q=Opavsk%C3%A1%20776/87%2C%20Ostrava",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 97386413,
+        "url": "https://czap.cz/Sys/PublicProfile/97386413/5485226",
+        "name": "Sarkisova, Kateřina",
+        "membership": "Řádné členství",
+        "location": "Charkovská 24, Praha 10",
+        "mapycom_url": "https://mapy.com/zakladni?q=Charkovsk%C3%A1%2024%2C%20Praha%2010",
+        "googlemaps_url": "https://www.google.com/maps?q=Charkovsk%C3%A1%2024%2C%20Praha%2010",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
