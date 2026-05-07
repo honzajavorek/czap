@@ -12630,6 +12630,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 67958027,
+        "url": "https://czap.cz/Sys/PublicProfile/67958027/5485226",
+        "name": "Hudská, Anna",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Hluboká 279, Turnov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Hlubok%C3%A1%20279%2C%20Turnov",
+        "googlemaps_url": "https://www.google.com/maps?q=Hlubok%C3%A1%20279%2C%20Turnov",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 67969492,
         "url": "https://czap.cz/Sys/PublicProfile/67969492/5485226",
         "name": "Soukalová, Veronika",
@@ -14140,6 +14150,16 @@
         "availability": "Nepřijímám nové klienty"
     },
     {
+        "id": 69107723,
+        "url": "https://czap.cz/Sys/PublicProfile/69107723/5485226",
+        "name": "Vacek, Tomáš",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Budějovická 4, Jesenice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Bud%C4%9Bjovick%C3%A1%204%2C%20Jesenice",
+        "googlemaps_url": "https://www.google.com/maps?q=Bud%C4%9Bjovick%C3%A1%204%2C%20Jesenice",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 69130329,
         "url": "https://czap.cz/Sys/PublicProfile/69130329/5485226",
         "name": "Mohyla, Richard",
@@ -14947,6 +14967,16 @@
         "location": "Na Zlatnici 14/26, Praha 47",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Zlatnici%2014/26%2C%20Praha%2047",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Zlatnici%2014/26%2C%20Praha%2047",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 70410138,
+        "url": "https://czap.cz/Sys/PublicProfile/70410138/5485226",
+        "name": "Bílý, Ondřej",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Křenová 89/19, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=K%C5%99enov%C3%A1%2089/19%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=K%C5%99enov%C3%A1%2089/19%2C%20Brno",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -17334,9 +17364,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/74741099/5485226",
         "name": "Tobiašová, Karolína",
         "membership": "Řádné členství",
-        "location": "Československé armády 17, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C4%8Ceskoslovensk%C3%A9%20arm%C3%A1dy%2017%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=%C4%8Ceskoslovensk%C3%A9%20arm%C3%A1dy%2017%2C%20Praha",
+        "location": "Vršovické náměstí 8, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vr%C5%A1ovick%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%208%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Vr%C5%A1ovick%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%208%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -21184,9 +21214,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/79970763/5485226",
         "name": "Faldyna, Zdeněk",
         "membership": "Řádné členství",
-        "location": "Dolní náměstí 29, Olomouc",
-        "mapycom_url": "https://mapy.com/zakladni?q=Doln%C3%AD%20n%C3%A1m%C4%9Bst%C3%AD%2029%2C%20Olomouc",
-        "googlemaps_url": "https://www.google.com/maps?q=Doln%C3%AD%20n%C3%A1m%C4%9Bst%C3%AD%2029%2C%20Olomouc",
+        "location": "Ostružnická 331/18, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ostru%C5%BEnick%C3%A1%20331/18%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Ostru%C5%BEnick%C3%A1%20331/18%2C%20Olomouc",
         "availability": "Přijímám nové klienty"
     },
     {
