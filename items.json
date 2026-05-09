@@ -5220,6 +5220,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 58885478,
+        "url": "https://czap.cz/Sys/PublicProfile/58885478/5485226",
+        "name": "Bubeník, Miroslav",
+        "membership": "Řádné členství",
+        "location": "Benešova tř.575, Ulrychovo nám.762, Hradec Králové",
+        "mapycom_url": "https://mapy.com/zakladni?q=Bene%C5%A1ova%20t%C5%99.575%2C%20Ulrychovo%20n%C3%A1m.762%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "googlemaps_url": "https://www.google.com/maps?q=Bene%C5%A1ova%20t%C5%99.575%2C%20Ulrychovo%20n%C3%A1m.762%2C%20Hradec%20Kr%C3%A1lov%C3%A9",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 58885479,
         "url": "https://czap.cz/Sys/PublicProfile/58885479/5485226",
         "name": "Antošová, Markéta",
@@ -8007,7 +8017,7 @@
         "location": "Uzavřená 1, Praha 8 - Kobylisy",
         "mapycom_url": "https://mapy.com/zakladni?q=Uzav%C5%99en%C3%A1%201%2C%20Praha%208%20-%20Kobylisy",
         "googlemaps_url": "https://www.google.com/maps?q=Uzav%C5%99en%C3%A1%201%2C%20Praha%208%20-%20Kobylisy",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 62373557,
@@ -9487,6 +9497,16 @@
         "location": "Starobělská 1133/5, Ostrava - jih - Zábřeh",
         "mapycom_url": "https://mapy.com/zakladni?q=Starob%C4%9Blsk%C3%A1%201133/5%2C%20Ostrava%20-%20jih%20-%20Z%C3%A1b%C5%99eh",
         "googlemaps_url": "https://www.google.com/maps?q=Starob%C4%9Blsk%C3%A1%201133/5%2C%20Ostrava%20-%20jih%20-%20Z%C3%A1b%C5%99eh",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 63479861,
+        "url": "https://czap.cz/Sys/PublicProfile/63479861/5485226",
+        "name": "Vávrová, Petra",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Břehová 40/1, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=B%C5%99ehov%C3%A1%2040/1%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=B%C5%99ehov%C3%A1%2040/1%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -10987,7 +11007,7 @@
         "location": "Starobrněnská 341/18, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Starobrn%C4%9Bnsk%C3%A1%20341/18%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Starobrn%C4%9Bnsk%C3%A1%20341/18%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 64848398,
@@ -11314,10 +11334,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/66438965/5485226",
         "name": "Slobodníková, Alexandra",
         "membership": "Řádné členství",
-        "location": "Bartoškova 1411/22, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Barto%C5%A1kova%201411/22%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Barto%C5%A1kova%201411/22%2C%20Praha",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Praha",
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 66439314,
@@ -16047,7 +16067,7 @@
         "location": "Jeremenkova 42, Olomouc",
         "mapycom_url": "https://mapy.com/zakladni?q=Jeremenkova%2042%2C%20Olomouc",
         "googlemaps_url": "https://www.google.com/maps?q=Jeremenkova%2042%2C%20Olomouc",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 72020872,
@@ -19188,6 +19208,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Dvoreck%C3%A1%2023%2C%20Praha%204",
         "googlemaps_url": "https://www.google.com/maps?q=Dvoreck%C3%A1%2023%2C%20Praha%204",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 77253459,
+        "url": "https://czap.cz/Sys/PublicProfile/77253459/5485226",
+        "name": "Kaplanová, Iveta",
+        "membership": "Řádné členství",
+        "location": "Zámecké náměstí 47, Frýdek-Místek",
+        "mapycom_url": "https://mapy.com/zakladni?q=Z%C3%A1meck%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2047%2C%20Fr%C3%BDdek-M%C3%ADstek",
+        "googlemaps_url": "https://www.google.com/maps?q=Z%C3%A1meck%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2047%2C%20Fr%C3%BDdek-M%C3%ADstek",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 77253468,
@@ -22634,9 +22664,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/87279572/5485226",
         "name": "Smítková, Alena",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Václavské nám. 821/39, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=V%C3%A1clavsk%C3%A9%20n%C3%A1m.%20821/39%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=V%C3%A1clavsk%C3%A9%20n%C3%A1m.%20821/39%2C%20Praha%201",
+        "location": "Národní 339/11, 110 00 Staré Město, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1rodn%C3%AD%20339/11%2C%20110%2000%20Star%C3%A9%20M%C4%9Bsto%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1rodn%C3%AD%20339/11%2C%20110%2000%20Star%C3%A9%20M%C4%9Bsto%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -26158,6 +26188,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Gork%C3%A9ho%2017%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Gork%C3%A9ho%2017%2C%20Brno",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 97137215,
+        "url": "https://czap.cz/Sys/PublicProfile/97137215/5485226",
+        "name": "Všianská, Anežka",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Národní obrany 37, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1rodn%C3%AD%20obrany%2037%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1rodn%C3%AD%20obrany%2037%2C%20Praha%206",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 97188404,
