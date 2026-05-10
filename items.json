@@ -1520,6 +1520,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 58885050,
+        "url": "https://czap.cz/Sys/PublicProfile/58885050/5485226",
+        "name": "Almássy, Genovéva",
+        "membership": "Řádné členství",
+        "location": "Za kopečkem 353, Žamberk",
+        "mapycom_url": "https://mapy.com/zakladni?q=Za%20kope%C4%8Dkem%20353%2C%20%C5%BDamberk",
+        "googlemaps_url": "https://www.google.com/maps?q=Za%20kope%C4%8Dkem%20353%2C%20%C5%BDamberk",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 58885053,
         "url": "https://czap.cz/Sys/PublicProfile/58885053/5485226",
         "name": "Kotvrda, Jindřich",
@@ -26348,6 +26358,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 97263561,
+        "url": "https://czap.cz/Sys/PublicProfile/97263561/5485226",
+        "name": "Kučová, Hana",
+        "membership": "Řádné členství",
+        "location": "Za Hládkovem 20, Praha 6",
+        "mapycom_url": "https://mapy.com/zakladni?q=Za%20Hl%C3%A1dkovem%2020%2C%20Praha%206",
+        "googlemaps_url": "https://www.google.com/maps?q=Za%20Hl%C3%A1dkovem%2020%2C%20Praha%206",
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 97266829,
