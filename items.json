@@ -6760,6 +6760,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 61043419,
+        "url": "https://czap.cz/Sys/PublicProfile/61043419/5485226",
+        "name": "Křepelová, Iveta",
+        "membership": "Řádné členství",
+        "location": "Trnkova 27, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Trnkova%2027%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Trnkova%2027%2C%20Olomouc",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 61043423,
         "url": "https://czap.cz/Sys/PublicProfile/61043423/5485226",
         "name": "Valentová, Veronika",
@@ -9358,16 +9368,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%A0tef%C3%A1nikova%205462%2C%20Zl%C3%ADn",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%A0tef%C3%A1nikova%205462%2C%20Zl%C3%ADn",
         "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 63415336,
-        "url": "https://czap.cz/Sys/PublicProfile/63415336/5485226",
-        "name": "Wolfová, Karin",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Brno",
-        "availability": "Přijímám nové klienty"
     },
     {
         "id": 63415509,
@@ -14894,9 +14894,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/70122868/5485226",
         "name": "Hamerská, Lenka",
         "membership": "Řádné členství",
-        "location": "Muchova 33, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Muchova%2033%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Muchova%2033%2C%20Brno",
+        "location": "Holandská 878/2, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Holandsk%C3%A1%20878/2%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Holandsk%C3%A1%20878/2%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -17094,9 +17094,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/73798225/5485226",
         "name": "Pokorná, Zuzana",
         "membership": "Řádné členství",
-        "location": "Za Dvorem 2285, Brandýs nad Labem",
-        "mapycom_url": "https://mapy.com/zakladni?q=Za%20Dvorem%202285%2C%20Brand%C3%BDs%20nad%20Labem",
-        "googlemaps_url": "https://www.google.com/maps?q=Za%20Dvorem%202285%2C%20Brand%C3%BDs%20nad%20Labem",
+        "location": "Teplýšovice, Benešov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Tepl%C3%BD%C5%A1ovice%2C%20Bene%C5%A1ov",
+        "googlemaps_url": "https://www.google.com/maps?q=Tepl%C3%BD%C5%A1ovice%2C%20Bene%C5%A1ov",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -23917,7 +23917,7 @@
         "location": "Národní 28, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1rodn%C3%AD%2028%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1rodn%C3%AD%2028%2C%20Praha%201",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 94894429,
@@ -26638,6 +26638,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20Boji%C5%A1ti%20302/12%2C%20Olomouc",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20Boji%C5%A1ti%20302/12%2C%20Olomouc",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 97423898,
+        "url": "https://czap.cz/Sys/PublicProfile/97423898/5485226",
+        "name": "Jurková, Kristýna",
+        "membership": "Řádné členství",
+        "location": "Topolová 748, Klecany",
+        "mapycom_url": "https://mapy.com/zakladni?q=Topolov%C3%A1%20748%2C%20Klecany",
+        "googlemaps_url": "https://www.google.com/maps?q=Topolov%C3%A1%20748%2C%20Klecany",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 97429062,
