@@ -12360,16 +12360,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 67791895,
-        "url": "https://czap.cz/Sys/PublicProfile/67791895/5485226",
-        "name": "Nevtípilová, Petra",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Vrchlického sad 1893/3, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vrchlick%C3%A9ho%20sad%201893/3%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Vrchlick%C3%A9ho%20sad%201893/3%2C%20Brno",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 67799065,
         "url": "https://czap.cz/Sys/PublicProfile/67799065/5485226",
         "name": "Schmidt, Adam",
@@ -13332,7 +13322,7 @@
     {
         "id": 68410289,
         "url": "https://czap.cz/Sys/PublicProfile/68410289/5485226",
-        "name": "Bajgarová, Aneta",
+        "name": "Helštýnová, Aneta",
         "membership": "Řádné členství",
         "location": "Železárenská 1267/21, Mariánské Hory",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDelez%C3%A1rensk%C3%A1%201267/21%2C%20Mari%C3%A1nsk%C3%A9%20Hory",
@@ -26668,6 +26658,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Kamenick%C3%A1%20801%2C%20Praha%207",
         "googlemaps_url": "https://www.google.com/maps?q=Kamenick%C3%A1%20801%2C%20Praha%207",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 97430886,
+        "url": "https://czap.cz/Sys/PublicProfile/97430886/5485226",
+        "name": "Slezáčková, Vendula",
+        "membership": "Řádné členství",
+        "location": "Stará Tenice 1343, Uherské Hradiště",
+        "mapycom_url": "https://mapy.com/zakladni?q=Star%C3%A1%20Tenice%201343%2C%20Uhersk%C3%A9%20Hradi%C5%A1t%C4%9B",
+        "googlemaps_url": "https://www.google.com/maps?q=Star%C3%A1%20Tenice%201343%2C%20Uhersk%C3%A9%20Hradi%C5%A1t%C4%9B",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 97461624,
