@@ -51,7 +51,7 @@ jobs:
         run: rm items.json
 
       - name: Restore Scrapy cache
-        uses: actions/cache/restore@v5
+        uses: actions/cache/restore@v6
         with:
           path: .scrapy
           key: scrapy-cache-${{ github.run_id }}
@@ -62,7 +62,7 @@ jobs:
         run: poetry run scrapy crawl czap
 
       - name: Save Scrapy cache
-        uses: actions/cache/save@v5
+        uses: actions/cache/save@v6
         with:
           path: .scrapy
           key: scrapy-cache-${{ github.run_id }}
