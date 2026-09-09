@@ -11,7 +11,7 @@ import scrapy
 class CZAPSpider(scrapy.Spider):
     name = "czap"
 
-    def start_requests(self):
+    async def start(self):
         yield scrapy.FormRequest(
             method="POST",
             url="https://czap.cz/Sys/MemberDirectory/LoadMembers?t=1703710499816",
