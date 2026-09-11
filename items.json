@@ -2392,12 +2392,12 @@
     {
         "id": 58885145,
         "url": "https://czap.cz/Sys/PublicProfile/58885145/5485226",
-        "name": "Ammer, Jiří",
+        "name": "Ammer Ceh, Jiří",
         "membership": "Řádné členství",
-        "location": "Spondea: Sýpka 25, Soukromé: Divadelní 6, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Spondea%3A%20S%C3%BDpka%2025%2C%20Soukrom%C3%A9%3A%20Divadeln%C3%AD%206%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Spondea%3A%20S%C3%BDpka%2025%2C%20Soukrom%C3%A9%3A%20Divadeln%C3%AD%206%2C%20Brno",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Divadelní 6, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Divadeln%C3%AD%206%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Divadeln%C3%AD%206%2C%20Brno",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885146,
@@ -5084,9 +5084,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885458/5485226",
         "name": "Minařík, Petr",
         "membership": "Řádné členství",
-        "location": "Národní 11, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1rodn%C3%AD%2011%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1rodn%C3%AD%2011%2C%20Praha%201",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -16014,9 +16014,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/71303019/5485226",
         "name": "Kubátová, Michaela",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Osadní 12a, Praha 7",
-        "mapycom_url": "https://mapy.com/zakladni?q=Osadn%C3%AD%2012a%2C%20Praha%207",
-        "googlemaps_url": "https://www.google.com/maps?q=Osadn%C3%AD%2012a%2C%20Praha%207",
+        "location": "Mrštíkova 447/8, Praha 10",
+        "mapycom_url": "https://mapy.com/zakladni?q=Mr%C5%A1t%C3%ADkova%20447/8%2C%20Praha%2010",
+        "googlemaps_url": "https://www.google.com/maps?q=Mr%C5%A1t%C3%ADkova%20447/8%2C%20Praha%2010",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -28540,6 +28540,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 99036350,
+        "url": "https://czap.cz/Sys/PublicProfile/99036350/5485226",
+        "name": "Doležal, David",
+        "membership": "Řádné členství",
+        "location": "U Bulhara 1655/5, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=U%20Bulhara%201655/5%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=U%20Bulhara%201655/5%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 99059615,
         "url": "https://czap.cz/Sys/PublicProfile/99059615/5485226",
         "name": "Vejvančická, Linda",
@@ -28677,6 +28687,16 @@
         "location": "Senovážné náměstí 23, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 99252052,
+        "url": "https://czap.cz/Sys/PublicProfile/99252052/5485226",
+        "name": "Balaštíková, Gabriela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Ječná 39a/243, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Je%C4%8Dn%C3%A1%2039a/243%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Je%C4%8Dn%C3%A1%2039a/243%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
