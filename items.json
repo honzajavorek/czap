@@ -3810,6 +3810,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 58885307,
+        "url": "https://czap.cz/Sys/PublicProfile/58885307/5485226",
+        "name": "Hyblerová, Zuzana",
+        "membership": "Řádné členství",
+        "location": "Revoluční 1082/8, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Revolu%C4%8Dn%C3%AD%201082/8%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Revolu%C4%8Dn%C3%AD%201082/8%2C%20Praha",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 58885308,
         "url": "https://czap.cz/Sys/PublicProfile/58885308/5485226",
         "name": "Večerková, Petra",
@@ -12134,9 +12144,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/67301252/5485226",
         "name": "Huamanová, Jana",
         "membership": "Řádné členství",
-        "location": "Hradecká 202, Opatovice nad Labem",
-        "mapycom_url": "https://mapy.com/zakladni?q=Hradeck%C3%A1%20202%2C%20Opatovice%20nad%20Labem",
-        "googlemaps_url": "https://www.google.com/maps?q=Hradeck%C3%A1%20202%2C%20Opatovice%20nad%20Labem",
+        "location": "Pivovarská ul., Česká Skalice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pivovarsk%C3%A1%20ul.%2C%20%C4%8Cesk%C3%A1%20Skalice",
+        "googlemaps_url": "https://www.google.com/maps?q=Pivovarsk%C3%A1%20ul.%2C%20%C4%8Cesk%C3%A1%20Skalice",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -16110,6 +16120,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 71475154,
+        "url": "https://czap.cz/Sys/PublicProfile/71475154/5485226",
+        "name": "Štěpánková, Hana",
+        "membership": "Řádné členství",
+        "location": "K Újezdu 278, Praha 4 - Šeberov",
+        "mapycom_url": "https://mapy.com/zakladni?q=K%20%C3%9Ajezdu%20278%2C%20Praha%204%20-%20%C5%A0eberov",
+        "googlemaps_url": "https://www.google.com/maps?q=K%20%C3%9Ajezdu%20278%2C%20Praha%204%20-%20%C5%A0eberov",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 71480368,
         "url": "https://czap.cz/Sys/PublicProfile/71480368/5485226",
         "name": "Kytka, Monika",
@@ -20054,9 +20074,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/77744308/5485226",
         "name": "Wilde, Kateřina",
         "membership": "Řádné členství",
-        "location": "28.října 1639, Frýdek - Místek",
-        "mapycom_url": "https://mapy.com/zakladni?q=28.%C5%99%C3%ADjna%201639%2C%20Fr%C3%BDdek%20-%20M%C3%ADstek",
-        "googlemaps_url": "https://www.google.com/maps?q=28.%C5%99%C3%ADjna%201639%2C%20Fr%C3%BDdek%20-%20M%C3%ADstek",
+        "location": "T.G. Masaryka 1108, Frýdek - Místek",
+        "mapycom_url": "https://mapy.com/zakladni?q=T.G.%20Masaryka%201108%2C%20Fr%C3%BDdek%20-%20M%C3%ADstek",
+        "googlemaps_url": "https://www.google.com/maps?q=T.G.%20Masaryka%201108%2C%20Fr%C3%BDdek%20-%20M%C3%ADstek",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -27347,7 +27367,7 @@
         "location": "Erbenova 720/2, Olomouc",
         "mapycom_url": "https://mapy.com/zakladni?q=Erbenova%20720/2%2C%20Olomouc",
         "googlemaps_url": "https://www.google.com/maps?q=Erbenova%20720/2%2C%20Olomouc",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 97949166,
@@ -28717,6 +28737,16 @@
         "location": "Příkop 2A, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%202A%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%202A%2C%20Brno",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 99269047,
+        "url": "https://czap.cz/Sys/PublicProfile/99269047/5485226",
+        "name": "Vybíralová, Jaroslava",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Poděbradova 276/99, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pod%C4%9Bbradova%20276/99%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Pod%C4%9Bbradova%20276/99%2C%20Brno",
         "availability": "Přijímám nové klienty"
     }
 ]
