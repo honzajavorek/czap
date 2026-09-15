@@ -1867,7 +1867,7 @@
         "location": "Věšínova 104/5, Praha 10",
         "mapycom_url": "https://mapy.com/zakladni?q=V%C4%9B%C5%A1%C3%ADnova%20104/5%2C%20Praha%2010",
         "googlemaps_url": "https://www.google.com/maps?q=V%C4%9B%C5%A1%C3%ADnova%20104/5%2C%20Praha%2010",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885089,
@@ -6730,16 +6730,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 61043409,
-        "url": "https://czap.cz/Sys/PublicProfile/61043409/5485226",
-        "name": "Filipová, Irena",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Hráského 2231/25, Praha 4 - Chodov",
-        "mapycom_url": "https://mapy.com/zakladni?q=Hr%C3%A1sk%C3%A9ho%202231/25%2C%20Praha%204%20-%20Chodov",
-        "googlemaps_url": "https://www.google.com/maps?q=Hr%C3%A1sk%C3%A9ho%202231/25%2C%20Praha%204%20-%20Chodov",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 61043410,
         "url": "https://czap.cz/Sys/PublicProfile/61043410/5485226",
         "name": "Dvořáková, Kristýna",
@@ -7267,7 +7257,7 @@
         "location": "Thákurova 3, Praha 6 - Dejvice",
         "mapycom_url": "https://mapy.com/zakladni?q=Th%C3%A1kurova%203%2C%20Praha%206%20-%20Dejvice",
         "googlemaps_url": "https://www.google.com/maps?q=Th%C3%A1kurova%203%2C%20Praha%206%20-%20Dejvice",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 61704326,
@@ -10904,9 +10894,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/64405506/5485226",
         "name": "Syslová, Dana",
         "membership": "Řádné členství",
-        "location": "Slovenská 6, Praha 10 - Vinohrady",
-        "mapycom_url": "https://mapy.com/zakladni?q=Slovensk%C3%A1%206%2C%20Praha%2010%20-%20Vinohrady",
-        "googlemaps_url": "https://www.google.com/maps?q=Slovensk%C3%A1%206%2C%20Praha%2010%20-%20Vinohrady",
+        "location": "Americká 4, Praha 2 - Vinohrady",
+        "mapycom_url": "https://mapy.com/zakladni?q=Americk%C3%A1%204%2C%20Praha%202%20-%20Vinohrady",
+        "googlemaps_url": "https://www.google.com/maps?q=Americk%C3%A1%204%2C%20Praha%202%20-%20Vinohrady",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -20844,9 +20834,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/78657361/5485226",
         "name": "Konečná, Hana",
         "membership": "Řádné členství",
-        "location": "Korálkových 467, Bašť",
-        "mapycom_url": "https://mapy.com/zakladni?q=Kor%C3%A1lkov%C3%BDch%20467%2C%20Ba%C5%A1%C5%A5",
-        "googlemaps_url": "https://www.google.com/maps?q=Kor%C3%A1lkov%C3%BDch%20467%2C%20Ba%C5%A1%C5%A5",
+        "location": "Na Pěšinách 89/66, Praha Kobylisy",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20P%C4%9B%C5%A1in%C3%A1ch%2089/66%2C%20Praha%20Kobylisy",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20P%C4%9B%C5%A1in%C3%A1ch%2089/66%2C%20Praha%20Kobylisy",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -27278,16 +27268,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Kope%C4%8Dn%C3%A1%2019%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Kope%C4%8Dn%C3%A1%2019%2C%20Brno",
         "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 97721092,
-        "url": "https://czap.cz/Sys/PublicProfile/97721092/5485226",
-        "name": "Robovski, Katalin",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Vinohrady, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vinohrady%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=Vinohrady%2C%20Praha%202",
-        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 97725462,
