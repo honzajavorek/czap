@@ -16484,9 +16484,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/72076742/5485226",
         "name": "Kubínová, Lucie",
         "membership": "Řádné členství",
-        "location": "Bílsko 68, Kopidlno",
-        "mapycom_url": "https://mapy.com/zakladni?q=B%C3%ADlsko%2068%2C%20Kopidlno",
-        "googlemaps_url": "https://www.google.com/maps?q=B%C3%ADlsko%2068%2C%20Kopidlno",
+        "location": "Bryksova 818/48, Černý Most",
+        "mapycom_url": "https://mapy.com/zakladni?q=Bryksova%20818/48%2C%20%C4%8Cern%C3%BD%20Most",
+        "googlemaps_url": "https://www.google.com/maps?q=Bryksova%20818/48%2C%20%C4%8Cern%C3%BD%20Most",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -24070,16 +24070,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 94304364,
-        "url": "https://czap.cz/Sys/PublicProfile/94304364/5485226",
-        "name": "Táborská, Pavla",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Budečská 795/3, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=Bude%C4%8Dsk%C3%A1%20795/3%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=Bude%C4%8Dsk%C3%A1%20795/3%2C%20Praha%202",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 94321845,
         "url": "https://czap.cz/Sys/PublicProfile/94321845/5485226",
         "name": "Brychtová, Ivana",
@@ -24847,16 +24837,6 @@
         "location": "Jeseniova 1164/47, Praha 3",
         "mapycom_url": "https://mapy.com/zakladni?q=Jeseniova%201164/47%2C%20Praha%203",
         "googlemaps_url": "https://www.google.com/maps?q=Jeseniova%201164/47%2C%20Praha%203",
-        "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 95717292,
-        "url": "https://czap.cz/Sys/PublicProfile/95717292/5485226",
-        "name": "Straus, Alena",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Charkovská 24, Praha 10",
-        "mapycom_url": "https://mapy.com/zakladni?q=Charkovsk%C3%A1%2024%2C%20Praha%2010",
-        "googlemaps_url": "https://www.google.com/maps?q=Charkovsk%C3%A1%2024%2C%20Praha%2010",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -28568,6 +28548,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Slovansk%C3%A1%20275/16%2C%20%C5%A0umperk",
         "googlemaps_url": "https://www.google.com/maps?q=Slovansk%C3%A1%20275/16%2C%20%C5%A0umperk",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 99143060,
+        "url": "https://czap.cz/Sys/PublicProfile/99143060/5485226",
+        "name": "Brada, Robert",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Pod Brentovou 555/6, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pod%20Brentovou%20555/6%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Pod%20Brentovou%20555/6%2C%20Praha",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 99167330,
