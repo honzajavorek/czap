@@ -14160,6 +14160,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 68746043,
+        "url": "https://czap.cz/Sys/PublicProfile/68746043/5485226",
+        "name": "Leikebová, Veronika",
+        "membership": "Řádné členství",
+        "location": "Úvoz 523/19, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C3%9Avoz%20523/19%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=%C3%9Avoz%20523/19%2C%20Brno",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 68746263,
         "url": "https://czap.cz/Sys/PublicProfile/68746263/5485226",
         "name": "Krejčíková, Kateřina",
@@ -14717,16 +14727,6 @@
         "location": "Hořovičky 134, okr. Rakovník, Hořovičky",
         "mapycom_url": "https://mapy.com/zakladni?q=Ho%C5%99ovi%C4%8Dky%20134%2C%20okr.%20Rakovn%C3%ADk%2C%20Ho%C5%99ovi%C4%8Dky",
         "googlemaps_url": "https://www.google.com/maps?q=Ho%C5%99ovi%C4%8Dky%20134%2C%20okr.%20Rakovn%C3%ADk%2C%20Ho%C5%99ovi%C4%8Dky",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 69528018,
-        "url": "https://czap.cz/Sys/PublicProfile/69528018/5485226",
-        "name": "Dvořáková, Marika",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Pražská 103, Mělník",
-        "mapycom_url": "https://mapy.com/zakladni?q=Pra%C5%BEsk%C3%A1%20103%2C%20M%C4%9Bln%C3%ADk",
-        "googlemaps_url": "https://www.google.com/maps?q=Pra%C5%BEsk%C3%A1%20103%2C%20M%C4%9Bln%C3%ADk",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -18257,7 +18257,7 @@
         "location": "nám. Sokolovské 312/1, Liberec",
         "mapycom_url": "https://mapy.com/zakladni?q=n%C3%A1m.%20Sokolovsk%C3%A9%20312/1%2C%20Liberec",
         "googlemaps_url": "https://www.google.com/maps?q=n%C3%A1m.%20Sokolovsk%C3%A9%20312/1%2C%20Liberec",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 75514315,
@@ -22317,7 +22317,7 @@
         "location": "Minská 13, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Minsk%C3%A1%2013%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Minsk%C3%A1%2013%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 82147360,
@@ -24077,6 +24077,16 @@
         "location": "Lednická 118/43, Břeclav",
         "mapycom_url": "https://mapy.com/zakladni?q=Lednick%C3%A1%20118/43%2C%20B%C5%99eclav",
         "googlemaps_url": "https://www.google.com/maps?q=Lednick%C3%A1%20118/43%2C%20B%C5%99eclav",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 94304364,
+        "url": "https://czap.cz/Sys/PublicProfile/94304364/5485226",
+        "name": "Táborská, Pavla",
+        "membership": "Řádné členství",
+        "location": "Budečská 795/3, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Bude%C4%8Dsk%C3%A1%20795/3%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Bude%C4%8Dsk%C3%A1%20795/3%2C%20Praha%202",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -27268,6 +27278,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Kope%C4%8Dn%C3%A1%2019%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Kope%C4%8Dn%C3%A1%2019%2C%20Brno",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 97721092,
+        "url": "https://czap.cz/Sys/PublicProfile/97721092/5485226",
+        "name": "Robovski, Katalin",
+        "membership": "Řádné členství",
+        "location": "Vinohrady, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vinohrady%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Vinohrady%2C%20Praha%202",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 97725462,
