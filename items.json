@@ -8700,16 +8700,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 62788769,
-        "url": "https://czap.cz/Sys/PublicProfile/62788769/5485226",
-        "name": "Lichnovská, Marie",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Smetanovo náměstí 328/1, Ostrava - Moravská Ostrava",
-        "mapycom_url": "https://mapy.com/zakladni?q=Smetanovo%20n%C3%A1m%C4%9Bst%C3%AD%20328/1%2C%20Ostrava%20-%20Moravsk%C3%A1%20Ostrava",
-        "googlemaps_url": "https://www.google.com/maps?q=Smetanovo%20n%C3%A1m%C4%9Bst%C3%AD%20328/1%2C%20Ostrava%20-%20Moravsk%C3%A1%20Ostrava",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 62789584,
         "url": "https://czap.cz/Sys/PublicProfile/62789584/5485226",
         "name": "Tošnerová, Eva",
@@ -11417,16 +11407,6 @@
         "location": "Na zámecké 1518/9, Praha 10",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20z%C3%A1meck%C3%A9%201518/9%2C%20Praha%2010",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20z%C3%A1meck%C3%A9%201518/9%2C%20Praha%2010",
-        "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 65326255,
-        "url": "https://czap.cz/Sys/PublicProfile/65326255/5485226",
-        "name": "Vávrová, Dita",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Nová 707, Valašské Meziříčí",
-        "mapycom_url": "https://mapy.com/zakladni?q=Nov%C3%A1%20707%2C%20Vala%C5%A1sk%C3%A9%20Mezi%C5%99%C3%AD%C4%8D%C3%AD",
-        "googlemaps_url": "https://www.google.com/maps?q=Nov%C3%A1%20707%2C%20Vala%C5%A1sk%C3%A9%20Mezi%C5%99%C3%AD%C4%8D%C3%AD",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -28390,16 +28370,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 98872143,
-        "url": "https://czap.cz/Sys/PublicProfile/98872143/5485226",
-        "name": "Baboráková, Gabriela",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Řepov 36, Řepov u Ml. Boleslavi",
-        "mapycom_url": "https://mapy.com/zakladni?q=%C5%98epov%2036%2C%20%C5%98epov%20u%20Ml.%20Boleslavi",
-        "googlemaps_url": "https://www.google.com/maps?q=%C5%98epov%2036%2C%20%C5%98epov%20u%20Ml.%20Boleslavi",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 98878017,
         "url": "https://czap.cz/Sys/PublicProfile/98878017/5485226",
         "name": "Revická, Marija",
@@ -28887,6 +28857,16 @@
         "location": "Těšínská 1652/79, Opava",
         "mapycom_url": "https://mapy.com/zakladni?q=T%C4%9B%C5%A1%C3%ADnsk%C3%A1%201652/79%2C%20Opava",
         "googlemaps_url": "https://www.google.com/maps?q=T%C4%9B%C5%A1%C3%ADnsk%C3%A1%201652/79%2C%20Opava",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 99355165,
+        "url": "https://czap.cz/Sys/PublicProfile/99355165/5485226",
+        "name": "Plecháčková, Ivana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Gočárova 806, Velkolánské 5",
+        "mapycom_url": "https://mapy.com/zakladni?q=Go%C4%8D%C3%A1rova%20806%2C%20Velkol%C3%A1nsk%C3%A9%205",
+        "googlemaps_url": "https://www.google.com/maps?q=Go%C4%8D%C3%A1rova%20806%2C%20Velkol%C3%A1nsk%C3%A9%205",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -28897,6 +28877,16 @@
         "location": "Pavlisova 2297, Kladno",
         "mapycom_url": "https://mapy.com/zakladni?q=Pavlisova%202297%2C%20Kladno",
         "googlemaps_url": "https://www.google.com/maps?q=Pavlisova%202297%2C%20Kladno",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 99373208,
+        "url": "https://czap.cz/Sys/PublicProfile/99373208/5485226",
+        "name": "Loo, Vendula",
+        "membership": "Řádné členství",
+        "location": "Soukenická 15, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Soukenick%C3%A1%2015%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Soukenick%C3%A1%2015%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
     },
     {
