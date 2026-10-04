@@ -13680,6 +13680,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 68479620,
+        "url": "https://czap.cz/Sys/PublicProfile/68479620/5485226",
+        "name": "Loskotová, Alžběta",
+        "membership": "Řádné členství",
+        "location": "Vančurova 2904, Tábor 39001, Tábor",
+        "mapycom_url": "https://mapy.com/zakladni?q=Van%C4%8Durova%202904%2C%20T%C3%A1bor%2039001%2C%20T%C3%A1bor",
+        "googlemaps_url": "https://www.google.com/maps?q=Van%C4%8Durova%202904%2C%20T%C3%A1bor%2039001%2C%20T%C3%A1bor",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 68482378,
         "url": "https://czap.cz/Sys/PublicProfile/68482378/5485226",
         "name": "Jeníková, Kateřina",
@@ -27494,9 +27504,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/98118550/5485226",
         "name": "Jozefík, Dominik",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Vodičkova 729/11, Praha 1 - Nové Město",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vodi%C4%8Dkova%20729/11%2C%20Praha%201%20-%20Nov%C3%A9%20M%C4%9Bsto",
-        "googlemaps_url": "https://www.google.com/maps?q=Vodi%C4%8Dkova%20729/11%2C%20Praha%201%20-%20Nov%C3%A9%20M%C4%9Bsto",
+        "location": "Praha, Praha 7",
+        "mapycom_url": "https://mapy.com/zakladni?q=Praha%2C%20Praha%207",
+        "googlemaps_url": "https://www.google.com/maps?q=Praha%2C%20Praha%207",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -28224,10 +28234,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/98701912/5485226",
         "name": "Zierisová, Daniela",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Vodičkova 11, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vodi%C4%8Dkova%2011%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Vodi%C4%8Dkova%2011%2C%20Praha",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Praha 7, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Praha%207%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Praha%207%2C%20Praha",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 98705214,
@@ -28988,5 +28998,25 @@
         "mapycom_url": "https://mapy.com/zakladni?q=kruzova%20222/16%2C%20Stodulky",
         "googlemaps_url": "https://www.google.com/maps?q=kruzova%20222/16%2C%20Stodulky",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 99494591,
+        "url": "https://czap.cz/Sys/PublicProfile/99494591/5485226",
+        "name": "Vavřičková, Gabriela",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Pod Brentovou 555/6, Praha 5",
+        "mapycom_url": "https://mapy.com/zakladni?q=Pod%20Brentovou%20555/6%2C%20Praha%205",
+        "googlemaps_url": "https://www.google.com/maps?q=Pod%20Brentovou%20555/6%2C%20Praha%205",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 99528588,
+        "url": "https://czap.cz/Sys/PublicProfile/99528588/5485226",
+        "name": "Bakrlíková, Julie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Masarykovo náměstí 67, Velká Bíteš",
+        "mapycom_url": "https://mapy.com/zakladni?q=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%2067%2C%20Velk%C3%A1%20B%C3%ADte%C5%A1",
+        "googlemaps_url": "https://www.google.com/maps?q=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%2067%2C%20Velk%C3%A1%20B%C3%ADte%C5%A1",
+        "availability": "Přijímám nové klienty"
     }
 ]
