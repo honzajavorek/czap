@@ -6390,16 +6390,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 60487456,
-        "url": "https://czap.cz/Sys/PublicProfile/60487456/5485226",
-        "name": "Trázníková, Veronika",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": null,
-        "mapycom_url": null,
-        "googlemaps_url": null,
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 60487558,
         "url": "https://czap.cz/Sys/PublicProfile/60487558/5485226",
         "name": "Červinková, Šárka",
@@ -11847,7 +11837,7 @@
         "location": "Haštalská 27, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=Ha%C5%A1talsk%C3%A1%2027%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Ha%C5%A1talsk%C3%A1%2027%2C%20Praha%201",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 67046354,
@@ -14797,7 +14787,7 @@
         "location": "Příkop 2a, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%202a%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%202a%2C%20Brno",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 69552926,
@@ -16547,7 +16537,7 @@
         "location": "Řehořova 908/4, Praha 3 - Žižkov",
         "mapycom_url": "https://mapy.com/zakladni?q=%C5%98eho%C5%99ova%20908/4%2C%20Praha%203%20-%20%C5%BDi%C5%BEkov",
         "googlemaps_url": "https://www.google.com/maps?q=%C5%98eho%C5%99ova%20908/4%2C%20Praha%203%20-%20%C5%BDi%C5%BEkov",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 72076742,
@@ -27304,9 +27294,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/97443201/5485226",
         "name": "Kalná, Irena",
         "membership": "Řádné členství",
-        "location": "Táboritská 1288, Třeboň",
-        "mapycom_url": "https://mapy.com/zakladni?q=T%C3%A1boritsk%C3%A1%201288%2C%20T%C5%99ebo%C5%88",
-        "googlemaps_url": "https://www.google.com/maps?q=T%C3%A1boritsk%C3%A1%201288%2C%20T%C5%99ebo%C5%88",
+        "location": "Svobody 48, Třeboň",
+        "mapycom_url": "https://mapy.com/zakladni?q=Svobody%2048%2C%20T%C5%99ebo%C5%88",
+        "googlemaps_url": "https://www.google.com/maps?q=Svobody%2048%2C%20T%C5%99ebo%C5%88",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -28690,6 +28680,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 99129302,
+        "url": "https://czap.cz/Sys/PublicProfile/99129302/5485226",
+        "name": "Nevmerzhytska, Khrystyna",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Vrátkovská 3, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Vr%C3%A1tkovsk%C3%A1%203%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Vr%C3%A1tkovsk%C3%A1%203%2C%20Praha",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 99141290,
         "url": "https://czap.cz/Sys/PublicProfile/99141290/5485226",
         "name": "Benda, Vojtěch",
@@ -29140,6 +29140,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 99486482,
+        "url": "https://czap.cz/Sys/PublicProfile/99486482/5485226",
+        "name": "Podušková, Paula",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Hálkova 2, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=H%C3%A1lkova%202%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=H%C3%A1lkova%202%2C%20Praha%202",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 99494591,
         "url": "https://czap.cz/Sys/PublicProfile/99494591/5485226",
         "name": "Vavřičková, Gabriela",
@@ -29157,6 +29167,36 @@
         "location": "Udolni 5, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Udolni%205%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Udolni%205%2C%20Brno",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 99511272,
+        "url": "https://czap.cz/Sys/PublicProfile/99511272/5485226",
+        "name": "Hradská, Dagmar",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Příkop 27/2a, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%ADkop%2027/2a%2C%20Brno",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 99519004,
+        "url": "https://czap.cz/Sys/PublicProfile/99519004/5485226",
+        "name": "Shaw, Martina",
+        "membership": "Řádné členství",
+        "location": "Za poštou 417/4, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Za%20po%C5%A1tou%20417/4%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Za%20po%C5%A1tou%20417/4%2C%20Olomouc",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 99523610,
+        "url": "https://czap.cz/Sys/PublicProfile/99523610/5485226",
+        "name": "Stoláriková, Veronika",
+        "membership": "Řádné členství",
+        "location": "Příčná 1, Havířov",
+        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%AD%C4%8Dn%C3%A1%201%2C%20Hav%C3%AD%C5%99ov",
+        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%AD%C4%8Dn%C3%A1%201%2C%20Hav%C3%AD%C5%99ov",
         "availability": "Přijímám nové klienty"
     },
     {
