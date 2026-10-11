@@ -2817,7 +2817,7 @@
         "location": "Zenklova 305/11, Praha 8",
         "mapycom_url": "https://mapy.com/zakladni?q=Zenklova%20305/11%2C%20Praha%208",
         "googlemaps_url": "https://www.google.com/maps?q=Zenklova%20305/11%2C%20Praha%208",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 58885194,
@@ -10764,9 +10764,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/64183258/5485226",
         "name": "Pipášová, Barbora",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Mládežnická 229, Třebíč",
-        "mapycom_url": "https://mapy.com/zakladni?q=Ml%C3%A1de%C5%BEnick%C3%A1%20229%2C%20T%C5%99eb%C3%AD%C4%8D",
-        "googlemaps_url": "https://www.google.com/maps?q=Ml%C3%A1de%C5%BEnick%C3%A1%20229%2C%20T%C5%99eb%C3%AD%C4%8D",
+        "location": "Třebíč",
+        "mapycom_url": "https://mapy.com/zakladni?q=T%C5%99eb%C3%AD%C4%8D",
+        "googlemaps_url": "https://www.google.com/maps?q=T%C5%99eb%C3%AD%C4%8D",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -29157,6 +29157,16 @@
         "location": "Pod Brentovou 555/6, Praha 5",
         "mapycom_url": "https://mapy.com/zakladni?q=Pod%20Brentovou%20555/6%2C%20Praha%205",
         "googlemaps_url": "https://www.google.com/maps?q=Pod%20Brentovou%20555/6%2C%20Praha%205",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 99499514,
+        "url": "https://czap.cz/Sys/PublicProfile/99499514/5485226",
+        "name": "Zborníková, Michaela",
+        "membership": "Řádné členství",
+        "location": "Na Poříčí 12, Praha",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Po%C5%99%C3%AD%C4%8D%C3%AD%2012%2C%20Praha",
         "availability": "Přijímám nové klienty"
     },
     {
