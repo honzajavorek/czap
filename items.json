@@ -10764,9 +10764,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/64183258/5485226",
         "name": "Pipášová, Barbora",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Třebíč",
-        "mapycom_url": "https://mapy.com/zakladni?q=T%C5%99eb%C3%AD%C4%8D",
-        "googlemaps_url": "https://www.google.com/maps?q=T%C5%99eb%C3%AD%C4%8D",
+        "location": "Mládežnická 229, Třebíč",
+        "mapycom_url": "https://mapy.com/zakladni?q=Ml%C3%A1de%C5%BEnick%C3%A1%20229%2C%20T%C5%99eb%C3%AD%C4%8D",
+        "googlemaps_url": "https://www.google.com/maps?q=Ml%C3%A1de%C5%BEnick%C3%A1%20229%2C%20T%C5%99eb%C3%AD%C4%8D",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -29238,5 +29238,25 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Senov%C3%A1%C5%BEn%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%2023%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 99561352,
+        "url": "https://czap.cz/Sys/PublicProfile/99561352/5485226",
+        "name": "Roztočilová, Dominika",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Beroun-závodí 1122, Beroun",
+        "mapycom_url": "https://mapy.com/zakladni?q=Beroun-z%C3%A1vod%C3%AD%201122%2C%20Beroun",
+        "googlemaps_url": "https://www.google.com/maps?q=Beroun-z%C3%A1vod%C3%AD%201122%2C%20Beroun",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 99569401,
+        "url": "https://czap.cz/Sys/PublicProfile/99569401/5485226",
+        "name": "Novotná, Lýdie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Malostranské náměstí 203/14, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Malostransk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20203/14%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Malostransk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%20203/14%2C%20Praha%201",
+        "availability": "Info o dostupnosti na vyžádání"
     }
 ]
