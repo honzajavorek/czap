@@ -11660,16 +11660,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 66603589,
-        "url": "https://czap.cz/Sys/PublicProfile/66603589/5485226",
-        "name": "Jiran, Tomáš",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Na Dubině 555, Doubravčice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Dubin%C4%9B%20555%2C%20Doubrav%C4%8Dice",
-        "googlemaps_url": "https://www.google.com/maps?q=Na%20Dubin%C4%9B%20555%2C%20Doubrav%C4%8Dice",
-        "availability": "Nepřijímám nové klienty"
-    },
-    {
         "id": 66672780,
         "url": "https://czap.cz/Sys/PublicProfile/66672780/5485226",
         "name": "Stěhulová, Petra",
@@ -13278,16 +13268,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Francouzsk%C3%A1%204%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Francouzsk%C3%A1%204%2C%20Praha",
         "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 68214913,
-        "url": "https://czap.cz/Sys/PublicProfile/68214913/5485226",
-        "name": "Abrahamová, Tereza",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "1. Máje 535/50, Liberec 7 - Jeřáb",
-        "mapycom_url": "https://mapy.com/zakladni?q=1.%20M%C3%A1je%20535/50%2C%20Liberec%207%20-%20Je%C5%99%C3%A1b",
-        "googlemaps_url": "https://www.google.com/maps?q=1.%20M%C3%A1je%20535/50%2C%20Liberec%207%20-%20Je%C5%99%C3%A1b",
-        "availability": "Přijímám nové klienty"
     },
     {
         "id": 68215349,
@@ -15854,9 +15834,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/70987911/5485226",
         "name": "Herzogová, Lenka",
         "membership": "Řádné členství",
-        "location": "Hanusova 353/12, Praha 4",
-        "mapycom_url": "https://mapy.com/zakladni?q=Hanusova%20353/12%2C%20Praha%204",
-        "googlemaps_url": "https://www.google.com/maps?q=Hanusova%20353/12%2C%20Praha%204",
+        "location": "Opletalova 25, Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Opletalova%2025%2C%20Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Opletalova%2025%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -23672,7 +23652,7 @@
     {
         "id": 90325225,
         "url": "https://czap.cz/Sys/PublicProfile/90325225/5485226",
-        "name": "Cvrkalová, Eliška",
+        "name": "Soukopová, Eliška",
         "membership": "Řádné členství",
         "location": null,
         "mapycom_url": null,
@@ -24124,9 +24104,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/94191084/5485226",
         "name": "Urbancová, Alice",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Malého 282/3, Praha 8-Karlín",
-        "mapycom_url": "https://mapy.com/zakladni?q=Mal%C3%A9ho%20282/3%2C%20Praha%208-Karl%C3%ADn",
-        "googlemaps_url": "https://www.google.com/maps?q=Mal%C3%A9ho%20282/3%2C%20Praha%208-Karl%C3%ADn",
+        "location": "Ženské domovy, Ostrovského 253/3, Praha 5-Smíchov",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDensk%C3%A9%20domovy%2C%20Ostrovsk%C3%A9ho%20253/3%2C%20Praha%205-Sm%C3%ADchov",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%BDensk%C3%A9%20domovy%2C%20Ostrovsk%C3%A9ho%20253/3%2C%20Praha%205-Sm%C3%ADchov",
         "availability": "Přijímám nové klienty"
     },
     {
