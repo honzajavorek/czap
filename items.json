@@ -5657,7 +5657,7 @@
         "location": "Slavíkova 6068/18, Ostrava - Poruba",
         "mapycom_url": "https://mapy.com/zakladni?q=Slav%C3%ADkova%206068/18%2C%20Ostrava%20-%20Poruba",
         "googlemaps_url": "https://www.google.com/maps?q=Slav%C3%ADkova%206068/18%2C%20Ostrava%20-%20Poruba",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 59120010,
@@ -25064,10 +25064,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/95774883/5485226",
         "name": "Howesová, Adéla",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Cesta domů, z. ú., Heleny Kočvarové 1583/1, Praha 4, Praha 4",
-        "mapycom_url": "https://mapy.com/zakladni?q=Cesta%20dom%C5%AF%2C%20z.%20%C3%BA.%2C%20Heleny%20Ko%C4%8Dvarov%C3%A9%201583/1%2C%20Praha%204%2C%20Praha%204",
-        "googlemaps_url": "https://www.google.com/maps?q=Cesta%20dom%C5%AF%2C%20z.%20%C3%BA.%2C%20Heleny%20Ko%C4%8Dvarov%C3%A9%201583/1%2C%20Praha%204%2C%20Praha%204",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Petra Jilemnického 15/4, Brandýs nad Labem-Stará Boleslav 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Petra%20Jilemnick%C3%A9ho%2015/4%2C%20Brand%C3%BDs%20nad%20Labem-Star%C3%A1%20Boleslav%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Petra%20Jilemnick%C3%A9ho%2015/4%2C%20Brand%C3%BDs%20nad%20Labem-Star%C3%A1%20Boleslav%201",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 95780435,
@@ -28627,6 +28627,16 @@
         "location": "Terapie.cz- Národní 11, Olivova 5, Váš terapeut Národní 11., Národní 11, Praha 1, Olivova 5, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=Terapie.cz-%20N%C3%A1rodn%C3%AD%2011%2C%20Olivova%205%2C%20V%C3%A1%C5%A1%20terapeut%20N%C3%A1rodn%C3%AD%2011.%2C%20N%C3%A1rodn%C3%AD%2011%2C%20Praha%201%2C%20Olivova%205%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Terapie.cz-%20N%C3%A1rodn%C3%AD%2011%2C%20Olivova%205%2C%20V%C3%A1%C5%A1%20terapeut%20N%C3%A1rodn%C3%AD%2011.%2C%20N%C3%A1rodn%C3%AD%2011%2C%20Praha%201%2C%20Olivova%205%2C%20Praha%201",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 99030228,
+        "url": "https://czap.cz/Sys/PublicProfile/99030228/5485226",
+        "name": "Nešutová, Eva",
+        "membership": "Řádné členství",
+        "location": "Pekařská 85, Opava",
+        "mapycom_url": "https://mapy.com/zakladni?q=Peka%C5%99sk%C3%A1%2085%2C%20Opava",
+        "googlemaps_url": "https://www.google.com/maps?q=Peka%C5%99sk%C3%A1%2085%2C%20Opava",
         "availability": "Přijímám nové klienty"
     },
     {
