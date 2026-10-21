@@ -10294,9 +10294,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63669518/5485226",
         "name": "Sklenář, Ondřej",
         "membership": "Řádné členství",
-        "location": "Dominikánská 125/6, Litoměřice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Dominik%C3%A1nsk%C3%A1%20125/6%2C%20Litom%C4%9B%C5%99ice",
-        "googlemaps_url": "https://www.google.com/maps?q=Dominik%C3%A1nsk%C3%A1%20125/6%2C%20Litom%C4%9B%C5%99ice",
+        "location": "Žitenická 1/2084, Litoměřice",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDitenick%C3%A1%201/2084%2C%20Litom%C4%9B%C5%99ice",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%BDitenick%C3%A1%201/2084%2C%20Litom%C4%9B%C5%99ice",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -11660,6 +11660,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 66603589,
+        "url": "https://czap.cz/Sys/PublicProfile/66603589/5485226",
+        "name": "Jiran, Tomáš",
+        "membership": "Řádné členství",
+        "location": "Na Dubině 555, Doubravčice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Na%20Dubin%C4%9B%20555%2C%20Doubrav%C4%8Dice",
+        "googlemaps_url": "https://www.google.com/maps?q=Na%20Dubin%C4%9B%20555%2C%20Doubrav%C4%8Dice",
+        "availability": "Nepřijímám nové klienty"
+    },
+    {
         "id": 66672780,
         "url": "https://czap.cz/Sys/PublicProfile/66672780/5485226",
         "name": "Stěhulová, Petra",
@@ -11964,9 +11974,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/67199533/5485226",
         "name": "Hniková, Michaela",
         "membership": "Řádné členství",
-        "location": "Pod Pekařkou 107/1, Praha 4 - Podolí",
-        "mapycom_url": "https://mapy.com/zakladni?q=Pod%20Peka%C5%99kou%20107/1%2C%20Praha%204%20-%20Podol%C3%AD",
-        "googlemaps_url": "https://www.google.com/maps?q=Pod%20Peka%C5%99kou%20107/1%2C%20Praha%204%20-%20Podol%C3%AD",
+        "location": "Bělohorská 186/161, Praha 6 - Břevnov",
+        "mapycom_url": "https://mapy.com/zakladni?q=B%C4%9Blohorsk%C3%A1%20186/161%2C%20Praha%206%20-%20B%C5%99evnov",
+        "googlemaps_url": "https://www.google.com/maps?q=B%C4%9Blohorsk%C3%A1%20186/161%2C%20Praha%206%20-%20B%C5%99evnov",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -13268,6 +13278,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Francouzsk%C3%A1%204%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Francouzsk%C3%A1%204%2C%20Praha",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 68214913,
+        "url": "https://czap.cz/Sys/PublicProfile/68214913/5485226",
+        "name": "Abrahamová, Tereza",
+        "membership": "Řádné členství",
+        "location": "1. Máje 535/50, Liberec 7 - Jeřáb",
+        "mapycom_url": "https://mapy.com/zakladni?q=1.%20M%C3%A1je%20535/50%2C%20Liberec%207%20-%20Je%C5%99%C3%A1b",
+        "googlemaps_url": "https://www.google.com/maps?q=1.%20M%C3%A1je%20535/50%2C%20Liberec%207%20-%20Je%C5%99%C3%A1b",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 68215349,
@@ -17592,7 +17612,7 @@
     {
         "id": 74381235,
         "url": "https://czap.cz/Sys/PublicProfile/74381235/5485226",
-        "name": "Danhoferová, Zdeňka",
+        "name": "Šustáčková, Zdeňka",
         "membership": "Řádné členství",
         "location": "Dolní 165/1, Žďár nad Sázavou",
         "mapycom_url": "https://mapy.com/zakladni?q=Doln%C3%AD%20165/1%2C%20%C5%BD%C4%8F%C3%A1r%20nad%20S%C3%A1zavou",
@@ -24024,9 +24044,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/94058606/5485226",
         "name": "Oral, Ivo",
         "membership": "Řádné členství",
-        "location": "Bělá 102, Bělá",
-        "mapycom_url": "https://mapy.com/zakladni?q=B%C4%9Bl%C3%A1%20102%2C%20B%C4%9Bl%C3%A1",
-        "googlemaps_url": "https://www.google.com/maps?q=B%C4%9Bl%C3%A1%20102%2C%20B%C4%9Bl%C3%A1",
+        "location": "Mírové Náměstí 32, Hlučín",
+        "mapycom_url": "https://mapy.com/zakladni?q=M%C3%ADrov%C3%A9%20N%C3%A1m%C4%9Bst%C3%AD%2032%2C%20Hlu%C4%8D%C3%ADn",
+        "googlemaps_url": "https://www.google.com/maps?q=M%C3%ADrov%C3%A9%20N%C3%A1m%C4%9Bst%C3%AD%2032%2C%20Hlu%C4%8D%C3%ADn",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -25238,6 +25258,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Coral%20Office%20Park%2C%20Budova%20C%2C%20Bucharova%202657/12%2C%20Praha%205",
         "googlemaps_url": "https://www.google.com/maps?q=Coral%20Office%20Park%2C%20Budova%20C%2C%20Bucharova%202657/12%2C%20Praha%205",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 95841709,
+        "url": "https://czap.cz/Sys/PublicProfile/95841709/5485226",
+        "name": "Czuczor, Kristýna",
+        "membership": "Řádné členství",
+        "location": "Josefská 612/15, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Josefsk%C3%A1%20612/15%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Josefsk%C3%A1%20612/15%2C%20Brno",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 95851006,
@@ -29048,6 +29078,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Zlatnick%C3%A1%207%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Zlatnick%C3%A1%207%2C%20Praha%201",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 99385879,
+        "url": "https://czap.cz/Sys/PublicProfile/99385879/5485226",
+        "name": "Randáková, Magdalena",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Lublaňská 689/40, Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Lubla%C5%88sk%C3%A1%20689/40%2C%20Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Lubla%C5%88sk%C3%A1%20689/40%2C%20Praha%202",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 99386279,
