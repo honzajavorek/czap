@@ -6937,7 +6937,7 @@
         "location": "Muchova 33, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Muchova%2033%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Muchova%2033%2C%20Brno",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 61184793,
@@ -11857,7 +11857,7 @@
         "location": "Haštalská 27, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=Ha%C5%A1talsk%C3%A1%2027%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Ha%C5%A1talsk%C3%A1%2027%2C%20Praha%201",
-        "availability": "Nepřijímám nové klienty"
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 67046354,
@@ -14944,9 +14944,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/69713185/5485226",
         "name": "Frinta, Petr",
         "membership": "Řádné členství",
-        "location": "Máchova 18, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=M%C3%A1chova%2018%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=M%C3%A1chova%2018%2C%20Praha%202",
+        "location": "Osadní 12A, Praha 7",
+        "mapycom_url": "https://mapy.com/zakladni?q=Osadn%C3%AD%2012A%2C%20Praha%207",
+        "googlemaps_url": "https://www.google.com/maps?q=Osadn%C3%AD%2012A%2C%20Praha%207",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -20637,7 +20637,7 @@
         "location": "Rozsedly 20, Sušice",
         "mapycom_url": "https://mapy.com/zakladni?q=Rozsedly%2020%2C%20Su%C5%A1ice",
         "googlemaps_url": "https://www.google.com/maps?q=Rozsedly%2020%2C%20Su%C5%A1ice",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 78199526,
@@ -21740,6 +21740,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 79969651,
+        "url": "https://czap.cz/Sys/PublicProfile/79969651/5485226",
+        "name": "Stehnová, Tereza",
+        "membership": "Řádné členství",
+        "location": "Centrum Anabell z.ú., Cimburkova 258/21, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Centrum%20Anabell%20z.%C3%BA.%2C%20Cimburkova%20258/21%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Centrum%20Anabell%20z.%C3%BA.%2C%20Cimburkova%20258/21%2C%20Praha%203",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 79969705,
         "url": "https://czap.cz/Sys/PublicProfile/79969705/5485226",
         "name": "Krajíčková, Markéta",
@@ -22644,10 +22654,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/82894857/5485226",
         "name": "Bizová, Kristýna",
         "membership": "Řádné členství",
-        "location": "Soběšická 151, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Sob%C4%9B%C5%A1ick%C3%A1%20151%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Sob%C4%9B%C5%A1ick%C3%A1%20151%2C%20Brno",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Hlinky 112a, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Hlinky%20112a%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Hlinky%20112a%2C%20Brno",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 83038872,
@@ -25744,9 +25754,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/96084100/5485226",
         "name": "Farářová, Adéla",
         "membership": "Řádné členství",
-        "location": "Palác ADRIA Jungmannova 36/31, Praha 1, Vstup A, 4. patro",
-        "mapycom_url": "https://mapy.com/zakladni?q=Pal%C3%A1c%20ADRIA%20Jungmannova%2036/31%2C%20Praha%201%2C%20Vstup%20A%2C%204.%20patro",
-        "googlemaps_url": "https://www.google.com/maps?q=Pal%C3%A1c%20ADRIA%20Jungmannova%2036/31%2C%20Praha%201%2C%20Vstup%20A%2C%204.%20patro",
+        "location": "Bořivojova 825/31, Praha 3",
+        "mapycom_url": "https://mapy.com/zakladni?q=Bo%C5%99ivojova%20825/31%2C%20Praha%203",
+        "googlemaps_url": "https://www.google.com/maps?q=Bo%C5%99ivojova%20825/31%2C%20Praha%203",
         "availability": "Přijímám nové klienty"
     },
     {
