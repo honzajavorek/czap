@@ -2144,10 +2144,10 @@
         "url": "https://czap.cz/Sys/PublicProfile/58885117/5485226",
         "name": "Kaličiaková, Monika",
         "membership": "Řádné členství",
-        "location": "Kostelecká 897/59, Praha 9",
-        "mapycom_url": "https://mapy.com/zakladni?q=Kosteleck%C3%A1%20897/59%2C%20Praha%209",
-        "googlemaps_url": "https://www.google.com/maps?q=Kosteleck%C3%A1%20897/59%2C%20Praha%209",
-        "availability": "Info o dostupnosti na vyžádání"
+        "location": "Revoluční 143, Měšice - Praha východ",
+        "mapycom_url": "https://mapy.com/zakladni?q=Revolu%C4%8Dn%C3%AD%20143%2C%20M%C4%9B%C5%A1ice%20-%20Praha%20v%C3%BDchod",
+        "googlemaps_url": "https://www.google.com/maps?q=Revolu%C4%8Dn%C3%AD%20143%2C%20M%C4%9B%C5%A1ice%20-%20Praha%20v%C3%BDchod",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 58885118,
@@ -17540,16 +17540,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 74168819,
-        "url": "https://czap.cz/Sys/PublicProfile/74168819/5485226",
-        "name": "Petrů, Vít",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Helvíkovice 204, Helvíkovice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Helv%C3%ADkovice%20204%2C%20Helv%C3%ADkovice",
-        "googlemaps_url": "https://www.google.com/maps?q=Helv%C3%ADkovice%20204%2C%20Helv%C3%ADkovice",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 74172522,
         "url": "https://czap.cz/Sys/PublicProfile/74172522/5485226",
         "name": "Kulakovská, Alina",
@@ -19518,16 +19508,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Pra%C5%BEsk%C3%A1%2092%2C%20Kol%C3%ADn",
         "googlemaps_url": "https://www.google.com/maps?q=Pra%C5%BEsk%C3%A1%2092%2C%20Kol%C3%ADn",
         "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 77110484,
-        "url": "https://czap.cz/Sys/PublicProfile/77110484/5485226",
-        "name": "Zemánková, Kateřina",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Národní 60/28, Praha 1 – Nové Měso",
-        "mapycom_url": "https://mapy.com/zakladni?q=N%C3%A1rodn%C3%AD%2060/28%2C%20Praha%201%20%E2%80%93%20Nov%C3%A9%20M%C4%9Bso",
-        "googlemaps_url": "https://www.google.com/maps?q=N%C3%A1rodn%C3%AD%2060/28%2C%20Praha%201%20%E2%80%93%20Nov%C3%A9%20M%C4%9Bso",
-        "availability": "Přijímám nové klienty"
     },
     {
         "id": 77117736,
