@@ -2797,7 +2797,7 @@
         "location": "Na Příkopě 12, Praha 1",
         "mapycom_url": "https://mapy.com/zakladni?q=Na%20P%C5%99%C3%ADkop%C4%9B%2012%2C%20Praha%201",
         "googlemaps_url": "https://www.google.com/maps?q=Na%20P%C5%99%C3%ADkop%C4%9B%2012%2C%20Praha%201",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 58885191,
@@ -23184,9 +23184,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/87187118/5485226",
         "name": "Říčařová, Eva",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Opletalova 55, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=Opletalova%2055%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=Opletalova%2055%2C%20Praha%201",
+        "location": "Praha 1",
+        "mapycom_url": "https://mapy.com/zakladni?q=Praha%201",
+        "googlemaps_url": "https://www.google.com/maps?q=Praha%201",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -27990,16 +27990,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 98312653,
-        "url": "https://czap.cz/Sys/PublicProfile/98312653/5485226",
-        "name": "Radoň, David",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Pekařská 18, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Peka%C5%99sk%C3%A1%2018%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Peka%C5%99sk%C3%A1%2018%2C%20Brno",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 98331536,
         "url": "https://czap.cz/Sys/PublicProfile/98331536/5485226",
         "name": "Haasová, Kateřina",
@@ -29387,6 +29377,6 @@
         "location": "Městský park 828, Chrudim",
         "mapycom_url": "https://mapy.com/zakladni?q=M%C4%9Bstsk%C3%BD%20park%20828%2C%20Chrudim",
         "googlemaps_url": "https://www.google.com/maps?q=M%C4%9Bstsk%C3%BD%20park%20828%2C%20Chrudim",
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": "Přijímám nové klienty"
     }
 ]
