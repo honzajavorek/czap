@@ -6670,16 +6670,6 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
-        "id": 61043400,
-        "url": "https://czap.cz/Sys/PublicProfile/61043400/5485226",
-        "name": "Adamcová, Kateřina",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Kostelní 74, Žamberk",
-        "mapycom_url": "https://mapy.com/zakladni?q=Kosteln%C3%AD%2074%2C%20%C5%BDamberk",
-        "googlemaps_url": "https://www.google.com/maps?q=Kosteln%C3%AD%2074%2C%20%C5%BDamberk",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
         "id": 61043402,
         "url": "https://czap.cz/Sys/PublicProfile/61043402/5485226",
         "name": "Benatzká, Rachel",
@@ -16210,6 +16200,16 @@
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
+        "id": 71514543,
+        "url": "https://czap.cz/Sys/PublicProfile/71514543/5485226",
+        "name": "Cincialová, Marta",
+        "membership": "Řádné členství",
+        "location": "Kateřinská 17, Olomouc",
+        "mapycom_url": "https://mapy.com/zakladni?q=Kate%C5%99insk%C3%A1%2017%2C%20Olomouc",
+        "googlemaps_url": "https://www.google.com/maps?q=Kate%C5%99insk%C3%A1%2017%2C%20Olomouc",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
         "id": 71516179,
         "url": "https://czap.cz/Sys/PublicProfile/71516179/5485226",
         "name": "Pletková, Pavlína",
@@ -18080,16 +18080,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 75065402,
-        "url": "https://czap.cz/Sys/PublicProfile/75065402/5485226",
-        "name": "Zatloukalová, Michaela",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Horní náměstí 5, Olomouc",
-        "mapycom_url": "https://mapy.com/zakladni?q=Horn%C3%AD%20n%C3%A1m%C4%9Bst%C3%AD%205%2C%20Olomouc",
-        "googlemaps_url": "https://www.google.com/maps?q=Horn%C3%AD%20n%C3%A1m%C4%9Bst%C3%AD%205%2C%20Olomouc",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 75110258,
         "url": "https://czap.cz/Sys/PublicProfile/75110258/5485226",
         "name": "Mešková, Elena",
@@ -18918,16 +18908,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Rybni%C4%8Dn%C3%A1%2018/1%2C%20Praha%206",
         "googlemaps_url": "https://www.google.com/maps?q=Rybni%C4%8Dn%C3%A1%2018/1%2C%20Praha%206",
         "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 76773596,
-        "url": "https://czap.cz/Sys/PublicProfile/76773596/5485226",
-        "name": "Holubová, Vendula",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Tylova 20, Plzeň",
-        "mapycom_url": "https://mapy.com/zakladni?q=Tylova%2020%2C%20Plze%C5%88",
-        "googlemaps_url": "https://www.google.com/maps?q=Tylova%2020%2C%20Plze%C5%88",
-        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 76773636,
@@ -25058,16 +25038,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=chittussiho%201%2C%20praha%206",
         "googlemaps_url": "https://www.google.com/maps?q=chittussiho%201%2C%20praha%206",
         "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 95751321,
-        "url": "https://czap.cz/Sys/PublicProfile/95751321/5485226",
-        "name": "Smolová, Alice",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Bolzanova 1679/3, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=Bolzanova%201679/3%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=Bolzanova%201679/3%2C%20Praha",
-        "availability": "Přijímám nové klienty"
     },
     {
         "id": 95752684,
