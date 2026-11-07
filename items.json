@@ -6937,7 +6937,7 @@
         "location": "Muchova 33, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Muchova%2033%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Muchova%2033%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 61184793,
@@ -8467,7 +8467,7 @@
         "location": "Smetanovo náměstí 979/2, Ostrava",
         "mapycom_url": "https://mapy.com/zakladni?q=Smetanovo%20n%C3%A1m%C4%9Bst%C3%AD%20979/2%2C%20Ostrava",
         "googlemaps_url": "https://www.google.com/maps?q=Smetanovo%20n%C3%A1m%C4%9Bst%C3%AD%20979/2%2C%20Ostrava",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 62688419,
@@ -29424,9 +29424,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/99609675/5485226",
         "name": "Dymáčková, Nikola",
         "membership": "Řádné členství",
-        "location": "Městský park 828, Chrudim",
-        "mapycom_url": "https://mapy.com/zakladni?q=M%C4%9Bstsk%C3%BD%20park%20828%2C%20Chrudim",
-        "googlemaps_url": "https://www.google.com/maps?q=M%C4%9Bstsk%C3%BD%20park%20828%2C%20Chrudim",
+        "location": "Městský park 828, Pardubice",
+        "mapycom_url": "https://mapy.com/zakladni?q=M%C4%9Bstsk%C3%BD%20park%20828%2C%20Pardubice",
+        "googlemaps_url": "https://www.google.com/maps?q=M%C4%9Bstsk%C3%BD%20park%20828%2C%20Pardubice",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -29478,6 +29478,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Choocerady%20124%20-%20budova%20odborn%C3%A9%20ambulance%2C%20Chocerady",
         "googlemaps_url": "https://www.google.com/maps?q=Choocerady%20124%20-%20budova%20odborn%C3%A9%20ambulance%2C%20Chocerady",
         "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 99660250,
+        "url": "https://czap.cz/Sys/PublicProfile/99660250/5485226",
+        "name": "Ďurašková, Gabriela",
+        "membership": "Řádné členství",
+        "location": "U Nesypky 110, Paha",
+        "mapycom_url": "https://mapy.com/zakladni?q=U%20Nesypky%20110%2C%20Paha",
+        "googlemaps_url": "https://www.google.com/maps?q=U%20Nesypky%20110%2C%20Paha",
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 99661379,
@@ -29547,6 +29557,36 @@
         "location": "Turnovská 6, Praha 8 - Palmovka",
         "mapycom_url": "https://mapy.com/zakladni?q=Turnovsk%C3%A1%206%2C%20Praha%208%20-%20Palmovka",
         "googlemaps_url": "https://www.google.com/maps?q=Turnovsk%C3%A1%206%2C%20Praha%208%20-%20Palmovka",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 99809064,
+        "url": "https://czap.cz/Sys/PublicProfile/99809064/5485226",
+        "name": "Henčelová, Zuzana",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Wilsonova 585/14, Slaný",
+        "mapycom_url": "https://mapy.com/zakladni?q=Wilsonova%20585/14%2C%20Slan%C3%BD",
+        "googlemaps_url": "https://www.google.com/maps?q=Wilsonova%20585/14%2C%20Slan%C3%BD",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 99810220,
+        "url": "https://czap.cz/Sys/PublicProfile/99810220/5485226",
+        "name": "Urbánková, Anežka",
+        "membership": "Řádné členství",
+        "location": "Jana Babáka 3, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jana%20Bab%C3%A1ka%203%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Jana%20Bab%C3%A1ka%203%2C%20Brno",
+        "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 99839146,
+        "url": "https://czap.cz/Sys/PublicProfile/99839146/5485226",
+        "name": "Kalusová, Veronika",
+        "membership": "Řádné členství",
+        "location": "Těšínská 1652/79, Opava",
+        "mapycom_url": "https://mapy.com/zakladni?q=T%C4%9B%C5%A1%C3%ADnsk%C3%A1%201652/79%2C%20Opava",
+        "googlemaps_url": "https://www.google.com/maps?q=T%C4%9B%C5%A1%C3%ADnsk%C3%A1%201652/79%2C%20Opava",
         "availability": "Přijímám nové klienty"
     }
 ]
