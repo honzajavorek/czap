@@ -25087,7 +25087,7 @@
         "location": "Bolzanova 1679/3, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Bolzanova%201679/3%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Bolzanova%201679/3%2C%20Praha",
-        "availability": "Přijímám nové klienty"
+        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 95752684,
@@ -29424,9 +29424,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/99609675/5485226",
         "name": "Dymáčková, Nikola",
         "membership": "Řádné členství",
-        "location": "Městský park 828, Pardubice",
-        "mapycom_url": "https://mapy.com/zakladni?q=M%C4%9Bstsk%C3%BD%20park%20828%2C%20Pardubice",
-        "googlemaps_url": "https://www.google.com/maps?q=M%C4%9Bstsk%C3%BD%20park%20828%2C%20Pardubice",
+        "location": "Svaté Anežky České 32, Pardubice",
+        "mapycom_url": "https://mapy.com/zakladni?q=Svat%C3%A9%20Ane%C5%BEky%20%C4%8Cesk%C3%A9%2032%2C%20Pardubice",
+        "googlemaps_url": "https://www.google.com/maps?q=Svat%C3%A9%20Ane%C5%BEky%20%C4%8Cesk%C3%A9%2032%2C%20Pardubice",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -29578,6 +29578,16 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Jana%20Bab%C3%A1ka%203%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Jana%20Bab%C3%A1ka%203%2C%20Brno",
         "availability": "Info o dostupnosti na vyžádání"
+    },
+    {
+        "id": 99821710,
+        "url": "https://czap.cz/Sys/PublicProfile/99821710/5485226",
+        "name": "Antonů, Petra",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Žižkova 89, Jihlava",
+        "mapycom_url": "https://mapy.com/zakladni?q=%C5%BDi%C5%BEkova%2089%2C%20Jihlava",
+        "googlemaps_url": "https://www.google.com/maps?q=%C5%BDi%C5%BEkova%2089%2C%20Jihlava",
+        "availability": "Přijímám nové klienty"
     },
     {
         "id": 99839146,
