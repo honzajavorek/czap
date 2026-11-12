@@ -10484,9 +10484,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/63822121/5485226",
         "name": "Petrek, Nikola",
         "membership": "Řádné členství",
-        "location": "Masarykovo náměstí 1544, Pardubice",
-        "mapycom_url": "https://mapy.com/zakladni?q=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%201544%2C%20Pardubice",
-        "googlemaps_url": "https://www.google.com/maps?q=Masarykovo%20n%C3%A1m%C4%9Bst%C3%AD%201544%2C%20Pardubice",
+        "location": "Třída Míru 92, Pardubice",
+        "mapycom_url": "https://mapy.com/zakladni?q=T%C5%99%C3%ADda%20M%C3%ADru%2092%2C%20Pardubice",
+        "googlemaps_url": "https://www.google.com/maps?q=T%C5%99%C3%ADda%20M%C3%ADru%2092%2C%20Pardubice",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
@@ -24030,16 +24030,6 @@
         "availability": "Přijímám nové klienty"
     },
     {
-        "id": 93715206,
-        "url": "https://czap.cz/Sys/PublicProfile/93715206/5485226",
-        "name": "Gobena, Martina Nina",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Příčná 1892/4, Praha",
-        "mapycom_url": "https://mapy.com/zakladni?q=P%C5%99%C3%AD%C4%8Dn%C3%A1%201892/4%2C%20Praha",
-        "googlemaps_url": "https://www.google.com/maps?q=P%C5%99%C3%AD%C4%8Dn%C3%A1%201892/4%2C%20Praha",
-        "availability": "Přijímám nové klienty"
-    },
-    {
         "id": 93750199,
         "url": "https://czap.cz/Sys/PublicProfile/93750199/5485226",
         "name": "Kušnieriková, Michaela",
@@ -26884,9 +26874,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/96926066/5485226",
         "name": "Kalvach, Zdeněk",
         "membership": "Řádné členství",
-        "location": "Petra Fastra 1, Říčany",
-        "mapycom_url": "https://mapy.com/zakladni?q=Petra%20Fastra%201%2C%20%C5%98%C3%AD%C4%8Dany",
-        "googlemaps_url": "https://www.google.com/maps?q=Petra%20Fastra%201%2C%20%C5%98%C3%AD%C4%8Dany",
+        "location": "Petra Fastra 2, Říčany",
+        "mapycom_url": "https://mapy.com/zakladni?q=Petra%20Fastra%202%2C%20%C5%98%C3%AD%C4%8Dany",
+        "googlemaps_url": "https://www.google.com/maps?q=Petra%20Fastra%202%2C%20%C5%98%C3%AD%C4%8Dany",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -27694,9 +27684,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/98118550/5485226",
         "name": "Jozefík, Dominik",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Praha, Praha 7",
-        "mapycom_url": "https://mapy.com/zakladni?q=Praha%2C%20Praha%207",
-        "googlemaps_url": "https://www.google.com/maps?q=Praha%2C%20Praha%207",
+        "location": "Malířská 227/14, Praha 7",
+        "mapycom_url": "https://mapy.com/zakladni?q=Mal%C3%AD%C5%99sk%C3%A1%20227/14%2C%20Praha%207",
+        "googlemaps_url": "https://www.google.com/maps?q=Mal%C3%AD%C5%99sk%C3%A1%20227/14%2C%20Praha%207",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -29664,9 +29654,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/99817140/5485226",
         "name": "Dave, Denisa",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Mezibranská 4, Praha 1",
-        "mapycom_url": "https://mapy.com/zakladni?q=Mezibransk%C3%A1%204%2C%20Praha%201",
-        "googlemaps_url": "https://www.google.com/maps?q=Mezibransk%C3%A1%204%2C%20Praha%201",
+        "location": null,
+        "mapycom_url": null,
+        "googlemaps_url": null,
         "availability": "Přijímám nové klienty"
     },
     {
