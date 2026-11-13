@@ -5107,7 +5107,7 @@
         "location": null,
         "mapycom_url": null,
         "googlemaps_url": null,
-        "availability": "Info o dostupnosti na vyžádání"
+        "availability": ""
     },
     {
         "id": 58885460,
@@ -20484,9 +20484,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/78048323/5485226",
         "name": "Šestáková, Olga",
         "membership": "Řádné členství",
-        "location": "Máchova 18, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=M%C3%A1chova%2018%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=M%C3%A1chova%2018%2C%20Praha%202",
+        "location": "Máchova 18, Praha 6-Břevnov",
+        "mapycom_url": "https://mapy.com/zakladni?q=M%C3%A1chova%2018%2C%20Praha%206-B%C5%99evnov",
+        "googlemaps_url": "https://www.google.com/maps?q=M%C3%A1chova%2018%2C%20Praha%206-B%C5%99evnov",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -29467,6 +29467,16 @@
         "location": "Varšavská 24, Praha",
         "mapycom_url": "https://mapy.com/zakladni?q=Var%C5%A1avsk%C3%A1%2024%2C%20Praha",
         "googlemaps_url": "https://www.google.com/maps?q=Var%C5%A1avsk%C3%A1%2024%2C%20Praha",
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 99632431,
+        "url": "https://czap.cz/Sys/PublicProfile/99632431/5485226",
+        "name": "Holušová, Lenka",
+        "membership": "Řádné členství",
+        "location": "Opava, nemám zatím terapeutovnu, Opava",
+        "mapycom_url": "https://mapy.com/zakladni?q=Opava%2C%20nem%C3%A1m%20zat%C3%ADm%20terapeutovnu%2C%20Opava",
+        "googlemaps_url": "https://www.google.com/maps?q=Opava%2C%20nem%C3%A1m%20zat%C3%ADm%20terapeutovnu%2C%20Opava",
         "availability": "Přijímám nové klienty"
     },
     {
