@@ -6287,7 +6287,7 @@
         "location": "Kroftova 45, Brno",
         "mapycom_url": "https://mapy.com/zakladni?q=Kroftova%2045%2C%20Brno",
         "googlemaps_url": "https://www.google.com/maps?q=Kroftova%2045%2C%20Brno",
-        "availability": "Přijímám nové klienty"
+        "availability": "Nepřijímám nové klienty"
     },
     {
         "id": 60377408,
@@ -17177,16 +17177,6 @@
         "location": "Petrov 503, Petrov",
         "mapycom_url": "https://mapy.com/zakladni?q=Petrov%20503%2C%20Petrov",
         "googlemaps_url": "https://www.google.com/maps?q=Petrov%20503%2C%20Petrov",
-        "availability": "Info o dostupnosti na vyžádání"
-    },
-    {
-        "id": 73145499,
-        "url": "https://czap.cz/Sys/PublicProfile/73145499/5485226",
-        "name": "Štrobl, Radka",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": "Riegrova 411, Přelouč",
-        "mapycom_url": "https://mapy.com/zakladni?q=Riegrova%20411%2C%20P%C5%99elou%C4%8D",
-        "googlemaps_url": "https://www.google.com/maps?q=Riegrova%20411%2C%20P%C5%99elou%C4%8D",
         "availability": "Info o dostupnosti na vyžádání"
     },
     {
