@@ -29600,6 +29600,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 99799492,
+        "url": "https://czap.cz/Sys/PublicProfile/99799492/5485226",
+        "name": "Rusková, Lucie",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "nám. T. G. Masaryka 1280, Zlín",
+        "mapycom_url": "https://mapy.com/zakladni?q=n%C3%A1m.%20T.%20G.%20Masaryka%201280%2C%20Zl%C3%ADn",
+        "googlemaps_url": "https://www.google.com/maps?q=n%C3%A1m.%20T.%20G.%20Masaryka%201280%2C%20Zl%C3%ADn",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 99799653,
         "url": "https://czap.cz/Sys/PublicProfile/99799653/5485226",
         "name": "Sekera, Jakub",
@@ -29657,6 +29667,16 @@
         "location": null,
         "mapycom_url": null,
         "googlemaps_url": null,
+        "availability": "Přijímám nové klienty"
+    },
+    {
+        "id": 99817872,
+        "url": "https://czap.cz/Sys/PublicProfile/99817872/5485226",
+        "name": "Sixta, Jan",
+        "membership": "Kandidátní členství - ve výcviku",
+        "location": "Milady Horákové 64/101, Praha 6 - Hradčany",
+        "mapycom_url": "https://mapy.com/zakladni?q=Milady%20Hor%C3%A1kov%C3%A9%2064/101%2C%20Praha%206%20-%20Hrad%C4%8Dany",
+        "googlemaps_url": "https://www.google.com/maps?q=Milady%20Hor%C3%A1kov%C3%A9%2064/101%2C%20Praha%206%20-%20Hrad%C4%8Dany",
         "availability": "Přijímám nové klienty"
     },
     {
