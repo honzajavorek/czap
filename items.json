@@ -7900,6 +7900,16 @@
         "availability": "Přijímám nové klienty"
     },
     {
+        "id": 62291627,
+        "url": "https://czap.cz/Sys/PublicProfile/62291627/5485226",
+        "name": "Michalová, Petra",
+        "membership": "Řádné členství",
+        "location": "Jihovýchodní V 914/5, Praha 4",
+        "mapycom_url": "https://mapy.com/zakladni?q=Jihov%C3%BDchodn%C3%AD%20V%20914/5%2C%20Praha%204",
+        "googlemaps_url": "https://www.google.com/maps?q=Jihov%C3%BDchodn%C3%AD%20V%20914/5%2C%20Praha%204",
+        "availability": "Přijímám nové klienty"
+    },
+    {
         "id": 62291709,
         "url": "https://czap.cz/Sys/PublicProfile/62291709/5485226",
         "name": "Baďurová, Monika",
@@ -16858,16 +16868,6 @@
         "mapycom_url": "https://mapy.com/zakladni?q=Olivova%20312%2C%20%C5%98%C3%AD%C4%8Dany",
         "googlemaps_url": "https://www.google.com/maps?q=Olivova%20312%2C%20%C5%98%C3%AD%C4%8Dany",
         "availability": "Přijímám nové klienty"
-    },
-    {
-        "id": 72442632,
-        "url": "https://czap.cz/Sys/PublicProfile/72442632/5485226",
-        "name": "Šebo, Peter",
-        "membership": "Kandidátní členství - ve výcviku",
-        "location": null,
-        "mapycom_url": null,
-        "googlemaps_url": null,
-        "availability": "Info o dostupnosti na vyžádání"
     },
     {
         "id": 72442827,
