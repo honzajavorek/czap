@@ -8,6 +8,43 @@ from urllib.parse import quote
 import scrapy
 
 
+PROFILE_FORM_ID = "5485226"
+
+MEMBERSHIP_ID = "FunctionalBlock1_ctl00_ctl00_memberProfile_membershipDetails"
+
+ADDRESS_FIELD_ID = "_TextBoxLabel12682798"
+
+CITY_FIELD_ID = "_TextBoxLabel12682799"
+
+AVAILABILITY_FIELD_ID = "_RadioLabel13576980"
+
+
+def profile_url(member_id):
+    return f"https://czap.cz/Sys/PublicProfile/{member_id}/{PROFILE_FORM_ID}"
+
+
+def profile_request(member_id, member, callback):
+    return scrapy.Request(
+        profile_url(member_id),
+        callback,
+        cb_kwargs=dict(member_id=member_id, member=member),
+        # Don't follow redirects to the login page, so that they get retried
+        meta=dict(
+            dont_redirect=True,
+            handle_httpstatus_list=[301, 302, 303, 307, 308],
+        ),
+    )
+
+
+def is_public_profile(response):
+    return response.status == 200 and bool(response.css(f"#{MEMBERSHIP_ID}"))
+
+
+def get_text(response, css):
+    text = response.css(f"{css}::text").get()
+    return text.strip() if text else None
+
+
 class CZAPSpider(scrapy.Spider):
     name = "czap"
 
@@ -45,40 +82,66 @@ class CZAPSpider(scrapy.Spider):
         self.logger.info(f"Processing {len(members)} members")
         for i, member in enumerate(members):
             member_id = ids[i]
-            member_url = f"https://czap.cz/Sys/PublicProfile/{member_id}/5485226"
-            yield scrapy.Request(
-                member_url,
-                self.parse_member,
-                cb_kwargs=dict(member_id=ids[i], member=member),
-            )
+            yield profile_request(member_id, member, self.parse_member)
 
     def parse_member(self, response, member_id, member):
-        city = html.unescape(member["c2"][0]["v"])
-        address = response.css('[id*="_TextBoxLabel12682798"]::text').get()
+        # Sometimes czap.cz redirects a public profile to the login page.
+        # Retry without the HTTP cache and fail loudly if it persists, rather
+        # than exporting a corrupted item.
+        if not is_public_profile(response):
+            retries = response.meta.get("profile_retries", 0)
+            if retries >= self.settings.getint("RETRY_TIMES"):
+                raise RuntimeError(
+                    f"Member {member_id} not served as a public profile "
+                    f"(HTTP {response.status}), gave up after {retries} retries"
+                )
+            self.logger.warning(
+                f"Member {member_id} not served as a public profile "
+                f"(HTTP {response.status}), retrying"
+            )
+            request = profile_request(member_id, member, self.parse_member)
+            request.meta.update(profile_retries=retries + 1, dont_cache=True)
+            yield request.replace(dont_filter=True)
+            return
+
+        # Prefer the profile page over the directory listing, which can lag
+        # behind it, so that street and city always come from the same source
+        city = get_text(response, f"[id*='{CITY_FIELD_ID}']") or html.unescape(
+            member["c2"][0]["v"]
+        )
+        address = get_text(response, f"[id*='{ADDRESS_FIELD_ID}']")
+        membership = get_text(response, f"#{MEMBERSHIP_ID}") or html.unescape(
+            member["c1"][2]["v"]
+        )
+        availability = get_text(
+            response, f"[id*='{AVAILABILITY_FIELD_ID}']"
+        ) or html.unescape(member["c3"][0]["v"])
         self.logger.debug(f"Location: {city!r} / {address!r}")
-        if is_empty_location(city):
-            location = None
-            mapycom_url = None
-            googlemaps_url = None
-        else:
-            if is_empty_location(address):
-                location = city
-            elif city == address:
-                location = city
-            else:
-                location = f"{address}, {city}"
+        location = get_location(address, city)
+        if location:
             mapycom_url = f"https://mapy.com/zakladni?q={quote(location)}"
             googlemaps_url = f"https://www.google.com/maps?q={quote(location)}"
+        else:
+            mapycom_url = None
+            googlemaps_url = None
         yield {
             "id": member_id,
-            "url": response.url,
+            "url": profile_url(member_id),
             "name": html.unescape(member["c1"][0]["v"]),
-            "membership": html.unescape(member["c1"][2]["v"]),
+            "membership": membership,
             "location": location,
             "mapycom_url": mapycom_url,
             "googlemaps_url": googlemaps_url,
-            "availability": html.unescape(member["c3"][0]["v"]),
+            "availability": availability,
         }
+
+
+def get_location(address, city):
+    if is_empty_location(city):
+        return None
+    if is_empty_location(address) or address == city:
+        return city
+    return f"{address}, {city}"
 
 
 def is_empty_location(value):
