@@ -45,6 +45,9 @@ jobs:
       - name: Install Python dependencies
         run: poetry install
 
+      - name: Test
+        run: poetry run pytest
+
       # For some reason the 'overwrite' option for the Scrapy feed exporters
       # doesn't work reliably for me ¯\_(ツ)_/¯
       - name: Clear data file

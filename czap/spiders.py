@@ -117,19 +117,13 @@ class CZAPSpider(scrapy.Spider):
             response, f"[id*='{AVAILABILITY_FIELD_ID}']"
         ) or html.unescape(member["c3"][0]["v"])
         self.logger.debug(f"Location: {city!r} / {address!r}")
-        if is_empty_location(city):
-            location = None
-            mapycom_url = None
-            googlemaps_url = None
-        else:
-            if is_empty_location(address):
-                location = city
-            elif city == address:
-                location = city
-            else:
-                location = f"{address}, {city}"
+        location = get_location(address, city)
+        if location:
             mapycom_url = f"https://mapy.com/zakladni?q={quote(location)}"
             googlemaps_url = f"https://www.google.com/maps?q={quote(location)}"
+        else:
+            mapycom_url = None
+            googlemaps_url = None
         yield {
             "id": member_id,
             "url": profile_url(member_id),
@@ -140,6 +134,14 @@ class CZAPSpider(scrapy.Spider):
             "googlemaps_url": googlemaps_url,
             "availability": availability,
         }
+
+
+def get_location(address, city):
+    if is_empty_location(city):
+        return None
+    if is_empty_location(address) or address == city:
+        return city
+    return f"{address}, {city}"
 
 
 def is_empty_location(value):
