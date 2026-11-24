@@ -14551,12 +14551,12 @@
     },
     {
         "id": 69010502,
-        "url": "https://czap.cz/Sys/PublicProfile/69010502/5485226",
+        "url": "https://czap.cz/Sys/Login?ReturnUrl=%2fSys%2fPublicProfile%2f69010502%2f5485226",
         "name": "Škarvadová, Lucie",
         "membership": "Kandidátní členství - ve výcviku",
-        "location": "Lucemburská 3, Praha 2",
-        "mapycom_url": "https://mapy.com/zakladni?q=Lucembursk%C3%A1%203%2C%20Praha%202",
-        "googlemaps_url": "https://www.google.com/maps?q=Lucembursk%C3%A1%203%2C%20Praha%202",
+        "location": "Praha 2",
+        "mapycom_url": "https://mapy.com/zakladni?q=Praha%202",
+        "googlemaps_url": "https://www.google.com/maps?q=Praha%202",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -14644,9 +14644,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/69158497/5485226",
         "name": "Galan, Tomáš",
         "membership": "Řádné členství",
-        "location": "Hodonínská 1793, Vracov",
-        "mapycom_url": "https://mapy.com/zakladni?q=Hodon%C3%ADnsk%C3%A1%201793%2C%20Vracov",
-        "googlemaps_url": "https://www.google.com/maps?q=Hodon%C3%ADnsk%C3%A1%201793%2C%20Vracov",
+        "location": "Sochorova 3226/40, Vracov",
+        "mapycom_url": "https://mapy.com/zakladni?q=Sochorova%203226/40%2C%20Vracov",
+        "googlemaps_url": "https://www.google.com/maps?q=Sochorova%203226/40%2C%20Vracov",
         "availability": "Přijímám nové klienty"
     },
     {
@@ -22794,9 +22794,9 @@
         "url": "https://czap.cz/Sys/PublicProfile/84075188/5485226",
         "name": "Gašparcová, Veronika",
         "membership": "Řádné členství",
-        "location": "Vodova 35, Brno",
-        "mapycom_url": "https://mapy.com/zakladni?q=Vodova%2035%2C%20Brno",
-        "googlemaps_url": "https://www.google.com/maps?q=Vodova%2035%2C%20Brno",
+        "location": "Moravské náměstí 3, Brno",
+        "mapycom_url": "https://mapy.com/zakladni?q=Moravsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%203%2C%20Brno",
+        "googlemaps_url": "https://www.google.com/maps?q=Moravsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD%203%2C%20Brno",
         "availability": "Přijímám nové klienty"
     },
     {
