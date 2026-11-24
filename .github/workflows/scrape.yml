@@ -58,8 +58,13 @@ jobs:
           restore-keys: |
             scrapy-cache-
 
+      # Scrapy exits with 0 even if the spider got closed early because of an
+      # error, so check how it finished to avoid committing incomplete data
       - name: Scrape
-        run: poetry run scrapy crawl czap
+        run: |
+          set -o pipefail
+          poetry run scrapy crawl czap 2>&1 | tee scrapy.log
+          grep -q "'finish_reason': 'finished'" scrapy.log
 
       - name: Save Scrapy cache
         uses: actions/cache/save@v6

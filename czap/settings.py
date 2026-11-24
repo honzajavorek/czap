@@ -11,6 +11,7 @@ AUTOTHROTTLE_ENABLED = True
 HTTPCACHE_ENABLED = True
 
 HTTPCACHE_EXPIRATION_SECS = 60 * 60 * 24  # 1 day (in seconds)
+HTTPCACHE_IGNORE_HTTP_CODES = [301, 302, 303, 307, 308, 500, 502, 503, 504]
 
 FEED_EXPORTERS = {
     "sorted_json": "czap.exporters.SortedJsonItemExporter",
