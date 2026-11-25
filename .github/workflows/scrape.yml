@@ -20,9 +20,6 @@ concurrency:
 
 jobs:
   scrape:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -99,6 +96,15 @@ jobs:
         with:
           path: ./site
 
+  # Deploying in the same job right after the upload sometimes fails, because
+  # the artifact isn't listed yet. A dedicated job is what deploy-pages recommends.
+  deploy:
+    needs: scrape
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
