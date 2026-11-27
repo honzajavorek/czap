@@ -1,3 +1,4 @@
+import json
 from pathlib import Path
 
 import pytest
@@ -6,7 +7,7 @@ from scrapy.exceptions import CloseSpider
 from scrapy.http import HtmlResponse
 from scrapy.settings import Settings
 
-from czap.spiders import MAX_PRIVATE_PROFILES, CZAPSpider, get_location, profile_url
+from czap.spiders import MAX_REUSED_ITEMS, CZAPSpider, get_location, profile_url
 
 
 FIXTURES_DIR = Path(__file__).parent
@@ -91,26 +92,50 @@ def test_parse_member_retries_page_without_profile(spider):
     assert [request.meta["profile_retries"] for request in requests] == [1]
 
 
-def test_parse_member_falls_back_to_listing(spider):
+PREVIOUS_ITEM = {
+    "id": 69010502,
+    "url": "https://czap.cz/Sys/PublicProfile/69010502/5485226",
+    "name": "Škarvadová, Lucie",
+    "membership": "Řádné členství",
+    "location": "Lucemburská 3, Praha 2",
+    "mapycom_url": "https://mapy.com/zakladni?q=Lucembursk%C3%A1%203%2C%20Praha%202",
+    "googlemaps_url": "https://www.google.com/maps?q=Lucembursk%C3%A1%203%2C%20Praha%202",
+    "availability": "Info o dostupnosti na vyžádání",
+}
+
+
+@pytest.fixture
+def previous_items(spider, tmp_path):
+    path = tmp_path / "previous-items.json"
+    path.write_text(json.dumps([PREVIOUS_ITEM]))
+    spider.settings.set("PREVIOUS_ITEMS_PATH", str(path))
+
+
+def test_parse_member_gives_up_retrying(spider, tmp_path):
+    spider.settings.set("PREVIOUS_ITEMS_PATH", str(tmp_path / "missing.json"))
+    response = make_response(status=302, meta={"profile_retries": 2})
+
+    with pytest.raises(RuntimeError, match="no previous data"):
+        list(spider.parse_member(response, MEMBER_ID, MEMBER))
+
+
+def test_parse_member_gives_up_retrying_unknown_member(spider, previous_items):
+    response = make_response(status=302, meta={"profile_retries": 2}, member_id=1)
+
+    with pytest.raises(RuntimeError, match="no previous data"):
+        list(spider.parse_member(response, 1, MEMBER))
+
+
+def test_parse_member_reuses_previous_item(spider, previous_items):
     response = make_response(status=302, meta={"profile_retries": 2})
     items = list(spider.parse_member(response, MEMBER_ID, MEMBER))
 
-    assert items == [
-        {
-            "id": 69010502,
-            "url": "https://czap.cz/Sys/PublicProfile/69010502/5485226",
-            "name": "Škarvadová, Lucie",
-            "membership": "Kandidátní členství - ve výcviku",
-            "location": "Praha 2",
-            "mapycom_url": "https://mapy.com/zakladni?q=Praha%202",
-            "googlemaps_url": "https://www.google.com/maps?q=Praha%202",
-            "availability": "Přijímám nové klienty",
-        }
-    ]
+    assert items == [PREVIOUS_ITEM]
+    assert spider.reused_items == 1
 
 
-def test_parse_member_stops_on_too_many_private_profiles(spider):
-    spider.private_profiles = MAX_PRIVATE_PROFILES
+def test_parse_member_stops_on_too_many_reused_items(spider, previous_items):
+    spider.reused_items = MAX_REUSED_ITEMS
     response = make_response(status=302, meta={"profile_retries": 2})
 
     with pytest.raises(CloseSpider):

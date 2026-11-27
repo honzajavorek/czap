@@ -31,3 +31,7 @@ FEEDS = {
 }
 
 CLOSESPIDER_ERRORCOUNT = 1
+
+# Items from the previous scrape, reused for members whose profiles keep
+# redirecting to the login page
+PREVIOUS_ITEMS_PATH = "previous-items.json"

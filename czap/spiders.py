@@ -19,9 +19,9 @@ CITY_FIELD_ID = "_TextBoxLabel12682799"
 
 AVAILABILITY_FIELD_ID = "_RadioLabel13576980"
 
-# More members than this without a public profile suggests czap.cz hides
-# profiles site-wide, so stop rather than export degraded data
-MAX_PRIVATE_PROFILES = 10
+# More members than this redirected to login suggests something is wrong
+# with czap.cz, so stop rather than export stale data
+MAX_REUSED_ITEMS = 5
 
 
 def profile_url(member_id):
@@ -46,8 +46,6 @@ def is_public_profile(response):
 
 
 def get_text(response, css):
-    if response is None:
-        return None
     text = response.css(f"{css}::text").get()
     return text.strip() if text else None
 
@@ -55,7 +53,18 @@ def get_text(response, css):
 class CZAPSpider(scrapy.Spider):
     name = "czap"
 
-    private_profiles = 0
+    reused_items = 0
+
+    def get_previous_items(self):
+        if not hasattr(self, "_previous_items"):
+            path = Path(self.settings.get("PREVIOUS_ITEMS_PATH"))
+            try:
+                items = json.loads(path.read_text())
+            except FileNotFoundError:
+                self.logger.warning(f"No previous items found at {path}")
+                items = []
+            self._previous_items = {item["id"]: item for item in items}
+        return self._previous_items
 
     async def start(self):
         yield scrapy.FormRequest(
@@ -95,8 +104,8 @@ class CZAPSpider(scrapy.Spider):
 
     def parse_member(self, response, member_id, member):
         # Sometimes czap.cz redirects a public profile to the login page.
-        # Retry without the HTTP cache. If it persists, the member most likely
-        # made their profile private, so fall back to the directory listing.
+        # Retry without the HTTP cache. If it persists, reuse what we know
+        # about the member from the previous scrape.
         if not is_public_profile(response):
             retries = response.meta.get("profile_retries", 0)
             if retries < self.settings.getint("RETRY_TIMES"):
@@ -108,15 +117,24 @@ class CZAPSpider(scrapy.Spider):
                 request.meta.update(profile_retries=retries + 1, dont_cache=True)
                 yield request.replace(dont_filter=True)
                 return
+            try:
+                item = self.get_previous_items()[member_id]
+            except KeyError:
+                raise RuntimeError(
+                    f"Member {member_id} not served as a public profile "
+                    f"(HTTP {response.status}), gave up after {retries} retries "
+                    "and no previous data to reuse"
+                )
+            self.reused_items += 1
+            if self.reused_items > MAX_REUSED_ITEMS:
+                raise CloseSpider("too_many_reused_items")
             self.logger.warning(
                 f"Member {member_id} not served as a public profile "
-                f"(HTTP {response.status}) after {retries} retries, "
-                "using the directory listing"
+                f"(HTTP {response.status}), gave up after {retries} retries, "
+                "reusing previous data"
             )
-            self.private_profiles += 1
-            if self.private_profiles > MAX_PRIVATE_PROFILES:
-                raise CloseSpider("too_many_private_profiles")
-            response = None
+            yield item
+            return
 
         # Prefer the profile page over the directory listing, which can lag
         # behind it, so that street and city always come from the same source
