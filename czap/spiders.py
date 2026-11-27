@@ -6,6 +6,7 @@ import html
 from urllib.parse import quote
 
 import scrapy
+from scrapy.exceptions import CloseSpider
 
 
 PROFILE_FORM_ID = "5485226"
@@ -17,6 +18,10 @@ ADDRESS_FIELD_ID = "_TextBoxLabel12682798"
 CITY_FIELD_ID = "_TextBoxLabel12682799"
 
 AVAILABILITY_FIELD_ID = "_RadioLabel13576980"
+
+# More members than this without a public profile suggests czap.cz hides
+# profiles site-wide, so stop rather than export degraded data
+MAX_PRIVATE_PROFILES = 10
 
 
 def profile_url(member_id):
@@ -41,12 +46,16 @@ def is_public_profile(response):
 
 
 def get_text(response, css):
+    if response is None:
+        return None
     text = response.css(f"{css}::text").get()
     return text.strip() if text else None
 
 
 class CZAPSpider(scrapy.Spider):
     name = "czap"
+
+    private_profiles = 0
 
     async def start(self):
         yield scrapy.FormRequest(
@@ -86,23 +95,28 @@ class CZAPSpider(scrapy.Spider):
 
     def parse_member(self, response, member_id, member):
         # Sometimes czap.cz redirects a public profile to the login page.
-        # Retry without the HTTP cache and fail loudly if it persists, rather
-        # than exporting a corrupted item.
+        # Retry without the HTTP cache. If it persists, the member most likely
+        # made their profile private, so fall back to the directory listing.
         if not is_public_profile(response):
             retries = response.meta.get("profile_retries", 0)
-            if retries >= self.settings.getint("RETRY_TIMES"):
-                raise RuntimeError(
+            if retries < self.settings.getint("RETRY_TIMES"):
+                self.logger.warning(
                     f"Member {member_id} not served as a public profile "
-                    f"(HTTP {response.status}), gave up after {retries} retries"
+                    f"(HTTP {response.status}), retrying"
                 )
+                request = profile_request(member_id, member, self.parse_member)
+                request.meta.update(profile_retries=retries + 1, dont_cache=True)
+                yield request.replace(dont_filter=True)
+                return
             self.logger.warning(
                 f"Member {member_id} not served as a public profile "
-                f"(HTTP {response.status}), retrying"
+                f"(HTTP {response.status}) after {retries} retries, "
+                "using the directory listing"
             )
-            request = profile_request(member_id, member, self.parse_member)
-            request.meta.update(profile_retries=retries + 1, dont_cache=True)
-            yield request.replace(dont_filter=True)
-            return
+            self.private_profiles += 1
+            if self.private_profiles > MAX_PRIVATE_PROFILES:
+                raise CloseSpider("too_many_private_profiles")
+            response = None
 
         # Prefer the profile page over the directory listing, which can lag
         # behind it, so that street and city always come from the same source
