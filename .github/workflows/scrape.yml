@@ -45,9 +45,8 @@ jobs:
       - name: Test
         run: poetry run pytest
 
-      # For some reason the 'overwrite' option for the Scrapy feed exporters
-      # doesn't work reliably for me ¯\_(ツ)_/¯ Keep the previous data aside,
-      # the spider reuses it for profiles which keep redirecting to login
+      # Keep the previous data aside, the spider reuses it for profiles which
+      # keep redirecting to login
       - name: Clear data file
         run: mv items.json previous-items.json
 
