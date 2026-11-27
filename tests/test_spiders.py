@@ -93,14 +93,14 @@ def test_parse_member_retries_page_without_profile(spider):
 
 
 PREVIOUS_ITEM = {
-    "id": 69010502,
-    "url": "https://czap.cz/Sys/PublicProfile/69010502/5485226",
-    "name": "Škarvadová, Lucie",
+    "id": MEMBER_ID,
+    "url": profile_url(MEMBER_ID),
+    "name": "Nováková, Jana",
     "membership": "Řádné členství",
-    "location": "Lucemburská 3, Praha 2",
-    "mapycom_url": "https://mapy.com/zakladni?q=Lucembursk%C3%A1%203%2C%20Praha%202",
-    "googlemaps_url": "https://www.google.com/maps?q=Lucembursk%C3%A1%203%2C%20Praha%202",
-    "availability": "Info o dostupnosti na vyžádání",
+    "location": "Ulice 1, Město",
+    "mapycom_url": "https://mapy.com/zakladni?q=Ulice%201%2C%20M%C4%9Bsto",
+    "googlemaps_url": "https://www.google.com/maps?q=Ulice%201%2C%20M%C4%9Bsto",
+    "availability": "Přijímám nové klienty",
 }
 
 
